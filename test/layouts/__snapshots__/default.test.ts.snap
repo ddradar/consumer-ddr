@@ -76,19 +76,6 @@ exports[`layouts/default.vue renders correctly 1`] = `
           
           </a>
         </li>
-        <li>
-          <a>
-            <span
-              class="icon"
-            >
-              <i
-                class="mdi mdi-rocket mdi-24px"
-              />
-            </span>
-             Environment
-          
-          </a>
-        </li>
       </ul>
     </aside>
      

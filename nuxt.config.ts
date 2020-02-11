@@ -1,18 +1,5 @@
 import { Configuration } from '@nuxt/types'
-import consola from 'consola'
 import pkg from './package.json'
-import { environments } from './plugins/environments'
-
-// eslint-disable-next-line no-process-env
-if (!process.env.CI) {
-  const validateResult = environments.validate()
-  if (!validateResult.valid) {
-    consola.error(
-      `Missing environment variable(s): ${validateResult.keys.join(', ')}`
-    )
-    process.exit(1)
-  }
-}
 
 const config: Configuration = {
   mode: 'spa',
@@ -34,12 +21,9 @@ const config: Configuration = {
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: `${environments.BASE_PATH}favicon.ico`
+        href: '/favicon.ico'
       }
     ]
-  },
-  router: {
-    base: environments.BASE_PATH
   },
   /*
    ** Customize the progress-bar color
@@ -49,10 +33,6 @@ const config: Configuration = {
    ** Global CSS
    */
   css: [],
-  /*
-   ** Plugins to load before mounting the App
-   */
-  plugins: ['~/plugins/environments.ts'],
   /*
    ** Nuxt.js dev-modules
    */
@@ -69,19 +49,7 @@ const config: Configuration = {
     // Doc: https://buefy.org/documentation/
     'nuxt-buefy',
     '@nuxtjs/pwa'
-  ],
-  /** Set environments object for use by client-side code. */
-  env: { ...environments, validate: undefined! },
-  /*
-   ** Build configuration
-   */
-  build: {
-    extend: (config, _) => {
-      config.node = {
-        fs: 'empty'
-      }
-    }
-  }
+  ]
 }
 
 export default config
