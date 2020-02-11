@@ -49,16 +49,6 @@ export default class DefaultLayout extends Vue {
       title: 'Home',
       icon: 'home',
       to: { name: 'index' }
-    },
-    {
-      title: 'Inspire',
-      icon: 'lightbulb',
-      to: { name: 'inspire' }
-    },
-    {
-      title: 'Environment',
-      icon: 'rocket',
-      to: { name: 'environment' }
     }
   ]
 }

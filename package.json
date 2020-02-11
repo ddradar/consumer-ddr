@@ -1,16 +1,18 @@
 {
-  "name": "nuxt-ts-template",
-  "version": "1.1.0",
-  "description": "Template",
-  "author": "nogic",
+  "name": "consumer-ddr",
+  "version": "0.0.0",
+  "description": "Consumer DDR Song List",
+  "author": "ddradar",
   "private": true,
   "scripts": {
     "dev": "nuxt-ts",
-    "build": "nuxt-ts build",
-    "start": "nuxt-ts start",
     "generate": "nuxt-ts generate",
     "lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore .",
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddradar/consumer-ddr.git"
   },
   "lint-staged": {
     "*.{js,ts,vue}": "eslint --fix",
@@ -25,11 +27,9 @@
     "@nuxt/typescript-runtime": "^0.3.8",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
     "buefy": "^0.8.10",
-    "dotenv": "^8.2.0",
     "nuxt": "^2.11.0",
     "nuxt-buefy": "^0.3.21",
-    "nuxt-property-decorator": "^2.5.0",
-    "vuex-class-component": "^2.2.1"
+    "nuxt-property-decorator": "^2.5.0"
   },
   "devDependencies": {
     "@nuxt/typescript-build": "^0.5.6",
