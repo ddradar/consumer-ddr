@@ -63,19 +63,6 @@ exports[`layouts/default.vue renders correctly 1`] = `
           
           </a>
         </li>
-        <li>
-          <a>
-            <span
-              class="icon"
-            >
-              <i
-                class="mdi mdi-lightbulb mdi-24px"
-              />
-            </span>
-             Inspire
-          
-          </a>
-        </li>
       </ul>
     </aside>
      
