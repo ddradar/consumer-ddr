@@ -2,28 +2,18 @@ import { Configuration } from '@nuxt/types'
 import pkg from './package.json'
 
 const config: Configuration = {
-  mode: 'spa',
+  mode: 'universal',
   /*
    ** Headers of the page
    */
   head: {
-    title: pkg.name || '',
+    title: 'Consumer DDR',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      {
-        hid: 'description',
-        name: 'description',
-        content: pkg.description || ''
-      }
+      { hid: 'description', name: 'description', content: pkg.description }
     ],
-    link: [
-      {
-        rel: 'icon',
-        type: 'image/x-icon',
-        href: '/favicon.ico'
-      }
-    ]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
   /*
    ** Customize the progress-bar color
