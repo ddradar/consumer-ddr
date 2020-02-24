@@ -1,11 +1,4 @@
 type PlayStyle = 'SINGLE' | 'DOUBLE' | 'COUPLE' | '6-PANELS' | '3-PANELS'
-export const playStyleList: PlayStyle[] = [
-  'SINGLE',
-  'DOUBLE',
-  'COUPLE',
-  '6-PANELS',
-  '3-PANELS'
-]
 
 export type Chart = {
   songId: string
