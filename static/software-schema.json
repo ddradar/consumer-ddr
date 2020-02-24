@@ -5,7 +5,7 @@
     "id": {
       "description": "Unique Id (kebab-case)",
       "type": "string",
-      "pattern": "^([a-z][a-z0-9]*)(-[a-z0-9]+)*$"
+      "pattern": "^([a-z0-9]+)(-[a-z0-9]+)*$"
     },
     "song": {
       "type": "object",
