@@ -1,0 +1,22 @@
+{
+  "id": "supernova2-jp",
+  "name": "Dance Dance Revolution SuperNOVA2",
+  "region": "JP",
+  "launched": "2017-02-01",
+  "platform": "PlayStation2",
+  "songs": [
+    {
+      "id": "paranoia-180",
+      "name": "PARANOiA",
+      "artist": "180",
+      "bpm": 180,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        }
+      ]
+    }
+  ]
+}

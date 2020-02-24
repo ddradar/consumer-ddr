@@ -1,0 +1,141 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://cs.ddradar.app/software-schema.json",
+  "definitions": {
+    "id": {
+      "description": "Unique Id (kebab-case)",
+      "type": "string",
+      "pattern": "^([a-z][a-z0-9]*)(-[a-z0-9]+)*$"
+    },
+    "song": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "$ref": "#/definitions/id"
+        },
+        "name": {
+          "type": "string"
+        },
+        "artist": {
+          "type": "string"
+        },
+        "bpm": {
+          "type": [
+            "integer",
+            "string"
+          ],
+          "exclusiveMinimum": 0,
+          "pattern": "^(\\?{3}|[0-9]+-[0-9]+)$",
+          "default": "???",
+          "examples": [
+            150,
+            "100-400",
+            "???"
+          ]
+        },
+        "charts": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/chart"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "artist",
+        "bpm",
+        "charts"
+      ],
+      "additionalProperties": false
+    },
+    "chart": {
+      "type": "object",
+      "properties": {
+        "playStyle": {
+          "type": "string",
+          "enum": [
+            "SINGLE",
+            "DOUBLE",
+            "COUPLE",
+            "6-PANELS",
+            "3-PANELS"
+          ]
+        },
+        "difficulty": {
+          "description": "Chart difficulty type.",
+          "type": "integer",
+          "minimum": 0
+        },
+        "level": {
+          "description": "Chart level. (if blinked 10, set \"10+\")",
+          "type": [
+            "integer",
+            "string"
+          ],
+          "minimum": 0,
+          "pattern": "^([0-9]+\\+)$",
+          "default": 0,
+          "examples": [
+            3,
+            "10+",
+            18,
+            0
+          ]
+        }
+      },
+      "required": [
+        "playStyle",
+        "difficulty",
+        "level"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "title": "Software Schema",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "#/definitions/id"
+    },
+    "name": {
+      "type": "string"
+    },
+    "region": {
+      "type": "string",
+      "enum": [
+        "JP",
+        "US",
+        "EU"
+      ]
+    },
+    "platform": {
+      "type": "string",
+      "enum": [
+        "PlayStation",
+        "PlayStation2",
+        "GameBoy"
+      ]
+    },
+    "launched": {
+      "type": "string",
+      "format": "date"
+    },
+    "songs": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/song"
+      },
+      "minItems": 1
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "region",
+    "platform",
+    "songs"
+  ],
+  "additionalProperties": false
+}
