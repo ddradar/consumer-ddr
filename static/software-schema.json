@@ -77,7 +77,7 @@
     },
     "platform": {
       "type": "string",
-      "enum": ["PlayStation", "PlayStation2", "GameBoy"]
+      "enum": ["Play Station", "Play Station 2", "GAME BOY", "Wii"]
     },
     "launched": {
       "type": "string",

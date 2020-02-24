@@ -1,11 +1,12 @@
 type Region = 'JP' | 'US' | 'EU'
 export const regionList: Region[] = ['JP', 'US', 'EU']
 
-type Platform = 'PlayStation' | 'PlayStation2' | 'GameBoy'
+type Platform = 'Play Station' | 'Play Station 2' | 'GAME BOY' | 'Wii'
 export const platformList: Platform[] = [
-  'PlayStation',
-  'PlayStation2',
-  'GameBoy'
+  'Play Station',
+  'Play Station 2',
+  'GAME BOY',
+  'Wii'
 ]
 
 export type Software = {
