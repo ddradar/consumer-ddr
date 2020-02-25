@@ -16,7 +16,7 @@ export const getSoftwareList = (): Software[] =>
   )
 
 type SongWithCharts = Song & { charts: Chart[] }
-type SoftwareInfo = Software & { songs: SongWithCharts[] }
+export type SoftwareInfo = Software & { songs: SongWithCharts[] }
 export const getSoftwareInfo = (id: string): SoftwareInfo | undefined => {
   const info = softwareList.find((s) => s.id === id)
   if (info === undefined) return info
