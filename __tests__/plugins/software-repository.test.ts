@@ -19,7 +19,10 @@ describe('plugins/software-repository.ts', () => {
           }
         ]
       }
-    ]
+    ],
+    difficultyNames: {
+      1: 'BASIC'
+    }
   }
 
   beforeEach(() => {
@@ -72,27 +75,19 @@ describe('plugins/software-repository.ts', () => {
 
       // Assert
       expect(info).toStrictEqual({
-        id: 'supernova2-jp',
-        name: 'Dance Dance Revolution SuperNOVA2',
-        region: 'JP',
-        launched: new Date('2017-02-01'),
-        platform: 'Play Station 2',
+        ...mockSoftware,
         songs: [
           {
-            id: 'paranoia-180',
-            name: 'PARANOiA',
-            artist: '180',
-            bpm: 180,
+            ...mockSoftware.songs[0],
             charts: [
               {
-                songId: 'paranoia-180',
-                playStyle: 'SINGLE',
-                difficulty: 1,
-                level: 6
+                ...mockSoftware.songs[0].charts[0],
+                songId: mockSoftware.songs[0].id
               }
             ]
           }
-        ]
+        ],
+        launched: new Date(mockSoftware.launched)
       })
     })
   })

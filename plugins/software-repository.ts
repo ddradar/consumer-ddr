@@ -16,7 +16,10 @@ export const getSoftwareList = (): Software[] =>
   )
 
 type SongWithCharts = Song & { charts: Chart[] }
-export type SoftwareInfo = Software & { songs: SongWithCharts[] }
+export type SoftwareInfo = Software & {
+  songs: SongWithCharts[]
+  difficultyNames: { [key in number]: string }
+}
 export const getSoftwareInfo = (id: string): SoftwareInfo | undefined => {
   const info = softwareList.find((s) => s.id === id)
   if (info === undefined) return info
@@ -37,6 +40,7 @@ export const getSoftwareInfo = (id: string): SoftwareInfo | undefined => {
         difficulty: c.difficulty,
         level: c.level
       }))
-    }))
+    })),
+    difficultyNames: info.difficultyNames
   } as SoftwareInfo
 }

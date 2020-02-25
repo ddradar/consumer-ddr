@@ -18,5 +18,8 @@
         }
       ]
     }
-  ]
+  ],
+  "difficultyNames": {
+    "1": "BASIC"
+  }
 }
