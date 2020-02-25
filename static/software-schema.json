@@ -65,6 +65,7 @@
   "title": "Software Schema",
   "type": "object",
   "properties": {
+    "$schema": { "type": "string" },
     "id": {
       "$ref": "#/definitions/id"
     },
@@ -89,8 +90,15 @@
         "$ref": "#/definitions/song"
       },
       "minItems": 1
+    },
+    "difficultyNames": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-9]$": { "type": "string" }
+      },
+      "additionalProperties": false
     }
   },
-  "required": ["id", "name", "region", "platform", "songs"],
+  "required": ["id", "name", "region", "platform", "songs", "difficultyNames"],
   "additionalProperties": false
 }
