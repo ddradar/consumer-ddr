@@ -16,7 +16,7 @@ export const getSoftwareList = (): Software[] =>
   )
 
 type SongWithCharts = Song & { charts: Chart[] }
-type SoftwareInfo = Software & {
+export type SoftwareInfo = Software & {
   songs: SongWithCharts[]
   difficultyNames: { [key in number]: string }
 }

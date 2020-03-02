@@ -1,0 +1,407 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/series/_id/index.vue renders correctly 1`] = `
+<section
+  class="section"
+>
+  <h1
+    class="title"
+  >
+    Dance Dance Revolution
+  </h1>
+   
+  <h2
+    class="subtitle"
+  >
+    Play Station(JP)
+  </h2>
+   
+  <div
+    class="b-table has-mobile-cards"
+  >
+    <!---->
+     
+    <!---->
+     
+    <div
+      class="table-wrapper"
+    >
+      <table
+        class="table is-striped is-narrow"
+      >
+        <!---->
+         
+        <tbody>
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="Name"
+            >
+              <span
+                class="is-size-6-mobile"
+              >
+                MAKE IT BETTER
+              </span>
+            </td>
+             
+            <td
+              class=""
+              data-label="Artist"
+            >
+              <span
+                class="is-size-6-mobile"
+              >
+                mitsu-O!
+              </span>
+            </td>
+             
+            <td
+              class=""
+              data-label="BPM"
+            >
+              
+        118
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="SINGLE"
+            >
+              <span
+                class="tag is-warning"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="BASIC"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            5
+          
+                </span>
+              </span>
+              <span
+                class="tag is-danger"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="ANOTHER"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            6
+          
+                </span>
+              </span>
+              <span
+                class="tag is-success"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="MANIAC"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            8
+          
+                </span>
+              </span>
+            </td>
+            <td
+              class=""
+              data-label="DOUBLE"
+            >
+              <span
+                class="tag is-warning"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="BASIC"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            5
+          
+                </span>
+              </span>
+              <span
+                class="tag is-danger"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="ANOTHER"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            6
+          
+                </span>
+              </span>
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="Name"
+            >
+              <span
+                class="is-size-6-mobile"
+              >
+                PARANOiA
+              </span>
+            </td>
+             
+            <td
+              class=""
+              data-label="Artist"
+            >
+              <span
+                class="is-size-6-mobile"
+              >
+                180
+              </span>
+            </td>
+             
+            <td
+              class=""
+              data-label="BPM"
+            >
+              
+        180
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="SINGLE"
+            >
+              <span
+                class="tag is-warning"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="BASIC"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            6
+          
+                </span>
+              </span>
+              <span
+                class="tag is-danger"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="ANOTHER"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            7
+          
+                </span>
+              </span>
+              <span
+                class="tag is-success"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="MANIAC"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            8
+          
+                </span>
+              </span>
+            </td>
+            <td
+              class=""
+              data-label="DOUBLE"
+            >
+              <span
+                class="tag is-warning"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="BASIC"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            7
+          
+                </span>
+              </span>
+              <span
+                class="tag is-danger"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="ANOTHER"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            8
+          
+                </span>
+              </span>
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="Name"
+            >
+              <span
+                class="is-size-6-mobile"
+              >
+                TRIP MACHINE
+              </span>
+            </td>
+             
+            <td
+              class=""
+              data-label="Artist"
+            >
+              <span
+                class="is-size-6-mobile"
+              >
+                DE-SIRE
+              </span>
+            </td>
+             
+            <td
+              class=""
+              data-label="BPM"
+            >
+              
+        160
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="SINGLE"
+            >
+              <span
+                class="tag is-warning"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="BASIC"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            6
+          
+                </span>
+              </span>
+              <span
+                class="tag is-danger"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="ANOTHER"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            7
+          
+                </span>
+              </span>
+              <span
+                class="tag is-success"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="MANIAC"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            8
+          
+                </span>
+              </span>
+            </td>
+            <td
+              class=""
+              data-label="DOUBLE"
+            >
+              <span
+                class="tag is-warning"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="BASIC"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            7
+          
+                </span>
+              </span>
+              <span
+                class="tag is-danger"
+              >
+                <span
+                  class="is-primary is-top is-medium b-tooltip"
+                  data-label="ANOTHER"
+                  style="transition-delay: 0ms;"
+                >
+                  
+            8
+          
+                </span>
+              </span>
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+        </tbody>
+         
+        <!---->
+      </table>
+    </div>
+     
+    <!---->
+  </div>
+</section>
+`;
