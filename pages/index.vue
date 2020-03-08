@@ -32,14 +32,10 @@
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
 
-import Card from '~/components/Card.vue'
 import { getSoftwareList } from '~/plugins/software-repository'
 import { Region } from '~/types/software'
 
-@Component({
-  name: 'HomePage',
-  components: { Card }
-})
+@Component
 export default class IndexPage extends Vue {
   get softwareList() {
     return getSoftwareList()
