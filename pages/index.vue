@@ -1,46 +1,63 @@
 <template>
   <section class="section">
-    <div class="columns is-mobile">
-      <card title="Free" icon="github-circle">
-        Open source on
-        <a href="https://github.com/buefy/buefy">
-          GitHub
-        </a>
-      </card>
+    <b-table :data="softwareList" striped narrowed mobile-cards>
+      <template slot-scope="props">
+        <b-table-column field="name" label="Name" searchable>
+          <nuxt-link class="is-size-6-mobile" :to="`/series/${props.row.id}/`">
+            {{ props.row.name }}
+          </nuxt-link>
+        </b-table-column>
+        <b-table-column field="platform" label="Platform" searchable>
+          <span>
+            {{ props.row.platform }}
+            {{ getRegionFlag(props.row.region) }}
+          </span>
+        </b-table-column>
+        <b-table-column field="launched" label="Launched">
+          {{ getISODate(props.row.launched) }}
+        </b-table-column>
+      </template>
 
-      <card title="Responsive" icon="cellphone-link">
-        <b class="has-text-grey">
-          Every
-        </b>
-        component is responsive
-      </card>
-
-      <card title="Modern" icon="alert-decagram">
-        Built with
-        <a href="https://vuejs.org/">
-          Vue.js
-        </a>
-        and
-        <a href="http://bulma.io/">
-          Bulma
-        </a>
-      </card>
-
-      <card title="Lightweight" icon="arrange-bring-to-front">
-        No other internal dependency
-      </card>
-    </div>
+      <template slot="empty">
+        <section class="section">
+          <div class="content has-text-grey has-text-centered">
+            <p>Nothing here.</p>
+          </div>
+        </section>
+      </template>
+    </b-table>
   </section>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
 
-import Card from '~/components/Card.vue'
+import { getSoftwareList } from '~/plugins/software-repository'
+import { Region } from '~/types/software'
 
-@Component({
-  name: 'HomePage',
-  components: { Card }
-})
-export default class IndexPage extends Vue {}
+@Component
+export default class IndexPage extends Vue {
+  get softwareList() {
+    return getSoftwareList()
+  }
+
+  getRegionFlag(region: Region) {
+    return region === 'JP'
+      ? '\u{1F1EF}\u{1F1F5}'
+      : region === 'US'
+      ? '\u{1F1FA}\u{1F1F8}'
+      : region === 'EU'
+      ? '\u{1F1EA}\u{1F1FA}'
+      : '?'
+  }
+
+  getISODate(date: Date) {
+    const pad = (num: number) => (num < 10 ? '0' + num : num)
+    const year = date.getFullYear()
+    const month = date.getMonth() + 1
+    const dt = date.getDate()
+
+    return `${year}-${pad(month)}-${pad(dt)}`
+  }
+}
 </script>

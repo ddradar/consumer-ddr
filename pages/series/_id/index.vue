@@ -41,6 +41,7 @@
 <script lang="ts">
 import { Context } from '@nuxt/types'
 import { Component, Vue } from 'nuxt-property-decorator'
+import { MetaInfo } from 'vue-meta'
 
 import { getSoftwareInfo, SoftwareInfo } from '~/plugins/software-repository'
 import { PlayStyle } from '~/types/chart'
@@ -63,6 +64,12 @@ export default class SeriesDetailPage extends Vue {
             )
           ]
         : ['SINGLE', 'DOUBLE']
+    }
+  }
+
+  head(): MetaInfo {
+    return {
+      title: this.info?.name
     }
   }
 

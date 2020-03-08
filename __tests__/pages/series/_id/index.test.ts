@@ -211,6 +211,15 @@ describe('pages/series/_id/index.vue', () => {
       expect(data).toStrictEqual({ info, chartRows })
     })
   })
+  describe('head()', () => {
+    test('returns info.name', () => {
+      // Arrange
+      const head = wrapper.vm.$options.head as any
+
+      // Act & Assert
+      expect(head.call(wrapper.vm)).toStrictEqual({ title: info.name })
+    })
+  })
   describe('tooltip()', () => {
     test.each([0, 1, -1, 0.1, -0.1, NaN, Infinity, -Infinity])(
       'returns "Unknown" if info is undefined',
@@ -233,7 +242,7 @@ describe('pages/series/_id/index.vue', () => {
       ['NORMAL', 5]
     ])('returns "%s" if difficulty is %i', (expected, i) => {
       // Arrange
-      const tooltip: (i: number) => string = (wrapper.vm as any).tooltip
+      const tooltip: (i: number) => string = vm.tooltip
 
       // Act & Assert
       expect(tooltip(i)).toBe(expected)
@@ -242,7 +251,7 @@ describe('pages/series/_id/index.vue', () => {
       'returns "Unknown" if difficulty is %i',
       (i) => {
         // Arrange
-        const tooltip: (i: number) => string = (wrapper.vm as any).tooltip
+        const tooltip: (i: number) => string = vm.tooltip
 
         // Act & Assert
         expect(tooltip(i)).toBe('Unknown')
