@@ -66,13 +66,17 @@ export default class SeriesDetailPage extends Vue {
     }
   }
 
-  type(value: number) {
-    return value === 2 ? 'is-danger' : value === 3 ? 'is-success' : 'is-warning'
+  type(difficulty: number) {
+    return difficulty === 2
+      ? 'is-danger'
+      : difficulty === 3
+      ? 'is-success'
+      : 'is-warning'
   }
 
-  tooltip(value: number) {
+  tooltip(difficulty: number) {
     if (!this.info) return 'Unknown'
-    return this.info.difficultyNames[value] || 'Unknown'
+    return this.info.difficultyNames[difficulty] || 'Unknown'
   }
 }
 </script>
