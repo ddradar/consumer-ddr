@@ -1,7 +1,7 @@
-import softwareList from '~/series'
-import { Chart } from '~/types/chart'
-import { Software } from '~/types/software'
-import { Song } from '~/types/song'
+import softwareList from '../series'
+import { Chart } from '../types/chart'
+import { Software } from '../types/software'
+import { Song } from '../types/song'
 
 export const getSoftwareList = (): Software[] =>
   softwareList.map(
