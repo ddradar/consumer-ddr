@@ -14,7 +14,7 @@
           </span>
         </b-table-column>
         <b-table-column field="launched" label="Launched">
-          {{ props.row.launched.toLocaleDateString() }}
+          {{ getISODate(props.row.launched) }}
         </b-table-column>
       </template>
 
@@ -49,6 +49,15 @@ export default class IndexPage extends Vue {
       : region === 'EU'
       ? '\u{1F1EA}\u{1F1FA}'
       : '?'
+  }
+
+  getISODate(date: Date) {
+    const pad = (num: number) => (num < 10 ? '0' + num : num)
+    const year = date.getFullYear()
+    const month = date.getMonth() + 1
+    const dt = date.getDate()
+
+    return `${year}-${pad(month)}-${pad(dt)}`
   }
 }
 </script>
