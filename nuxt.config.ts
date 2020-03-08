@@ -1,6 +1,7 @@
 import { Configuration } from '@nuxt/types'
 
 import pkg from './package.json'
+import { getSoftwareInfo, getSoftwareList } from './plugins/software-repository'
 
 const config: Configuration = {
   mode: 'universal',
@@ -40,7 +41,16 @@ const config: Configuration = {
     // Doc: https://buefy.org/documentation/
     'nuxt-buefy',
     '@nuxtjs/pwa'
-  ]
+  ],
+  generate: {
+    routes() {
+      const softwareList = getSoftwareList().map((s) => s.id)
+      return softwareList.map((id) => ({
+        route: `/series/${id}`,
+        payload: getSoftwareInfo(id)
+      }))
+    }
+  }
 }
 
 export default config
