@@ -14,11 +14,9 @@ exports[`layouts/default.vue renders correctly 1`] = `
         class="navbar-item"
         href="/"
       >
-        <img
-          alt="Buefy"
-          height="28"
-          src="~assets/buefy.png"
-        />
+        
+        Consumer DDR
+      
       </a>
        
       <div
