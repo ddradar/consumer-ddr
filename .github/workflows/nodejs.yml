@@ -43,9 +43,7 @@ jobs:
       - name: Test
         run: npm test
       - name: Report Code Coverage to codecov
-        uses: codecov/codecov-action@v1.0.5
-        with:
-          token: ${{ secrets.CODECOV_TOKEN }}
+        uses: codecov/codecov-action@v1
       - name: Drafts next Release notes
         if: github.event_name == 'push'
         uses: release-drafter/release-drafter@v5
