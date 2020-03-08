@@ -32,14 +32,13 @@ exports[`pages/index.vue renders correctly 1`] = `
               class=""
               data-label="Name"
             >
-              <nuxt-link
+              <a
                 class="is-size-6-mobile"
-                to="/series/1st-jp/"
               >
                 
           Dance Dance Revolution
         
-              </nuxt-link>
+              </a>
             </td>
              
             <td
@@ -81,14 +80,13 @@ exports[`pages/index.vue renders correctly 1`] = `
               class=""
               data-label="Name"
             >
-              <nuxt-link
+              <a
                 class="is-size-6-mobile"
-                to="/series/2nd-remix-jp/"
               >
                 
           Dance Dance Revolution 2nd ReMIX
         
-              </nuxt-link>
+              </a>
             </td>
              
             <td
