@@ -42,7 +42,14 @@
       "properties": {
         "playStyle": {
           "type": "string",
-          "enum": ["SINGLE", "DOUBLE", "COUPLE", "6-PANELS", "3-PANELS"]
+          "enum": [
+            "SINGLE",
+            "DOUBLE",
+            "COUPLE",
+            "6-PANELS",
+            "3-PANELS",
+            "STEP BATTLE"
+          ]
         },
         "difficulty": {
           "description": "Chart difficulty type.",
