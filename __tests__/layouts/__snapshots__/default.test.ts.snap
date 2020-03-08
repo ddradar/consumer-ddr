@@ -4,30 +4,102 @@ exports[`layouts/default.vue renders correctly 1`] = `
 <div>
   <nav
     aria-label="main navigation"
-    class="navbar header has-shadow is-primary"
+    class="navbar is-primary"
     role="navigation"
   >
     <div
       class="navbar-brand"
     >
       <a
-        class="navbar-item"
-        href="/"
+        class="navbar-item has-text-weight-bold is-italic"
       >
         
         Consumer DDR
       
       </a>
-       
-      <div
-        class="navbar-burger"
+      <a
+        aria-label="menu"
+        class="navbar-burger burger"
+        role="button"
       >
-        <span />
+        <span
+          aria-hidden="true"
+        />
          
-        <span />
+        <span
+          aria-hidden="true"
+        />
          
-        <span />
+        <span
+          aria-hidden="true"
+        />
+      </a>
+    </div>
+    <div
+      class="navbar-menu"
+    >
+      <div
+        class="navbar-start"
+      >
+        <div
+          class="navbar-item has-dropdown"
+        >
+          <a
+            aria-haspopup="true"
+            class="navbar-link"
+            href="#"
+            role="menuitem"
+          >
+            Play Station (JP)
+          </a>
+           
+          <div
+            class="navbar-dropdown"
+          >
+            <a
+              class="navbar-item"
+            >
+              
+          Dance Dance Revolution
+        
+            </a>
+            <a
+              class="navbar-item"
+            >
+              
+          Dance Dance Revolution 2nd ReMIX
+        
+            </a>
+          </div>
+        </div>
+        <div
+          class="navbar-item has-dropdown"
+        >
+          <a
+            aria-haspopup="true"
+            class="navbar-link"
+            href="#"
+            role="menuitem"
+          >
+            Play Station 2 (US)
+          </a>
+           
+          <div
+            class="navbar-dropdown"
+          >
+            <a
+              class="navbar-item"
+            >
+              
+          Dance Dance Revolution X2
+        
+            </a>
+          </div>
+        </div>
       </div>
+      <div
+        class="navbar-end"
+      />
     </div>
   </nav>
    
