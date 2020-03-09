@@ -87,4 +87,50 @@ describe('plugins/song-repository.ts', () => {
       expect(list).toHaveLength(2)
     })
   })
+  describe('getSongInfo()', () => {
+    test('returns undefined if not found', async () => {
+      // Act
+      const info = (await import('~/plugins/song-repository')).getSongInfo(
+        'foo'
+      )
+
+      // Assert
+      expect(info).toBe(undefined)
+    })
+    test('returns SongInfo if found', async () => {
+      // Act
+      const info = (await import('~/plugins/song-repository')).getSongInfo(
+        'paranoia-180'
+      )
+
+      // Assert
+      expect(info).toStrictEqual({
+        id: 'paranoia-180',
+        name: 'PARANOiA',
+        artist: '180',
+        bpm: 180,
+        softwareIds: ['1st-jp', 'supernova2-jp'],
+        charts: [
+          {
+            songId: 'paranoia-180',
+            playStyle: 'SINGLE',
+            difficulty: 1,
+            level: [7, 6]
+          },
+          {
+            songId: 'paranoia-180',
+            playStyle: 'SINGLE',
+            difficulty: 2,
+            level: [7]
+          },
+          {
+            songId: 'paranoia-180',
+            playStyle: 'DOUBLE',
+            difficulty: 1,
+            level: [7]
+          }
+        ]
+      })
+    })
+  })
 })
