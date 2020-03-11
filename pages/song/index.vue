@@ -49,8 +49,8 @@
 </template>
 
 <script lang="ts">
+import { Component, Vue } from 'nuxt-property-decorator'
 import { MetaInfo } from 'vue-meta'
-import { Component, Vue } from 'vue-property-decorator'
 
 import { getSoftwareList } from '~/plugins/software-repository'
 import { getSongList } from '~/plugins/song-repository'
@@ -59,11 +59,8 @@ import { getSongList } from '~/plugins/song-repository'
 export default class SeriesDetailPage extends Vue {
   songList = getSongList()
   softwareIds = getSoftwareList().map((s) => s.id)
-
-  head(): MetaInfo {
-    return {
-      title: 'Song List'
-    }
+  head: MetaInfo = {
+    title: 'Song List'
   }
 
   getClass(id: string) {
