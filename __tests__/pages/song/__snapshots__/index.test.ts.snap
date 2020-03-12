@@ -1,0 +1,352 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/song/index.vue renders correctly 1`] = `
+<section
+  class="section"
+>
+  <h1
+    class="title"
+  >
+    Song List
+  </h1>
+   
+  <div
+    class="b-table has-mobile-cards"
+  >
+    <!---->
+     
+    <!---->
+     
+    <div
+      class="table-wrapper"
+    >
+      <table
+        class="table is-striped is-narrow"
+      >
+        <!---->
+         
+        <tbody>
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="Name"
+            >
+              <a
+                class="is-size-6-mobile"
+              >
+                
+          AM-3P
+        
+              </a>
+            </td>
+             
+            <td
+              class=""
+              data-label="Artist"
+            >
+              <span
+                class="is-size-6-mobile"
+              >
+                KTz
+              </span>
+            </td>
+             
+            <td
+              class=""
+              data-label="BPM"
+            >
+              
+        130
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Series"
+            >
+              <div
+                class="buttons"
+              >
+                <a
+                  class="button is-small is-success"
+                  type="button"
+                >
+                  <!---->
+                   
+                  <span>
+                    
+            2nd-remix-jp
+          
+                  </span>
+                   
+                  <!---->
+                </a>
+              </div>
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="Name"
+            >
+              <a
+                class="is-size-6-mobile"
+              >
+                
+          PARANOiA
+        
+              </a>
+            </td>
+             
+            <td
+              class=""
+              data-label="Artist"
+            >
+              <span
+                class="is-size-6-mobile"
+              >
+                180
+              </span>
+            </td>
+             
+            <td
+              class=""
+              data-label="BPM"
+            >
+              
+        180
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Series"
+            >
+              <div
+                class="buttons"
+              >
+                <a
+                  class="button is-small is-info"
+                  type="button"
+                >
+                  <!---->
+                   
+                  <span>
+                    
+            1st-jp
+          
+                  </span>
+                   
+                  <!---->
+                </a>
+                <a
+                  class="button is-small is-success"
+                  type="button"
+                >
+                  <!---->
+                   
+                  <span>
+                    
+            2nd-remix-jp
+          
+                  </span>
+                   
+                  <!---->
+                </a>
+              </div>
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="Name"
+            >
+              <a
+                class="is-size-6-mobile"
+              >
+                
+          PARANOiA
+        
+              </a>
+            </td>
+             
+            <td
+              class=""
+              data-label="Artist"
+            >
+              <span
+                class="is-size-6-mobile"
+              >
+                180
+              </span>
+            </td>
+             
+            <td
+              class=""
+              data-label="BPM"
+            >
+              
+        180
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Series"
+            >
+              <div
+                class="buttons"
+              >
+                <a
+                  class="button is-small is-info"
+                  type="button"
+                >
+                  <!---->
+                   
+                  <span>
+                    
+            1st-jp
+          
+                  </span>
+                   
+                  <!---->
+                </a>
+                <a
+                  class="button is-small is-success"
+                  type="button"
+                >
+                  <!---->
+                   
+                  <span>
+                    
+            2nd-remix-jp
+          
+                  </span>
+                   
+                  <!---->
+                </a>
+              </div>
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+        </tbody>
+         
+        <!---->
+      </table>
+    </div>
+     
+    <div
+      class="level"
+    >
+      <div
+        class="level-left"
+      />
+       
+      <div
+        class="level-right"
+      >
+        <div
+          class="level-item"
+        >
+          <nav
+            class="pagination"
+          >
+            <a
+              class="pagination-link pagination-previous"
+              disabled="disabled"
+              href="#"
+              role="button"
+            >
+              <span
+                aria-hidden="true"
+                class="icon"
+              >
+                <i
+                  class="mdi mdi-chevron-left mdi-24px"
+                />
+              </span>
+            </a>
+             
+            <a
+              class="pagination-link pagination-next"
+              disabled="disabled"
+              href="#"
+              role="button"
+            >
+              <span
+                aria-hidden="true"
+                class="icon"
+              >
+                <i
+                  class="mdi mdi-chevron-right mdi-24px"
+                />
+              </span>
+            </a>
+             
+            <ul
+              class="pagination-list"
+            >
+              <!---->
+               
+              <!---->
+               
+              <li>
+                <a
+                  aria-current="true"
+                  class="pagination-link is-current "
+                  href="#"
+                  role="button"
+                >
+                  1
+                </a>
+              </li>
+               
+              <!---->
+               
+              <!---->
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;
