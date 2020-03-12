@@ -42,31 +42,26 @@ mocked(getSongList).mockReturnValue([
     softwareIds: ['2nd-remix-jp'],
     charts: [
       {
-        songId: 'am-3p',
         playStyle: 'SINGLE',
         difficulty: 1,
         level: [5]
       },
       {
-        songId: 'am-3p',
         playStyle: 'SINGLE',
         difficulty: 2,
         level: [6]
       },
       {
-        songId: 'am-3p',
         playStyle: 'SINGLE',
         difficulty: 3,
         level: [8]
       },
       {
-        songId: 'am-3p',
         playStyle: 'DOUBLE',
         difficulty: 1,
         level: [5]
       },
       {
-        songId: 'am-3p',
         playStyle: 'DOUBLE',
         difficulty: 2,
         level: [6]
@@ -81,13 +76,11 @@ mocked(getSongList).mockReturnValue([
     softwareIds: ['1st-jp', '2nd-remix-jp'],
     charts: [
       {
-        songId: 'paranoia',
         playStyle: 'SINGLE',
         difficulty: 1,
         level: [6]
       },
       {
-        songId: 'paranoia',
         playStyle: 'SINGLE',
         difficulty: 2,
         level: [7]
@@ -102,13 +95,11 @@ mocked(getSongList).mockReturnValue([
     softwareIds: ['1st-jp', '2nd-remix-jp'],
     charts: [
       {
-        songId: 'paranoia',
         playStyle: 'SINGLE',
         difficulty: 1,
         level: [6]
       },
       {
-        songId: 'paranoia',
         playStyle: 'SINGLE',
         difficulty: 2,
         level: [7]

@@ -62,6 +62,11 @@ describe('plugins/song-repository.ts', () => {
               level: 6
             },
             {
+              playStyle: 'SINGLE',
+              difficulty: 2,
+              level: 7
+            },
+            {
               playStyle: 'DOUBLE',
               difficulty: 1,
               level: 7
@@ -112,19 +117,16 @@ describe('plugins/song-repository.ts', () => {
         softwareIds: ['1st-jp', 'supernova2-jp'],
         charts: [
           {
-            songId: 'paranoia-180',
             playStyle: 'SINGLE',
             difficulty: 1,
             level: [7, 6]
           },
           {
-            songId: 'paranoia-180',
             playStyle: 'SINGLE',
             difficulty: 2,
             level: [7]
           },
           {
-            songId: 'paranoia-180',
             playStyle: 'DOUBLE',
             difficulty: 1,
             level: [7]

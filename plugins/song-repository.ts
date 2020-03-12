@@ -2,7 +2,7 @@ import softwareList from '../series'
 import { Chart } from '../types/chart'
 import { Song } from '../types/song'
 
-type ChartItem = Omit<Chart, 'level'> & { level: (number | '10+')[] }
+type ChartItem = Omit<Chart, 'level' | 'songId'> & { level: (number | '10+')[] }
 type SongInfo = Song & {
   charts: ChartItem[]
   softwareIds: string[]
@@ -11,21 +11,20 @@ type SongInfo = Song & {
 export const getSongList = (): SongInfo[] =>
   softwareList.reduce((prev, current) => {
     for (const song of current.songs) {
-      const songInfo = prev.find((s) => s.id === song.id)
-      if (songInfo) {
-        songInfo.softwareIds.push(current.id)
+      const songIndex = prev.findIndex((s) => s.id === song.id)
+      if (songIndex !== -1) {
+        prev[songIndex].softwareIds.push(current.id)
         for (const chart of song.charts) {
-          const chartInfo = songInfo.charts.find(
+          const chartInfo = prev[songIndex].charts.find(
             (c) =>
               c.playStyle === chart.playStyle &&
               c.difficulty === chart.difficulty
           )
           if (chartInfo && !chartInfo.level.find((l) => l === chart.level)) {
             chartInfo.level.push(chart.level)
-          } else {
-            songInfo.charts.push({
+          } else if (!chartInfo) {
+            prev[songIndex].charts.push({
               ...chart,
-              songId: song.id,
               level: [chart.level]
             })
           }
@@ -35,7 +34,6 @@ export const getSongList = (): SongInfo[] =>
           ...song,
           charts: song.charts.map((c) => ({
             ...c,
-            songId: song.id,
             level: [c.level]
           })),
           softwareIds: [current.id]
@@ -54,7 +52,6 @@ export const getSongInfo = (id: string): SongInfo | undefined =>
         ...song,
         charts: song.charts.map((c) => ({
           ...c,
-          songId: song.id,
           level: [c.level]
         })),
         softwareIds: [current.id]
@@ -67,10 +64,9 @@ export const getSongInfo = (id: string): SongInfo | undefined =>
       )
       if (chartInfo && !chartInfo.level.find((l) => l === chart.level)) {
         chartInfo.level.push(chart.level)
-      } else {
+      } else if (!chartInfo) {
         prev.charts.push({
           ...chart,
-          songId: song.id,
           level: [chart.level]
         })
       }
