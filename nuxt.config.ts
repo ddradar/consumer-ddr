@@ -2,6 +2,7 @@ import { Configuration } from '@nuxt/types'
 
 import pkg from './package.json'
 import { getSoftwareInfo, getSoftwareList } from './plugins/software-repository'
+import { getSongList } from './plugins/song-repository'
 
 const title = 'Consumer DDR'
 
@@ -55,11 +56,15 @@ const config: Configuration = {
   ],
   generate: {
     routes() {
-      const softwareList = getSoftwareList().map((s) => s.id)
-      return softwareList.map((id) => ({
-        route: `/series/${id}`,
-        payload: getSoftwareInfo(id)
+      const softwareList = getSoftwareList().map((s) => ({
+        route: `/series/${s.id}`,
+        payload: getSoftwareInfo(s.id)!
       }))
+      const songList = getSongList().map((s) => ({
+        route: `/song/${s.id}`,
+        payload: s
+      }))
+      return [...softwareList, ...songList]
     }
   }
 }
