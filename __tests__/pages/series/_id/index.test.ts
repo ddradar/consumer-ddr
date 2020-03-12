@@ -162,6 +162,13 @@ describe('pages/series/_id/index.vue', () => {
     })
     expect(wrapper.element).toMatchSnapshot()
   })
+  test('renders blank', () => {
+    const wrapper = shallowMount(SeriesDetail, {
+      localVue,
+      data: () => ({ info: undefined, chartRows })
+    })
+    expect(wrapper.html()).toBe('')
+  })
   describe('asyncData()', () => {
     let asyncData: ({
       params,

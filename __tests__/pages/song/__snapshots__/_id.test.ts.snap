@@ -1,0 +1,282 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/series/_id/index.vue renders correctly 1`] = `
+<section
+  class="section"
+>
+  <h1
+    class="title"
+  >
+    BOYS / smile. dk
+  </h1>
+   
+  <h2
+    class="subtitle"
+  >
+    BPM 138
+  </h2>
+   
+  <div
+    class="buttons"
+  >
+    <a
+      class="button is-small is-info"
+      type="button"
+    >
+      <!---->
+       
+      <span>
+        
+      1st-jp
+    
+      </span>
+       
+      <!---->
+    </a>
+    <a
+      class="button is-small is-success"
+      type="button"
+    >
+      <!---->
+       
+      <span>
+        
+      2nd-remix-jp
+    
+      </span>
+       
+      <!---->
+    </a>
+  </div>
+   
+  <div
+    class="b-table has-mobile-cards"
+  >
+    <!---->
+     
+    <!---->
+     
+    <div
+      class="table-wrapper"
+    >
+      <table
+        class="table is-striped"
+      >
+        <!---->
+         
+        <tbody>
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+        SINGLE
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+        1
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+        3
+      
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+        SINGLE
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+        2
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+        4
+      
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+        SINGLE
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+        3
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+        7
+      
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+        SINGLE
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+        1
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+        4
+      
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+             
+            <!---->
+             
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+        SINGLE
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+        2
+      
+            </td>
+             
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+        5
+      
+            </td>
+             
+            <!---->
+          </tr>
+           
+          <!---->
+           
+          <!---->
+        </tbody>
+         
+        <!---->
+      </table>
+    </div>
+     
+    <!---->
+  </div>
+</section>
+`;
