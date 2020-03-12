@@ -5,14 +5,14 @@ exports[`pages/index.vue renders correctly 1`] = `
   class="section"
 >
   <div
-    class="b-table has-mobile-cards"
+    class="b-table"
   >
     <!---->
      
     <!---->
      
     <div
-      class="table-wrapper"
+      class="table-wrapper has-mobile-cards"
     >
       <table
         class="table is-striped is-narrow"
