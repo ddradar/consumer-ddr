@@ -37,6 +37,19 @@ describe('pages/index.vue', () => {
     expect(wrapper.element).toMatchSnapshot()
   })
 
+  describe('head()', () => {
+    test('returns { title: "Consumer DDR" }', () => {
+      // Arrange
+      const head = wrapper.vm.$options.head as any
+
+      // Act & Assert
+      expect(head.call(wrapper.vm)).toStrictEqual({
+        title: 'Consumer DDR',
+        titleTemplate: ''
+      })
+    })
+  })
+
   describe('getRegionFlag()', () => {
     let getRegionFlag: (region: string) => string
     beforeEach(() => {

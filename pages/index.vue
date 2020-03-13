@@ -30,13 +30,21 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue } from 'vue-property-decorator'
+import { Component, Vue } from 'nuxt-property-decorator'
+import { MetaInfo } from 'vue-meta'
 
 import { getSoftwareList } from '~/plugins/software-repository'
 import { Region } from '~/types/software'
 
 @Component
 export default class IndexPage extends Vue {
+  head(): MetaInfo {
+    return {
+      title: 'Consumer DDR',
+      titleTemplate: ''
+    }
+  }
+
   get softwareList() {
     return getSoftwareList()
   }
