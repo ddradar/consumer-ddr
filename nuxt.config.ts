@@ -28,7 +28,7 @@ const config: Configuration = {
     ]
   },
   loading: { color: '#fff' },
-  css: [],
+  css: ['~/assets/css/styles.scss'],
   pwa: {
     icon: {
       iconFileName: 'icon-1024.png'
@@ -50,7 +50,7 @@ const config: Configuration = {
   ],
   modules: [
     // Doc: https://buefy.org/documentation/
-    'nuxt-buefy',
+    ['nuxt-buefy', { css: false }],
     // Doc: https://pwa.nuxtjs.org/
     '@nuxtjs/pwa'
   ],
