@@ -46,6 +46,14 @@ exports[`layouts/default.vue renders correctly 1`] = `
       <div
         class="navbar-start"
       >
+        <a
+          class="navbar-item"
+        >
+          
+        Songs
+      
+        </a>
+         
         <div
           class="navbar-item has-dropdown"
         >
