@@ -1,5 +1,11 @@
 import { Context } from '@nuxt/types'
-import { createLocalVue, mount, shallowMount, Wrapper } from '@vue/test-utils'
+import {
+  createLocalVue,
+  mount,
+  RouterLinkStub,
+  shallowMount,
+  Wrapper
+} from '@vue/test-utils'
 import Buefy from 'buefy'
 import { mocked } from 'ts-jest/utils'
 
@@ -147,7 +153,10 @@ describe('pages/series/_id/index.vue', () => {
   beforeEach(() => {
     wrapper = shallowMount(SeriesDetail, {
       localVue,
-      data: () => ({ info, chartRows })
+      data: () => ({ info, chartRows }),
+      stubs: {
+        NuxtLink: RouterLinkStub
+      }
     })
     vm = wrapper.vm
   })
@@ -158,14 +167,20 @@ describe('pages/series/_id/index.vue', () => {
   test('renders correctly', () => {
     const wrapper = mount(SeriesDetail, {
       localVue,
-      data: () => ({ info, chartRows })
+      data: () => ({ info, chartRows }),
+      stubs: {
+        NuxtLink: RouterLinkStub
+      }
     })
     expect(wrapper.element).toMatchSnapshot()
   })
   test('renders blank', () => {
     const wrapper = shallowMount(SeriesDetail, {
       localVue,
-      data: () => ({ info: undefined, chartRows })
+      data: () => ({ info: undefined, chartRows }),
+      stubs: {
+        NuxtLink: RouterLinkStub
+      }
     })
     expect(wrapper.html()).toBe('')
   })
@@ -225,6 +240,35 @@ describe('pages/series/_id/index.vue', () => {
 
       // Act & Assert
       expect(head.call(wrapper.vm)).toStrictEqual({ title: info.name })
+    })
+  })
+  describe('type()', () => {
+    test.each([
+      ['is-challenge', 'foo'],
+      ['is-challenge', 'Unknown'],
+      ['is-challenge', ''],
+      ['is-basic', 'BASIC'],
+      ['is-basic', 'NORMAL'],
+      ['is-basic', 'LIGHT'],
+      ['is-difficult', 'ANOTHER'],
+      ['is-difficult', 'TRICK'],
+      ['is-difficult', 'DIFFICULT'],
+      ['is-expert', 'MANIAC'],
+      ['is-expert', 'SSR'],
+      ['is-expert', 'EXPERT']
+    ])('returns "%s" if name is %S', (expected, s) => {
+      // Arrange
+      wrapper = shallowMount(SeriesDetail, {
+        localVue,
+        data: () => ({ info: undefined, chartRows }),
+        stubs: {
+          NuxtLink: RouterLinkStub
+        }
+      })
+      const type: (s: string) => string = (wrapper.vm as any).type
+
+      // Act & Assert
+      expect(type(s)).toBe(expected)
     })
   })
   describe('tooltip()', () => {

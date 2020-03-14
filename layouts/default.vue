@@ -2,15 +2,15 @@
   <div>
     <b-navbar type="is-primary">
       <template slot="brand">
-        <b-navbar-item
-          tag="nuxt-link"
-          class="has-text-weight-bold is-italic"
-          to="/"
-        >
+        <b-navbar-item tag="nuxt-link" class="has-text-weight-bold" to="/">
+          <img class="images" src="~assets/img/logo.svg" alt="Logo" />
           Consumer DDR
         </b-navbar-item>
       </template>
       <template slot="start">
+        <b-navbar-item tag="nuxt-link" to="/song/">
+          Songs
+        </b-navbar-item>
         <b-navbar-dropdown
           v-for="menu in menuList"
           :key="menu.title"
@@ -29,10 +29,8 @@
       </template>
     </b-navbar>
 
-    <section class="main-content columns">
-      <div class="container column is-12">
-        <nuxt />
-      </div>
+    <section class="main-content">
+      <nuxt />
     </section>
   </div>
 </template>

@@ -11,8 +11,13 @@ exports[`layouts/default.vue renders correctly 1`] = `
       class="navbar-brand"
     >
       <a
-        class="navbar-item has-text-weight-bold is-italic"
+        class="navbar-item has-text-weight-bold"
       >
+        <img
+          alt="Logo"
+          class="images"
+          src="~assets/img/logo.svg"
+        />
         
         Consumer DDR
       
@@ -41,6 +46,14 @@ exports[`layouts/default.vue renders correctly 1`] = `
       <div
         class="navbar-start"
       >
+        <a
+          class="navbar-item"
+        >
+          
+        Songs
+      
+        </a>
+         
         <div
           class="navbar-item has-dropdown"
         >
@@ -104,13 +117,9 @@ exports[`layouts/default.vue renders correctly 1`] = `
   </nav>
    
   <section
-    class="main-content columns"
+    class="main-content"
   >
-    <div
-      class="container column is-12"
-    >
-      <nuxt-stub />
-    </div>
+    <nuxt-stub />
   </section>
 </div>
 `;

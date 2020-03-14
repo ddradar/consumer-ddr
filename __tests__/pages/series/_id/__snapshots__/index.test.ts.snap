@@ -44,20 +44,18 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               data-label="Name"
             >
-              <span
-                class="is-size-6-mobile"
-              >
-                MAKE IT BETTER
-              </span>
+              <a>
+                
+          MAKE IT BETTER
+        
+              </a>
             </td>
              
             <td
               class=""
               data-label="Artist"
             >
-              <span
-                class="is-size-6-mobile"
-              >
+              <span>
                 mitsu-O!
               </span>
             </td>
@@ -75,76 +73,114 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               data-label="SINGLE"
             >
-              <span
-                class="tag is-warning"
+              <div
+                class="tags has-addons"
               >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="BASIC"
-                  style="transition-delay: 0ms;"
+                  class="tag is-basic"
                 >
-                  
-            5
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="BASIC"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              5
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
-              <span
-                class="tag is-danger"
-              >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="ANOTHER"
-                  style="transition-delay: 0ms;"
+                  class="tag is-difficult"
                 >
-                  
-            6
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="ANOTHER"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              6
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
-              <span
-                class="tag is-success"
-              >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="MANIAC"
-                  style="transition-delay: 0ms;"
+                  class="tag is-expert"
                 >
-                  
-            8
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="MANIAC"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              8
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
+              </div>
             </td>
             <td
               class=""
               data-label="DOUBLE"
             >
-              <span
-                class="tag is-warning"
+              <div
+                class="tags has-addons"
               >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="BASIC"
-                  style="transition-delay: 0ms;"
+                  class="tag is-basic"
                 >
-                  
-            5
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="BASIC"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              5
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
-              <span
-                class="tag is-danger"
-              >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="ANOTHER"
-                  style="transition-delay: 0ms;"
+                  class="tag is-difficult"
                 >
-                  
-            6
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="ANOTHER"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              6
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
+              </div>
             </td>
              
             <!---->
@@ -165,20 +201,18 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               data-label="Name"
             >
-              <span
-                class="is-size-6-mobile"
-              >
-                PARANOiA
-              </span>
+              <a>
+                
+          PARANOiA
+        
+              </a>
             </td>
              
             <td
               class=""
               data-label="Artist"
             >
-              <span
-                class="is-size-6-mobile"
-              >
+              <span>
                 180
               </span>
             </td>
@@ -196,76 +230,114 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               data-label="SINGLE"
             >
-              <span
-                class="tag is-warning"
+              <div
+                class="tags has-addons"
               >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="BASIC"
-                  style="transition-delay: 0ms;"
+                  class="tag is-basic"
                 >
-                  
-            6
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="BASIC"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              6
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
-              <span
-                class="tag is-danger"
-              >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="ANOTHER"
-                  style="transition-delay: 0ms;"
+                  class="tag is-difficult"
                 >
-                  
-            7
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="ANOTHER"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              7
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
-              <span
-                class="tag is-success"
-              >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="MANIAC"
-                  style="transition-delay: 0ms;"
+                  class="tag is-expert"
                 >
-                  
-            8
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="MANIAC"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              8
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
+              </div>
             </td>
             <td
               class=""
               data-label="DOUBLE"
             >
-              <span
-                class="tag is-warning"
+              <div
+                class="tags has-addons"
               >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="BASIC"
-                  style="transition-delay: 0ms;"
+                  class="tag is-basic"
                 >
-                  
-            7
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="BASIC"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              7
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
-              <span
-                class="tag is-danger"
-              >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="ANOTHER"
-                  style="transition-delay: 0ms;"
+                  class="tag is-difficult"
                 >
-                  
-            8
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="ANOTHER"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              8
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
+              </div>
             </td>
              
             <!---->
@@ -286,20 +358,18 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               data-label="Name"
             >
-              <span
-                class="is-size-6-mobile"
-              >
-                TRIP MACHINE
-              </span>
+              <a>
+                
+          TRIP MACHINE
+        
+              </a>
             </td>
              
             <td
               class=""
               data-label="Artist"
             >
-              <span
-                class="is-size-6-mobile"
-              >
+              <span>
                 DE-SIRE
               </span>
             </td>
@@ -317,76 +387,114 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               data-label="SINGLE"
             >
-              <span
-                class="tag is-warning"
+              <div
+                class="tags has-addons"
               >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="BASIC"
-                  style="transition-delay: 0ms;"
+                  class="tag is-basic"
                 >
-                  
-            6
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="BASIC"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              6
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
-              <span
-                class="tag is-danger"
-              >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="ANOTHER"
-                  style="transition-delay: 0ms;"
+                  class="tag is-difficult"
                 >
-                  
-            7
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="ANOTHER"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              7
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
-              <span
-                class="tag is-success"
-              >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="MANIAC"
-                  style="transition-delay: 0ms;"
+                  class="tag is-expert"
                 >
-                  
-            8
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="MANIAC"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              8
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
+              </div>
             </td>
             <td
               class=""
               data-label="DOUBLE"
             >
-              <span
-                class="tag is-warning"
+              <div
+                class="tags has-addons"
               >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="BASIC"
-                  style="transition-delay: 0ms;"
+                  class="tag is-basic"
                 >
-                  
-            7
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="BASIC"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              7
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
-              <span
-                class="tag is-danger"
-              >
                 <span
-                  class="is-primary is-top is-medium b-tooltip"
-                  data-label="ANOTHER"
-                  style="transition-delay: 0ms;"
+                  class="tag is-difficult"
                 >
-                  
-            8
-          
+                  <span
+                    class=""
+                  >
+                    <span
+                      class="is-primary is-top is-medium b-tooltip"
+                      data-label="ANOTHER"
+                      style="transition-delay: 0ms;"
+                    >
+                      
+              8
+            
+                    </span>
+                  </span>
+                   
+                  <!---->
                 </span>
-              </span>
+              </div>
             </td>
              
             <!---->
