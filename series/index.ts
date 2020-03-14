@@ -2,7 +2,7 @@ import { Chart } from '~/types/chart'
 import { Song } from '~/types/song'
 
 import firstJp from './1st-jp.json'
-import secondRemixJp from './2nd-remix-jp.json'
+import second from './2nd.json'
 import club1 from './club-1.json'
 
 type SoftWareJson = {
@@ -15,5 +15,5 @@ type SoftWareJson = {
   difficultyNames: { [key: number]: string }
 }
 
-const softwareList = [firstJp, secondRemixJp, club1] as SoftWareJson[]
+const softwareList = [firstJp, second, club1] as SoftWareJson[]
 export default softwareList
