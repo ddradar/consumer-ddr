@@ -104,13 +104,9 @@ exports[`layouts/default.vue renders correctly 1`] = `
   </nav>
    
   <section
-    class="main-content columns"
+    class="main-content"
   >
-    <div
-      class="container column is-12"
-    >
-      <nuxt-stub />
-    </div>
+    <nuxt-stub />
   </section>
 </div>
 `;

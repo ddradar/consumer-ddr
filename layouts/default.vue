@@ -29,10 +29,8 @@
       </template>
     </b-navbar>
 
-    <section class="main-content columns">
-      <div class="container column is-12">
-        <nuxt />
-      </div>
+    <section class="main-content">
+      <nuxt />
     </section>
   </div>
 </template>
