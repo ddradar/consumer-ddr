@@ -2,11 +2,8 @@
   <div>
     <b-navbar type="is-primary">
       <template slot="brand">
-        <b-navbar-item
-          tag="nuxt-link"
-          class="has-text-weight-bold is-italic"
-          to="/"
-        >
+        <b-navbar-item tag="nuxt-link" class="has-text-weight-bold" to="/">
+          <img class="images" src="~assets/img/logo.svg" alt="Logo" />
           Consumer DDR
         </b-navbar-item>
       </template>
