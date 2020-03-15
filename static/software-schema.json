@@ -85,7 +85,7 @@
     },
     "platform": {
       "type": "string",
-      "enum": ["Play Station", "Play Station 2", "GAME BOY", "Wii"]
+      "enum": ["Play Station", "Play Station 2", "Dreamcast", "GAME BOY", "Wii"]
     },
     "launched": {
       "type": "string",
