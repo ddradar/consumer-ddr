@@ -6,11 +6,30 @@ import {
   Wrapper
 } from '@vue/test-utils'
 import Buefy from 'buefy'
+import { mocked } from 'ts-jest/utils'
 
 import Index from '~/pages/index.vue'
+import { getSoftwareList } from '~/plugins/software-repository'
 
 const localVue = createLocalVue()
 localVue.use(Buefy)
+jest.mock('~/plugins/software-repository')
+mocked(getSoftwareList).mockReturnValue([
+  {
+    id: '1st-jp',
+    name: 'Dance Dance Revolution',
+    platform: 'Play Station',
+    region: 'JP',
+    launched: new Date('1999-04-10')
+  },
+  {
+    id: '2nd-remix-jp',
+    name: 'Dance Dance Revolution 2nd ReMIX',
+    platform: 'Play Station',
+    region: 'JP',
+    launched: new Date('1999-08-26')
+  }
+])
 
 describe('pages/index.vue', () => {
   let wrapper: Wrapper<Vue>

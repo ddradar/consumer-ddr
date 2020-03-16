@@ -1,0 +1,873 @@
+{
+  "$schema": "https://cs.ddradar.app/software-schema.json",
+  "id": "club-2",
+  "name": "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2",
+  "platform": "Play Station",
+  "region": "JP",
+  "launched": "1999-12-22",
+  "songs": [
+    {
+      "id": "20-november-2p",
+      "name": "20, november (CLUB 2P)",
+      "artist": "dj nagureo",
+      "bpm": 130,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "22dunk-another",
+      "name": "22DUNK (CLUB ANOTHER)",
+      "artist": "SLAKE",
+      "bpm": 135,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "been-so-long",
+      "name": "been so long",
+      "artist": "m-flo",
+      "bpm": 96,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "brilliant-2u-club",
+      "name": "BRILLIANT 2U (CLUB)",
+      "artist": "NAOKI",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "deep-clear-eyes-another",
+      "name": "Deep clear eyes (CLUB ANOTHER)",
+      "artist": "QUADRA",
+      "bpm": 155,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "deep-in-you",
+      "name": "DEEP IN YOU",
+      "artist": "dj nagureo",
+      "bpm": 126,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "genom-screams",
+      "name": "GENOM SCREAMS",
+      "artist": "L.E.D. LIGHT",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "gentle-stress",
+      "name": "gentle stress",
+      "artist": "DJ Swan",
+      "bpm": 174,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "gradiusic-cyber-another",
+      "name": "GRADIUSIC CYBER (CLUB ANOTHER)",
+      "artist": "TAKA",
+      "bpm": "159-167",
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "into-the-world",
+      "name": "Into the world",
+      "artist": "QUADRA",
+      "bpm": 126,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "keep-on-movin-club",
+      "name": "KEEP ON MOVIN' (CLUB)",
+      "artist": "N.M.R.",
+      "bpm": 132,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "love-so-groovy-2p",
+      "name": "LOVE SO GROOVY (CLUB 2P)",
+      "artist": "LOVEMINTS",
+      "bpm": 141,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "macho-gang",
+      "name": "Macho Gang",
+      "artist": "ANAL SPYDER",
+      "bpm": 125,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "overdoser-2p",
+      "name": "OVERDOSER (CLUB 2P)",
+      "artist": "MIRAK",
+      "bpm": 134,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "paranoia-max-club",
+      "name": "PARANOiA MAX ~DIRTY MIX~ (CLUB)",
+      "artist": "190",
+      "bpm": 190,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "paranoia-max-club-another",
+      "name": "PARANOiA MAX ~DIRTY MIX~ (CLUB ANOTHER)",
+      "artist": "190",
+      "bpm": 190,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "paranoia-max-club-another2",
+      "name": "PARANOiA MAX ~DIRTY MIX~ (CLUB ANOTHER2)",
+      "artist": "190",
+      "bpm": 190,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "patsenner",
+      "name": "patsenner",
+      "artist": "dj nagureo",
+      "bpm": 108,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "queens-jamaica",
+      "name": "Queen's Jamaica (astria mix)",
+      "artist": "crunky boy (featuring Muhammad)",
+      "bpm": 94,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "r3-another",
+      "name": "R3 (CLUB ANOTHER)",
+      "artist": "tiger YAMATO",
+      "bpm": 157,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "rugged-ash",
+      "name": "RUGGED ASH",
+      "artist": "SYMPHONIC DEFOGGERS",
+      "bpm": 168,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "ska-a-go-go-another",
+      "name": "ska a go go (CLUB ANOTHER)",
+      "artist": "THE BALD HEAD",
+      "bpm": "144-160",
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "special-energy-another",
+      "name": "special energy (CLUB ANOTHER)",
+      "artist": "DJ FX",
+      "bpm": 140,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "the-earth-light",
+      "name": "THE EARTH LIGHT",
+      "artist": "L.E.D. LIGHT",
+      "bpm": 145,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "the-rhyme-brokers",
+      "name": "The rhyme brokers",
+      "artist": "L.E.D. LIGHT",
+      "bpm": 91,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "you-make-me",
+      "name": "YOU MAKE ME",
+      "artist": "MONDAY MICHIRU",
+      "bpm": 109,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        }
+      ]
+    }
+  ],
+  "difficultyNames": {
+    "1": "BASIC",
+    "2": "ANOTHER",
+    "3": "MANIAC"
+  }
+}

@@ -91,6 +91,8 @@ export default class SeriesDetailPage extends Vue {
       ? 'is-difficult'
       : ['MANIAC', 'SSR', 'EXPERT'].includes(name)
       ? 'is-expert'
+      : ['BEGINNER'].includes(name)
+      ? 'is-beginner'
       : 'is-challenge'
   }
 }

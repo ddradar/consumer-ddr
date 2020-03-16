@@ -1,0 +1,2886 @@
+{
+  "$schema": "https://cs.ddradar.app/software-schema.json",
+  "id": "3rd",
+  "name": "Dance Dance Revolution 3rd MIX",
+  "platform": "Play Station",
+  "region": "JP",
+  "launched": "2000-06-01",
+  "songs": [
+    {
+      "id": "20-november-ddr",
+      "name": "20, november -DDR VERSION-",
+      "artist": "N.M.R. feat. dj nagureo",
+      "bpm": 130,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "afronova",
+      "name": "AFRONOVA",
+      "artist": "RE-VENGE",
+      "bpm": 200,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "after-the-game-of-love",
+      "name": "AFTER THE GAME OF LOVE",
+      "artist": "NPD3",
+      "bpm": 105,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 5
+        }
+      ]
+    },
+    {
+      "id": "am-3p",
+      "name": "AM-3P",
+      "artist": "KTz",
+      "bpm": 130,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "boom-boom-dollar-kogg",
+      "name": "BOOM BOOM DOLLAR (K.O.G G3 MIX)",
+      "artist": "King Kong & D. Jungle Girls",
+      "bpm": 170,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "brilliant-2u",
+      "name": "BRILLIANT 2U",
+      "artist": "NAOKI",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "brilliant-2u-orchestra-groove",
+      "name": "BRILLIANT 2U (Orchestra-Groove)",
+      "artist": "NAOKI",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "bumble-bee",
+      "name": "BUMBLE BEE",
+      "artist": "NPD3",
+      "bpm": 138,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "butterfly-upswing",
+      "name": "butterfly (UPSWING MIX)",
+      "artist": "smile. dk",
+      "bpm": 170,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "captain-jack",
+      "name": "CAPTAIN JACK (GRANDALE REMIX)",
+      "artist": "CAPTAIN JACK",
+      "bpm": 170,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "cutie-chaser",
+      "name": "CUTIE CHASER",
+      "artist": "CLUB SPICE",
+      "bpm": 126,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "dam-dariram",
+      "name": "DAM DARIRAM",
+      "artist": "JOGA",
+      "bpm": 142,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "dead-end",
+      "name": "DEAD END",
+      "artist": "N&S",
+      "bpm": 190,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "do-it-all-night",
+      "name": "DO IT ALL NIGHT",
+      "artist": "E-ROTIC",
+      "bpm": 143,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "drop-the-bomb",
+      "name": "DROP THE BOMB",
+      "artist": "Scotty D.",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "dynamite-rave",
+      "name": "DYNAMITE RAVE",
+      "artist": "NAOKI",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "end-of-the-century",
+      "name": "END OF THE CENTURY",
+      "artist": "NO. 9",
+      "bpm": 171,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "flash-dance",
+      "name": "FLASH DANCE (WHAT A FEELING)",
+      "artist": "MAGIKA",
+      "bpm": 167,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "gentle-stress-amd",
+      "name": "gentle stress (AMD SEXUAL MIX)",
+      "artist": "MR. DOG feat. DJ SWAN",
+      "bpm": 160,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "get-up",
+      "name": "GET UP (BEFORE THE NIGHT IS OVER)",
+      "artist": "TECHNOTRONIC feat. YA KID K",
+      "bpm": 124,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "get-up-and-dance",
+      "name": "GET UP AND DANCE",
+      "artist": "FREEDOM",
+      "bpm": 109,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "gimme-gimme-gimme",
+      "name": "GIMME GIMME GIMME",
+      "artist": "E-ROTIC",
+      "bpm": 148,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        }
+      ]
+    },
+    {
+      "id": "gradiusic-cyber-amd",
+      "name": "GRADIUSIC CYBER (AMD G5 MIX)",
+      "artist": "BIG-O feat. TAKA",
+      "bpm": 160,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "holiday",
+      "name": "HOLIDAY",
+      "artist": "WHO'S THAT GIRL!",
+      "bpm": 128,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "if-you-can-say-goodbye",
+      "name": "IF YOU CAN SAY GOODBYE",
+      "artist": "KATE PROJECT",
+      "bpm": 132,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "in-the-navy",
+      "name": "IN THE NAVY '99 (XXL Disaster Remix)",
+      "artist": "CAPTAIN JACK",
+      "bpm": 135,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "jam-jam-reggae-amd",
+      "name": "Jam Jam Reggae (AMD SWING MIX)",
+      "artist": "RICE. C feat. jam master '73",
+      "bpm": 90,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "keep-on-movin",
+      "name": "KEEP ON MOVIN'",
+      "artist": "N.M.R.",
+      "bpm": 132,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "la-senorita",
+      "name": "La Senorita",
+      "artist": "CAPTAIN. T",
+      "bpm": 182,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "la-senorita-virtual",
+      "name": "La Señorita Virtual",
+      "artist": "2MB",
+      "bpm": 182,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "let-them-move",
+      "name": "LET THEM MOVE",
+      "artist": "N.M.R.",
+      "bpm": 115,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "love-this-feelin",
+      "name": "LOVE THIS FEELIN'",
+      "artist": "Chang Ma",
+      "bpm": "95-190",
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "luv-to-me-amd",
+      "name": "LUV TO ME (AMD MIX)",
+      "artist": "DJ KAZU feat. tiger YAMATO",
+      "bpm": 154,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "make-a-jam",
+      "name": "MAKE A JAM!",
+      "artist": "U1",
+      "bpm": 124,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "make-it-better",
+      "name": "MAKE IT BETTER",
+      "artist": "mitsu-O!",
+      "bpm": 118,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "make-it-better-so-real",
+      "name": "MAKE IT BETTER (So-REAL MIX)",
+      "artist": "mitsu-O! SUMMER",
+      "bpm": 118,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "mr-wonderful",
+      "name": "MR. WONDERFUL",
+      "artist": "smile. dk",
+      "bpm": 138,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "oh-nick-please-not-so-quick",
+      "name": "OH NICK PLEASE NOT SO QUICK",
+      "artist": "E-ROTIC",
+      "bpm": 130,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "operator",
+      "name": "OPERATOR (Two Gees Mix)",
+      "artist": "PAPAYA",
+      "bpm": 135,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "paranoia",
+      "name": "PARANOiA",
+      "artist": "180",
+      "bpm": 180,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "paranoia-kcet",
+      "name": "PARANOiA KCET ~clean mix~",
+      "artist": "2MB",
+      "bpm": 180,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "paranoia-max",
+      "name": "PARANOiA MAX ~DIRTY MIX~",
+      "artist": "190",
+      "bpm": 190,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "paranoia-rebirth",
+      "name": "PARANOiA Rebirth",
+      "artist": "190'",
+      "bpm": 190,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "put-your-faith-in-me",
+      "name": "PUT YOUR FAITH IN ME",
+      "artist": "UZI-LAY",
+      "bpm": 119,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "put-your-faith-in-me-jazzy-groove",
+      "name": "PUT YOUR FAITH IN ME (Jazzy Groove)",
+      "artist": "UZI-LAY",
+      "bpm": 119,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "rock-beat",
+      "name": "ROCK BEAT",
+      "artist": "LOUD FORCE",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "silent-hill",
+      "name": "Silent Hill",
+      "artist": "THOMAS HOWARD",
+      "bpm": 125,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "so-many-men",
+      "name": "SO MANY MEN",
+      "artist": "ME & MY",
+      "bpm": 121,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "sp-trip-machine",
+      "name": "SP-TRIP MACHINE ~JUNGLE MIX~",
+      "artist": "DE-SIRE",
+      "bpm": 160,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "the-race",
+      "name": "THE RACE",
+      "artist": "CAPTAIN JACK",
+      "bpm": 143,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "think-ya-better-d",
+      "name": "think ya better D",
+      "artist": "sAmi",
+      "bpm": 136,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 5
+        }
+      ]
+    },
+    {
+      "id": "trip-machine",
+      "name": "TRIP MACHINE",
+      "artist": "DE-SIRE",
+      "bpm": 160,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "trip-machine-luv",
+      "name": "TRIP MACHINE ~luv mix~",
+      "artist": "2MB",
+      "bpm": 160,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "turn-me-on",
+      "name": "TURN ME ON (HEAVENLY MIX)",
+      "artist": "E-ROTIC",
+      "bpm": 170,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 9
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "upside-down",
+      "name": "UPSIDE DOWN",
+      "artist": "COO COO",
+      "bpm": 124,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "vol-4",
+      "name": "VOL. 4",
+      "artist": "RAVERS CHOICE",
+      "bpm": 166,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "wonderland",
+      "name": "WONDERLAND (UKS MIX)",
+      "artist": "X-TREME",
+      "bpm": 128,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "UNISON",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    }
+  ],
+  "difficultyNames": {
+    "1": "BASIC",
+    "2": "ANOTHER",
+    "3": "SSR"
+  }
+}
