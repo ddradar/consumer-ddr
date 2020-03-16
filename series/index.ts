@@ -5,6 +5,7 @@ import firstJp from './1st-jp.json'
 import secondDc from './2nd-dc.json'
 import second from './2nd.json'
 import third from './3rd.json'
+import best from './best.json'
 import club1 from './club-1.json'
 import club2 from './club-2.json'
 import clubDc from './club-dc.json'
@@ -26,6 +27,7 @@ const softwareList = [
   club2,
   secondDc,
   clubDc,
-  third
+  third,
+  best
 ] as SoftWareJson[]
 export default softwareList
