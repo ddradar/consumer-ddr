@@ -4,6 +4,7 @@ import { Song } from '~/types/song'
 import firstJp from './1st-jp.json'
 import secondDc from './2nd-dc.json'
 import second from './2nd.json'
+import third from './3rd.json'
 import club1 from './club-1.json'
 import club2 from './club-2.json'
 import clubDc from './club-dc.json'
@@ -24,6 +25,7 @@ const softwareList = [
   club1,
   club2,
   secondDc,
-  clubDc
+  clubDc,
+  third
 ] as SoftWareJson[]
 export default softwareList

@@ -2,6 +2,7 @@ export type PlayStyle =
   | 'SINGLE'
   | 'DOUBLE'
   | 'COUPLE'
+  | 'UNISON'
   | '6-PANELS'
   | '3-PANELS'
   | 'STEP BATTLE'
