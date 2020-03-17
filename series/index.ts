@@ -9,6 +9,7 @@ import best from './best.json'
 import club1 from './club-1.json'
 import club2 from './club-2.json'
 import clubDc from './club-dc.json'
+import dsTkd from './ds-tkd.json'
 
 type SoftWareJson = {
   id: string
@@ -24,6 +25,7 @@ const softwareList = [
   firstJp,
   second,
   club1,
+  dsTkd,
   club2,
   secondDc,
   clubDc,
