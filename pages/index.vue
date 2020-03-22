@@ -56,6 +56,8 @@ export default class IndexPage extends Vue {
       ? '\u{1F1FA}\u{1F1F8}'
       : region === 'EU'
       ? '\u{1F1EA}\u{1F1FA}'
+      : region === 'None'
+      ? '\u{1F1FA}\u{1F1F3}'
       : '?'
   }
 

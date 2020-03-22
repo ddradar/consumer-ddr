@@ -28,6 +28,13 @@ mocked(getSoftwareList).mockReturnValue([
     launched: new Date('1999-08-26')
   },
   {
+    id: 'gb-1',
+    name: 'Dance Dance Revolution GB',
+    region: 'None',
+    platform: 'GAME BOY COLOR',
+    launched: new Date('2000-08-03')
+  },
+  {
     id: 'x2-us',
     name: 'Dance Dance Revolution X2',
     region: 'US',

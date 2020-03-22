@@ -1,0 +1,475 @@
+{
+  "$schema": "https://cs.ddradar.app/software-schema.json",
+  "id": "gb2",
+  "name": "Dance Dance Revolution GB2",
+  "platform": "GAME BOY COLOR",
+  "region": "None",
+  "launched": "2000-11-16",
+  "songs": [
+    {
+      "id": "afronova",
+      "name": "AFRONOVA",
+      "artist": "RE-VENGE",
+      "bpm": 200,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "cant-stop-fallin-in-love",
+      "name": "CAN'T STOP FALLIN' IN LOVE",
+      "artist": "NAOKI",
+      "bpm": 155,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "club-tropicana",
+      "name": "Club Tropicana",
+      "artist": "Cydney D",
+      "bpm": 132,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "dam-dariram",
+      "name": "DAM DARIRAM",
+      "artist": "JOGA",
+      "bpm": 142,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "high-energy",
+      "name": "HIGH ENERGY (John 'OO' Fleming Remix)",
+      "artist": "SLIP & SHUFFLE featuring LEONI",
+      "bpm": 140,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "if-you-can-say-goodbye",
+      "name": "IF YOU CAN SAY GOODBYE",
+      "artist": "KATE PROJECT",
+      "bpm": 132,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "im-alive",
+      "name": "I'M ALIVE",
+      "artist": "CUT'N' MOVE",
+      "bpm": 134,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 5
+        }
+      ]
+    },
+    {
+      "id": "in-the-navy",
+      "name": "IN THE NAVY '99 (XXL Disaster Remix)",
+      "artist": "CAPTAIN JACK",
+      "bpm": 135,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "la-senorita",
+      "name": "La Senorita",
+      "artist": "CAPTAIN. T",
+      "bpm": 182,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "love-machine",
+      "name": "LOVE MACHINE",
+      "artist": "PONY TOWN BOYZ",
+      "bpm": 160,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "mr-wonderful",
+      "name": "MR. WONDERFUL",
+      "artist": "smile. dk",
+      "bpm": 138,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "operator",
+      "name": "OPERATOR (Two Gees Mix)",
+      "artist": "PAPAYA",
+      "bpm": 135,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "paranoia-rebirth",
+      "name": "PARANOiA Rebirth",
+      "artist": "190'",
+      "bpm": 190,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "silent-hill",
+      "name": "Silent Hill",
+      "artist": "THOMAS HOWARD",
+      "bpm": 125,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "sky-high-miko",
+      "name": "SKY HIGH",
+      "artist": "DJ MIKO",
+      "bpm": 136,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "so-many-men",
+      "name": "SO MANY MEN",
+      "artist": "ME & MY",
+      "bpm": 121,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "together-forever",
+      "name": "TOGETHER & FOREVER",
+      "artist": "CAPTAIN JACK",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "turn-me-on",
+      "name": "TURN ME ON (HEAVENLY MIX)",
+      "artist": "E-ROTIC",
+      "bpm": 170,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "typical-tropical",
+      "name": "Typical Tropical",
+      "artist": "BAMBEE",
+      "bpm": 137,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "vol-4",
+      "name": "VOL. 4",
+      "artist": "RAVERS CHOICE",
+      "bpm": 166,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    }
+  ],
+  "difficultyNames": {
+    "1": "BASIC",
+    "2": "ANOTHER",
+    "3": "SSR"
+  }
+}
