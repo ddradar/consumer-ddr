@@ -1,6 +1,6 @@
 {
   "$schema": "https://cs.ddradar.app/software-schema.json",
-  "id": "disney-jp",
+  "id": "gb",
   "name": "Dance Dance Revolution GB",
   "platform": "GAME BOY COLOR",
   "region": "JP",
