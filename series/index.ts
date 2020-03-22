@@ -14,6 +14,7 @@ import disneyJp from './disney-jp.json'
 import gb1 from './gb-1.json'
 import gb2 from './gb-2.json'
 import gb3 from './gb-3.json'
+import gbDisney from './gb-disney.json'
 import ohaGb from './oha-gb.json'
 import dsTkd from './tkd.json'
 
@@ -42,6 +43,7 @@ const softwareList = [
   disneyJp, // 2000-11-30
   best, // 2000-12-21
   ohaGb, // 2001-02-08
-  gb3 // 2001-03-15
+  gb3, // 2001-03-15
+  gbDisney // 2001-03-29
 ] as SoftWareJson[]
 export default softwareList
