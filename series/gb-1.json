@@ -1,0 +1,642 @@
+{
+  "$schema": "https://cs.ddradar.app/software-schema.json",
+  "id": "disney-jp",
+  "name": "Dance Dance Revolution GB",
+  "platform": "GAME BOY COLOR",
+  "region": "JP",
+  "launched": "2000-08-03",
+  "songs": [
+    {
+      "id": "am-3p",
+      "name": "AM-3P",
+      "artist": "KTz",
+      "bpm": 130,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "bad-girls",
+      "name": "BAD GIRLS",
+      "artist": "Juliet Roberts",
+      "bpm": 122,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 5
+        }
+      ]
+    },
+    {
+      "id": "boom-boom-dollar",
+      "name": "BOOM BOOM DOLLAR",
+      "artist": "King Kong & D. Jungle Girls",
+      "bpm": 135,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "brilliant-2u",
+      "name": "BRILLIANT 2U",
+      "artist": "NAOKI",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "butterfly",
+      "name": "butterfly",
+      "artist": "smile. dk",
+      "bpm": 135,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 5,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 5,
+          "level": 3
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "dam-dariram",
+      "name": "DAM DARIRAM",
+      "artist": "JOGA",
+      "bpm": 142,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": "?"
+        }
+      ]
+    },
+    {
+      "id": "dub-i-dub",
+      "name": "DUB I DUB",
+      "artist": "ME & MY",
+      "bpm": 136,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "el-ritmo-tropical",
+      "name": "EL RITMO TROPICAL",
+      "artist": "DIXIES GANG",
+      "bpm": 133,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "have-you-never-been-mellow",
+      "name": "HAVE YOU NEVER BEEN MELLOW",
+      "artist": "THE OLIVIA PROJECT",
+      "bpm": 126,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 4
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 2
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 4
+        }
+      ]
+    },
+    {
+      "id": "hero",
+      "name": "HERO",
+      "artist": "PAPAYA",
+      "bpm": 138,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "i-believe-in-miracles",
+      "name": "I believe in miracles",
+      "artist": "HI-RISE",
+      "bpm": 126,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "if-you-were-here",
+      "name": "IF YOU WERE HERE",
+      "artist": "JENNIFER",
+      "bpm": 146,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "la-senorita",
+      "name": "La Senorita",
+      "artist": "CAPTAIN. T",
+      "bpm": 182,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": "?"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "name": "LOVE",
+      "artist": "SONIC DREAM",
+      "bpm": 129,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "paranoia",
+      "name": "PARANOiA",
+      "artist": "180",
+      "bpm": 180,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "paranoia-max",
+      "name": "PARANOiA MAX ~DIRTY MIX~",
+      "artist": "190",
+      "bpm": 190,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "sp-trip-machine",
+      "name": "SP-TRIP MACHINE ~JUNGLE MIX~",
+      "artist": "DE-SIRE",
+      "bpm": 160,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 8
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    }
+  ],
+  "difficultyNames": {
+    "1": "BASIC",
+    "2": "ANOTHER",
+    "3": "MANIAC",
+    "5": "NORMAL"
+  }
+}
