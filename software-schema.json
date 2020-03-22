@@ -46,6 +46,7 @@
             "SINGLE",
             "DOUBLE",
             "COUPLE",
+            "UNISON",
             "6-PANELS",
             "3-PANELS",
             "STEP BATTLE"
@@ -58,9 +59,9 @@
         },
         "level": {
           "description": "Chart level. (if blinked 10, set \"10+\")",
-          "type": ["integer", "string"],
+          "type": ["number", "string"],
           "minimum": 0,
-          "pattern": "^([0-9]+\\+)$",
+          "pattern": "^([0-9]+\\+|\\?)$",
           "default": 0,
           "examples": [3, "10+", 18, 0]
         }
@@ -85,7 +86,7 @@
     },
     "platform": {
       "type": "string",
-      "enum": ["Play Station", "Play Station 2", "GAME BOY", "Wii"]
+      "enum": ["Play Station", "Play Station 2", "Dreamcast", "GAME BOY", "Wii"]
     },
     "launched": {
       "type": "string",
