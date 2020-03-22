@@ -9,6 +9,7 @@ import best from './best.json'
 import club1 from './club-1.json'
 import club2 from './club-2.json'
 import clubDc from './club-dc.json'
+import disneyJp from './disney-jp.json'
 import dsDkt from './ds-dct.json'
 import dsTkd from './ds-tkd.json'
 
@@ -32,6 +33,7 @@ const softwareList = [
   dsDkt,
   clubDc,
   third,
-  best
+  best,
+  disneyJp
 ] as SoftWareJson[]
 export default softwareList
