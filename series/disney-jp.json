@@ -1,0 +1,714 @@
+{
+  "$schema": "https://cs.ddradar.app/software-schema.json",
+  "id": "disney-jp",
+  "name": "Dance Dance Revolution Disney's RAVE",
+  "platform": "Play Station",
+  "region": "JP",
+  "launched": "2000-11-30",
+  "songs": [
+    {
+      "id": "do-the-bus-stop",
+      "name": "(Are You Ready) Do The Bus Stop",
+      "artist": "",
+      "bpm": 109,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "chim-chim-cher-ee",
+      "name": "Chim Chim Cher-ee",
+      "artist": "Domino",
+      "bpm": 145,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "ddd",
+      "name": "D.D.D! ~Happy 65th Anniversary for Donald Duck~",
+      "artist": "THE ALFEE feat. Donald Duck",
+      "bpm": 160,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "disco-inferno",
+      "name": "Disco inferno",
+      "artist": "",
+      "bpm": 129,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5
+        }
+      ]
+    },
+    {
+      "id": "electrical-parade",
+      "name": "ELECTRICAL PARADE (Retro Future Mix)",
+      "artist": "",
+      "bpm": 130,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "fire-combined",
+      "name": "Fire",
+      "artist": "Combined",
+      "bpm": 142,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "i-want-you-back",
+      "name": "I Want You Back",
+      "artist": "",
+      "bpm": 98,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "its-a-small-world",
+      "name": "IT'S A SMALL WORLD",
+      "artist": "ABeatC all stars",
+      "bpm": 148,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "its-a-small-world-ducking",
+      "name": "IT'S A SMALL WORLD (Ducking Hardcore MIX)",
+      "artist": "ABeatC all stars",
+      "bpm": 183,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 10
+        }
+      ]
+    },
+    {
+      "id": "johnny-b-goode",
+      "name": "Johnny B. Goode",
+      "artist": "",
+      "bpm": 173,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "lets-groove",
+      "name": "Let's Groove",
+      "artist": "",
+      "bpm": 135,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "lets-twist-again",
+      "name": "Let's Twist Again",
+      "artist": "Chubby Checker",
+      "bpm": 164,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "macarena",
+      "name": "Macarena",
+      "artist": "2 Locos In A Room",
+      "bpm": 103,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 4
+        }
+      ]
+    },
+    {
+      "id": "macho-duck",
+      "name": "Macho duck",
+      "artist": "Domino",
+      "bpm": 148,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "mickey-mouse-march",
+      "name": "Mickey Mouse March (Eurobeat Version)",
+      "artist": "Domino",
+      "bpm": 152,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "mickey-mouse-march-summertime",
+      "name": "Mickey Mouse March (SUMMERTIME EXTENDED Version)",
+      "artist": "Domino",
+      "bpm": 152,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "mr-bassman",
+      "name": "Mr. Bassman",
+      "artist": "",
+      "bpm": 250,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 7
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "night-of-fire",
+      "name": "Night of Fire",
+      "artist": "NIKO",
+      "bpm": 155,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": "supercalifragilisticexpialidocious",
+      "name": "Supercalifragilisticexpialidocious",
+      "artist": "Go Go Girls",
+      "bpm": "114-200",
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 8
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 10
+        }
+      ]
+    },
+    {
+      "id": "superstition",
+      "name": "Superstition",
+      "artist": "",
+      "bpm": 99,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "surfin-usa",
+      "name": "Surfin' U.S.A.",
+      "artist": "",
+      "bpm": 166,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "the-bump",
+      "name": "The Bump",
+      "artist": "",
+      "bpm": 100,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "twilight-zone",
+      "name": "Twilight Zone",
+      "artist": "Zodiac",
+      "bpm": 129,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 10
+        }
+      ]
+    },
+    {
+      "id": "vacation",
+      "name": "Vacation",
+      "artist": "",
+      "bpm": 145,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "zip-a-dee-doo-dah",
+      "name": "Zip-A-Dee-Doo-Dah",
+      "artist": "Domino",
+      "bpm": 150,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7
+        }
+      ]
+    }
+  ],
+  "difficultyNames": {
+    "1": "BASIC",
+    "2": "TRICK"
+  }
+}

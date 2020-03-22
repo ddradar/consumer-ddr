@@ -59,9 +59,9 @@
         },
         "level": {
           "description": "Chart level. (if blinked 10, set \"10+\")",
-          "type": ["integer", "string"],
+          "type": ["number", "string"],
           "minimum": 0,
-          "pattern": "^([0-9]+\\+)$",
+          "pattern": "^([0-9]+\\+|\\?)$",
           "default": 0,
           "examples": [3, "10+", 18, 0]
         }

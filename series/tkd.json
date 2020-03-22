@@ -1,0 +1,769 @@
+{
+  "$schema": "https://cs.ddradar.app/software-schema.json",
+  "id": "tkd",
+  "name": "Dancing Stage featuring TRUE KiSS DESTiNATiON",
+  "platform": "Play Station",
+  "region": "JP",
+  "launched": "1999-12-09",
+  "songs": [
+    {
+      "id": "africa",
+      "name": "AFRICA",
+      "artist": "TRUE KiSS DESTiNATiON",
+      "bpm": 120,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 5.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 3.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 5.5
+        }
+      ]
+    },
+    {
+      "id": "can-you-dig-it",
+      "name": "CAN YOU DIG IT?",
+      "artist": "TRUE KiSS DESTiNATiON",
+      "bpm": 177,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 5.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 7.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 5.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 4.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 5.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 7.5
+        }
+      ]
+    },
+    {
+      "id": "celebrate-nite",
+      "name": "CELEBRATE NITE",
+      "artist": "N.M.R.",
+      "bpm": 144,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 4.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 7,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 8,
+          "level": 7
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 5,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 7,
+          "level": 8.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 8,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 4.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 7
+        }
+      ]
+    },
+    {
+      "id": "hello-again",
+      "name": "HELLO AGAIN",
+      "artist": "TRUE KiSS DESTiNATiON",
+      "bpm": 177,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 6.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 3.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 4.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 5
+        }
+      ]
+    },
+    {
+      "id": "how-do-you-think",
+      "name": "How do you think?",
+      "artist": "TRUE KiSS DESTiNATiON",
+      "bpm": 115,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 2.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 2.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 3
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 5
+        }
+      ]
+    },
+    {
+      "id": "over-over",
+      "name": "OVER & OVER",
+      "artist": "TRUE KiSS DESTiNATiON",
+      "bpm": 173,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 5.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 3.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 4.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 5
+        }
+      ]
+    },
+    {
+      "id": "precious-moments",
+      "name": "Precious Moments",
+      "artist": "TRUE KiSS DESTiNATiON",
+      "bpm": 100,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 1.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 2
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 3
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 1
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 1.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "pure-mind",
+      "name": "PURE MIND",
+      "artist": "TRUE KiSS DESTiNATiON",
+      "bpm": 120,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 7.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 4
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 6
+        }
+      ]
+    },
+    {
+      "id": "responsibility",
+      "name": "RESPONSIBILITY",
+      "artist": "TRUE KiSS DESTiNATiON",
+      "bpm": 111,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 4.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 6.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 4
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 4.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 3
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 4.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 6.5
+        }
+      ]
+    },
+    {
+      "id": "sexy-planet",
+      "name": "SEXY PLANET",
+      "artist": "Crystal Aliens",
+      "bpm": 180,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 6,
+          "level": 5.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 7,
+          "level": 6
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 8,
+          "level": 8
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 5,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 6,
+          "level": 6.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 7,
+          "level": 9
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 8,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 5,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 5.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 6
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 8
+        }
+      ]
+    },
+    {
+      "id": "victim",
+      "name": "VICTIM",
+      "artist": "TRUE KiSS DESTiNATiON",
+      "bpm": 107,
+      "charts": [
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 1,
+          "level": 1.5
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 2,
+          "level": 2
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 3,
+          "level": 4
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 4,
+          "level": "?"
+        },
+        {
+          "playStyle": "SINGLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 1,
+          "level": 2.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 2,
+          "level": 3.5
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 3,
+          "level": "?"
+        },
+        {
+          "playStyle": "DOUBLE",
+          "difficulty": 0,
+          "level": "?"
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 1,
+          "level": 1.5
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 2,
+          "level": 2
+        },
+        {
+          "playStyle": "COUPLE",
+          "difficulty": 3,
+          "level": 4
+        }
+      ]
+    }
+  ],
+  "difficultyNames": {
+    "0": "FREE",
+    "1": "BASIC",
+    "2": "TRICK",
+    "3": "MANIAC",
+    "4": "SUPER MANIAC",
+    "5": "FREE",
+    "6": "BASIC",
+    "7": "TRICK",
+    "8": "MANIAC"
+  }
+}
