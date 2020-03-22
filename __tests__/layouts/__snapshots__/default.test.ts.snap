@@ -94,6 +94,30 @@ exports[`layouts/default.vue renders correctly 1`] = `
             href="#"
             role="menuitem"
           >
+            GAME BOY COLOR
+          </a>
+           
+          <div
+            class="navbar-dropdown"
+          >
+            <a
+              class="navbar-item"
+            >
+              
+          Dance Dance Revolution GB
+        
+            </a>
+          </div>
+        </div>
+        <div
+          class="navbar-item has-dropdown"
+        >
+          <a
+            aria-haspopup="true"
+            class="navbar-link"
+            href="#"
+            role="menuitem"
+          >
             Play Station 2 (US)
           </a>
            

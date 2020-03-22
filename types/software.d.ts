@@ -1,10 +1,10 @@
-type Region = 'JP' | 'US' | 'EU'
+type Region = 'JP' | 'US' | 'EU' | 'None'
 
 type Platform =
   | 'Play Station'
   | 'Play Station 2'
   | 'Dreamcast'
-  | 'GAME BOY'
+  | 'GAME BOY COLOR'
   | 'Wii'
 
 export type Software = {

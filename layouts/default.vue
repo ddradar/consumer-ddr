@@ -59,7 +59,9 @@ export default class DefaultLayout extends Vue {
         })
       } else {
         prev.push({
-          title: `${current.platform} (${current.region})`,
+          title: `${current.platform}${
+            current.region === 'None' ? '' : ` (${current.region})`
+          }`,
           subMenu: [
             {
               name: current.name,

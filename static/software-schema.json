@@ -63,7 +63,7 @@
           "minimum": 0,
           "pattern": "^([0-9]+\\+|\\?)$",
           "default": 0,
-          "examples": [3, "10+", 18, 0]
+          "examples": [3, "10+", 18, "?"]
         }
       },
       "required": ["playStyle", "difficulty", "level"],
@@ -82,11 +82,17 @@
     },
     "region": {
       "type": "string",
-      "enum": ["JP", "US", "EU"]
+      "enum": ["JP", "US", "EU", "None"]
     },
     "platform": {
       "type": "string",
-      "enum": ["Play Station", "Play Station 2", "Dreamcast", "GAME BOY", "Wii"]
+      "enum": [
+        "Play Station",
+        "Play Station 2",
+        "Dreamcast",
+        "GAME BOY COLOR",
+        "Wii"
+      ]
     },
     "launched": {
       "type": "string",
