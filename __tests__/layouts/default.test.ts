@@ -1,10 +1,4 @@
-import {
-  createLocalVue,
-  mount,
-  RouterLinkStub,
-  shallowMount,
-  Wrapper
-} from '@vue/test-utils'
+import { createLocalVue, mount, RouterLinkStub } from '@vue/test-utils'
 import Buefy from 'buefy'
 import { mocked } from 'ts-jest/utils'
 
@@ -46,22 +40,6 @@ const localVue = createLocalVue()
 localVue.use(Buefy)
 
 describe('layouts/default.vue', () => {
-  let wrapper: Wrapper<Vue>
-
-  beforeEach(() => {
-    wrapper = shallowMount(DefaultLayout, {
-      localVue,
-      stubs: {
-        NuxtLink: RouterLinkStub,
-        Nuxt: true
-      }
-    })
-  })
-
-  test('is a Vue instance', () => {
-    expect(wrapper.isVueInstance()).toBeTruthy()
-  })
-
   test('renders correctly', () => {
     const wrapper = mount(DefaultLayout, {
       localVue,

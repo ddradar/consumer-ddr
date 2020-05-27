@@ -43,9 +43,6 @@ describe('pages/index.vue', () => {
     })
   })
 
-  test('is a Vue instance', () => {
-    expect(wrapper.isVueInstance()).toBeTruthy()
-  })
   test('renders correctly', () => {
     const wrapper = mount(Index, {
       localVue,

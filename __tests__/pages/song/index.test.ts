@@ -120,9 +120,6 @@ describe('pages/song/index.vue', () => {
     })
   })
 
-  test('is a Vue instance', () => {
-    expect(wrapper.isVueInstance()).toBeTruthy()
-  })
   test('renders correctly', () => {
     const wrapper = mount(SongList, {
       localVue,
