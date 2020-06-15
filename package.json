@@ -34,7 +34,7 @@
     }
   },
   "dependencies": {
-    "@nuxt/typescript-runtime": "^0.4.9",
+    "@nuxt/typescript-runtime": "^0.4.10",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
     "buefy": "^0.8.19",
     "nuxt": "^2.12.2",
