@@ -14,7 +14,13 @@
     "paths": {
       "~/*": ["./*"]
     },
-    "types": ["jest", "jest-json-schema", "node", "@nuxt/types"]
+    "types": [
+      "jest",
+      "jest-json-schema",
+      "node",
+      "@nuxt/content",
+      "@nuxt/types"
+    ]
   },
   "exclude": ["node_modules"]
 }

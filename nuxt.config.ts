@@ -50,6 +50,8 @@ const config: Configuration = {
   modules: [
     // Doc: https://buefy.org/documentation/
     ['nuxt-buefy', { css: false }],
+    // Doc: https://content.nuxtjs.org/
+    '@nuxt/content',
     // Doc: https://pwa.nuxtjs.org/
     '@nuxtjs/pwa'
   ]
