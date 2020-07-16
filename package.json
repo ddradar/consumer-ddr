@@ -10,7 +10,7 @@
   },
   "scripts": {
     "dev": "nuxt-ts",
-    "generate": "nuxt-ts generate",
+    "build": "nuxt-ts build && nuxt-ts export",
     "fix": "run-p fix:*",
     "fix:eslint": "npm run lint:eslint -- --fix",
     "fix:prettier": "npm run lint:prettier -- --write",
