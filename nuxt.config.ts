@@ -1,13 +1,12 @@
 import { Configuration } from '@nuxt/types'
 
 import pkg from './package.json'
-import { getSoftwareInfo, getSoftwareList } from './plugins/software-repository'
-import { getSongList } from './plugins/song-repository'
 
 const title = 'Consumer DDR'
 
 const config: Configuration = {
   mode: 'universal',
+  target: 'static',
   head: {
     titleTemplate: `%s - ${title}`,
     meta: [
@@ -53,20 +52,7 @@ const config: Configuration = {
     ['nuxt-buefy', { css: false }],
     // Doc: https://pwa.nuxtjs.org/
     '@nuxtjs/pwa'
-  ],
-  generate: {
-    routes() {
-      const softwareList = getSoftwareList().map((s) => ({
-        route: `/series/${s.id}`,
-        payload: getSoftwareInfo(s.id)!
-      }))
-      const songList = getSongList().map((s) => ({
-        route: `/song/${s.id}`,
-        payload: s
-      }))
-      return [...softwareList, ...songList]
-    }
-  }
+  ]
 }
 
 export default config
