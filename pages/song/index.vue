@@ -69,8 +69,9 @@ export default class SeriesDetailPage extends Vue {
   }
 
   async asyncData({ $content }: Context) {
-    const songs: Song[] = await $content({ deep: true })
+    const songs: Omit<Song, 'charts'>[] = await $content({ deep: true })
       .where({ extension: { $eq: '.json' } })
+      .without('charts')
       .fetch()
     const songList = songs.reduce((prev, current) => {
       if (!prev) {
@@ -98,6 +99,7 @@ export default class SeriesDetailPage extends Vue {
 
     const seriesList: string[] = await $content({ deep: true })
       .where({ extension: { $eq: '.md' } })
+      .sortBy('launched')
       .only('slug')
       .fetch()
 

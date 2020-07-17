@@ -55,21 +55,18 @@ export default class IndexPage extends Vue {
   async asyncData({ $content }: Context) {
     const softwareList: SoftListData[] = await $content({ deep: true })
       .where({ extension: { $eq: '.md' } })
+      .sortBy('launched')
       .without('difficultyNames')
       .fetch()
     return { softwareList }
   }
 
   getRegionFlag(region: Region) {
-    return region === 'JP'
-      ? '\u{1F1EF}\u{1F1F5}'
-      : region === 'US'
-      ? '\u{1F1FA}\u{1F1F8}'
-      : region === 'EU'
-      ? '\u{1F1EA}\u{1F1FA}'
-      : region === 'None'
-      ? '\u{1F1FA}\u{1F1F3}'
-      : '?'
+    if (region === 'JP') return '\u{1F1EF}\u{1F1F5}'
+    if (region === 'US') return '\u{1F1FA}\u{1F1F8}'
+    if (region === 'EU') return '\u{1F1EA}\u{1F1FA}'
+    if (region === 'None') return '\u{1F1FA}\u{1F1F3}'
+    return '?'
   }
 }
 </script>

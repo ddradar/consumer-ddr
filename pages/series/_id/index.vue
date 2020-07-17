@@ -49,7 +49,7 @@ import { Component, Vue } from 'nuxt-property-decorator'
 import { MetaInfo } from 'vue-meta'
 
 import { Software } from '~/types/software'
-import { PlayStyle, Song } from '~/types/song'
+import { normalizeDifficulty, PlayStyle, Song } from '~/types/song'
 
 @Component
 export default class SeriesDetailPage extends Vue {
@@ -86,16 +86,7 @@ export default class SeriesDetailPage extends Vue {
   }
 
   type(difficultyName: string) {
-    const name = difficultyName.toUpperCase()
-    return ['BASIC', 'NORMAL', 'LIGHT'].includes(name)
-      ? 'is-basic'
-      : ['ANOTHER', 'DIFFICULT', 'TRICK'].includes(name)
-      ? 'is-difficult'
-      : ['MANIAC', 'SSR', 'EXPERT'].includes(name)
-      ? 'is-expert'
-      : ['BEGINNER'].includes(name)
-      ? 'is-beginner'
-      : 'is-challenge'
+    return `is-${normalizeDifficulty(difficultyName).toLowerCase()}`
   }
 }
 </script>

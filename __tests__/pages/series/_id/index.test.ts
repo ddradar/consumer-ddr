@@ -181,29 +181,6 @@ describe('pages/series/_id/index.vue', () => {
     })
   })
 
-  describe('type', () => {
-    test.each([
-      ['foo', 'is-challenge'],
-      ['Unknown', 'is-challenge'],
-      ['', 'is-challenge'],
-      ['BASIC', 'is-basic'],
-      ['NORMAL', 'is-basic'],
-      ['LIGHT', 'is-basic'],
-      ['ANOTHER', 'is-difficult'],
-      ['TRICK', 'is-difficult'],
-      ['DIFFICULT', 'is-difficult'],
-      ['MANIAC', 'is-expert'],
-      ['SSR', 'is-expert'],
-      ['EXPERT', 'is-expert']
-    ])('("%s") returns "%s"', (s, expected) => {
-      // Arrange
-      const type: (s: string) => string = vm.type
-
-      // Act & Assert
-      expect(type(s)).toBe(expected)
-    })
-  })
-
   describe('tooltip', () => {
     test.each([0, 1, -1, 0.1, -0.1, NaN, Infinity, -Infinity])(
       '(%d) returns "Unknown" if info is undefined',
