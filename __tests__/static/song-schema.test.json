@@ -1,0 +1,23 @@
+{
+  "series": "1st-jp",
+  "name": "PARANOiA",
+  "artist": "180",
+  "bpm": 180,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 6
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 7
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 1,
+      "level": 6
+    }
+  ]
+}

@@ -37,11 +37,13 @@ import { Context } from '@nuxt/types'
 import { Component, Vue } from 'nuxt-property-decorator'
 import { MetaInfo } from 'vue-meta'
 
-import { Region } from '~/types/software'
+import { Region, Software } from '~/types/software'
+
+type SoftListData = Omit<Software, 'difficultyNames'>
 
 @Component
 export default class IndexPage extends Vue {
-  softwareList = []
+  softwareList: SoftListData[] = []
 
   head(): MetaInfo {
     return {
@@ -51,8 +53,9 @@ export default class IndexPage extends Vue {
   }
 
   async asyncData({ $content }: Context) {
-    const softwareList = await $content({ deep: true })
+    const softwareList: SoftListData[] = await $content({ deep: true })
       .where({ extension: { $eq: '.md' } })
+      .without('difficultyNames')
       .fetch()
     return { softwareList }
   }

@@ -6,34 +6,15 @@ import {
   Wrapper
 } from '@vue/test-utils'
 import Buefy from 'buefy'
-import { mocked } from 'ts-jest/utils'
 
 import Index from '~/pages/index.vue'
-import { getSoftwareList } from '~/plugins/software-repository'
+import { Software } from '~/types/software'
 
 const localVue = createLocalVue()
 localVue.use(Buefy)
-jest.mock('~/plugins/software-repository')
-mocked(getSoftwareList).mockReturnValue([
-  {
-    id: '1st-jp',
-    name: 'Dance Dance Revolution',
-    platform: 'Play Station',
-    region: 'JP',
-    launched: new Date('1999-04-10')
-  },
-  {
-    id: '2nd-remix-jp',
-    name: 'Dance Dance Revolution 2nd ReMIX',
-    platform: 'Play Station',
-    region: 'JP',
-    launched: new Date('1999-08-26')
-  }
-])
 
 describe('pages/index.vue', () => {
   let wrapper: Wrapper<Vue>
-
   beforeEach(() => {
     wrapper = shallowMount(Index, {
       localVue,
@@ -44,12 +25,32 @@ describe('pages/index.vue', () => {
   })
 
   test('renders correctly', () => {
+    // Arrange
+    const softwareList: Omit<Software, 'difficultyNames'>[] = [
+      {
+        slug: '1st-jp',
+        name: 'Dance Dance Revolution',
+        platform: 'Play Station',
+        region: 'JP',
+        launched: '1999-04-10'
+      },
+      {
+        slug: '2nd-remix-jp',
+        name: 'Dance Dance Revolution 2nd ReMIX',
+        platform: 'Play Station',
+        region: 'JP',
+        launched: '1999-08-26'
+      }
+    ]
     const wrapper = mount(Index, {
       localVue,
       stubs: {
         NuxtLink: RouterLinkStub
-      }
+      },
+      data: () => ({ softwareList })
     })
+
+    // Assert
     expect(wrapper.element).toMatchSnapshot()
   })
 

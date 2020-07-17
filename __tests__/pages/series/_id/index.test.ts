@@ -1,4 +1,3 @@
-import { Context } from '@nuxt/types'
 import {
   createLocalVue,
   mount,
@@ -7,140 +6,23 @@ import {
   Wrapper
 } from '@vue/test-utils'
 import Buefy from 'buefy'
-import { mocked } from 'ts-jest/utils'
 
 import SeriesDetail from '~/pages/series/_id/index.vue'
-import { getSoftwareInfo, SoftwareInfo } from '~/plugins/software-repository'
+import { Software } from '~/types/software'
+import { PlayStyle, Song } from '~/types/song'
 
 const localVue = createLocalVue()
 localVue.use(Buefy)
-jest.mock('~/plugins/software-repository')
 
 describe('pages/series/_id/index.vue', () => {
   let wrapper: Wrapper<Vue>
   let vm: any
-  const info: SoftwareInfo = {
-    id: '1st-jp',
+  const info: Software = {
+    slug: '1st-jp',
     name: 'Dance Dance Revolution',
     platform: 'Play Station',
     region: 'JP',
-    launched: new Date('1999-04-10'),
-    songs: [
-      {
-        id: 'make-it-better',
-        name: 'MAKE IT BETTER',
-        artist: 'mitsu-O!',
-        bpm: 118,
-        charts: [
-          {
-            songId: 'paranoia',
-            playStyle: 'SINGLE',
-            difficulty: 1,
-            level: 5
-          },
-          {
-            songId: 'paranoia',
-            playStyle: 'SINGLE',
-            difficulty: 2,
-            level: 6
-          },
-          {
-            songId: 'paranoia',
-            playStyle: 'SINGLE',
-            difficulty: 3,
-            level: 8
-          },
-          {
-            songId: 'paranoia',
-            playStyle: 'DOUBLE',
-            difficulty: 1,
-            level: 5
-          },
-          {
-            songId: 'paranoia',
-            playStyle: 'DOUBLE',
-            difficulty: 2,
-            level: 6
-          }
-        ]
-      },
-      {
-        id: 'paranoia',
-        name: 'PARANOiA',
-        artist: '180',
-        bpm: 180,
-        charts: [
-          {
-            songId: 'paranoia',
-            playStyle: 'SINGLE',
-            difficulty: 1,
-            level: 6
-          },
-          {
-            songId: 'paranoia',
-            playStyle: 'SINGLE',
-            difficulty: 2,
-            level: 7
-          },
-          {
-            songId: 'paranoia',
-            playStyle: 'SINGLE',
-            difficulty: 3,
-            level: 8
-          },
-          {
-            songId: 'paranoia',
-            playStyle: 'DOUBLE',
-            difficulty: 1,
-            level: 7
-          },
-          {
-            songId: 'paranoia',
-            playStyle: 'DOUBLE',
-            difficulty: 2,
-            level: 8
-          }
-        ]
-      },
-      {
-        id: 'trip-machine',
-        name: 'TRIP MACHINE',
-        artist: 'DE-SIRE',
-        bpm: 160,
-        charts: [
-          {
-            songId: 'trip-machine',
-            playStyle: 'SINGLE',
-            difficulty: 1,
-            level: 6
-          },
-          {
-            songId: 'trip-machine',
-            playStyle: 'SINGLE',
-            difficulty: 2,
-            level: 7
-          },
-          {
-            songId: 'trip-machine',
-            playStyle: 'SINGLE',
-            difficulty: 3,
-            level: 8
-          },
-          {
-            songId: 'trip-machine',
-            playStyle: 'DOUBLE',
-            difficulty: 1,
-            level: 7
-          },
-          {
-            songId: 'trip-machine',
-            playStyle: 'DOUBLE',
-            difficulty: 2,
-            level: 8
-          }
-        ]
-      }
-    ],
+    launched: '1999-04-10',
     difficultyNames: {
       '1': 'BASIC',
       '2': 'ANOTHER',
@@ -148,12 +30,116 @@ describe('pages/series/_id/index.vue', () => {
       '5': 'NORMAL'
     }
   }
-  const chartRows = ['SINGLE', 'DOUBLE']
+  const songs: Song[] = [
+    {
+      series: '1st-jp',
+      slug: 'make-it-better',
+      name: 'MAKE IT BETTER',
+      artist: 'mitsu-O!',
+      bpm: 118,
+      charts: [
+        {
+          playStyle: 'SINGLE',
+          difficulty: 1,
+          level: 5
+        },
+        {
+          playStyle: 'SINGLE',
+          difficulty: 2,
+          level: 6
+        },
+        {
+          playStyle: 'SINGLE',
+          difficulty: 3,
+          level: 8
+        },
+        {
+          playStyle: 'DOUBLE',
+          difficulty: 1,
+          level: 5
+        },
+        {
+          playStyle: 'DOUBLE',
+          difficulty: 2,
+          level: 6
+        }
+      ]
+    },
+    {
+      series: '1st-jp',
+      slug: 'paranoia',
+      name: 'PARANOiA',
+      artist: '180',
+      bpm: 180,
+      charts: [
+        {
+          playStyle: 'SINGLE',
+          difficulty: 1,
+          level: 6
+        },
+        {
+          playStyle: 'SINGLE',
+          difficulty: 2,
+          level: 7
+        },
+        {
+          playStyle: 'SINGLE',
+          difficulty: 3,
+          level: 8
+        },
+        {
+          playStyle: 'DOUBLE',
+          difficulty: 1,
+          level: 7
+        },
+        {
+          playStyle: 'DOUBLE',
+          difficulty: 2,
+          level: 8
+        }
+      ]
+    },
+    {
+      series: '1st-jp',
+      slug: 'trip-machine',
+      name: 'TRIP MACHINE',
+      artist: 'DE-SIRE',
+      bpm: 160,
+      charts: [
+        {
+          playStyle: 'SINGLE',
+          difficulty: 1,
+          level: 6
+        },
+        {
+          playStyle: 'SINGLE',
+          difficulty: 2,
+          level: 7
+        },
+        {
+          playStyle: 'SINGLE',
+          difficulty: 3,
+          level: 8
+        },
+        {
+          playStyle: 'DOUBLE',
+          difficulty: 1,
+          level: 7
+        },
+        {
+          playStyle: 'DOUBLE',
+          difficulty: 2,
+          level: 8
+        }
+      ]
+    }
+  ]
+  const chartRows: PlayStyle[] = ['SINGLE', 'DOUBLE']
 
   beforeEach(() => {
     wrapper = shallowMount(SeriesDetail, {
       localVue,
-      data: () => ({ info, chartRows }),
+      data: () => ({ info, songs, chartRows }),
       stubs: {
         NuxtLink: RouterLinkStub
       }
@@ -162,74 +148,29 @@ describe('pages/series/_id/index.vue', () => {
   })
 
   test('renders correctly', () => {
+    // Arrange - Act
     const wrapper = mount(SeriesDetail, {
       localVue,
-      data: () => ({ info, chartRows }),
+      data: () => ({ info, songs, chartRows }),
       stubs: {
         NuxtLink: RouterLinkStub
       }
     })
+
+    // Assert
     expect(wrapper.element).toMatchSnapshot()
   })
   test('renders blank', () => {
     const wrapper = shallowMount(SeriesDetail, {
       localVue,
-      data: () => ({ info: undefined, chartRows }),
+      data: () => ({ info: undefined }),
       stubs: {
         NuxtLink: RouterLinkStub
       }
     })
     expect(wrapper.html()).toBe('')
   })
-  describe('asyncData()', () => {
-    let asyncData: ({
-      params,
-      payload
-    }: Pick<Context, 'params' | 'payload'>) => any
-    beforeEach(() => (asyncData = vm.$options.asyncData))
-    afterEach(() => mocked(getSoftwareInfo).mockReset())
 
-    test('returns default value', async () => {
-      // Arrange
-      mocked(getSoftwareInfo).mockReturnValue(undefined)
-
-      // Act
-      const data = await asyncData({
-        params: { id: 'foo' },
-        payload: undefined
-      })
-
-      expect(data).toStrictEqual({ info: undefined, chartRows })
-      expect(mocked(getSoftwareInfo).mock.calls).toHaveLength(1)
-      expect(mocked(getSoftwareInfo).mock.calls[0][0]).toBe('foo')
-    })
-    test('returns payload value', async () => {
-      // Arrange
-      mocked(getSoftwareInfo).mockReturnValue(undefined)
-
-      // Act
-      const data = await asyncData({ params: {}, payload: info })
-
-      // Assert
-      expect(mocked(getSoftwareInfo).mock.calls).toHaveLength(0)
-      expect(data).toStrictEqual({ info, chartRows })
-    })
-    test('returns getSoftwareInfo(params.id) value', async () => {
-      // Arrange
-      mocked(getSoftwareInfo).mockReturnValue(info)
-
-      // Act
-      const data = await asyncData({
-        params: { id: '1st-jp' },
-        payload: undefined
-      })
-
-      // Assert
-      expect(mocked(getSoftwareInfo).mock.calls).toHaveLength(1)
-      expect(mocked(getSoftwareInfo).mock.calls[0][0]).toBe('1st-jp')
-      expect(data).toStrictEqual({ info, chartRows })
-    })
-  })
   describe('head()', () => {
     test('returns info.name', () => {
       // Arrange
@@ -239,56 +180,48 @@ describe('pages/series/_id/index.vue', () => {
       expect(head.call(wrapper.vm)).toStrictEqual({ title: info.name })
     })
   })
-  describe('type()', () => {
+
+  describe('type', () => {
     test.each([
-      ['is-challenge', 'foo'],
-      ['is-challenge', 'Unknown'],
-      ['is-challenge', ''],
-      ['is-basic', 'BASIC'],
-      ['is-basic', 'NORMAL'],
-      ['is-basic', 'LIGHT'],
-      ['is-difficult', 'ANOTHER'],
-      ['is-difficult', 'TRICK'],
-      ['is-difficult', 'DIFFICULT'],
-      ['is-expert', 'MANIAC'],
-      ['is-expert', 'SSR'],
-      ['is-expert', 'EXPERT']
-    ])('returns "%s" if name is %S', (expected, s) => {
+      ['foo', 'is-challenge'],
+      ['Unknown', 'is-challenge'],
+      ['', 'is-challenge'],
+      ['BASIC', 'is-basic'],
+      ['NORMAL', 'is-basic'],
+      ['LIGHT', 'is-basic'],
+      ['ANOTHER', 'is-difficult'],
+      ['TRICK', 'is-difficult'],
+      ['DIFFICULT', 'is-difficult'],
+      ['MANIAC', 'is-expert'],
+      ['SSR', 'is-expert'],
+      ['EXPERT', 'is-expert']
+    ])('("%s") returns "%s"', (s, expected) => {
       // Arrange
-      wrapper = shallowMount(SeriesDetail, {
-        localVue,
-        data: () => ({ info: undefined, chartRows }),
-        stubs: {
-          NuxtLink: RouterLinkStub
-        }
-      })
-      const type: (s: string) => string = (wrapper.vm as any).type
+      const type: (s: string) => string = vm.type
 
       // Act & Assert
       expect(type(s)).toBe(expected)
     })
   })
-  describe('tooltip()', () => {
+
+  describe('tooltip', () => {
     test.each([0, 1, -1, 0.1, -0.1, NaN, Infinity, -Infinity])(
-      'returns "Unknown" if info is undefined',
+      '(%d) returns "Unknown" if info is undefined',
       (i) => {
         // Arrange
-        wrapper = shallowMount(SeriesDetail, {
-          localVue,
-          data: () => ({ info: undefined, chartRows })
-        })
-        const tooltip: (i: number) => string = (wrapper.vm as any).tooltip
+        wrapper.setData({ info: undefined })
+        const tooltip: (i: number) => string = vm.tooltip
 
         // Act & Assert
         expect(tooltip(i)).toBe('Unknown')
       }
     )
     test.each([
-      ['BASIC', 1],
-      ['ANOTHER', 2],
-      ['MANIAC', 3],
-      ['NORMAL', 5]
-    ])('returns "%s" if difficulty is %i', (expected, i) => {
+      [1, 'BASIC'],
+      [2, 'ANOTHER'],
+      [3, 'MANIAC'],
+      [5, 'NORMAL']
+    ])('(%i) returns "%s"', (i, expected) => {
       // Arrange
       const tooltip: (i: number) => string = vm.tooltip
 
@@ -296,7 +229,7 @@ describe('pages/series/_id/index.vue', () => {
       expect(tooltip(i)).toBe(expected)
     })
     test.each([4, -1, 0.1, 0.5, NaN, Infinity, -Infinity])(
-      'returns "Unknown" if difficulty is %i',
+      '(%d) returns "Unknown"',
       (i) => {
         // Arrange
         const tooltip: (i: number) => string = vm.tooltip
