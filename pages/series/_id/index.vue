@@ -2,10 +2,10 @@
   <section v-if="info" class="section">
     <h1 class="title">{{ info.name }}</h1>
     <h2 class="subtitle">{{ info.platform }}({{ info.region }})</h2>
-    <b-table :data="info.songs" striped narrowed mobile-cards>
+    <b-table :data="songs" striped narrowed mobile-cards>
       <template slot-scope="props">
         <b-table-column field="name" label="Name">
-          <nuxt-link :to="`/song/${props.row.id}/`">
+          <nuxt-link :to="`/song/${props.row.slug}/`">
             {{ props.row.name }}
           </nuxt-link>
         </b-table-column>
@@ -48,27 +48,29 @@ import { Context } from '@nuxt/types'
 import { Component, Vue } from 'nuxt-property-decorator'
 import { MetaInfo } from 'vue-meta'
 
-import { getSoftwareInfo } from '~/plugins/software-repository'
-import { PlayStyle } from '~/types/chart'
-
-type SoftwareInfo = ReturnType<typeof getSoftwareInfo>
+import { Software } from '~/types/software'
+import { PlayStyle, Song } from '~/types/song'
 
 @Component
 export default class SeriesDetailPage extends Vue {
-  info: SoftwareInfo
+  info?: Software
+  songs: Song[] = []
   chartRows: PlayStyle[] = []
 
-  asyncData({ params, payload }: Pick<Context, 'params' | 'payload'>) {
-    const software = (payload || getSoftwareInfo(params.id)) as SoftwareInfo
+  async asyncData({ params, $content }: Pick<Context, 'params' | '$content'>) {
+    const info: Software = await $content(params.id, params.id)
+      .where({ extension: { $eq: '.md' } })
+      .fetch()
+    const songs: Song[] = await $content(params.id)
+      .where({ extension: { $eq: '.json' } })
+      .fetch()
+    const chartRows = [
+      ...new Set(songs.flatMap((s) => s.charts.map((c) => c.playStyle)))
+    ]
     return {
-      info: software,
-      chartRows: software
-        ? [
-            ...new Set(
-              software.songs.flatMap((s) => s.charts.map((c) => c.playStyle))
-            )
-          ]
-        : ['SINGLE', 'DOUBLE']
+      info,
+      songs,
+      chartRows
     }
   }
 

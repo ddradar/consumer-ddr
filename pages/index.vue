@@ -3,7 +3,10 @@
     <b-table :data="softwareList" striped narrowed mobile-cards>
       <template slot-scope="props">
         <b-table-column field="name" label="Name" searchable>
-          <nuxt-link class="is-size-6-mobile" :to="`/series/${props.row.id}/`">
+          <nuxt-link
+            class="is-size-6-mobile"
+            :to="`/series/${props.row.slug}/`"
+          >
             {{ props.row.name }}
           </nuxt-link>
         </b-table-column>
@@ -14,7 +17,7 @@
           </span>
         </b-table-column>
         <b-table-column field="launched" label="Launched">
-          {{ getISODate(props.row.launched) }}
+          {{ props.row.launched }}
         </b-table-column>
       </template>
 
@@ -30,14 +33,16 @@
 </template>
 
 <script lang="ts">
+import { Context } from '@nuxt/types'
 import { Component, Vue } from 'nuxt-property-decorator'
 import { MetaInfo } from 'vue-meta'
 
-import { getSoftwareList } from '~/plugins/software-repository'
 import { Region } from '~/types/software'
 
 @Component
 export default class IndexPage extends Vue {
+  softwareList = []
+
   head(): MetaInfo {
     return {
       title: 'Consumer DDR',
@@ -45,8 +50,11 @@ export default class IndexPage extends Vue {
     }
   }
 
-  get softwareList() {
-    return getSoftwareList()
+  async asyncData({ $content }: Context) {
+    const softwareList = await $content({ deep: true })
+      .where({ extension: { $eq: '.md' } })
+      .fetch()
+    return { softwareList }
   }
 
   getRegionFlag(region: Region) {
@@ -59,15 +67,6 @@ export default class IndexPage extends Vue {
       : region === 'None'
       ? '\u{1F1FA}\u{1F1F3}'
       : '?'
-  }
-
-  getISODate(date: Date) {
-    const pad = (num: number) => (num < 10 ? '0' + num : num)
-    const year = date.getFullYear()
-    const month = date.getMonth() + 1
-    const dt = date.getDate()
-
-    return `${year}-${pad(month)}-${pad(dt)}`
   }
 }
 </script>

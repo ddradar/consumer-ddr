@@ -39,12 +39,12 @@
   "type": "object",
   "properties": {
     "$schema": { "type": "string" },
-    "name": {
+    "series": {
+      "description": "Series slug",
       "type": "string"
     },
-    "artist": {
-      "type": "string"
-    },
+    "name": { "type": "string" },
+    "artist": { "type": "string" },
     "bpm": {
       "type": ["integer", "string"],
       "exclusiveMinimum": 0,
@@ -60,6 +60,6 @@
       "minItems": 1
     }
   },
-  "required": ["name", "artist", "bpm", "charts"],
+  "required": ["series", "name", "artist", "bpm", "charts"],
   "additionalProperties": false
 }

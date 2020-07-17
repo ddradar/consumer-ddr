@@ -1,7 +1,6 @@
 import { Chart } from '~/types/chart'
 import { Song } from '~/types/song'
 
-import firstJp from './1st-jp.json'
 import secondDc from './2nd-dc.json'
 import second from './2nd.json'
 import third from './3rd.json'
