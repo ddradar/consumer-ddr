@@ -2,7 +2,7 @@
   <section v-if="info" class="section">
     <h1 class="title">{{ info.name }}</h1>
     <h2 class="subtitle">{{ info.platform }}({{ info.region }})</h2>
-    <b-table :data="songs" striped narrowed mobile-cards>
+    <b-table :data="songs" striped narrowed>
       <template slot-scope="props">
         <b-table-column field="name" label="Name">
           <nuxt-link :to="`/song/${props.row.slug}/`">

@@ -1,14 +1,7 @@
 <template>
   <section class="section">
     <h1 class="title">Song List</h1>
-    <b-table
-      :data="songList"
-      per-page="20"
-      striped
-      narrowed
-      paginated
-      mobile-cards
-    >
+    <b-table :data="songList" per-page="20" striped narrowed paginated>
       <template slot-scope="props">
         <b-table-column field="name" label="Name" searchable>
           <nuxt-link class="is-size-6-mobile" :to="`/song/${props.row.slug}/`">

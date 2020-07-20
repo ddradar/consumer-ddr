@@ -14,7 +14,7 @@
         {{ id }}
       </b-button>
     </div>
-    <b-table :data="info.charts" striped mobile-cards>
+    <b-table :data="info.charts" striped>
       <template slot-scope="props">
         <b-table-column field="playStyle" label="PlayStyle">
           {{ props.row.playStyle }}

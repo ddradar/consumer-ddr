@@ -1,6 +1,6 @@
 <template>
   <section class="section">
-    <b-table :data="softwareList" striped narrowed mobile-cards>
+    <b-table :data="softwareList" striped narrowed>
       <template slot-scope="props">
         <b-table-column field="name" label="Name" searchable>
           <nuxt-link
