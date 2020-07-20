@@ -1,0 +1,63 @@
+{
+  "series": "2nd",
+  "name": "20, november -DDR VERSION-",
+  "artist": "N.M.R. feat. dj nagureo",
+  "bpm": 130,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 4,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 5,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 6,
+      "level": 4
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 4,
+      "level": 2
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 5,
+      "level": 4
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 4,
+      "level": 1
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 5,
+      "level": 3
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 6,
+      "level": 4
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 1,
+      "level": 9
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 2,
+      "level": 9
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 3,
+      "level": 9
+    }
+  ]
+}

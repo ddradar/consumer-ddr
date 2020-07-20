@@ -1,0 +1,48 @@
+{
+  "series": "2nd",
+  "name": "EL RITMO TROPICAL",
+  "artist": "DIXIES GANG",
+  "bpm": 133,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 2
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 5
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 1,
+      "level": 2
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 3,
+      "level": 7
+    }
+  ]
+}
