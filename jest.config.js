@@ -9,7 +9,6 @@ module.exports = {
     '^.+\\.ts$': 'ts-jest',
     '.*\\.(vue)$': 'vue-jest'
   },
-  snapshotSerializers: ['jest-serializer-vue'],
   collectCoverage: true,
   collectCoverageFrom: ['<rootDir>/*/**/*.ts', '!<rootDir>/**/*.d.ts']
 }

@@ -1,53 +1,46 @@
 import { createLocalVue, mount, RouterLinkStub } from '@vue/test-utils'
 import Buefy from 'buefy'
-import { mocked } from 'ts-jest/utils'
 
 import DefaultLayout from '~/layouts/default.vue'
-import { getSoftwareList } from '~/plugins/software-repository'
 
-jest.mock('~/plugins/software-repository')
-mocked(getSoftwareList).mockReturnValue([
-  {
-    id: '1st-jp',
-    name: 'Dance Dance Revolution',
-    region: 'JP',
-    platform: 'Play Station',
-    launched: new Date('1999-04-10')
-  },
-  {
-    id: '2nd-remix-jp',
-    name: 'Dance Dance Revolution 2nd ReMIX',
-    region: 'JP',
-    platform: 'Play Station',
-    launched: new Date('1999-08-26')
-  },
-  {
-    id: 'gb-1',
-    name: 'Dance Dance Revolution GB',
-    region: 'None',
-    platform: 'GAME BOY COLOR',
-    launched: new Date('2000-08-03')
-  },
-  {
-    id: 'x2-us',
-    name: 'Dance Dance Revolution X2',
-    region: 'US',
-    platform: 'Play Station 2',
-    launched: new Date('2009-10-27')
-  }
-])
+type MenuItem = {
+  title: string
+  subMenu: { name: string; href: string }[]
+}
+
 const localVue = createLocalVue()
 localVue.use(Buefy)
 
 describe('layouts/default.vue', () => {
   test('renders correctly', () => {
+    // Arrange - Act
+    const menuList: MenuItem[] = [
+      {
+        title: 'Play Station (JP)',
+        subMenu: [
+          { name: 'Dance Dance Revolution', href: '/series/1st-jp/' },
+          {
+            name: 'Dance Dance Revolution 2nd ReMIX',
+            href: '/series/2nd-remix-jp/'
+          }
+        ]
+      },
+      {
+        title: 'GAME BOY COLOR',
+        subMenu: [{ name: 'Dance Dance Revolution GB', href: '/series/gb-1/' }]
+      },
+      {
+        title: 'Play Station 2 (US)',
+        subMenu: [{ name: 'Dance Dance Revolution X2', href: '/series/x2-us/' }]
+      }
+    ]
     const wrapper = mount(DefaultLayout, {
       localVue,
-      stubs: {
-        NuxtLink: RouterLinkStub,
-        Nuxt: true
-      }
+      stubs: { NuxtLink: RouterLinkStub, Nuxt: true },
+      data: () => ({ menuList })
     })
+
+    // Assert
     expect(wrapper.element).toMatchSnapshot()
   })
 })

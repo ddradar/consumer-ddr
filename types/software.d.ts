@@ -8,9 +8,10 @@ type Platform =
   | 'Wii'
 
 export type Software = {
-  id: string
+  slug: string
   name: string
   region: Region
   platform: Platform
-  launched: Date | null
+  launched: string
+  difficultyNames: { [key in number]: string }
 }

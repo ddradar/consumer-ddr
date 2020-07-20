@@ -6,34 +6,19 @@ import {
   Wrapper
 } from '@vue/test-utils'
 import Buefy from 'buefy'
-import { mocked } from 'ts-jest/utils'
 
 import Index from '~/pages/index.vue'
-import { getSoftwareList } from '~/plugins/software-repository'
+import { Software } from '~/types/software'
+
+type SoftListData = Omit<Software, 'difficultyNames' | 'region'> & {
+  region: string
+}
 
 const localVue = createLocalVue()
 localVue.use(Buefy)
-jest.mock('~/plugins/software-repository')
-mocked(getSoftwareList).mockReturnValue([
-  {
-    id: '1st-jp',
-    name: 'Dance Dance Revolution',
-    platform: 'Play Station',
-    region: 'JP',
-    launched: new Date('1999-04-10')
-  },
-  {
-    id: '2nd-remix-jp',
-    name: 'Dance Dance Revolution 2nd ReMIX',
-    platform: 'Play Station',
-    region: 'JP',
-    launched: new Date('1999-08-26')
-  }
-])
 
 describe('pages/index.vue', () => {
   let wrapper: Wrapper<Vue>
-
   beforeEach(() => {
     wrapper = shallowMount(Index, {
       localVue,
@@ -44,12 +29,32 @@ describe('pages/index.vue', () => {
   })
 
   test('renders correctly', () => {
+    // Arrange
+    const softwareList: SoftListData[] = [
+      {
+        slug: '1st-jp',
+        name: 'Dance Dance Revolution',
+        platform: 'Play Station',
+        region: '\u{1F1EF}\u{1F1F5}',
+        launched: '1999-04-10'
+      },
+      {
+        slug: '2nd-remix-jp',
+        name: 'Dance Dance Revolution 2nd ReMIX',
+        platform: 'Play Station',
+        region: '\u{1F1EF}\u{1F1F5}',
+        launched: '1999-08-26'
+      }
+    ]
     const wrapper = mount(Index, {
       localVue,
       stubs: {
         NuxtLink: RouterLinkStub
-      }
+      },
+      data: () => ({ softwareList })
     })
+
+    // Assert
     expect(wrapper.element).toMatchSnapshot()
   })
 
@@ -63,27 +68,6 @@ describe('pages/index.vue', () => {
         title: 'Consumer DDR',
         titleTemplate: ''
       })
-    })
-  })
-
-  describe('getRegionFlag()', () => {
-    let getRegionFlag: (region: string) => string
-    beforeEach(() => {
-      getRegionFlag = (wrapper.vm as any).getRegionFlag
-    })
-
-    test.each(['', 'foo', 'JPN', 'CN'])(
-      'returns "?" if param is "%s"',
-      (region) => {
-        expect(getRegionFlag(region)).toBe('?')
-      }
-    )
-    test.each([
-      ['\u{1F1EF}\u{1F1F5}', 'JP'],
-      ['\u{1F1EA}\u{1F1FA}', 'EU'],
-      ['\u{1F1FA}\u{1F1F8}', 'US']
-    ])('returns "%s" if param is "%s"', (expected, region) => {
-      expect(getRegionFlag(region)).toBe(expected)
     })
   })
 })

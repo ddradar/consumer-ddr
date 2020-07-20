@@ -1,0 +1,63 @@
+{
+  "series": "2nd",
+  "name": "LET THEM MOVE",
+  "artist": "N.M.R.",
+  "bpm": 115,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 4,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 5,
+      "level": 2
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 6,
+      "level": 4
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 4,
+      "level": 2
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 5,
+      "level": 3
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 2,
+      "level": 2
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 3,
+      "level": 4
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 1,
+      "level": 9
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 2,
+      "level": 9
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 3,
+      "level": 9
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`pages/series/_id/index.vue renders correctly 1`] = `
+exports[`pages/song/_id.vue renders correctly 1`] = `
 <section
   class="section"
 >
@@ -96,7 +96,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               data-label="Level"
             >
               
-        3
+        3, 3
       
             </td>
              
@@ -137,7 +137,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               data-label="Level"
             >
               
-        4
+        4, 4
       
             </td>
              
@@ -178,7 +178,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               data-label="Level"
             >
               
-        7
+        7, 7
       
             </td>
              
@@ -219,7 +219,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               data-label="Level"
             >
               
-        4
+        4, 4
       
             </td>
              
@@ -260,7 +260,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               data-label="Level"
             >
               
-        5
+        5, 5
       
             </td>
              

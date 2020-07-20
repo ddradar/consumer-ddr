@@ -38,7 +38,7 @@
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
 
-import { getSoftwareList } from '~/plugins/software-repository'
+import { Software } from '~/types/software'
 
 type MenuItem = {
   title: string
@@ -47,15 +47,21 @@ type MenuItem = {
 
 @Component
 export default class DefaultLayout extends Vue {
-  get menuList(): MenuItem[] {
-    return getSoftwareList().reduce((prev, current) => {
+  menuList: MenuItem[] = []
+
+  async fetch() {
+    const content: Software[] = await this.$content({ deep: true })
+      .where({ extension: { $eq: '.md' } })
+      .fetch()
+
+    this.menuList = content.reduce((prev, current) => {
       const element = prev.find(
         (s) => s.title === `${current.platform} (${current.region})`
       )
       if (element) {
         element.subMenu.push({
           name: current.name,
-          href: `/series/${current.id}/`
+          href: `/series/${current.slug}/`
         })
       } else {
         prev.push({
@@ -65,7 +71,7 @@ export default class DefaultLayout extends Vue {
           subMenu: [
             {
               name: current.name,
-              href: `/series/${current.id}/`
+              href: `/series/${current.slug}/`
             }
           ]
         })

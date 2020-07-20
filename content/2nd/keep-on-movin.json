@@ -1,0 +1,63 @@
+{
+  "series": "2nd",
+  "name": "KEEP ON MOVIN'",
+  "artist": "N.M.R.",
+  "bpm": 132,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 4,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 5,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 6,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 4,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 5,
+      "level": 4
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 3,
+      "level": 5
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 1,
+      "level": 9
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 2,
+      "level": 9
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 3,
+      "level": 9
+    }
+  ]
+}

@@ -1,20 +1,23 @@
 <template>
   <section class="section">
-    <b-table :data="softwareList" striped narrowed mobile-cards>
+    <b-table :data="softwareList" striped narrowed>
       <template slot-scope="props">
         <b-table-column field="name" label="Name" searchable>
-          <nuxt-link class="is-size-6-mobile" :to="`/series/${props.row.id}/`">
+          <nuxt-link
+            class="is-size-6-mobile"
+            :to="`/series/${props.row.slug}/`"
+          >
             {{ props.row.name }}
           </nuxt-link>
         </b-table-column>
         <b-table-column field="platform" label="Platform" searchable>
           <span>
             {{ props.row.platform }}
-            {{ getRegionFlag(props.row.region) }}
+            {{ props.row.region }}
           </span>
         </b-table-column>
         <b-table-column field="launched" label="Launched">
-          {{ getISODate(props.row.launched) }}
+          {{ props.row.launched }}
         </b-table-column>
       </template>
 
@@ -30,14 +33,20 @@
 </template>
 
 <script lang="ts">
+import { Context } from '@nuxt/types'
 import { Component, Vue } from 'nuxt-property-decorator'
 import { MetaInfo } from 'vue-meta'
 
-import { getSoftwareList } from '~/plugins/software-repository'
-import { Region } from '~/types/software'
+import { Software } from '~/types/software'
+
+type SoftListData = Omit<Software, 'difficultyNames' | 'region'> & {
+  region: string
+}
 
 @Component
 export default class IndexPage extends Vue {
+  softwareList: SoftListData[] = []
+
   head(): MetaInfo {
     return {
       title: 'Consumer DDR',
@@ -45,29 +54,26 @@ export default class IndexPage extends Vue {
     }
   }
 
-  get softwareList() {
-    return getSoftwareList()
-  }
-
-  getRegionFlag(region: Region) {
-    return region === 'JP'
-      ? '\u{1F1EF}\u{1F1F5}'
-      : region === 'US'
-      ? '\u{1F1FA}\u{1F1F8}'
-      : region === 'EU'
-      ? '\u{1F1EA}\u{1F1FA}'
-      : region === 'None'
-      ? '\u{1F1FA}\u{1F1F3}'
-      : '?'
-  }
-
-  getISODate(date: Date) {
-    const pad = (num: number) => (num < 10 ? '0' + num : num)
-    const year = date.getFullYear()
-    const month = date.getMonth() + 1
-    const dt = date.getDate()
-
-    return `${year}-${pad(month)}-${pad(dt)}`
+  async asyncData({ $content }: Pick<Context, '$content'>) {
+    const rawSoftwareList: SoftListData[] = await $content({ deep: true })
+      .where({ extension: { $eq: '.md' } })
+      .sortBy('launched')
+      .without('difficultyNames')
+      .fetch()
+    const softwareList = rawSoftwareList.map((s) => {
+      const region =
+        s.region === 'JP'
+          ? '\u{1F1EF}\u{1F1F5}'
+          : s.region === 'US'
+          ? '\u{1F1FA}\u{1F1F8}'
+          : s.region === 'EU'
+          ? '\u{1F1EA}\u{1F1FA}'
+          : s.region === 'None'
+          ? '\u{1F1FA}\u{1F1F3}'
+          : '?'
+      return { ...s, region }
+    })
+    return { softwareList }
   }
 }
 </script>
