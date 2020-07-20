@@ -40,7 +40,7 @@
     "@types/jest-json-schema": "^2.1.2",
     "@vue/test-utils": "^1.0.3",
     "babel-jest": "^25.5.1",
-    "eslint": "^7.4.0",
+    "eslint": "^7.5.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-jest": "^23.18.0",
     "eslint-plugin-nuxt": ">=1.0.0",
