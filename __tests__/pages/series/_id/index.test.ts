@@ -9,14 +9,22 @@ import Buefy from 'buefy'
 
 import SeriesDetail from '~/pages/series/_id/index.vue'
 import { Software } from '~/types/software'
-import { PlayStyle, Song } from '~/types/song'
+import { Chart, PlayStyle, Song } from '~/types/song'
+
+type ChartInfo = Pick<Chart, 'level' | 'difficulty'> & {
+  color: string
+  difficultyName: string
+}
+
+type SongListData = Omit<Song, 'series' | 'charts'> & {
+  charts: [PlayStyle, ChartInfo[]][]
+}
 
 const localVue = createLocalVue()
 localVue.use(Buefy)
 
 describe('pages/series/_id/index.vue', () => {
   let wrapper: Wrapper<Vue>
-  let vm: any
   const info: Software = {
     slug: '1st-jp',
     name: 'Dance Dance Revolution',
@@ -30,128 +38,168 @@ describe('pages/series/_id/index.vue', () => {
       '5': 'NORMAL'
     }
   }
-  const songs: Song[] = [
+  const songs: SongListData[] = [
     {
-      series: '1st-jp',
       slug: 'make-it-better',
       name: 'MAKE IT BETTER',
       artist: 'mitsu-O!',
       bpm: 118,
       charts: [
-        {
-          playStyle: 'SINGLE',
-          difficulty: 1,
-          level: 5
-        },
-        {
-          playStyle: 'SINGLE',
-          difficulty: 2,
-          level: 6
-        },
-        {
-          playStyle: 'SINGLE',
-          difficulty: 3,
-          level: 8
-        },
-        {
-          playStyle: 'DOUBLE',
-          difficulty: 1,
-          level: 5
-        },
-        {
-          playStyle: 'DOUBLE',
-          difficulty: 2,
-          level: 6
-        }
+        [
+          'SINGLE',
+          [
+            {
+              difficulty: 1,
+              level: 5,
+              color: 'is-basic',
+              difficultyName: 'BASIC'
+            },
+            {
+              difficulty: 2,
+              level: 6,
+              color: 'is-difficult',
+              difficultyName: 'ANOTHER'
+            },
+            {
+              difficulty: 3,
+              level: 8,
+              color: 'is-expert',
+              difficultyName: 'MANIAC'
+            }
+          ]
+        ],
+        [
+          'DOUBLE',
+          [
+            {
+              difficulty: 1,
+              level: 5,
+              color: 'is-basic',
+              difficultyName: 'BASIC'
+            },
+            {
+              difficulty: 2,
+              level: 6,
+              color: 'is-difficult',
+              difficultyName: 'ANOTHER'
+            }
+          ]
+        ]
       ]
     },
     {
-      series: '1st-jp',
       slug: 'paranoia',
       name: 'PARANOiA',
       artist: '180',
       bpm: 180,
       charts: [
-        {
-          playStyle: 'SINGLE',
-          difficulty: 1,
-          level: 6
-        },
-        {
-          playStyle: 'SINGLE',
-          difficulty: 2,
-          level: 7
-        },
-        {
-          playStyle: 'SINGLE',
-          difficulty: 3,
-          level: 8
-        },
-        {
-          playStyle: 'DOUBLE',
-          difficulty: 1,
-          level: 7
-        },
-        {
-          playStyle: 'DOUBLE',
-          difficulty: 2,
-          level: 8
-        }
+        [
+          'SINGLE',
+          [
+            {
+              difficulty: 1,
+              level: 6,
+              color: 'is-basic',
+              difficultyName: 'BASIC'
+            },
+            {
+              difficulty: 2,
+              level: 7,
+              color: 'is-difficult',
+              difficultyName: 'ANOTHER'
+            },
+            {
+              difficulty: 3,
+              level: 8,
+              color: 'is-expert',
+              difficultyName: 'MANIAC'
+            }
+          ]
+        ],
+        [
+          'DOUBLE',
+          [
+            {
+              difficulty: 1,
+              level: 7,
+              color: 'is-basic',
+              difficultyName: 'BASIC'
+            },
+            {
+              difficulty: 2,
+              level: 8,
+              color: 'is-difficult',
+              difficultyName: 'ANOTHER'
+            }
+          ]
+        ]
       ]
     },
     {
-      series: '1st-jp',
       slug: 'trip-machine',
       name: 'TRIP MACHINE',
       artist: 'DE-SIRE',
       bpm: 160,
       charts: [
-        {
-          playStyle: 'SINGLE',
-          difficulty: 1,
-          level: 6
-        },
-        {
-          playStyle: 'SINGLE',
-          difficulty: 2,
-          level: 7
-        },
-        {
-          playStyle: 'SINGLE',
-          difficulty: 3,
-          level: 8
-        },
-        {
-          playStyle: 'DOUBLE',
-          difficulty: 1,
-          level: 7
-        },
-        {
-          playStyle: 'DOUBLE',
-          difficulty: 2,
-          level: 8
-        }
+        [
+          'SINGLE',
+          [
+            {
+              difficulty: 1,
+              level: 6,
+              color: 'is-basic',
+              difficultyName: 'BASIC'
+            },
+            {
+              difficulty: 2,
+              level: 7,
+              color: 'is-difficult',
+              difficultyName: 'ANOTHER'
+            },
+            {
+              difficulty: 3,
+              level: 8,
+              color: 'is-expert',
+              difficultyName: 'MANIAC'
+            }
+          ]
+        ],
+        [
+          'DOUBLE',
+          [
+            {
+              difficulty: 1,
+              level: 7,
+              color: 'is-basic',
+              difficultyName: 'BASIC'
+            },
+            {
+              difficulty: 2,
+              level: 8,
+              color: 'is-difficult',
+              difficultyName: 'ANOTHER'
+            }
+          ]
+        ]
       ]
     }
   ]
-  const chartRows: PlayStyle[] = ['SINGLE', 'DOUBLE']
 
   beforeEach(() => {
     wrapper = shallowMount(SeriesDetail, {
       localVue,
-      data: () => ({ info, songs, chartRows }),
+      data: () => ({ info, songs }),
       stubs: {
         NuxtLink: RouterLinkStub
       }
     })
-    vm = wrapper.vm
   })
 
   test('renders correctly', () => {
     // Arrange - Act
     const wrapper = mount(SeriesDetail, {
       localVue,
-      data: () => ({ info, songs, chartRows }),
+      data: () => ({ info, songs }),
       stubs: {
         NuxtLink: RouterLinkStub
       }
@@ -179,41 +227,5 @@ describe('pages/series/_id/index.vue', () => {
       // Act & Assert
       expect(head.call(wrapper.vm)).toStrictEqual({ title: info.name })
     })
-  })
-
-  describe('tooltip', () => {
-    test.each([0, 1, -1, 0.1, -0.1, NaN, Infinity, -Infinity])(
-      '(%d) returns "Unknown" if info is undefined',
-      (i) => {
-        // Arrange
-        wrapper.setData({ info: undefined })
-        const tooltip: (i: number) => string = vm.tooltip
-
-        // Act & Assert
-        expect(tooltip(i)).toBe('Unknown')
-      }
-    )
-    test.each([
-      [1, 'BASIC'],
-      [2, 'ANOTHER'],
-      [3, 'MANIAC'],
-      [5, 'NORMAL']
-    ])('(%i) returns "%s"', (i, expected) => {
-      // Arrange
-      const tooltip: (i: number) => string = vm.tooltip
-
-      // Act & Assert
-      expect(tooltip(i)).toBe(expected)
-    })
-    test.each([4, -1, 0.1, 0.5, NaN, Infinity, -Infinity])(
-      '(%d) returns "Unknown"',
-      (i) => {
-        // Arrange
-        const tooltip: (i: number) => string = vm.tooltip
-
-        // Act & Assert
-        expect(tooltip(i)).toBe('Unknown')
-      }
-    )
   })
 })
