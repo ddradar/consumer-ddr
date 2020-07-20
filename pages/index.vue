@@ -13,7 +13,7 @@
         <b-table-column field="platform" label="Platform" searchable>
           <span>
             {{ props.row.platform }}
-            {{ getRegionFlag(props.row.region) }}
+            {{ props.row.region }}
           </span>
         </b-table-column>
         <b-table-column field="launched" label="Launched">
@@ -37,9 +37,11 @@ import { Context } from '@nuxt/types'
 import { Component, Vue } from 'nuxt-property-decorator'
 import { MetaInfo } from 'vue-meta'
 
-import { Region, Software } from '~/types/software'
+import { Software } from '~/types/software'
 
-type SoftListData = Omit<Software, 'difficultyNames'>
+type SoftListData = Omit<Software, 'difficultyNames' | 'region'> & {
+  region: string
+}
 
 @Component
 export default class IndexPage extends Vue {
@@ -52,21 +54,26 @@ export default class IndexPage extends Vue {
     }
   }
 
-  async asyncData({ $content }: Context) {
-    const softwareList: SoftListData[] = await $content({ deep: true })
+  async asyncData({ $content }: Pick<Context, '$content'>) {
+    const rawSoftwareList: SoftListData[] = await $content({ deep: true })
       .where({ extension: { $eq: '.md' } })
       .sortBy('launched')
       .without('difficultyNames')
       .fetch()
+    const softwareList = rawSoftwareList.map((s) => {
+      const region =
+        s.region === 'JP'
+          ? '\u{1F1EF}\u{1F1F5}'
+          : s.region === 'US'
+          ? '\u{1F1FA}\u{1F1F8}'
+          : s.region === 'EU'
+          ? '\u{1F1EA}\u{1F1FA}'
+          : s.region === 'None'
+          ? '\u{1F1FA}\u{1F1F3}'
+          : '?'
+      return { ...s, region }
+    })
     return { softwareList }
-  }
-
-  getRegionFlag(region: Region) {
-    if (region === 'JP') return '\u{1F1EF}\u{1F1F5}'
-    if (region === 'US') return '\u{1F1FA}\u{1F1F8}'
-    if (region === 'EU') return '\u{1F1EA}\u{1F1FA}'
-    if (region === 'None') return '\u{1F1FA}\u{1F1F3}'
-    return '?'
   }
 }
 </script>

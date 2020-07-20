@@ -68,7 +68,7 @@ export default class SeriesDetailPage extends Vue {
     title: 'Song List'
   }
 
-  async asyncData({ $content }: Context) {
+  async asyncData({ $content }: Pick<Context, '$content'>) {
     const songs: Omit<Song, 'charts'>[] = await $content({ deep: true })
       .where({ extension: { $eq: '.json' } })
       .without('charts')
