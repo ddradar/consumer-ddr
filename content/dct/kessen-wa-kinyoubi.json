@@ -1,0 +1,58 @@
+{
+  "series": "dct",
+  "name": "決戦は金曜日",
+  "artist": "DREAMS COME TRUE",
+  "bpm": 125,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 2.5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 5.5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 6.5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 4,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 3.5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 5.5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": "?"
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 1,
+      "level": 2.5
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 2,
+      "level": 5.5
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 3,
+      "level": 6.5
+    }
+  ]
+}
