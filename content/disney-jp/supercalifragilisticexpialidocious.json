@@ -1,0 +1,28 @@
+{
+  "series": "disney-jp",
+  "name": "Supercalifragilisticexpialidocious",
+  "artist": "Go Go Girls",
+  "bpm": "114-200",
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 8
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 6
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 10
+    }
+  ]
+}
