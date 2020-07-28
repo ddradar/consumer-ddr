@@ -1,0 +1,53 @@
+{
+  "series": "3rd",
+  "name": "END OF THE CENTURY",
+  "artist": "NO. 9",
+  "bpm": 171,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 7
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 8
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": 9
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 2,
+      "level": 7
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 3,
+      "level": 8
+    }
+  ]
+}
