@@ -1,0 +1,18 @@
+{
+  "series": "gb-disney",
+  "name": "I Want You Back",
+  "artist": "",
+  "bpm": 98,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 3
+    }
+  ]
+}
