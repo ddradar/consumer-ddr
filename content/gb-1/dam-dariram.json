@@ -1,0 +1,23 @@
+{
+  "series": "gb-1",
+  "name": "DAM DARIRAM",
+  "artist": "JOGA",
+  "bpm": 142,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": "?"
+    }
+  ]
+}
