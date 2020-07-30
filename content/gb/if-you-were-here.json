@@ -1,8 +1,8 @@
 {
-  "series": "gb-1",
-  "name": "I believe in miracles",
-  "artist": "HI-RISE",
-  "bpm": 126,
+  "series": "gb",
+  "name": "IF YOU WERE HERE",
+  "artist": "JENNIFER",
+  "bpm": 146,
   "charts": [
     {
       "playStyle": "SINGLE",
@@ -17,7 +17,7 @@
     {
       "playStyle": "SINGLE",
       "difficulty": 3,
-      "level": 8
+      "level": 7
     },
     {
       "playStyle": "COUPLE",
@@ -32,7 +32,7 @@
     {
       "playStyle": "COUPLE",
       "difficulty": 3,
-      "level": 8
+      "level": 7
     }
   ]
 }

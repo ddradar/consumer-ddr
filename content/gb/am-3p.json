@@ -1,13 +1,13 @@
 {
-  "series": "gb-1",
-  "name": "DUB I DUB",
-  "artist": "ME & MY",
-  "bpm": 136,
+  "series": "gb",
+  "name": "AM-3P",
+  "artist": "KTz",
+  "bpm": 130,
   "charts": [
     {
       "playStyle": "SINGLE",
       "difficulty": 1,
-      "level": 4
+      "level": 5
     },
     {
       "playStyle": "SINGLE",
@@ -22,7 +22,7 @@
     {
       "playStyle": "COUPLE",
       "difficulty": 1,
-      "level": 4
+      "level": 5
     },
     {
       "playStyle": "COUPLE",

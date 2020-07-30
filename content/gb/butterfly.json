@@ -1,23 +1,33 @@
 {
-  "series": "gb-1",
-  "name": "LOVE",
-  "artist": "SONIC DREAM",
-  "bpm": 129,
+  "series": "gb",
+  "name": "butterfly",
+  "artist": "smile. dk",
+  "bpm": 135,
   "charts": [
     {
       "playStyle": "SINGLE",
+      "difficulty": 5,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
       "difficulty": 1,
       "level": 3
     },
     {
       "playStyle": "SINGLE",
       "difficulty": 2,
-      "level": 5
+      "level": 4
     },
     {
       "playStyle": "SINGLE",
       "difficulty": 3,
-      "level": 7
+      "level": 6
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 5,
+      "level": 3
     },
     {
       "playStyle": "COUPLE",
@@ -27,12 +37,12 @@
     {
       "playStyle": "COUPLE",
       "difficulty": 2,
-      "level": 5
+      "level": 4
     },
     {
       "playStyle": "COUPLE",
       "difficulty": 3,
-      "level": 7
+      "level": 6
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "series": "gb-1",
-  "name": "IF YOU WERE HERE",
-  "artist": "JENNIFER",
-  "bpm": 146,
+  "series": "gb",
+  "name": "LOVE",
+  "artist": "SONIC DREAM",
+  "bpm": 129,
   "charts": [
     {
       "playStyle": "SINGLE",
       "difficulty": 1,
-      "level": 5
+      "level": 3
     },
     {
       "playStyle": "SINGLE",
       "difficulty": 2,
-      "level": 6
+      "level": 5
     },
     {
       "playStyle": "SINGLE",
@@ -22,12 +22,12 @@
     {
       "playStyle": "COUPLE",
       "difficulty": 1,
-      "level": 5
+      "level": 3
     },
     {
       "playStyle": "COUPLE",
       "difficulty": 2,
-      "level": 6
+      "level": 5
     },
     {
       "playStyle": "COUPLE",
