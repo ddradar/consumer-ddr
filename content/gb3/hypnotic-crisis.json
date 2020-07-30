@@ -1,0 +1,23 @@
+{
+  "series": "gb3",
+  "name": "HYPNØTIC CRISIS",
+  "artist": "BLUE DESTROYERS",
+  "bpm": 135,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 9
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "series": "gb3",
+  "name": "LUV TO ME (AMD MIX) (HARD)",
+  "artist": "DJ KAZU feat. tiger YAMATO",
+  "bpm": 210,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 8
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 9
+    }
+  ]
+}
