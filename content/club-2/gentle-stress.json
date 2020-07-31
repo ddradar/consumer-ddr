@@ -1,0 +1,33 @@
+{
+  "series": "club-2",
+  "name": "gentle stress",
+  "artist": "DJ Swan",
+  "bpm": 174,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 8
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 9
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 6
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 8
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "club-2",
+  "name": "The rhyme brokers",
+  "artist": "L.E.D. LIGHT",
+  "bpm": 91,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 7
+    }
+  ]
+}
