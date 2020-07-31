@@ -1,0 +1,23 @@
+{
+  "series": "gb3",
+  "name": "DREAM A DREAM",
+  "artist": "CAPTAIN JACK",
+  "bpm": 141,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    }
+  ]
+}

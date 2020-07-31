@@ -1,0 +1,48 @@
+{
+  "series": "2nd-dc",
+  "name": "LOVE THIS FEELIN'",
+  "artist": "Chang Ma",
+  "bpm": "95-190",
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 7
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 8
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 8
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 1,
+      "level": 6
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 2,
+      "level": 7
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 3,
+      "level": 8
+    }
+  ]
+}

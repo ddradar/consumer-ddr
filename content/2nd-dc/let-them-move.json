@@ -1,0 +1,93 @@
+{
+  "series": "2nd-dc",
+  "name": "LET THEM MOVE",
+  "artist": "N.M.R.",
+  "bpm": 115,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 4,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 5,
+      "level": 2
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 6,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 4,
+      "level": 2
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 5,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 2,
+      "level": 2
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 3,
+      "level": 4
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 1,
+      "level": 9
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 2,
+      "level": 9
+    },
+    {
+      "playStyle": "STEP BATTLE",
+      "difficulty": 3,
+      "level": 9
+    }
+  ]
+}

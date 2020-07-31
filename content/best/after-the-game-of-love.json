@@ -1,0 +1,58 @@
+{
+  "series": "best",
+  "name": "AFTER THE GAME OF LOVE",
+  "artist": "NPD3",
+  "bpm": 105,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 5,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 2
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": 6
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 3,
+      "level": 5
+    }
+  ]
+}

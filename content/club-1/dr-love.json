@@ -1,0 +1,33 @@
+{
+  "series": "club-1",
+  "name": "Dr. LOVE",
+  "artist": "baby weapon feat. Asuka. M",
+  "bpm": 123,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 5
+    }
+  ]
+}

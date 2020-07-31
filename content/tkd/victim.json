@@ -1,0 +1,68 @@
+{
+  "series": "tkd",
+  "name": "VICTIM",
+  "artist": "TRUE KiSS DESTiNATiON",
+  "bpm": 107,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 1.5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 2
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 4,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 0,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 2.5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 3.5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 0,
+      "level": "?"
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 1,
+      "level": 1.5
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 2,
+      "level": 2
+    },
+    {
+      "playStyle": "COUPLE",
+      "difficulty": 3,
+      "level": 4
+    }
+  ]
+}

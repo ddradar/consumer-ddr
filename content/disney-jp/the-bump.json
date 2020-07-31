@@ -1,0 +1,28 @@
+{
+  "series": "disney-jp",
+  "name": "The Bump",
+  "artist": "",
+  "bpm": 100,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 2
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 6
+    }
+  ]
+}

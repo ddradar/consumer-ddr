@@ -1,0 +1,33 @@
+{
+  "series": "club-dc",
+  "name": "Be in my paradise",
+  "artist": "JJ COMPANY",
+  "bpm": 63,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 6
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 7
+    }
+  ]
+}

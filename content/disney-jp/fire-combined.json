@@ -1,0 +1,28 @@
+{
+  "series": "disney-jp",
+  "name": "Fire",
+  "artist": "Combined",
+  "bpm": 142,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 8
+    }
+  ]
+}

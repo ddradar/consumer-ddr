@@ -1,0 +1,33 @@
+{
+  "series": "club-1",
+  "name": "PERFECT FREE",
+  "artist": "nite system",
+  "bpm": 130,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 6
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 7
+    }
+  ]
+}

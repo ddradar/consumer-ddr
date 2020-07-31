@@ -1,0 +1,33 @@
+{
+  "series": "club-1",
+  "name": "Do you love me?",
+  "artist": "reo-nagumo",
+  "bpm": 100,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 2
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 2
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "series": "3rd",
+  "name": "PUT YOUR FAITH IN ME",
+  "artist": "UZI-LAY",
+  "bpm": 119,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 6
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 5
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 3,
+      "level": 6
+    }
+  ]
+}

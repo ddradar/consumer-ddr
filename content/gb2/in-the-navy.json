@@ -1,0 +1,23 @@
+{
+  "series": "gb2",
+  "name": "IN THE NAVY '99 (XXL Disaster Remix)",
+  "artist": "CAPTAIN JACK",
+  "bpm": 135,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 8
+    }
+  ]
+}

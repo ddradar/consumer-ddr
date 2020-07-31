@@ -1,0 +1,28 @@
+{
+  "series": "disney-jp",
+  "name": "I Want You Back",
+  "artist": "",
+  "bpm": 98,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 6
+    }
+  ]
+}

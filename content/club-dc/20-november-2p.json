@@ -1,0 +1,33 @@
+{
+  "series": "club-dc",
+  "name": "20, november (CLUB 2P)",
+  "artist": "dj nagureo",
+  "bpm": 130,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 7
+    }
+  ]
+}

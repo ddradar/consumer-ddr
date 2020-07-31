@@ -1,0 +1,23 @@
+{
+  "series": "gb3",
+  "name": "WALKIE TALKIE",
+  "artist": "King Kong & D. Jungle Girls",
+  "bpm": 138,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    }
+  ]
+}

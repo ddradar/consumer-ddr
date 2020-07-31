@@ -1,0 +1,23 @@
+{
+  "series": "gb3",
+  "name": "1,2,3,4,007",
+  "artist": "NI-NI",
+  "bpm": 140,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 6
+    }
+  ]
+}
