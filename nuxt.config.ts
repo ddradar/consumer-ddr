@@ -1,10 +1,10 @@
-import { Configuration } from '@nuxt/types'
+import type { NuxtConfig } from '@nuxt/types'
 
 import pkg from './package.json'
 
 const title = 'Consumer DDR'
 
-const config: Configuration = {
+const config: NuxtConfig = {
   mode: 'universal',
   target: 'static',
   head: {
