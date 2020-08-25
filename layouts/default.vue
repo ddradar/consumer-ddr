@@ -8,9 +8,7 @@
         </b-navbar-item>
       </template>
       <template slot="start">
-        <b-navbar-item tag="nuxt-link" to="/song/">
-          Songs
-        </b-navbar-item>
+        <b-navbar-item tag="nuxt-link" to="/song/">Songs</b-navbar-item>
         <b-navbar-dropdown
           v-for="menu in menuList"
           :key="menu.title"
