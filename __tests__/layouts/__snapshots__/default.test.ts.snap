@@ -49,9 +49,7 @@ exports[`layouts/default.vue renders correctly 1`] = `
         <a
           class="navbar-item"
         >
-          
-        Songs
-      
+          Songs
         </a>
          
         <div
