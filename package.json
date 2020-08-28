@@ -29,7 +29,7 @@
     "@nuxt/typescript-runtime": "^1.0.0",
     "@nuxtjs/pwa": "^3.0.2",
     "nuxt": "^2.14.4",
-    "nuxt-buefy": "^0.3.31",
+    "nuxt-buefy": "^0.4.2",
     "nuxt-property-decorator": "^2.7.2"
   },
   "devDependencies": {
