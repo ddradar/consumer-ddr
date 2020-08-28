@@ -27,7 +27,7 @@
   "dependencies": {
     "@nuxt/content": "^1.5.3",
     "@nuxt/typescript-runtime": "^1.0.0",
-    "@nuxtjs/pwa": "^3.0.1",
+    "@nuxtjs/pwa": "^3.0.2",
     "nuxt": "^2.14.3",
     "nuxt-buefy": "^0.3.31",
     "nuxt-property-decorator": "^2.7.2"
