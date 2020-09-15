@@ -17,6 +17,7 @@ updates:
       include: scope
     labels:
       - 'dependabot:robot:'
+    open-pull-requests-limit: 10
 
   # GitHub Actions (/.github/workflows/*.yml)
   - package-ecosystem: github-actions
