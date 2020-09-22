@@ -1572,14 +1572,14 @@
     rc9 "^1.0.0"
     std-env "^2.2.1"
 
-"@nuxt/content@^1.8.1":
-  version "1.8.1"
-  resolved "https://registry.yarnpkg.com/@nuxt/content/-/content-1.8.1.tgz#c7f16d53952b39ae8cf12bb630e43e0eaaff2072"
-  integrity sha512-CvSMaxnmVIaq3bVav3IWA31I4VNjjwOuLQBIImOU8M42POt7LECTy1/iCLYjx8TyWq6SKxDGJvVnGl9PNZ8/hg==
+"@nuxt/content@^1.9.0":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@nuxt/content/-/content-1.9.0.tgz#ecdd4d0d7d6f1b54338b3f9a8c49993ecbcbeb5b"
+  integrity sha512-B22DvTtQy8EtApjzBManU2+Z39gvFEHeydzi0XPo/H2pGVnuMW4KmnrJjgnHdLNzwXacDAKpvGWEusA2JUNKqA==
   dependencies:
     "@lokidb/full-text-search" "^2.1.0"
     "@lokidb/loki" "^2.1.0"
-    "@nuxt/types" "^2.14.4"
+    "@nuxt/types" "^2.14.5"
     "@types/js-yaml" "^3.12.5"
     "@types/xml2js" "^0.4.5"
     change-case "^4.1.1"
@@ -1742,7 +1742,7 @@
     rc9 "^1.0.0"
     std-env "^2.2.1"
 
-"@nuxt/types@^2.14.4", "@nuxt/types@^2.14.6":
+"@nuxt/types@^2.14.5", "@nuxt/types@^2.14.6":
   version "2.14.6"
   resolved "https://registry.yarnpkg.com/@nuxt/types/-/types-2.14.6.tgz#0b6626acdecf83ddf1d288272f8e97d7127ac2f0"
   integrity sha512-wK2B71TkbNAWxIcxdaueMfSIubqQ1DK/Yzix1MbXMLp5JM+fQTPofU/o+PQ9cl1vESPmh79bV/PC/JHYC6xK3w==
