@@ -18,7 +18,7 @@ const localVue = createLocalVue()
 localVue.use(Buefy)
 
 describe('pages/index.vue', () => {
-  let wrapper: Wrapper<Vue>
+  let wrapper: Wrapper<Index>
   beforeEach(() => {
     wrapper = shallowMount(Index, {
       localVue,

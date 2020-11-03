@@ -23,7 +23,7 @@ const localVue = createLocalVue()
 localVue.use(Buefy)
 
 describe('pages/song/_id.vue', () => {
-  let wrapper: Wrapper<Vue>
+  let wrapper: Wrapper<SongDetail>
   const info: SongInfo = {
     slug: 'boys-smiledk',
     name: 'BOYS',
