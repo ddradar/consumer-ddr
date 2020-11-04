@@ -25,7 +25,7 @@
     "url": "git+https://github.com/ddradar/consumer-ddr.git"
   },
   "dependencies": {
-    "@nuxt/content": "^1.8.1",
+    "@nuxt/content": "^1.10.0",
     "@nuxt/typescript-runtime": "^2.0.0",
     "@nuxtjs/pwa": "^3.2.2",
     "nuxt": "^2.14.7",
