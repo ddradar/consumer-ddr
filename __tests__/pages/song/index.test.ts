@@ -19,7 +19,7 @@ const localVue = createLocalVue()
 localVue.use(Buefy)
 
 describe('pages/song/index.vue', () => {
-  let wrapper: Wrapper<Vue>
+  let wrapper: Wrapper<SongList>
   const songList: SongListData[] = [
     {
       slug: 'am-3p',

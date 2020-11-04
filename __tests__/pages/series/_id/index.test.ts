@@ -24,7 +24,7 @@ const localVue = createLocalVue()
 localVue.use(Buefy)
 
 describe('pages/series/_id/index.vue', () => {
-  let wrapper: Wrapper<Vue>
+  let wrapper: Wrapper<SeriesDetail>
   const info: Software = {
     slug: '1st-jp',
     name: 'Dance Dance Revolution',
