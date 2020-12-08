@@ -48,11 +48,11 @@ export default class DefaultLayout extends Vue {
   menuList: MenuItem[] = []
 
   async fetch() {
-    const content: Software[] = await this.$content({ deep: true })
+    const content = await this.$content({ deep: true })
       .where({ extension: { $eq: '.md' } })
-      .fetch()
+      .fetch<Software>()
 
-    this.menuList = content.reduce((prev, current) => {
+    this.menuList = [content].flat().reduce((prev, current) => {
       const element = prev.find(
         (s) => s.title === `${current.platform} (${current.region})`
       )

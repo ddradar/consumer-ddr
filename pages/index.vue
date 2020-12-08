@@ -55,12 +55,12 @@ export default class IndexPage extends Vue {
   }
 
   async asyncData({ $content }: Pick<Context, '$content'>) {
-    const rawSoftwareList: SoftListData[] = await $content({ deep: true })
+    const rawSoftwareList = await $content({ deep: true })
       .where({ extension: { $eq: '.md' } })
       .sortBy('launched')
       .without('difficultyNames')
-      .fetch()
-    const softwareList = rawSoftwareList.map((s) => {
+      .fetch<SoftListData>()
+    const softwareList = [rawSoftwareList].flat().map((s) => {
       const region =
         s.region === 'JP'
           ? '\u{1F1EF}\u{1F1F5}'
