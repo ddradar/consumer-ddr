@@ -62,11 +62,11 @@ export default class SeriesDetailPage extends Vue {
   }
 
   async asyncData({ $content }: Pick<Context, '$content'>) {
-    const songs: Omit<Song, 'charts'>[] = await $content({ deep: true })
+    const songs = await $content({ deep: true })
       .where({ extension: { $eq: '.json' } })
       .without('charts')
-      .fetch()
-    const songList = songs.reduce((prev, current) => {
+      .fetch<Omit<Song, 'charts'>>()
+    const songList = [songs].flat().reduce((prev, current) => {
       if (!prev) {
         return [
           {
@@ -90,11 +90,11 @@ export default class SeriesDetailPage extends Vue {
       return prev
     }, undefined as SongListData[] | undefined)
 
-    const seriesList: string[] = await $content({ deep: true })
+    const seriesList = (await $content({ deep: true })
       .where({ extension: { $eq: '.md' } })
       .sortBy('launched')
       .only('slug')
-      .fetch()
+      .fetch<string>()) as string[]
 
     return { songList, seriesList }
   }

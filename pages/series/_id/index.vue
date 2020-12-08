@@ -69,14 +69,14 @@ export default class SeriesDetailPage extends Vue {
   songs: SongListData[] = []
 
   async asyncData({ params, $content }: Pick<Context, 'params' | '$content'>) {
-    const info: Software = await $content(params.id, params.id)
+    const info = (await $content(params.id, params.id)
       .where({ extension: { $eq: '.md' } })
-      .fetch()
-    const rawSongs: Omit<Song, 'series'>[] = await $content(params.id)
+      .fetch<Software>()) as Software | null
+    const rawSongs = await $content(params.id)
       .where({ extension: { $eq: '.json' } })
       .without('series')
-      .fetch()
-    const songs: SongListData[] = rawSongs.map((s) => ({
+      .fetch<Omit<Song, 'series'>>()
+    const songs: SongListData[] = [rawSongs].flat().map((s) => ({
       slug: s.slug,
       name: s.name,
       artist: s.artist,

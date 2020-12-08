@@ -51,10 +51,10 @@ export default class SongDetailPage extends Vue {
   info?: SongInfo
 
   async asyncData({ params, $content }: Pick<Context, 'params' | '$content'>) {
-    const songs: Song[] = await $content({ deep: true })
+    const songs = await $content({ deep: true })
       .where({ slug: params.id })
-      .fetch()
-    const info = songs.reduce((prev, current) => {
+      .fetch<Song>()
+    const info = [songs].flat().reduce((prev, current) => {
       if (!prev) {
         return {
           name: current.name,
