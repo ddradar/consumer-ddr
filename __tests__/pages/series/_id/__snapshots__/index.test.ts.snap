@@ -173,8 +173,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               data-label="BPM"
             >
-              
-      118
+              118
     
             </td>
             <td
@@ -377,8 +376,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               data-label="BPM"
             >
-              
-      180
+              180
     
             </td>
             <td
@@ -581,8 +579,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               data-label="BPM"
             >
-              
-      160
+              160
     
             </td>
             <td
