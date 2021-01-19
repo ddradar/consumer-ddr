@@ -11,8 +11,8 @@
       <b-table-column v-slot="props" field="artist" label="Artist">
         <span>{{ props.row.artist }}</span>
       </b-table-column>
-      <b-table-column v-slot="props" field="bpm" label="BPM"
-        >{{ props.row.bpm }}
+      <b-table-column v-slot="props" field="bpm" label="BPM">
+        {{ props.row.bpm }}
       </b-table-column>
       <b-table-column
         v-for="playStyle in playStyles"
