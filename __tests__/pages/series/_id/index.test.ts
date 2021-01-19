@@ -8,8 +8,8 @@ import {
 import Buefy from 'buefy'
 
 import SeriesDetail from '~/pages/series/_id/index.vue'
-import { Software } from '~/types/software'
-import { Chart, PlayStyle, Song } from '~/types/song'
+import type { Software } from '~/types/software'
+import type { Chart, PlayStyle, Song } from '~/types/song'
 
 type ChartInfo = Pick<Chart, 'level' | 'difficulty'> & {
   color: string
@@ -17,7 +17,7 @@ type ChartInfo = Pick<Chart, 'level' | 'difficulty'> & {
 }
 
 type SongListData = Omit<Song, 'series' | 'charts'> & {
-  charts: [PlayStyle, ChartInfo[]][]
+  charts: Partial<Record<PlayStyle, ChartInfo[]>>
 }
 
 const localVue = createLocalVue()
@@ -44,178 +44,146 @@ describe('pages/series/_id/index.vue', () => {
       name: 'MAKE IT BETTER',
       artist: 'mitsu-O!',
       bpm: 118,
-      charts: [
-        [
-          'SINGLE',
-          [
-            {
-              difficulty: 1,
-              level: 5,
-              color: 'is-basic',
-              difficultyName: 'BASIC'
-            },
-            {
-              difficulty: 2,
-              level: 6,
-              color: 'is-difficult',
-              difficultyName: 'ANOTHER'
-            },
-            {
-              difficulty: 3,
-              level: 8,
-              color: 'is-expert',
-              difficultyName: 'MANIAC'
-            }
-          ]
+      charts: {
+        SINGLE: [
+          {
+            difficulty: 1,
+            level: 5,
+            color: 'is-basic',
+            difficultyName: 'BASIC'
+          },
+          {
+            difficulty: 2,
+            level: 6,
+            color: 'is-difficult',
+            difficultyName: 'ANOTHER'
+          },
+          {
+            difficulty: 3,
+            level: 8,
+            color: 'is-expert',
+            difficultyName: 'MANIAC'
+          }
         ],
-        [
-          'DOUBLE',
-          [
-            {
-              difficulty: 1,
-              level: 5,
-              color: 'is-basic',
-              difficultyName: 'BASIC'
-            },
-            {
-              difficulty: 2,
-              level: 6,
-              color: 'is-difficult',
-              difficultyName: 'ANOTHER'
-            }
-          ]
+        DOUBLE: [
+          {
+            difficulty: 1,
+            level: 5,
+            color: 'is-basic',
+            difficultyName: 'BASIC'
+          },
+          {
+            difficulty: 2,
+            level: 6,
+            color: 'is-difficult',
+            difficultyName: 'ANOTHER'
+          }
         ]
-      ]
+      }
     },
     {
       slug: 'paranoia',
       name: 'PARANOiA',
       artist: '180',
       bpm: 180,
-      charts: [
-        [
-          'SINGLE',
-          [
-            {
-              difficulty: 1,
-              level: 6,
-              color: 'is-basic',
-              difficultyName: 'BASIC'
-            },
-            {
-              difficulty: 2,
-              level: 7,
-              color: 'is-difficult',
-              difficultyName: 'ANOTHER'
-            },
-            {
-              difficulty: 3,
-              level: 8,
-              color: 'is-expert',
-              difficultyName: 'MANIAC'
-            }
-          ]
+      charts: {
+        SINGLE: [
+          {
+            difficulty: 1,
+            level: 6,
+            color: 'is-basic',
+            difficultyName: 'BASIC'
+          },
+          {
+            difficulty: 2,
+            level: 7,
+            color: 'is-difficult',
+            difficultyName: 'ANOTHER'
+          },
+          {
+            difficulty: 3,
+            level: 8,
+            color: 'is-expert',
+            difficultyName: 'MANIAC'
+          }
         ],
-        [
-          'DOUBLE',
-          [
-            {
-              difficulty: 1,
-              level: 7,
-              color: 'is-basic',
-              difficultyName: 'BASIC'
-            },
-            {
-              difficulty: 2,
-              level: 8,
-              color: 'is-difficult',
-              difficultyName: 'ANOTHER'
-            }
-          ]
+        DOUBLE: [
+          {
+            difficulty: 1,
+            level: 7,
+            color: 'is-basic',
+            difficultyName: 'BASIC'
+          },
+          {
+            difficulty: 2,
+            level: 8,
+            color: 'is-difficult',
+            difficultyName: 'ANOTHER'
+          }
         ]
-      ]
+      }
     },
     {
       slug: 'trip-machine',
       name: 'TRIP MACHINE',
       artist: 'DE-SIRE',
       bpm: 160,
-      charts: [
-        [
-          'SINGLE',
-          [
-            {
-              difficulty: 1,
-              level: 6,
-              color: 'is-basic',
-              difficultyName: 'BASIC'
-            },
-            {
-              difficulty: 2,
-              level: 7,
-              color: 'is-difficult',
-              difficultyName: 'ANOTHER'
-            },
-            {
-              difficulty: 3,
-              level: 8,
-              color: 'is-expert',
-              difficultyName: 'MANIAC'
-            }
-          ]
+      charts: {
+        SINGLE: [
+          {
+            difficulty: 1,
+            level: 6,
+            color: 'is-basic',
+            difficultyName: 'BASIC'
+          },
+          {
+            difficulty: 2,
+            level: 7,
+            color: 'is-difficult',
+            difficultyName: 'ANOTHER'
+          },
+          {
+            difficulty: 3,
+            level: 8,
+            color: 'is-expert',
+            difficultyName: 'MANIAC'
+          }
         ],
-        [
-          'DOUBLE',
-          [
-            {
-              difficulty: 1,
-              level: 7,
-              color: 'is-basic',
-              difficultyName: 'BASIC'
-            },
-            {
-              difficulty: 2,
-              level: 8,
-              color: 'is-difficult',
-              difficultyName: 'ANOTHER'
-            }
-          ]
+        DOUBLE: [
+          {
+            difficulty: 1,
+            level: 7,
+            color: 'is-basic',
+            difficultyName: 'BASIC'
+          },
+          {
+            difficulty: 2,
+            level: 8,
+            color: 'is-difficult',
+            difficultyName: 'ANOTHER'
+          }
         ]
-      ]
+      }
     }
   ]
+  const playStyles: PlayStyle[] = ['SINGLE', 'DOUBLE']
+  const data = () => ({ info, songs, playStyles })
+  const stubs = { NuxtLink: RouterLinkStub }
 
   beforeEach(() => {
-    wrapper = shallowMount(SeriesDetail, {
-      localVue,
-      data: () => ({ info, songs }),
-      stubs: {
-        NuxtLink: RouterLinkStub
-      }
-    })
+    wrapper = shallowMount(SeriesDetail, { localVue, data, stubs })
   })
 
-  test('renders correctly', () => {
+  test('renders correctly', async () => {
     // Arrange - Act
-    const wrapper = mount(SeriesDetail, {
-      localVue,
-      data: () => ({ info, songs }),
-      stubs: {
-        NuxtLink: RouterLinkStub
-      }
-    })
+    const wrapper = mount(SeriesDetail, { localVue, data, stubs })
+    await wrapper.vm.$nextTick()
 
     // Assert
     expect(wrapper.element).toMatchSnapshot()
   })
   test('renders blank', () => {
-    const wrapper = shallowMount(SeriesDetail, {
-      localVue,
-      data: () => ({ info: undefined }),
-      stubs: {
-        NuxtLink: RouterLinkStub
-      }
-    })
+    const wrapper = shallowMount(SeriesDetail, { localVue, stubs })
     expect(wrapper.html()).toBe('')
   })
 

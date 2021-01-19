@@ -19,17 +19,13 @@ localVue.use(Buefy)
 
 describe('pages/index.vue', () => {
   let wrapper: Wrapper<Index>
+  const stubs = { NuxtLink: RouterLinkStub }
   beforeEach(() => {
-    wrapper = shallowMount(Index, {
-      localVue,
-      stubs: {
-        NuxtLink: RouterLinkStub
-      }
-    })
+    wrapper = shallowMount(Index, { localVue, stubs })
   })
 
-  test('renders correctly', () => {
-    // Arrange
+  test('renders correctly', async () => {
+    // Arrange - Act
     const softwareList: SoftListData[] = [
       {
         slug: '1st-jp',
@@ -46,13 +42,9 @@ describe('pages/index.vue', () => {
         launched: '1999-08-26'
       }
     ]
-    const wrapper = mount(Index, {
-      localVue,
-      stubs: {
-        NuxtLink: RouterLinkStub
-      },
-      data: () => ({ softwareList })
-    })
+    const data = () => ({ softwareList })
+    const wrapper = mount(Index, { localVue, stubs, data })
+    await wrapper.vm.$nextTick()
 
     // Assert
     expect(wrapper.element).toMatchSnapshot()

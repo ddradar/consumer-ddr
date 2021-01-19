@@ -58,32 +58,20 @@ describe('pages/song/_id.vue', () => {
       }
     ]
   }
+  const stubs = { NuxtLink: RouterLinkStub }
+  const data = () => ({ info })
 
   beforeEach(() => {
-    wrapper = shallowMount(SongDetail, {
-      localVue,
-      data: () => ({ info }),
-      stubs: {
-        NuxtLink: RouterLinkStub
-      }
-    })
+    wrapper = shallowMount(SongDetail, { localVue, data, stubs })
   })
 
-  test('renders correctly', () => {
-    const wrapper = mount(SongDetail, {
-      localVue,
-      data: () => ({ info }),
-      stubs: {
-        NuxtLink: RouterLinkStub
-      }
-    })
+  test('renders correctly', async () => {
+    const wrapper = mount(SongDetail, { localVue, data, stubs })
+    await wrapper.vm.$nextTick()
     expect(wrapper.element).toMatchSnapshot()
   })
   test('renders blank', () => {
-    const wrapper = shallowMount(SongDetail, {
-      localVue,
-      data: () => ({ info: undefined })
-    })
+    const wrapper = shallowMount(SongDetail, { localVue })
     expect(wrapper.html()).toBe('')
   })
 

@@ -37,26 +37,17 @@ describe('pages/song/index.vue', () => {
     }
   ]
   const seriesList = ['1st-jp', '2nd-remix-jp']
+  const stubs = { NuxtLink: RouterLinkStub }
+  const data = () => ({ songList, seriesList })
 
   beforeEach(() => {
-    wrapper = shallowMount(SongList, {
-      localVue,
-      stubs: {
-        NuxtLink: RouterLinkStub
-      },
-      data: () => ({ songList, seriesList })
-    })
+    wrapper = shallowMount(SongList, { localVue, stubs, data })
   })
 
-  test('renders correctly', () => {
+  test('renders correctly', async () => {
     // Arrange - Act
-    const wrapper = mount(SongList, {
-      localVue,
-      stubs: {
-        NuxtLink: RouterLinkStub
-      },
-      data: () => ({ songList, seriesList })
-    })
+    const wrapper = mount(SongList, { localVue, stubs, data })
+    await wrapper.vm.$nextTick()
 
     // Assert
     expect(wrapper.element).toMatchSnapshot()
