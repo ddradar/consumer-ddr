@@ -1,36 +1,35 @@
 <template>
   <section class="section">
     <h1 class="title">Song List</h1>
-    <b-table :data="songList" per-page="20" striped narrowed paginated>
-      <template slot-scope="props">
-        <b-table-column field="name" label="Name" searchable>
-          <nuxt-link class="is-size-6-mobile" :to="`/song/${props.row.slug}/`">
-            {{ props.row.name }}
-          </nuxt-link>
-        </b-table-column>
-        <b-table-column field="artist" label="Artist" searchable>
-          <span class="is-size-6-mobile">{{ props.row.artist }}</span>
-        </b-table-column>
-        <b-table-column field="bpm" label="BPM">
-          {{ props.row.bpm }}
-        </b-table-column>
-        <b-table-column label="Series">
-          <div class="buttons">
-            <b-button
-              v-for="id in props.row.seriesList"
-              :key="id"
-              tag="nuxt-link"
-              size="is-small"
-              :class="getClass(id)"
-              :to="`/series/${id}/`"
-            >
-              {{ id }}
-            </b-button>
-          </div>
-        </b-table-column>
-      </template>
 
-      <template slot="empty">
+    <b-table :data="songList" per-page="20" striped narrowed paginated>
+      <b-table-column v-slot="props" field="name" label="Name" searchable>
+        <nuxt-link class="is-size-6-mobile" :to="`/song/${props.row.slug}/`">
+          {{ props.row.name }}
+        </nuxt-link>
+      </b-table-column>
+      <b-table-column v-slot="props" field="artist" label="Artist" searchable>
+        <span class="is-size-6-mobile">{{ props.row.artist }}</span>
+      </b-table-column>
+      <b-table-column v-slot="props" field="bpm" label="BPM">
+        {{ props.row.bpm }}
+      </b-table-column>
+      <b-table-column v-slot="props" label="Series">
+        <div class="buttons">
+          <b-button
+            v-for="id in props.row.seriesList"
+            :key="id"
+            tag="nuxt-link"
+            size="is-small"
+            :class="getClass(id)"
+            :to="`/series/${id}/`"
+          >
+            {{ id }}
+          </b-button>
+        </div>
+      </b-table-column>
+
+      <template #empty>
         <section class="section">
           <div class="content has-text-grey has-text-centered">
             <p>Nothing here.</p>

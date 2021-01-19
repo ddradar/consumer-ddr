@@ -1,27 +1,27 @@
 <template>
   <section class="section">
     <b-table :data="softwareList" striped narrowed>
-      <template slot-scope="props">
-        <b-table-column field="name" label="Name" searchable>
-          <nuxt-link
-            class="is-size-6-mobile"
-            :to="`/series/${props.row.slug}/`"
-          >
-            {{ props.row.name }}
-          </nuxt-link>
-        </b-table-column>
-        <b-table-column field="platform" label="Platform" searchable>
-          <span>
-            {{ props.row.platform }}
-            {{ props.row.region }}
-          </span>
-        </b-table-column>
-        <b-table-column field="launched" label="Launched">
-          {{ props.row.launched }}
-        </b-table-column>
-      </template>
+      <b-table-column v-slot="props" field="name" label="Name" searchable>
+        <nuxt-link class="is-size-6-mobile" :to="`/series/${props.row.slug}/`">
+          {{ props.row.name }}
+        </nuxt-link>
+      </b-table-column>
+      <b-table-column
+        v-slot="props"
+        field="platform"
+        label="Platform"
+        searchable
+      >
+        <span>
+          {{ props.row.platform }}
+          {{ props.row.region }}
+        </span>
+      </b-table-column>
+      <b-table-column v-slot="props" field="launched" label="Launched">
+        {{ props.row.launched }}
+      </b-table-column>
 
-      <template slot="empty">
+      <template #empty>
         <section class="section">
           <div class="content has-text-grey has-text-centered">
             <p>Nothing here.</p>

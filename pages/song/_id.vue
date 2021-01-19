@@ -15,17 +15,15 @@
       </b-button>
     </div>
     <b-table :data="info.charts" striped>
-      <template slot-scope="props">
-        <b-table-column field="playStyle" label="PlayStyle">
-          {{ props.row.playStyle }}
-        </b-table-column>
-        <b-table-column field="difficulty" label="Difficulty">
-          {{ props.row.difficulty }}
-        </b-table-column>
-        <b-table-column field="level" label="Level">
-          {{ Object.values(props.row.levels).join(', ') }}
-        </b-table-column>
-      </template>
+      <b-table-column v-slot="props" field="playStyle" label="PlayStyle">
+        {{ props.row.playStyle }}
+      </b-table-column>
+      <b-table-column v-slot="props" field="difficulty" label="Difficulty">
+        {{ props.row.difficulty }}
+      </b-table-column>
+      <b-table-column v-slot="props" field="level" label="Level">
+        {{ Object.values(props.row.levels).join(', ') }}
+      </b-table-column>
     </b-table>
   </section>
 </template>
@@ -48,7 +46,7 @@ type SongInfo = Omit<Song, 'series' | 'charts'> & {
 
 @Component
 export default class SongDetailPage extends Vue {
-  info?: SongInfo
+  info: SongInfo | null = null
 
   async asyncData({ params, $content }: Pick<Context, 'params' | '$content'>) {
     const songs = await $content({ deep: true })
