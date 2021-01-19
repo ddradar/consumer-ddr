@@ -30,11 +30,9 @@ exports[`layouts/default.vue renders correctly 1`] = `
         <span
           aria-hidden="true"
         />
-         
         <span
           aria-hidden="true"
         />
-         
         <span
           aria-hidden="true"
         />
@@ -63,7 +61,6 @@ exports[`layouts/default.vue renders correctly 1`] = `
           >
             Play Station (JP)
           </a>
-           
           <div
             class="navbar-dropdown"
           >
@@ -94,7 +91,6 @@ exports[`layouts/default.vue renders correctly 1`] = `
           >
             GAME BOY COLOR
           </a>
-           
           <div
             class="navbar-dropdown"
           >
@@ -118,7 +114,6 @@ exports[`layouts/default.vue renders correctly 1`] = `
           >
             Play Station 2 (US)
           </a>
-           
           <div
             class="navbar-dropdown"
           >
