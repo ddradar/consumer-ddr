@@ -67,6 +67,7 @@ exports[`pages/song/_id.vue renders correctly 1`] = `
             <!---->
             <th
               class=""
+              draggable="false"
             >
               <div
                 class="th-wrap"
@@ -87,6 +88,7 @@ exports[`pages/song/_id.vue renders correctly 1`] = `
             </th>
             <th
               class=""
+              draggable="false"
             >
               <div
                 class="th-wrap"
@@ -107,6 +109,7 @@ exports[`pages/song/_id.vue renders correctly 1`] = `
             </th>
             <th
               class=""
+              draggable="false"
             >
               <div
                 class="th-wrap"
@@ -163,7 +166,11 @@ exports[`pages/song/_id.vue renders correctly 1`] = `
             </td>
             <!---->
           </tr>
-          <!---->
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
           <!---->
           <tr
             class=""
@@ -197,7 +204,11 @@ exports[`pages/song/_id.vue renders correctly 1`] = `
             </td>
             <!---->
           </tr>
-          <!---->
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
           <!---->
           <tr
             class=""
@@ -231,7 +242,11 @@ exports[`pages/song/_id.vue renders correctly 1`] = `
             </td>
             <!---->
           </tr>
-          <!---->
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
           <!---->
           <tr
             class=""
@@ -265,7 +280,11 @@ exports[`pages/song/_id.vue renders correctly 1`] = `
             </td>
             <!---->
           </tr>
-          <!---->
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
           <!---->
           <tr
             class=""
@@ -299,7 +318,11 @@ exports[`pages/song/_id.vue renders correctly 1`] = `
             </td>
             <!---->
           </tr>
-          <!---->
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
           <!---->
           <!---->
         </tbody>
