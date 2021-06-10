@@ -53,6 +53,7 @@
     "vue-jest": "^4.0.1"
   },
   "resolutions": {
-    "@types/webpack": "^4"
+    "@types/webpack": "^4",
+    "sass-loader": "^10.2.0"
   }
 }
