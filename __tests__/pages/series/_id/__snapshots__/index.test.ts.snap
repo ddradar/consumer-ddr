@@ -35,6 +35,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
       <table
         class="table is-striped is-narrow"
       >
+        <!---->
         <thead>
           <tr>
             <!---->

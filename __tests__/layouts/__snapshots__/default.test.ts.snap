@@ -56,7 +56,6 @@ exports[`layouts/default.vue renders correctly 1`] = `
           <a
             aria-haspopup="true"
             class="navbar-link"
-            href="#"
             role="menuitem"
           >
             Play Station (JP)
@@ -86,7 +85,6 @@ exports[`layouts/default.vue renders correctly 1`] = `
           <a
             aria-haspopup="true"
             class="navbar-link"
-            href="#"
             role="menuitem"
           >
             GAME BOY COLOR
@@ -109,7 +107,6 @@ exports[`layouts/default.vue renders correctly 1`] = `
           <a
             aria-haspopup="true"
             class="navbar-link"
-            href="#"
             role="menuitem"
           >
             Play Station 2 (US)
