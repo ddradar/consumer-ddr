@@ -61,6 +61,7 @@ exports[`pages/song/_id.vue renders correctly 1`] = `
       <table
         class="table is-striped"
       >
+        <!---->
         <thead>
           <tr>
             <!---->

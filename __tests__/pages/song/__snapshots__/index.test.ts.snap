@@ -28,6 +28,7 @@ exports[`pages/song/index.vue renders correctly 1`] = `
       <table
         class="table is-striped is-narrow"
       >
+        <!---->
         <thead>
           <tr>
             <!---->
