@@ -7,8 +7,7 @@ updates:
   - package-ecosystem: npm
     directory: '/'
     schedule:
-      interval: weekly
-      day: tuesday
+      interval: monthly
       time: '08:00'
       timezone: Japan
     commit-message:
@@ -23,8 +22,7 @@ updates:
   - package-ecosystem: github-actions
     directory: '/'
     schedule:
-      interval: weekly
-      day: tuesday
+      interval: monthly
       time: '08:00'
       timezone: Japan
     commit-message:
