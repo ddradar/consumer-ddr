@@ -1323,10 +1323,10 @@
     std-env "^2.3.0"
     ufo "^0.7.4"
 
-"@nuxt/content@^1.15.0":
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/@nuxt/content/-/content-1.15.0.tgz#5e15d5d0012e95be60e1904f25cbe909b29404f6"
-  integrity sha512-F3znlZUOSKPse6G+qR6eGEIU3vzfXzfc5WnWwA94kfM5+dz7IkP6Hwyj8FTUyW7HfmvQIf6Nc2sNm5obKgNgtA==
+"@nuxt/content@^1.15.1":
+  version "1.15.1"
+  resolved "https://registry.yarnpkg.com/@nuxt/content/-/content-1.15.1.tgz#bd2c7ff9e9523b6a6a3f4edaec78495acc72a41e"
+  integrity sha512-nCTKwNcs59KgwwGQkSW8Z/otoiYX+OKDBjdOLn7tty3WdEfPQYcEkTX6WKP5IVYI976FihZExppRiezkm2N0mQ==
   dependencies:
     "@lokidb/full-text-search" "^2.1.0"
     "@lokidb/loki" "^2.1.0"
@@ -8119,7 +8119,7 @@ object-copy@^0.1.0:
     define-property "^0.2.5"
     kind-of "^3.0.3"
 
-object-inspect@^1.9.0, object-inspect@^1.11.0:
+object-inspect@^1.11.0, object-inspect@^1.9.0:
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.11.0.tgz#9dceb146cedd4148a0d9e51ab88d34cf509922b1"
   integrity sha512-jp7ikS6Sd3GxQfZJPyH3cjcbJF6GZPClgdV+EFygjFLQ5FmW/dRUnTd9PQ9k0JhoNDabWFbpF1yCdSWCC6gexg==
