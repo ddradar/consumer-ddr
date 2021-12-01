@@ -23,7 +23,7 @@
     "url": "git+https://github.com/ddradar/consumer-ddr.git"
   },
   "dependencies": {
-    "@nuxt/content": "^1.15.0",
+    "@nuxt/content": "^1.15.1",
     "@nuxtjs/pwa": "^3.3.5",
     "nuxt": "^2.15.8",
     "nuxt-buefy": "^0.4.10",
