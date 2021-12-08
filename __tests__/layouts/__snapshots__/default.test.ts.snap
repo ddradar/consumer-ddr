@@ -26,6 +26,7 @@ exports[`layouts/default.vue renders correctly 1`] = `
         aria-label="menu"
         class="navbar-burger burger"
         role="button"
+        tabindex="0"
       >
         <span
           aria-hidden="true"
@@ -56,7 +57,7 @@ exports[`layouts/default.vue renders correctly 1`] = `
           <a
             aria-haspopup="true"
             class="navbar-link"
-            role="menuitem"
+            tabindex="0"
           >
             Play Station (JP)
           </a>
@@ -85,7 +86,7 @@ exports[`layouts/default.vue renders correctly 1`] = `
           <a
             aria-haspopup="true"
             class="navbar-link"
-            role="menuitem"
+            tabindex="0"
           >
             GAME BOY COLOR
           </a>
@@ -107,7 +108,7 @@ exports[`layouts/default.vue renders correctly 1`] = `
           <a
             aria-haspopup="true"
             class="navbar-link"
-            role="menuitem"
+            tabindex="0"
           >
             Play Station 2 (US)
           </a>

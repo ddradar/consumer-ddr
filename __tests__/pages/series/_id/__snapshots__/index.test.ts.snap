@@ -193,6 +193,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-basic"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -223,6 +224,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-difficult"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -253,6 +255,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-expert"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -292,6 +295,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-basic"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -322,6 +326,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-difficult"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -401,6 +406,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-basic"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -431,6 +437,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-difficult"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -461,6 +468,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-expert"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -500,6 +508,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-basic"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -530,6 +539,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-difficult"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -609,6 +619,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-basic"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -639,6 +650,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-difficult"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -669,6 +681,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-expert"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -708,6 +721,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-basic"
                 >
+                  <!---->
                   <span
                     class=""
                   >
@@ -738,6 +752,7 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
                 <span
                   class="tag is-difficult"
                 >
+                  <!---->
                   <span
                     class=""
                   >
