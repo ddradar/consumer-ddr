@@ -378,6 +378,11 @@ exports[`pages/song/index.vue renders correctly 1`] = `
                 />
               </span>
             </a>
+            <div
+              class="control pagination-input"
+            >
+              <!---->
+            </div>
             <ul
               class="pagination-list"
             >
