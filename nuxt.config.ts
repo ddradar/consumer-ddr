@@ -52,7 +52,9 @@ const config: NuxtConfig = {
     // Doc: https://content.nuxtjs.org/
     '@nuxt/content',
     // Doc: https://pwa.nuxtjs.org/
-    '@nuxtjs/pwa'
+    '@nuxtjs/pwa',
+    // Doc: https://oruga.io/documentation/
+    '@oruga-ui/oruga/nuxt'
   ]
 }
 
