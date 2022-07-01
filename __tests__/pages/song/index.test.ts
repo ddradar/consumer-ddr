@@ -1,13 +1,7 @@
-import {
-  createLocalVue,
-  mount,
-  RouterLinkStub,
-  shallowMount,
-  Wrapper
-} from '@vue/test-utils'
-import Buefy from 'buefy'
+import { mount, RouterLinkStub, shallowMount, Wrapper } from '@vue/test-utils'
 import { MetaInfo } from 'vue-meta'
 
+import { createVue } from '~/__tests__/utils'
 import SongList from '~/pages/song/index.vue'
 import { Song } from '~/types/song'
 
@@ -15,8 +9,7 @@ type SongListData = Omit<Song, 'series' | 'charts'> & {
   seriesList: string[]
 }
 
-const localVue = createLocalVue()
-localVue.use(Buefy)
+const localVue = createVue()
 
 describe('pages/song/index.vue', () => {
   let wrapper: Wrapper<SongList>
