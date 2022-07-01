@@ -1,12 +1,12 @@
 <template>
   <section class="section">
-    <b-table :data="softwareList" striped narrowed>
-      <b-table-column v-slot="props" field="name" label="Name" searchable>
+    <o-table :data="softwareList" striped narrowed>
+      <o-table-column v-slot="props" field="name" label="Name" searchable>
         <nuxt-link class="is-size-6-mobile" :to="`/series/${props.row.slug}/`">
           {{ props.row.name }}
         </nuxt-link>
-      </b-table-column>
-      <b-table-column
+      </o-table-column>
+      <o-table-column
         v-slot="props"
         field="platform"
         label="Platform"
@@ -16,10 +16,10 @@
           {{ props.row.platform }}
           {{ props.row.region }}
         </span>
-      </b-table-column>
-      <b-table-column v-slot="props" field="launched" label="Launched">
+      </o-table-column>
+      <o-table-column v-slot="props" field="launched" label="Launched">
         {{ props.row.launched }}
-      </b-table-column>
+      </o-table-column>
 
       <template #empty>
         <section class="section">
@@ -28,7 +28,7 @@
           </div>
         </section>
       </template>
-    </b-table>
+    </o-table>
   </section>
 </template>
 

@@ -13,17 +13,29 @@ exports[`pages/song/index.vue renders correctly 1`] = `
   <div
     class="b-table"
   >
-    <!---->
-     
-    <!---->
-     
-    <!---->
-     
-    <!---->
+    <div
+      style="display: none;"
+    >
+      <span>
+        Name
+      </span>
+       
+      <span>
+        Artist
+      </span>
+       
+      <span>
+        BPM
+      </span>
+       
+      <span>
+        Series
+      </span>
+    </div>
     <!---->
     <!---->
     <div
-      class="table-wrapper has-mobile-cards"
+      class="table-wrapper"
     >
       <table
         class="table is-striped is-narrow"
@@ -37,89 +49,84 @@ exports[`pages/song/index.vue renders correctly 1`] = `
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 Name 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   Name 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <th
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 Artist 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   Artist 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <th
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 BPM 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   BPM 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <th
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 Series 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   Series 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <!---->
           </tr>
-          <!---->
           <tr>
             <!---->
             <!---->
@@ -127,48 +134,15 @@ exports[`pages/song/index.vue renders correctly 1`] = `
               class=""
             >
               <div
-                class="th-wrap"
+                class="control"
               >
-                <div
-                  class="control is-clearfix"
-                >
-                  <input
-                    autocomplete="on"
-                    class="input"
-                    type="text"
-                  />
-                  <!---->
-                  <!---->
-                  <!---->
-                </div>
-              </div>
-            </th>
-            <th
-              class=""
-            >
-              <div
-                class="th-wrap"
-              >
-                <div
-                  class="control is-clearfix"
-                >
-                  <input
-                    autocomplete="on"
-                    class="input"
-                    type="text"
-                  />
-                  <!---->
-                  <!---->
-                  <!---->
-                </div>
-              </div>
-            </th>
-            <th
-              class=""
-            >
-              <div
-                class="th-wrap"
-              >
+                <input
+                  autocomplete="off"
+                  class="input"
+                  type="text"
+                />
+                <!---->
+                <!---->
                 <!---->
               </div>
             </th>
@@ -176,13 +150,31 @@ exports[`pages/song/index.vue renders correctly 1`] = `
               class=""
             >
               <div
-                class="th-wrap"
+                class="control"
               >
+                <input
+                  autocomplete="off"
+                  class="input"
+                  type="text"
+                />
+                <!---->
+                <!---->
                 <!---->
               </div>
+            </th>
+            <th
+              class=""
+            >
+              <!---->
+            </th>
+            <th
+              class=""
+            >
+              <!---->
             </th>
             <!---->
           </tr>
+          <!---->
         </thead>
         <tbody>
           <tr
@@ -231,13 +223,19 @@ exports[`pages/song/index.vue renders correctly 1`] = `
                 <a
                   class="button is-small is-success"
                 >
-                  <!---->
-                  <span>
-                    
+                  <span
+                    class="button-wrapper"
+                  >
+                    <!---->
+                    <span
+                      class=""
+                    >
+                      
           2nd-remix-jp
         
+                    </span>
+                    <!---->
                   </span>
-                  <!---->
                 </a>
               </div>
             </td>
@@ -295,24 +293,36 @@ exports[`pages/song/index.vue renders correctly 1`] = `
                 <a
                   class="button is-small is-info"
                 >
-                  <!---->
-                  <span>
-                    
+                  <span
+                    class="button-wrapper"
+                  >
+                    <!---->
+                    <span
+                      class=""
+                    >
+                      
           1st-jp
         
+                    </span>
+                    <!---->
                   </span>
-                  <!---->
                 </a>
                 <a
                   class="button is-small is-success"
                 >
-                  <!---->
-                  <span>
-                    
+                  <span
+                    class="button-wrapper"
+                  >
+                    <!---->
+                    <span
+                      class=""
+                    >
+                      
           2nd-remix-jp
         
+                    </span>
+                    <!---->
                   </span>
-                  <!---->
                 </a>
               </div>
             </td>
@@ -328,26 +338,23 @@ exports[`pages/song/index.vue renders correctly 1`] = `
         </tbody>
         <!---->
       </table>
-      <!---->
+      <transition-stub
+        name="fade"
+      >
+        <!---->
+      </transition-stub>
     </div>
     <div
-      class="top level"
+      class="level"
     >
-      <div
-        class="level-left"
-      />
-      <div
-        class="level-right"
-      >
-        <div
-          class="level-item"
-        >
+      <div />
+      <div>
+        <div>
           <nav
             class="pagination"
           >
             <a
-              class="pagination-link pagination-previous"
-              disabled="disabled"
+              class="pagination-link pagination-previous is-disabled"
               href="#"
               role="button"
             >
@@ -361,8 +368,7 @@ exports[`pages/song/index.vue renders correctly 1`] = `
               </span>
             </a>
             <a
-              class="pagination-link pagination-next"
-              disabled="disabled"
+              class="pagination-link pagination-next is-disabled"
               href="#"
               role="button"
             >
@@ -375,11 +381,6 @@ exports[`pages/song/index.vue renders correctly 1`] = `
                 />
               </span>
             </a>
-            <div
-              class="control pagination-input"
-            >
-              <!---->
-            </div>
             <ul
               class="pagination-list"
             >
@@ -388,7 +389,7 @@ exports[`pages/song/index.vue renders correctly 1`] = `
               <li>
                 <a
                   aria-current="true"
-                  class="pagination-link is-current "
+                  class="pagination-link is-current"
                   href="#"
                   role="button"
                 >

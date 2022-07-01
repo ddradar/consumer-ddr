@@ -7,15 +7,25 @@ exports[`pages/index.vue renders correctly 1`] = `
   <div
     class="b-table"
   >
-    <!---->
-     
-    <!---->
-     
-    <!---->
+    <div
+      style="display: none;"
+    >
+      <span>
+        Name
+      </span>
+       
+      <span>
+        Platform
+      </span>
+       
+      <span>
+        Launched
+      </span>
+    </div>
     <!---->
     <!---->
     <div
-      class="table-wrapper has-mobile-cards"
+      class="table-wrapper"
     >
       <table
         class="table is-striped is-narrow"
@@ -29,68 +39,64 @@ exports[`pages/index.vue renders correctly 1`] = `
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 Name 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   Name 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <th
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 Platform 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   Platform 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <th
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 Launched 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   Launched 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <!---->
           </tr>
-          <!---->
           <tr>
             <!---->
             <!---->
@@ -98,53 +104,42 @@ exports[`pages/index.vue renders correctly 1`] = `
               class=""
             >
               <div
-                class="th-wrap"
+                class="control"
               >
-                <div
-                  class="control is-clearfix"
-                >
-                  <input
-                    autocomplete="on"
-                    class="input"
-                    type="text"
-                  />
-                  <!---->
-                  <!---->
-                  <!---->
-                </div>
-              </div>
-            </th>
-            <th
-              class=""
-            >
-              <div
-                class="th-wrap"
-              >
-                <div
-                  class="control is-clearfix"
-                >
-                  <input
-                    autocomplete="on"
-                    class="input"
-                    type="text"
-                  />
-                  <!---->
-                  <!---->
-                  <!---->
-                </div>
-              </div>
-            </th>
-            <th
-              class=""
-            >
-              <div
-                class="th-wrap"
-              >
+                <input
+                  autocomplete="off"
+                  class="input"
+                  type="text"
+                />
+                <!---->
+                <!---->
                 <!---->
               </div>
             </th>
+            <th
+              class=""
+            >
+              <div
+                class="control"
+              >
+                <input
+                  autocomplete="off"
+                  class="input"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </th>
+            <th
+              class=""
+            >
+              <!---->
+            </th>
             <!---->
           </tr>
+          <!---->
         </thead>
         <tbody>
           <tr
@@ -241,7 +236,11 @@ exports[`pages/index.vue renders correctly 1`] = `
         </tbody>
         <!---->
       </table>
-      <!---->
+      <transition-stub
+        name="fade"
+      >
+        <!---->
+      </transition-stub>
     </div>
     <!---->
   </div>

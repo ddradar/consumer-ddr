@@ -3,28 +3,28 @@
     <h1 class="title">{{ info.name }} / {{ info.artist }}</h1>
     <h2 class="subtitle">BPM {{ info.bpm }}</h2>
     <div class="buttons">
-      <b-button
+      <o-button
         v-for="id in info.seriesList"
         :key="id"
         tag="nuxt-link"
-        size="is-small"
-        :class="getClass(id)"
+        size="small"
+        :variant="getClass(id)"
         :to="`/series/${id}/`"
       >
         {{ id }}
-      </b-button>
+      </o-button>
     </div>
-    <b-table :data="info.charts" striped>
-      <b-table-column v-slot="props" field="playStyle" label="PlayStyle">
+    <o-table :data="info.charts" striped>
+      <o-table-column v-slot="props" field="playStyle" label="PlayStyle">
         {{ props.row.playStyle }}
-      </b-table-column>
-      <b-table-column v-slot="props" field="difficulty" label="Difficulty">
+      </o-table-column>
+      <o-table-column v-slot="props" field="difficulty" label="Difficulty">
         {{ props.row.difficulty }}
-      </b-table-column>
-      <b-table-column v-slot="props" field="level" label="Level">
+      </o-table-column>
+      <o-table-column v-slot="props" field="level" label="Level">
         {{ Object.values(props.row.levels).join(', ') }}
-      </b-table-column>
-    </b-table>
+      </o-table-column>
+    </o-table>
   </section>
 </template>
 
@@ -100,13 +100,7 @@ export default class SongDetailPage extends Vue {
 
   getClass(id: string) {
     const index = this.info!.seriesList.findIndex((s) => s === id)
-    const classList = [
-      'is-info',
-      'is-success',
-      'is-danger',
-      'is-warning',
-      'is-dark'
-    ]
+    const classList = ['info', 'success', 'danger', 'warning', 'dark']
     return classList[index % classList.length]
   }
 }
