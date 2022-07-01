@@ -230,7 +230,6 @@ exports[`pages/song/index.vue renders correctly 1`] = `
               >
                 <a
                   class="button is-small is-success"
-                  type="button"
                 >
                   <!---->
                   <span>
@@ -295,7 +294,6 @@ exports[`pages/song/index.vue renders correctly 1`] = `
               >
                 <a
                   class="button is-small is-info"
-                  type="button"
                 >
                   <!---->
                   <span>
@@ -307,7 +305,6 @@ exports[`pages/song/index.vue renders correctly 1`] = `
                 </a>
                 <a
                   class="button is-small is-success"
-                  type="button"
                 >
                   <!---->
                   <span>
