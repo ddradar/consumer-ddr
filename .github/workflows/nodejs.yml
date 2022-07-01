@@ -14,20 +14,21 @@ on:
       - '**'
       - '!**.md' # Exclude Markdown
 
+env:
+  NODE_VERSION: 12
+
 jobs:
   build:
     name: Build & Test
     runs-on: ubuntu-latest
-    env:
-      CI: true
     steps:
       # Setup Environment
       - name: Checkout
         uses: actions/checkout@v3.0.2
-      - name: Setup Node.js 12
+      - name: Setup Node.js ${{ env.NODE_VERSION }}
         uses: actions/setup-node@v3.3.0
         with:
-          node-version: 12
+          node-version: ${{ env.NODE_VERSION }}
           cache: yarn
 
       - name: Install Dependencies
@@ -54,8 +55,6 @@ jobs:
     needs: [build]
     if: github.event_name == 'push' && contains(github.ref, 'tags/v') # works only version tagged
     runs-on: ubuntu-latest
-    env:
-      CI: true
     steps:
       - name: Download Production Artifact
         uses: actions/download-artifact@v3.0.0
