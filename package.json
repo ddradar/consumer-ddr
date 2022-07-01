@@ -15,7 +15,7 @@
     "lint": "run-p lint:*",
     "lint:eslint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore .",
     "lint:prettier": "prettier --ignore-path .gitignore -l \"**/*.{js,ts,vue,json,yaml,yml}\"",
-    "lint:tsc": "tsc --noEmit",
+    "lint:tsc": "vue-tsc --noEmit",
     "test": "jest"
   },
   "repository": {
@@ -51,7 +51,8 @@
     "sass": "^1.53.0",
     "sass-loader": "^10.3.0",
     "ts-jest": "^27.1.4",
-    "ts-node": "^10.8.1"
+    "ts-node": "^10.8.1",
+    "vue-tsc": "^0.38.2"
   },
   "resolutions": {
     "@types/webpack": "^4",
