@@ -4,15 +4,9 @@ on:
   push:
     branches:
       - master
-    tags:
-      - v*
-    paths:
-      - '**'
-      - '!**.md' # Exclude Markdown
   pull_request:
-    paths:
-      - '**'
-      - '!**.md' # Exclude Markdown
+  release:
+    types: [published]
 
 env:
   NODE_VERSION: 12
@@ -21,6 +15,7 @@ jobs:
   lint:
     name: Lint
     runs-on: ubuntu-latest
+    if: github.event_name == 'push' || github.event_name == 'pull_request'
     steps:
       - uses: actions/checkout@v3.0.2
       - name: Setup Node.js ${{ env.NODE_VERSION }}
@@ -53,7 +48,7 @@ jobs:
         run: yarn build
 
       - name: Archive Production Artifact
-        if: ${{ always() }} && contains(github.ref, 'tags/v') # works only version tagged
+        if: github.event_name == 'release'
         uses: actions/upload-artifact@v3.1.0
         with:
           name: dist
@@ -62,6 +57,7 @@ jobs:
   test:
     name: Test
     runs-on: ubuntu-latest
+    if: github.event_name == 'push' || github.event_name == 'pull_request'
     steps:
       - uses: actions/checkout@v3.0.2
       - name: Setup Node.js ${{ env.NODE_VERSION }}
@@ -82,22 +78,18 @@ jobs:
   deploy:
     name: Deploy
     needs: [build]
-    if: github.event_name == 'push' && contains(github.ref, 'tags/v') # works only version tagged
+    if: github.event_name == 'release'
     runs-on: ubuntu-latest
     steps:
       - name: Download Production Artifact
         uses: actions/download-artifact@v3.0.0
         with:
           name: dist
-      - name: Get Version
-        id: get_tag
-        run: echo ::set-output name=version::${TAG_REF_NAME##*/}
-        env:
-          TAG_REF_NAME: ${{ github.ref }}
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           cname: cs.ddradar.app
-          commit_message: 'build: release ${{ steps.get_tag.outputs.version }} via '
+          commit_message: 'build: release ${{ github.event.release.tag_name }} via '
