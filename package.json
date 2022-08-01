@@ -46,7 +46,7 @@
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "jest": "^27.5.1",
     "jest-json-schema": "^6.1.0",
-    "npm-run-all2": "^5.0.2",
+    "npm-run-all2": "^6.0.1",
     "prettier": "^2.7.1",
     "sass": "^1.54.0",
     "sass-loader": "^10.3.1",
