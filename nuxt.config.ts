@@ -1,10 +1,10 @@
-import { NuxtConfig } from '@nuxt/types'
+import { defineNuxtConfig } from 'nuxt'
 
 import pkg from './package.json'
 
 const title = 'Consumer DDR'
 
-const config: NuxtConfig = {
+export default defineNuxtConfig({
   target: 'static',
   head: {
     titleTemplate: `%s - ${title}`,
@@ -31,6 +31,4 @@ const config: NuxtConfig = {
     // Doc: https://content.nuxtjs.org/
     '@nuxt/content',
   ]
-}
-
-export default config
+})
