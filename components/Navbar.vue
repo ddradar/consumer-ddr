@@ -27,17 +27,3 @@
     </div>
   </nav>
 </template>
-
-<script lang="ts">
-import { Component, Prop, Vue } from 'vue-property-decorator'
-
-export interface MenuItem {
-  title: string
-  subMenu: { name: string; href: string }[]
-}
-
-@Component
-export default class Navbar extends Vue {
-  @Prop({ required: true }) readonly menuList!: MenuItem[]
-}
-</script>

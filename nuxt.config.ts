@@ -22,13 +22,19 @@ export default defineNuxtConfig({
         sizes: '180x180',
         href: '/apple-touch-icon.png'
       },
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        rel: 'stylesheet',
+        href: 'https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css'
+      }
     ]
   },
-  loading: { color: '#fff' },
   css: ['~/assets/css/main.scss'],
+  build: {
+    transpile: [/@oruga-ui\/oruga-next/]
+  },
   modules: [
     // Doc: https://content.nuxtjs.org/
-    '@nuxt/content',
+    '@nuxt/content'
   ]
 })

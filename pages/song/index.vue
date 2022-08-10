@@ -2,7 +2,7 @@
   <section class="section">
     <h1 class="title">Song List</h1>
 
-    <OTable :data="songList" per-page="20" striped narrowed paginated>
+    <OTable :data="songs" per-page="20" striped narrowed paginated>
       <OTableColumn v-slot="props" field="name" label="Name" searchable>
         <NuxtLink class="is-size-6-mobile" :to="`/song/${props.row.slug}/`">
           {{ props.row.name }}
@@ -40,68 +40,48 @@
   </section>
 </template>
 
-<script lang="ts">
-import { Context } from '@nuxt/types'
-import { Component, Vue } from 'nuxt-property-decorator'
-import { MetaInfo } from 'vue-meta'
+<script lang="ts" setup>
+import type { SoftwareParsedContent, SongParsedContent } from '~~/src/content'
 
-import { Song } from '~/types/song'
-
-type SongListData = Omit<Song, 'series' | 'charts'> & {
+type SongListData = Omit<SongParsedContent, 'series' | 'charts'> & {
   seriesList: string[]
 }
 
-@Component
-export default class SeriesDetailPage extends Vue {
-  songList: SongListData[] = []
-  seriesList: string[] = []
+const { data: _songs } = await useAsyncData('/songs', () =>
+  queryContent<SongParsedContent>()
+    .where({ extension: { $eq: '.json' } })
+    .without('charts')
+    .find()
+)
+const { data: _series } = await useAsyncData('/series', () =>
+  queryContent<SoftwareParsedContent>()
+    .where({ extension: { $eq: '.md' } })
+    .sort({ launched: 1 })
+    .only('slug')
+    .find()
+)
 
-  readonly head: MetaInfo = {
-    title: 'Song List'
-  }
+const songs = computed(() =>
+  _songs.value.reduce((prev, current) => {
+    const chart = prev.find((s) => s.slug === current.slug)
+    if (chart) {
+      chart.seriesList.push(current.series)
+    } else {
+      prev.push({
+        slug: current.slug,
+        name: current.name,
+        artist: current.artist,
+        bpm: current.bpm,
+        seriesList: [current.series]
+      })
+    }
+    return prev
+  }, [] as SongListData[])
+)
 
-  async asyncData({ $content }: Pick<Context, '$content'>) {
-    const songs = await $content({ deep: true })
-      .where({ extension: { $eq: '.json' } })
-      .without('charts')
-      .fetch<Omit<Song, 'charts'>>()
-    const songList = [songs].flat().reduce((prev, current) => {
-      if (!prev) {
-        return [
-          {
-            slug: current.slug,
-            name: current.name,
-            artist: current.artist,
-            bpm: current.bpm,
-            seriesList: [current.series]
-          }
-        ]
-      }
-      if (!prev.some((s) => s.slug === current.slug)) {
-        prev.push({
-          slug: current.slug,
-          name: current.name,
-          artist: current.artist,
-          bpm: current.bpm,
-          seriesList: [current.series]
-        })
-      }
-      return prev
-    }, undefined as SongListData[] | undefined)
-
-    const seriesList = (await $content({ deep: true })
-      .where({ extension: { $eq: '.md' } })
-      .sortBy('launched')
-      .only('slug')
-      .fetch<string>()) as string[]
-
-    return { songList, seriesList }
-  }
-
-  getClass(id: string) {
-    const index = this.seriesList!.findIndex((s) => s === id)
-    const classList = ['info', 'success', 'danger', 'warning', 'dark']
-    return classList[index % classList.length]
-  }
+const getClass = (id: string) => {
+  const index = _series.value.findIndex((s) => s._slug === id)
+  const classList = ['info', 'success', 'danger', 'warning', 'dark']
+  return classList[index % classList.length]
 }
 </script>
