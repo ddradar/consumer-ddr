@@ -26,10 +26,9 @@
             :key="chart.difficulty"
             class="tag"
             :class="chart.color"
+            :title="chart.difficultyName"
           >
-            <o-tooltip :label="chart.difficultyName">
-              {{ chart.level }}
-            </o-tooltip>
+            {{ chart.level }}
           </span>
         </div>
       </o-table-column>
