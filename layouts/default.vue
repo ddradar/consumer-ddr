@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Navbar :menu-list="menuList"/>
+    <Navbar :menu-list="menuList" />
 
     <section class="main-content">
       <nuxt />
