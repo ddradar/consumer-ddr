@@ -27,10 +27,6 @@ const config: NuxtConfig = {
   },
   loading: { color: '#fff' },
   css: ['~/assets/css/main.scss'],
-  buildModules: [
-    // Doc: https://github.com/nuxt-community/eslint-module
-    '@nuxtjs/eslint-module',
-  ],
   modules: [
     // Doc: https://content.nuxtjs.org/
     '@nuxt/content',
