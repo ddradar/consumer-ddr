@@ -27,19 +27,6 @@ const config: NuxtConfig = {
   },
   loading: { color: '#fff' },
   css: ['~/assets/css/main.scss'],
-  pwa: {
-    icon: {
-      iconFileName: 'icon-1024.png'
-    },
-    manifest: {
-      name: title,
-      short_name: 'CS DDR',
-      description: pkg.description,
-      background_color: '#fff',
-      theme_color: '#7957d5',
-      orientation: 'any'
-    }
-  },
   buildModules: [
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module',
@@ -47,8 +34,6 @@ const config: NuxtConfig = {
   modules: [
     // Doc: https://content.nuxtjs.org/
     '@nuxt/content',
-    // Doc: https://pwa.nuxtjs.org/
-    '@nuxtjs/pwa',
   ]
 }
 
