@@ -3,28 +3,28 @@
     <h1 class="title">{{ info.name }} / {{ info.artist }}</h1>
     <h2 class="subtitle">BPM {{ info.bpm }}</h2>
     <div class="buttons">
-      <o-button
+      <OButton
         v-for="id in info.seriesList"
         :key="id"
-        tag="nuxt-link"
+        tag="NuxtLink"
         size="small"
         :variant="getClass(id)"
         :to="`/series/${id}/`"
       >
         {{ id }}
-      </o-button>
+      </OButton>
     </div>
-    <o-table :data="info.charts" striped>
-      <o-table-column v-slot="props" field="playStyle" label="PlayStyle">
+    <OTable :data="info.charts" striped>
+      <OTableColumn v-slot="props" field="playStyle" label="PlayStyle">
         {{ props.row.playStyle }}
-      </o-table-column>
-      <o-table-column v-slot="props" field="difficulty" label="Difficulty">
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="difficulty" label="Difficulty">
         {{ props.row.difficulty }}
-      </o-table-column>
-      <o-table-column v-slot="props" field="level" label="Level">
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="level" label="Level">
         {{ Object.values(props.row.levels).join(', ') }}
-      </o-table-column>
-    </o-table>
+      </OTableColumn>
+    </OTable>
   </section>
 </template>
 

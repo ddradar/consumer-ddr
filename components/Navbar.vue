@@ -1,10 +1,10 @@
 <template>
   <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-      <nuxt-link class="navbar-item has-text-weight-bold" to="/">
+      <NuxtLink class="navbar-item has-text-weight-bold" to="/">
         <img class="images" src="~assets/img/logo.svg" alt="Logo" />
         Consumer DDR
-      </nuxt-link>
+      </NuxtLink>
 
       <a
         role="button"
@@ -21,7 +21,7 @@
 
     <div id="navbarMenu" class="navbar-menu">
       <div class="navbar-start">
-        <nuxt-link class="navbar-item" to="/song/">Songs</nuxt-link>
+        <NuxtLink class="navbar-item" to="/song/">Songs</NuxtLink>
       </div>
       <div class="navbar-end" />
     </div>

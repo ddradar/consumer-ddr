@@ -1,25 +1,20 @@
 <template>
   <section class="section">
-    <o-table :data="softwareList" striped narrowed>
-      <o-table-column v-slot="props" field="name" label="Name" searchable>
-        <nuxt-link class="is-size-6-mobile" :to="`/series/${props.row.slug}/`">
+    <OTable :data="softwareList" striped narrowed>
+      <OTableColumn v-slot="props" field="name" label="Name" searchable>
+        <NuxtLink class="is-size-6-mobile" :to="`/series/${props.row.slug}/`">
           {{ props.row.name }}
-        </nuxt-link>
-      </o-table-column>
-      <o-table-column
-        v-slot="props"
-        field="platform"
-        label="Platform"
-        searchable
-      >
+        </NuxtLink>
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="platform" label="Platform" searchable>
         <span>
           {{ props.row.platform }}
           {{ props.row.region }}
         </span>
-      </o-table-column>
-      <o-table-column v-slot="props" field="launched" label="Launched">
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="launched" label="Launched">
         {{ props.row.launched }}
-      </o-table-column>
+      </OTableColumn>
 
       <template #empty>
         <section class="section">
@@ -28,7 +23,7 @@
           </div>
         </section>
       </template>
-    </o-table>
+    </OTable>
   </section>
 </template>
 

@@ -2,19 +2,19 @@
   <section v-if="info" class="section">
     <h1 class="title">{{ info.name }}</h1>
     <h2 class="subtitle">{{ info.platform }}({{ info.region }})</h2>
-    <o-table :data="songs" striped narrowed>
-      <o-table-column v-slot="props" field="name" label="Name">
-        <nuxt-link :to="`/song/${props.row.slug}/`">
+    <OTable :data="songs" striped narrowed>
+      <OTableColumn v-slot="props" field="name" label="Name">
+        <NuxtLink :to="`/song/${props.row.slug}/`">
           {{ props.row.name }}
-        </nuxt-link>
-      </o-table-column>
-      <o-table-column v-slot="props" field="artist" label="Artist">
+        </NuxtLink>
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="artist" label="Artist">
         <span>{{ props.row.artist }}</span>
-      </o-table-column>
-      <o-table-column v-slot="props" field="bpm" label="BPM">
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="bpm" label="BPM">
         {{ props.row.bpm }}
-      </o-table-column>
-      <o-table-column
+      </OTableColumn>
+      <OTableColumn
         v-for="playStyle in playStyles"
         v-slot="props"
         :key="playStyle"
@@ -31,7 +31,7 @@
             {{ chart.level }}
           </span>
         </div>
-      </o-table-column>
+      </OTableColumn>
 
       <template #empty>
         <section class="section">
@@ -40,7 +40,7 @@
           </div>
         </section>
       </template>
-    </o-table>
+    </OTable>
   </section>
 </template>
 

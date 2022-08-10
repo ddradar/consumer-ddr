@@ -2,32 +2,32 @@
   <section class="section">
     <h1 class="title">Song List</h1>
 
-    <o-table :data="songList" per-page="20" striped narrowed paginated>
-      <o-table-column v-slot="props" field="name" label="Name" searchable>
-        <nuxt-link class="is-size-6-mobile" :to="`/song/${props.row.slug}/`">
+    <OTable :data="songList" per-page="20" striped narrowed paginated>
+      <OTableColumn v-slot="props" field="name" label="Name" searchable>
+        <NuxtLink class="is-size-6-mobile" :to="`/song/${props.row.slug}/`">
           {{ props.row.name }}
-        </nuxt-link>
-      </o-table-column>
-      <o-table-column v-slot="props" field="artist" label="Artist" searchable>
+        </NuxtLink>
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="artist" label="Artist" searchable>
         <span class="is-size-6-mobile">{{ props.row.artist }}</span>
-      </o-table-column>
-      <o-table-column v-slot="props" field="bpm" label="BPM">
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="bpm" label="BPM">
         {{ props.row.bpm }}
-      </o-table-column>
-      <o-table-column v-slot="props" label="Series">
+      </OTableColumn>
+      <OTableColumn v-slot="props" label="Series">
         <div class="buttons">
-          <o-button
+          <OButton
             v-for="id in props.row.seriesList"
             :key="id"
-            tag="nuxt-link"
+            tag="NuxtLink"
             size="small"
             :variant="getClass(id)"
             :to="`/series/${id}/`"
           >
             {{ id }}
-          </o-button>
+          </OButton>
         </div>
-      </o-table-column>
+      </OTableColumn>
 
       <template #empty>
         <section class="section">
@@ -36,7 +36,7 @@
           </div>
         </section>
       </template>
-    </o-table>
+    </OTable>
   </section>
 </template>
 

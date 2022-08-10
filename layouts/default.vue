@@ -3,7 +3,7 @@
     <Navbar :menu-list="menuList" />
 
     <section class="main-content">
-      <nuxt />
+      <Nuxt />
     </section>
   </div>
 </template>
