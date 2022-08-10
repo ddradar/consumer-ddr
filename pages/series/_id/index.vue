@@ -2,36 +2,36 @@
   <section v-if="info" class="section">
     <h1 class="title">{{ info.name }}</h1>
     <h2 class="subtitle">{{ info.platform }}({{ info.region }})</h2>
-    <b-table :data="songs" striped narrowed>
-      <b-table-column v-slot="props" field="name" label="Name">
-        <nuxt-link :to="`/song/${props.row.slug}/`">
+    <OTable :data="songs" striped narrowed>
+      <OTableColumn v-slot="props" field="name" label="Name">
+        <NuxtLink :to="`/song/${props.row.slug}/`">
           {{ props.row.name }}
-        </nuxt-link>
-      </b-table-column>
-      <b-table-column v-slot="props" field="artist" label="Artist">
+        </NuxtLink>
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="artist" label="Artist">
         <span>{{ props.row.artist }}</span>
-      </b-table-column>
-      <b-table-column v-slot="props" field="bpm" label="BPM">
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="bpm" label="BPM">
         {{ props.row.bpm }}
-      </b-table-column>
-      <b-table-column
+      </OTableColumn>
+      <OTableColumn
         v-for="playStyle in playStyles"
         v-slot="props"
         :key="playStyle"
         :label="playStyle"
       >
-        <b-taglist attached>
-          <b-tag
+        <div class="tags has-addons">
+          <span
             v-for="chart in props.row.charts[playStyle]"
             :key="chart.difficulty"
-            :type="chart.color"
+            class="tag"
+            :class="chart.color"
+            :title="chart.difficultyName"
           >
-            <b-tooltip :label="chart.difficultyName">
-              {{ chart.level }}
-            </b-tooltip>
-          </b-tag>
-        </b-taglist>
-      </b-table-column>
+            {{ chart.level }}
+          </span>
+        </div>
+      </OTableColumn>
 
       <template #empty>
         <section class="section">
@@ -40,7 +40,7 @@
           </div>
         </section>
       </template>
-    </b-table>
+    </OTable>
   </section>
 </template>
 

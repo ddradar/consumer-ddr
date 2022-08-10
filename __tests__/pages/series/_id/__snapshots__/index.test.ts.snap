@@ -19,18 +19,32 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
   <div
     class="b-table"
   >
-    <!---->
-     
-    <!---->
-     
-    <!---->
-     
-    <!---->
-    <!---->
+    <div
+      style="display: none;"
+    >
+      <span>
+        Name
+      </span>
+       
+      <span>
+        Artist
+      </span>
+       
+      <span>
+        BPM
+      </span>
+       
+      <span>
+        SINGLE
+      </span>
+      <span>
+        DOUBLE
+      </span>
+    </div>
     <!---->
     <!---->
     <div
-      class="table-wrapper has-mobile-cards"
+      class="table-wrapper"
     >
       <table
         class="table is-striped is-narrow"
@@ -44,106 +58,101 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 Name 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   Name 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <th
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 Artist 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   Artist 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <th
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 BPM 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   BPM 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <th
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 SINGLE 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   SINGLE 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <th
               class=""
               draggable="false"
             >
-              <div
-                class="th-wrap"
-              >
+              <span>
+                 DOUBLE 
                 <span
-                  class="is-relative"
+                  class="th-wrap sort-icon"
+                  style="display: none;"
                 >
-                   DOUBLE 
                   <span
-                    class="icon sort-icon is-small is-invisible"
+                    class="icon is-small"
                   >
                     <i
                       class="mdi mdi-arrow-up"
                     />
                   </span>
                 </span>
-              </div>
+              </span>
             </th>
             <!---->
           </tr>
@@ -192,96 +201,27 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               >
                 <span
                   class="tag is-basic"
+                  title="BASIC"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          BASIC
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            5
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          5
+        
                 </span>
                 <span
                   class="tag is-difficult"
+                  title="ANOTHER"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          ANOTHER
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            6
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          6
+        
                 </span>
                 <span
                   class="tag is-expert"
+                  title="MANIAC"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          MANIAC
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            8
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          8
+        
                 </span>
               </div>
             </td>
@@ -294,65 +234,19 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               >
                 <span
                   class="tag is-basic"
+                  title="BASIC"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          BASIC
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            5
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          5
+        
                 </span>
                 <span
                   class="tag is-difficult"
+                  title="ANOTHER"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          ANOTHER
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            6
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          6
+        
                 </span>
               </div>
             </td>
@@ -405,96 +299,27 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               >
                 <span
                   class="tag is-basic"
+                  title="BASIC"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          BASIC
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            6
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          6
+        
                 </span>
                 <span
                   class="tag is-difficult"
+                  title="ANOTHER"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          ANOTHER
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            7
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          7
+        
                 </span>
                 <span
                   class="tag is-expert"
+                  title="MANIAC"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          MANIAC
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            8
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          8
+        
                 </span>
               </div>
             </td>
@@ -507,65 +332,19 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               >
                 <span
                   class="tag is-basic"
+                  title="BASIC"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          BASIC
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            7
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          7
+        
                 </span>
                 <span
                   class="tag is-difficult"
+                  title="ANOTHER"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          ANOTHER
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            8
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          8
+        
                 </span>
               </div>
             </td>
@@ -618,96 +397,27 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               >
                 <span
                   class="tag is-basic"
+                  title="BASIC"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          BASIC
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            6
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          6
+        
                 </span>
                 <span
                   class="tag is-difficult"
+                  title="ANOTHER"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          ANOTHER
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            7
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          7
+        
                 </span>
                 <span
                   class="tag is-expert"
+                  title="MANIAC"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          MANIAC
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            8
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          8
+        
                 </span>
               </div>
             </td>
@@ -720,65 +430,19 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
               >
                 <span
                   class="tag is-basic"
+                  title="BASIC"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          BASIC
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            7
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          7
+        
                 </span>
                 <span
                   class="tag is-difficult"
+                  title="ANOTHER"
                 >
-                  <!---->
-                  <span
-                    class=""
-                  >
-                    <div
-                      class="b-tooltip is-primary is-top is-medium"
-                    >
-                      <transition-stub
-                        name="fade"
-                      >
-                        <div
-                          class="tooltip-content"
-                          style="display: none;"
-                        >
-                          ANOTHER
-                        </div>
-                      </transition-stub>
-                      <div
-                        class="tooltip-trigger"
-                      >
-                        
-            8
-          
-                      </div>
-                    </div>
-                  </span>
-                  <!---->
+                  
+          8
+        
                 </span>
               </div>
             </td>
@@ -794,7 +458,11 @@ exports[`pages/series/_id/index.vue renders correctly 1`] = `
         </tbody>
         <!---->
       </table>
-      <!---->
+      <transition-stub
+        name="fade"
+      >
+        <!---->
+      </transition-stub>
     </div>
     <!---->
   </div>

@@ -1,12 +1,6 @@
-import {
-  createLocalVue,
-  mount,
-  RouterLinkStub,
-  shallowMount,
-  Wrapper
-} from '@vue/test-utils'
-import Buefy from 'buefy'
+import { mount, RouterLinkStub, shallowMount, Wrapper } from '@vue/test-utils'
 
+import { createVue } from '~/__tests__/utils'
 import Index from '~/pages/index.vue'
 import { Software } from '~/types/software'
 
@@ -14,8 +8,7 @@ type SoftListData = Omit<Software, 'difficultyNames' | 'region'> & {
   region: string
 }
 
-const localVue = createLocalVue()
-localVue.use(Buefy)
+const localVue = createVue()
 
 describe('pages/index.vue', () => {
   let wrapper: Wrapper<Index>

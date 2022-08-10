@@ -3,28 +3,28 @@
     <h1 class="title">{{ info.name }} / {{ info.artist }}</h1>
     <h2 class="subtitle">BPM {{ info.bpm }}</h2>
     <div class="buttons">
-      <b-button
+      <OButton
         v-for="id in info.seriesList"
         :key="id"
-        tag="nuxt-link"
-        size="is-small"
-        :class="getClass(id)"
+        tag="NuxtLink"
+        size="small"
+        :variant="getClass(id)"
         :to="`/series/${id}/`"
       >
         {{ id }}
-      </b-button>
+      </OButton>
     </div>
-    <b-table :data="info.charts" striped>
-      <b-table-column v-slot="props" field="playStyle" label="PlayStyle">
+    <OTable :data="info.charts" striped>
+      <OTableColumn v-slot="props" field="playStyle" label="PlayStyle">
         {{ props.row.playStyle }}
-      </b-table-column>
-      <b-table-column v-slot="props" field="difficulty" label="Difficulty">
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="difficulty" label="Difficulty">
         {{ props.row.difficulty }}
-      </b-table-column>
-      <b-table-column v-slot="props" field="level" label="Level">
+      </OTableColumn>
+      <OTableColumn v-slot="props" field="level" label="Level">
         {{ Object.values(props.row.levels).join(', ') }}
-      </b-table-column>
-    </b-table>
+      </OTableColumn>
+    </OTable>
   </section>
 </template>
 
@@ -66,7 +66,8 @@ export default class SongDetailPage extends Vue {
               difficulty: c.difficulty,
               levels
             }
-          })
+          }),
+          seriesList: []
         } as SongInfo
       }
       prev.seriesList.push(current.series)
@@ -100,13 +101,7 @@ export default class SongDetailPage extends Vue {
 
   getClass(id: string) {
     const index = this.info!.seriesList.findIndex((s) => s === id)
-    const classList = [
-      'is-info',
-      'is-success',
-      'is-danger',
-      'is-warning',
-      'is-dark'
-    ]
+    const classList = ['info', 'success', 'danger', 'warning', 'dark']
     return classList[index % classList.length]
   }
 }

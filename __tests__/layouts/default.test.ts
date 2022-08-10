@@ -1,6 +1,6 @@
-import { createLocalVue, mount, RouterLinkStub } from '@vue/test-utils'
-import Buefy from 'buefy'
+import { mount, RouterLinkStub } from '@vue/test-utils'
 
+import { createVue } from '~/__tests__/utils'
 import DefaultLayout from '~/layouts/default.vue'
 
 type MenuItem = {
@@ -8,8 +8,7 @@ type MenuItem = {
   subMenu: { name: string; href: string }[]
 }
 
-const localVue = createLocalVue()
-localVue.use(Buefy)
+const localVue = createVue()
 
 describe('layouts/default.vue', () => {
   test('renders correctly', () => {
