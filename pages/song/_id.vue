@@ -66,7 +66,8 @@ export default class SongDetailPage extends Vue {
               difficulty: c.difficulty,
               levels
             }
-          })
+          }),
+          seriesList: []
         } as SongInfo
       }
       prev.seriesList.push(current.series)
