@@ -39,6 +39,10 @@
   "type": "object",
   "properties": {
     "$schema": { "type": "string" },
+    "slug": {
+      "description": "Song Id",
+      "type": "string"
+    },
     "series": {
       "description": "Series slug",
       "type": "string"
@@ -60,6 +64,6 @@
       "minItems": 1
     }
   },
-  "required": ["series", "name", "artist", "bpm", "charts"],
+  "required": ["slug", "series", "name", "artist", "bpm", "charts"],
   "additionalProperties": false
 }
