@@ -19,28 +19,34 @@ exports[`layouts/default.vue renders correctly 1`] = `
           src="~assets/img/logo.svg"
         />
         
-        Consumer DDR
-      
+      Consumer DDR
+    
       </a>
+       
       <a
+        aria-expanded="false"
         aria-label="menu"
-        class="navbar-burger burger"
+        class="navbar-burger"
+        data-target="navbarMenu"
         role="button"
-        tabindex="0"
       >
         <span
           aria-hidden="true"
         />
+         
         <span
           aria-hidden="true"
         />
+         
         <span
           aria-hidden="true"
         />
       </a>
     </div>
+     
     <div
       class="navbar-menu"
+      id="navbarMenu"
     >
       <div
         class="navbar-start"
@@ -50,81 +56,8 @@ exports[`layouts/default.vue renders correctly 1`] = `
         >
           Songs
         </a>
-         
-        <div
-          class="navbar-item has-dropdown"
-        >
-          <a
-            aria-haspopup="true"
-            class="navbar-link"
-            tabindex="0"
-          >
-            Play Station (JP)
-          </a>
-          <div
-            class="navbar-dropdown"
-          >
-            <a
-              class="navbar-item"
-            >
-              
-          Dance Dance Revolution
-        
-            </a>
-            <a
-              class="navbar-item"
-            >
-              
-          Dance Dance Revolution 2nd ReMIX
-        
-            </a>
-          </div>
-        </div>
-        <div
-          class="navbar-item has-dropdown"
-        >
-          <a
-            aria-haspopup="true"
-            class="navbar-link"
-            tabindex="0"
-          >
-            GAME BOY COLOR
-          </a>
-          <div
-            class="navbar-dropdown"
-          >
-            <a
-              class="navbar-item"
-            >
-              
-          Dance Dance Revolution GB
-        
-            </a>
-          </div>
-        </div>
-        <div
-          class="navbar-item has-dropdown"
-        >
-          <a
-            aria-haspopup="true"
-            class="navbar-link"
-            tabindex="0"
-          >
-            Play Station 2 (US)
-          </a>
-          <div
-            class="navbar-dropdown"
-          >
-            <a
-              class="navbar-item"
-            >
-              
-          Dance Dance Revolution X2
-        
-            </a>
-          </div>
-        </div>
       </div>
+       
       <div
         class="navbar-end"
       />
