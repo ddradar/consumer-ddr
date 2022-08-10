@@ -950,6 +950,11 @@
     serve-static "^1.14.1"
     workbox-cdn "^5.1.4"
 
+"@oruga-ui/oruga-next@^0.5.5":
+  version "0.5.5"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.5.5.tgz#b7b5e6a54e663bb0cab6c35f5bece4697ae003bf"
+  integrity sha512-LmieX0fo0hbhJQRaKf4rfUlyDUwGVYkjGmSNfbontRKfKrEmmr1w1mxraF2Orxc894gkwi64NQh/SRSm4pIE5g==
+
 "@oruga-ui/oruga@^0.5.5":
   version "0.5.5"
   resolved "https://registry.yarnpkg.com/@oruga-ui/oruga/-/oruga-0.5.5.tgz#f48441cd8a9afb8d0b4e5509edf47c2d02fb5834"

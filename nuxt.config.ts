@@ -1,5 +1,4 @@
 import { NuxtConfig } from '@nuxt/types'
-import { bulmaConfig } from '@oruga-ui/theme-bulma'
 
 import pkg from './package.json'
 
@@ -52,8 +51,6 @@ const config: NuxtConfig = {
     '@nuxt/content',
     // Doc: https://pwa.nuxtjs.org/
     '@nuxtjs/pwa',
-    // Doc: https://oruga.io/documentation/
-    ['@oruga-ui/oruga/nuxt', { ...bulmaConfig }]
   ]
 }
 

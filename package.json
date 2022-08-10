@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@nuxtjs/pwa": "^3.3.5",
-    "@oruga-ui/oruga": "^0.5.5",
+    "@oruga-ui/oruga-next": "^0.5.5",
     "@oruga-ui/theme-bulma": "^0.2.6",
     "nuxt-property-decorator": "^2.9.1"
   },
@@ -46,8 +46,8 @@
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "jest": "^27.5.1",
     "jest-json-schema": "^6.1.0",
-    "nuxt": "^3.0.0-rc.6",
     "npm-run-all2": "^5.0.2",
+    "nuxt": "^3.0.0-rc.6",
     "prettier": "^2.7.1",
     "sass": "^1.54.0",
     "sass-loader": "^10.3.1",
