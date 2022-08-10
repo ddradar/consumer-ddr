@@ -1,0 +1,65 @@
+// Import Bulma's core
+@import '~bulma/sass/utilities/initial-variables';
+@import '~bulma/sass/utilities/functions';
+@import '~bulma/sass/utilities/derived-variables';
+
+// Set your colors
+$primary: #333;
+$beginner: #06f;
+$basic: #fc0;
+$difficult: #f36;
+$expert: #6c0;
+$challenge: #93c;
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+$colors: (
+  'primary': (
+    $primary,
+    findColorInvert($primary)
+  ),
+  'dark': (
+    $dark,
+    findColorInvert($dark)
+  ),
+  'info': (
+    $info,
+    findColorInvert($info)
+  ),
+  'success': (
+    $success,
+    findColorInvert($success)
+  ),
+  'warning': (
+    $warning,
+    findColorInvert($warning)
+  ),
+  'danger': (
+    $danger,
+    findColorInvert($danger)
+  ),
+  'beginner': (
+    $beginner,
+    findColorInvert($beginner)
+  ),
+  'basic': (
+    $basic,
+    findColorInvert($basic)
+  ),
+  'difficult': (
+    $difficult,
+    findColorInvert($difficult)
+  ),
+  'expert': (
+    $expert,
+    findColorInvert($expert)
+  ),
+  'challenge': (
+    $challenge,
+    findColorInvert($challenge)
+  )
+);
+
+// Links
+$link: $info;
+$link-invert: $info-invert;
+$link-focus-border: $info;

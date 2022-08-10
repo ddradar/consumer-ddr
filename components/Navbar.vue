@@ -22,32 +22,6 @@
     <div id="navbarMenu" class="navbar-menu">
       <div class="navbar-start">
         <nuxt-link class="navbar-item" to="/song/">Songs</nuxt-link>
-        <b-navbar-dropdown
-          v-for="menu in menuList"
-          :key="menu.title"
-          :label="menu.title"
-        >
-        </b-navbar-dropdown>
-
-        <div
-          v-for="menu in menuList"
-          :key="menu.title"
-          class="navbar-item has-dropdown is-hoverable"
-        >
-          <a class="navbar-link">{{ menu.title }}</a>
-
-          <div class="navbar-dropdown">
-            <nuxt-link
-              v-for="item in menu.subMenu"
-              :key="item.name"
-              :to="item.href"
-              class="navbar-item"
-              exact-active-class="is-active"
-            >
-              {{ item.name }}
-            </nuxt-link>
-          </div>
-        </div>
       </div>
       <div class="navbar-end" />
     </div>

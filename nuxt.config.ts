@@ -1,4 +1,5 @@
 import { NuxtConfig } from '@nuxt/types'
+import { bulmaConfig } from '@oruga-ui/theme-bulma'
 
 import pkg from './package.json'
 
@@ -26,7 +27,7 @@ const config: NuxtConfig = {
     ]
   },
   loading: { color: '#fff' },
-  css: ['~/assets/css/styles.scss'],
+  css: ['~/assets/css/main.scss'],
   pwa: {
     icon: {
       iconFileName: 'icon-1024.png'
@@ -47,14 +48,12 @@ const config: NuxtConfig = {
     '@nuxt/typescript-build'
   ],
   modules: [
-    // Doc: https://buefy.org/documentation/
-    ['nuxt-buefy', { css: false }],
     // Doc: https://content.nuxtjs.org/
     '@nuxt/content',
     // Doc: https://pwa.nuxtjs.org/
     '@nuxtjs/pwa',
     // Doc: https://oruga.io/documentation/
-    '@oruga-ui/oruga/nuxt'
+    ['@oruga-ui/oruga/nuxt', { ...bulmaConfig }]
   ]
 }
 
