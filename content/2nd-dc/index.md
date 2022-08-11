@@ -1,4 +1,5 @@
 ---
+slug: "2nd-dc"
 name: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
 platform: "Dreamcast"
 region: "JP"

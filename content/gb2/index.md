@@ -1,13 +1,13 @@
 ---
-name: "Dance Dance Revolution GB"
+slug: "gb2"
+name: "Dance Dance Revolution GB2"
 platform: "GAME BOY COLOR"
 region: "None"
-launched: "2000-08-03"
+launched: "2000-11-16"
 difficultyNames:
   "1": "BASIC"
   "2": "ANOTHER"
-  "3": "MANIAC"
-  "5": "NORMAL"
+  "3": "SSR"
 ---
 
 ## 隠し要素

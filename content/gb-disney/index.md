@@ -1,12 +1,12 @@
 ---
-name: "Dance Dance Revolution GB2"
+slug: "gb-disney"
+name: "Dance Dance Revolution GB Disney mix"
 platform: "GAME BOY COLOR"
 region: "None"
-launched: "2000-11-16"
+launched: "2001-03-29"
 difficultyNames:
   "1": "BASIC"
-  "2": "ANOTHER"
-  "3": "SSR"
+  "2": "TRICK"
 ---
 
 ## 隠し要素

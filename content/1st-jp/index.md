@@ -1,13 +1,14 @@
 ---
-name: "Dancing Stage featuring DREAMS COME TRUE"
+slug: "1st-jp"
+name: "Dance Dance Revolution"
 platform: "Play Station"
 region: "JP"
-launched: "2000-04-20"
+launched: "1999-04-10"
 difficultyNames:
   "1": "BASIC"
-  "2": "TRICK"
+  "2": "ANOTHER"
   "3": "MANIAC"
-  "4": "SUPER MANIAC"
+  "5": "NORMAL"
 ---
 
 ## 隠し要素

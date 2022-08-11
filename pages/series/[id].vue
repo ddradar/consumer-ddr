@@ -52,7 +52,6 @@ import type {
   SoftwareParsedContent,
   SongParsedContent
 } from '~~/src/content'
-import { getSlug } from '~~/src/content'
 import { normalizeDifficulty } from '~~/src/song'
 
 type ChartInfo = Pick<Chart, 'level' | 'difficulty'> & {
@@ -79,7 +78,7 @@ const playStyles = computed(() => [
 ])
 const songs = computed(() =>
   _songs.value.map((s) => ({
-    slug: getSlug(s._file),
+    slug: s.slug,
     name: s.name,
     artist: s.artist,
     bpm: s.bpm,

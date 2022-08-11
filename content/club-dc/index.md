@@ -1,4 +1,5 @@
 ---
+slug: "club-dc"
 name: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
 platform: "Dreamcast"
 region: "JP"

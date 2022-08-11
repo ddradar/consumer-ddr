@@ -49,13 +49,13 @@ type SongListData = Omit<SongParsedContent, 'series' | 'charts'> & {
 
 const { data: _songs } = await useAsyncData('/songs', () =>
   queryContent<SongParsedContent>()
-    .where({ extension: { $eq: '.json' } })
+    .where({ _type: 'json' })
     .without('charts')
     .find()
 )
 const { data: _series } = await useAsyncData('/series', () =>
   queryContent<SoftwareParsedContent>()
-    .where({ extension: { $eq: '.md' } })
+    .where({ _type: 'markdown' })
     .sort({ launched: 1 })
     .only('slug')
     .find()
@@ -63,9 +63,9 @@ const { data: _series } = await useAsyncData('/series', () =>
 
 const songs = computed(() =>
   _songs.value.reduce((prev, current) => {
-    const chart = prev.find((s) => s.slug === current.slug)
-    if (chart) {
-      chart.seriesList.push(current.series)
+    const song = prev.find((s) => s.slug === current.slug)
+    if (song) {
+      song.seriesList.push(current.series)
     } else {
       prev.push({
         slug: current.slug,

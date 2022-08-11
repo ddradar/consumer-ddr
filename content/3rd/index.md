@@ -1,11 +1,13 @@
 ---
-name: "Dance Dance Revolution Disney's RAVE"
+slug: "3rd"
+name: "Dance Dance Revolution 3rd MIX"
 platform: "Play Station"
 region: "JP"
-launched: "2000-11-30"
+launched: "2000-06-01"
 difficultyNames:
   "1": "BASIC"
-  "2": "TRICK"
+  "2": "ANOTHER"
+  "3": "SSR"
 ---
 
 ## 隠し要素

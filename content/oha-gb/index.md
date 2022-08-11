@@ -1,4 +1,5 @@
 ---
+slug: "oha-gb"
 name: "おはスタ Dance Dance Revolution GB"
 platform: "GAME BOY COLOR"
 region: "None"

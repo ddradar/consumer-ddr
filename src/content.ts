@@ -10,6 +10,7 @@ type Platform =
   | 'Wii'
 
 export interface SoftwareParsedContent extends ParsedContent {
+  slug: string
   name: string
   platform: Platform
   region: Region
@@ -33,13 +34,10 @@ export type Chart = {
 }
 
 export interface SongParsedContent extends ParsedContent {
+  slug: string
   series: string
   name: string
   artist: string
   bpm: number | string
   charts: Chart[]
-}
-
-export function getSlug(file: string | undefined) {
-  return file?.replace(/^.+\/(.+)\.(json|md)$/, '$1')
 }

@@ -1,4 +1,5 @@
 ---
+slug: "best"
 name: "Dance Dance Revolution BEST HITS"
 platform: "Play Station"
 region: "JP"
