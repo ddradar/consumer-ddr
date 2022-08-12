@@ -12,7 +12,7 @@ const readFileAsync = promisify(readFile)
 const statAsync = promisify(stat)
 
 describe('/content', () => {
-  const validate = new Ajv().compile(songSchema)
+  const validate = new Ajv({ allowUnionTypes: true }).compile(songSchema)
   const seriesFolders = readdirSync(dirPath)
 
   describe.each(seriesFolders)('/%s', (series) => {

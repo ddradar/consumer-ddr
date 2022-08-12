@@ -5,7 +5,7 @@ import { describe, expect, test } from 'vitest'
 import songSchema from '~~/public/song-schema.json'
 
 describe('/public/song-schema.json', () => {
-  const validator = new Ajv()
+  const validator = new Ajv({ allowUnionTypes: true })
   test('should be valid json-schema', () => {
     expect(validator.validateSchema(songSchema)).toBeTruthy()
   })
