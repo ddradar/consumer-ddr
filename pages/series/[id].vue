@@ -67,7 +67,7 @@ const { data: software } = await useAsyncData(`/software/${_id}`, () =>
     .where({ _type: 'markdown' })
     .findOne()
 )
-const { data: _songs, pending: isLoading } = await useLazyAsyncData(
+const { data: _songs, pending: isLoading } = await useAsyncData(
   `/software/${_id}/songs`,
   () => queryContent<SongParsedContent>(_id).where({ _type: 'json' }).find()
 )

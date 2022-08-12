@@ -1,5 +1,5 @@
 import { RouterLinkStub } from '@vue/test-utils'
-import { beforeAll, describe, expect, test, vi } from 'vitest'
+import { describe, expect, test, vi } from 'vitest'
 import { ref } from 'vue'
 
 import SongList from '~/pages/song/index.vue'
@@ -15,17 +15,17 @@ describe('pages/song/index.vue', () => {
   ]
   const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }
 
-  beforeAll(() => {
-    vi.mocked(useAsyncData).mockResolvedValue({ data: ref(series) } as any)
-  })
-
   describe('snapshot test', () => {
     test('renders loading state', async () => {
       // Arrange
-      vi.mocked(useLazyAsyncData).mockResolvedValue({
-        data: ref([]),
-        pending: ref(true)
-      } as any)
+      vi.mocked(useAsyncData).mockImplementation(
+        (path) =>
+          Promise.resolve(
+            path.endsWith('songs')
+              ? { data: ref([]), pending: ref(true) }
+              : { data: ref(series) }
+          ) as any
+      )
 
       // Act
       const wrapper = await mountAsync(SongList, { global })
@@ -36,10 +36,14 @@ describe('pages/song/index.vue', () => {
 
     test('renders song info', async () => {
       // Arrange
-      vi.mocked(useLazyAsyncData).mockResolvedValue({
-        data: ref(songs),
-        pending: ref(false)
-      } as any)
+      vi.mocked(useAsyncData).mockImplementation(
+        (path) =>
+          Promise.resolve(
+            path.endsWith('songs')
+              ? { data: ref(songs), pending: ref(false) }
+              : { data: ref(series) }
+          ) as any
+      )
 
       // Act
       const wrapper = await mountAsync(SongList, { global })

@@ -61,7 +61,7 @@ const { data: _series } = await useAsyncData('/series', () =>
     .only('slug')
     .find()
 )
-const { data: _songs, pending: isLoading } = await useLazyAsyncData(
+const { data: _songs, pending: isLoading } = await useAsyncData(
   '/songs',
   () =>
     queryContent<SongParsedContent>()

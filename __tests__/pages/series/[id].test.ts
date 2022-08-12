@@ -65,16 +65,19 @@ describe('pages/series/[id].vue', () => {
 
   beforeAll(() => {
     vi.mocked(useRoute).mockReturnValue({ params: { id: '1st-jp' } } as any)
-    vi.mocked(useAsyncData).mockResolvedValue({ data: ref(software) } as any)
   })
 
   describe('snapshot test', () => {
     test('renders loading state', async () => {
       // Arrange
-      vi.mocked(useLazyAsyncData).mockResolvedValue({
-        data: ref([]),
-        pending: ref(true)
-      } as any)
+      vi.mocked(useAsyncData).mockImplementation(
+        (path) =>
+          Promise.resolve(
+            path.endsWith('songs')
+              ? { data: ref([]), pending: ref(true) }
+              : { data: ref(software) }
+          ) as any
+      )
 
       // Act
       const wrapper = await mountAsync(SeriesDetail, { global })
@@ -85,10 +88,14 @@ describe('pages/series/[id].vue', () => {
 
     test('renders song info', async () => {
       // Arrange
-      vi.mocked(useLazyAsyncData).mockResolvedValue({
-        data: ref(songs),
-        pending: ref(false)
-      } as any)
+      vi.mocked(useAsyncData).mockImplementation(
+        (path) =>
+          Promise.resolve(
+            path.endsWith('songs')
+              ? { data: ref(songs), pending: ref(false) }
+              : { data: ref(software) }
+          ) as any
+      )
 
       // Act
       const wrapper = await mountAsync(SeriesDetail, { global })
