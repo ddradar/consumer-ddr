@@ -7,10 +7,7 @@
 
     <OTable :data="softwareList" striped :loading="isLoading">
       <OTableColumn v-slot="props" field="name" label="Name">
-        <NuxtLink
-          class="is-size-6-mobile"
-          :to="`/series/${props.row.slug}/`"
-        >
+        <NuxtLink class="is-size-6-mobile" :to="`/series/${props.row.slug}/`">
           {{ props.row.name }}
         </NuxtLink>
       </OTableColumn>
