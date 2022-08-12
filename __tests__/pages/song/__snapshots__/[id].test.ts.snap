@@ -1,0 +1,585 @@
+// Vitest Snapshot v1
+
+exports[`pages/song/[id].vue > snapshot test > renders correctly 1`] = `
+<section
+  class="section"
+>
+  <h1
+    class="title"
+  >
+    TRIP MACHINE / DE-SIRE
+  </h1>
+  <h2
+    class="subtitle"
+  >
+    BPM 160
+  </h2>
+  <div
+    class="buttons"
+  >
+    
+    <a
+      class="button is-info"
+    >
+      <span
+        class="button-wrapper"
+      >
+        <!--v-if-->
+        <span
+          class=""
+        >
+          
+          1st-jp
+          
+        </span>
+        <!--v-if-->
+      </span>
+    </a>
+    <a
+      class="button is-success"
+    >
+      <span
+        class="button-wrapper"
+      >
+        <!--v-if-->
+        <span
+          class=""
+        >
+          
+          3rd
+          
+        </span>
+        <!--v-if-->
+      </span>
+    </a>
+    
+  </div>
+  <div
+    class="b-table"
+  >
+    <div
+      style="display: none;"
+    >
+      
+      <span
+        data-id="1"
+      >
+        PlayStyle
+      </span>
+      <span
+        data-id="2"
+      >
+        Difficulty
+      </span>
+      <span
+        data-id="3"
+      >
+        Level
+      </span>
+      
+    </div>
+    <!--v-if-->
+    <!--v-if-->
+    <div
+      class="table-wrapper"
+    >
+      <table
+        class="table is-striped"
+        tabindex="false"
+      >
+        <!--v-if-->
+        <thead>
+          <tr>
+            <!--v-if-->
+            <!--v-if-->
+            
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                PlayStyle 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                Difficulty 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                Level 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            
+            <!--v-if-->
+          </tr>
+          <!--v-if-->
+          <!--v-if-->
+        </thead>
+        <tbody>
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              SINGLE
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              1
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              6, 6
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              SINGLE
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              2
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              7, 7
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              SINGLE
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              3
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              8, 8
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              DOUBLE
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              1
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              7, 7
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              DOUBLE
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              2
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              8, 8
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              COUPLE
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              1
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              6
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              COUPLE
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              2
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              7
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              COUPLE
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              3
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              8
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              UNISON
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              1
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              6
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              UNISON
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              2
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              7
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="PlayStyle"
+              scoped=""
+            >
+              UNISON
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+              scoped=""
+            >
+              3
+            </td>
+            <td
+              class=""
+              data-label="Level"
+              scoped=""
+            >
+              8
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <!--v-if-->
+        </tbody>
+        <!--v-if-->
+      </table>
+      
+      <transition-stub>
+        <!--v-if-->
+      </transition-stub>
+      
+    </div>
+    <!--v-if-->
+  </div>
+</section>
+`;

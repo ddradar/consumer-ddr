@@ -1,6 +1,6 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1
 
-exports[`layouts/default.vue renders correctly 1`] = `
+exports[`app.vue > renders correctly 1`] = `
 <div>
   <nav
     aria-label="main navigation"
@@ -16,13 +16,10 @@ exports[`layouts/default.vue renders correctly 1`] = `
         <img
           alt="Logo"
           class="images"
-          src="~assets/img/logo.svg"
+          src="/assets/img/logo.svg"
         />
-        
-      Consumer DDR
-    
+         Consumer DDR 
       </a>
-       
       <a
         aria-expanded="false"
         aria-label="menu"
@@ -33,17 +30,14 @@ exports[`layouts/default.vue renders correctly 1`] = `
         <span
           aria-hidden="true"
         />
-         
         <span
           aria-hidden="true"
         />
-         
         <span
           aria-hidden="true"
         />
       </a>
     </div>
-     
     <div
       class="navbar-menu"
       id="navbarMenu"
@@ -57,17 +51,15 @@ exports[`layouts/default.vue renders correctly 1`] = `
           Songs
         </a>
       </div>
-       
       <div
         class="navbar-end"
       />
     </div>
   </nav>
-   
   <section
     class="main-content"
   >
-    <nuxt-stub />
+    <nuxt-page-stub />
   </section>
 </div>
 `;

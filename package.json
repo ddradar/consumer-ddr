@@ -15,8 +15,8 @@
     "lint": "run-p lint:*",
     "lint:eslint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore .",
     "lint:prettier": "prettier --ignore-path .gitignore -l \"**/*.{js,ts,vue,json,yaml,yml,scss}\"",
-    "lint:tsc": "vue-tsc --noEmit",
-    "test": "jest"
+    "lint:tsc": "nuxt typecheck",
+    "test": "vitest run"
   },
   "repository": {
     "type": "git",

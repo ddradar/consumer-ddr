@@ -9,7 +9,7 @@
       <OTableColumn v-slot="props" field="name" label="Name">
         <NuxtLink
           class="is-size-6-mobile"
-          :to="`/series/${getSlug(props.row._file)}/`"
+          :to="`/series/${props.row.slug}/`"
         >
           {{ props.row.name }}
         </NuxtLink>
@@ -37,7 +37,6 @@
 
 <script lang="ts" setup>
 import type { SoftwareParsedContent } from '~~/src/content'
-import { getSlug } from '~~/src/content'
 
 const { data: softwareList, pending: isLoading } = await useAsyncData(
   '/software',
@@ -45,7 +44,7 @@ const { data: softwareList, pending: isLoading } = await useAsyncData(
     queryContent<SoftwareParsedContent>()
       .where({ _type: 'markdown' })
       .sort({ launched: 1 })
-      .only(['_file', 'name', 'platform', 'region', 'launched'])
+      .only(['slug', 'name', 'platform', 'region', 'launched'])
       .find()
 )
 </script>

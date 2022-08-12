@@ -1,58 +1,51 @@
-import { mount, RouterLinkStub, shallowMount, Wrapper } from '@vue/test-utils'
-import { MetaInfo } from 'vue-meta'
+import { RouterLinkStub } from '@vue/test-utils'
+import { beforeAll, describe, expect, test, vi } from 'vitest'
+import { ref } from 'vue'
 
-import { createVue } from '~/__tests__/utils'
 import SongList from '~/pages/song/index.vue'
-import { Song } from '~/types/song'
 
-type SongListData = Omit<Song, 'series' | 'charts'> & {
-  seriesList: string[]
-}
-
-const localVue = createVue()
+import { mountAsync, plugins } from '../../test-utils'
 
 describe('pages/song/index.vue', () => {
-  let wrapper: Wrapper<SongList>
-  const songList: SongListData[] = [
-    {
-      slug: 'am-3p',
-      name: 'AM-3P',
-      artist: 'KTz',
-      bpm: 130,
-      seriesList: ['2nd-remix-jp']
-    },
-    {
-      slug: 'paranoia',
-      name: 'PARANOiA',
-      artist: '180',
-      bpm: 180,
-      seriesList: ['1st-jp', '2nd-remix-jp']
-    }
+  const song = { slug: 'paranoia', name: 'PARANOiA', artist: '180', bpm: 180 }
+  const series = [{ slug: '1st-jp' }, { slug: '2nd' }]
+  const songs = [
+    { slug: 'am-3p', series: '2nd', name: 'AM-3P', artist: 'KTz', bpm: 130 },
+    ...series.map(({ slug }) => ({ ...song, series: slug }))
   ]
-  const seriesList = ['1st-jp', '2nd-remix-jp']
-  const stubs = { NuxtLink: RouterLinkStub }
-  const data = () => ({ songList, seriesList })
+  const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }
 
-  beforeEach(() => {
-    wrapper = shallowMount(SongList, { localVue, stubs, data })
+  beforeAll(() => {
+    vi.mocked(useAsyncData).mockResolvedValue({ data: ref(series) } as any)
   })
 
-  test('renders correctly', async () => {
-    // Arrange - Act
-    const wrapper = mount(SongList, { localVue, stubs, data })
-    await wrapper.vm.$nextTick()
-
-    // Assert
-    expect(wrapper.element).toMatchSnapshot()
-  })
-
-  describe('head()', () => {
-    test('returns "Song List"', () => {
+  describe('snapshot test', () => {
+    test('renders loading state', async () => {
       // Arrange
-      const head = wrapper.vm.$data.head as MetaInfo
+      vi.mocked(useLazyAsyncData).mockResolvedValue({
+        data: ref([]),
+        pending: ref(true)
+      } as any)
 
-      // Act & Assert
-      expect(head).toStrictEqual({ title: 'Song List' })
+      // Act
+      const wrapper = await mountAsync(SongList, { global })
+
+      // Assert
+      expect(wrapper.element).toMatchSnapshot()
+    })
+
+    test('renders song info', async () => {
+      // Arrange
+      vi.mocked(useLazyAsyncData).mockResolvedValue({
+        data: ref(songs),
+        pending: ref(false)
+      } as any)
+
+      // Act
+      const wrapper = await mountAsync(SongList, { global })
+
+      // Assert
+      expect(wrapper.element).toMatchSnapshot()
     })
   })
 })

@@ -2,7 +2,14 @@
   <section class="section">
     <h1 class="title">Song List</h1>
 
-    <OTable :data="songs" per-page="20" striped narrowed paginated>
+    <OTable
+      :data="songs"
+      per-page="20"
+      striped
+      narrowed
+      paginated
+      :loading="isLoading"
+    >
       <OTableColumn v-slot="props" field="name" label="Name" searchable>
         <NuxtLink class="is-size-6-mobile" :to="`/song/${props.row.slug}/`">
           {{ props.row.name }}
@@ -47,18 +54,20 @@ type SongListData = Omit<SongParsedContent, 'series' | 'charts'> & {
   seriesList: string[]
 }
 
-const { data: _songs } = await useAsyncData('/songs', () =>
-  queryContent<SongParsedContent>()
-    .where({ _type: 'json' })
-    .without('charts')
-    .find()
-)
 const { data: _series } = await useAsyncData('/series', () =>
   queryContent<SoftwareParsedContent>()
     .where({ _type: 'markdown' })
     .sort({ launched: 1 })
     .only('slug')
     .find()
+)
+const { data: _songs, pending: isLoading } = await useLazyAsyncData(
+  '/songs',
+  () =>
+    queryContent<SongParsedContent>()
+      .where({ _type: 'json' })
+      .without('charts')
+      .find()
 )
 
 const songs = computed(() =>
@@ -80,7 +89,7 @@ const songs = computed(() =>
 )
 
 const getClass = (id: string) => {
-  const index = _series.value.findIndex((s) => s._slug === id)
+  const index = _series.value.findIndex((s) => s.slug === id)
   const classList = ['info', 'success', 'danger', 'warning', 'dark']
   return classList[index % classList.length]
 }

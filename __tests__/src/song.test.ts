@@ -1,6 +1,8 @@
-import { normalizeDifficulty } from '~/types/song'
+import { describe, expect,test } from 'vitest'
 
-describe('/types/song.ts', () => {
+import { normalizeDifficulty } from '~~/src/song'
+
+describe('/src/song.ts', () => {
   describe('normalizeDifficulty', () => {
     test.each([
       ['foo', 'CHALLENGE'],
