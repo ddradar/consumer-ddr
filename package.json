@@ -47,7 +47,7 @@
     "jest": "^27.5.1",
     "jest-json-schema": "^6.1.0",
     "npm-run-all2": "^5.0.2",
-    "nuxt": "^3.0.0-rc.6",
+    "nuxt": "^3.0.0-rc.7",
     "prettier": "^2.7.1",
     "sass": "^1.54.0",
     "sass-loader": "^10.3.1",

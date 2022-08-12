@@ -5,7 +5,6 @@ import pkg from './package.json'
 const title = 'Consumer DDR'
 
 export default defineNuxtConfig({
-  target: 'static',
   head: {
     titleTemplate: `%s - ${title}`,
     meta: [

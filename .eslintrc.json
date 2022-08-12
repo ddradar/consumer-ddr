@@ -9,6 +9,7 @@
     "@nuxtjs/eslint-config-typescript",
     "plugin:jest/recommended",
     "plugin:nuxt/recommended",
+    "plugin:vue/vue3-recommended",
     "prettier"
   ],
   "plugins": ["jest", "simple-import-sort"],
