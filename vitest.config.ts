@@ -26,7 +26,6 @@ export default defineConfig({
     environment: 'jsdom',
     setupFiles: ['./__tests__/stubWindow.ts', './__tests__/stubGlobal.ts'],
     coverage: {
-      enabled: true,
       all: true,
       reporter: ['json', 'text'],
       include: ['**/*.ts', '**/*.vue'],
