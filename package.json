@@ -16,6 +16,7 @@
     "lint:eslint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore .",
     "lint:prettier": "prettier --ignore-path .gitignore -l \"**/*.{js,ts,vue,json,yaml,yml,scss}\"",
     "lint:tsc": "nuxt typecheck",
+    "pretest": "nuxt prepare",
     "test": "vitest run"
   },
   "repository": {
