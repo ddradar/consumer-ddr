@@ -1,8 +1,8 @@
 import Oruga from '@oruga-ui/oruga-next'
 import { bulmaConfig } from '@oruga-ui/theme-bulma'
-import type { Plugin } from '@vue/runtime-core'
 import { mount } from '@vue/test-utils'
 import flushPromises from 'flush-promises'
+import type { Plugin } from 'vue'
 import { defineComponent, h, Suspense } from 'vue'
 
 export const plugins: (Plugin | [Plugin, ...any[]])[] = [[Oruga, bulmaConfig]]
