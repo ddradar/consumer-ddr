@@ -2,11 +2,11 @@ import { RouterLinkStub } from '@vue/test-utils'
 import { describe, expect, test, vi } from 'vitest'
 import { ref } from 'vue'
 
-import SongList from '~/pages/song/index.vue'
+import SongList from '~/pages/songs/index.vue'
 
 import { mountAsync, plugins } from '../../test-utils'
 
-describe('pages/song/index.vue', () => {
+describe('pages/songs/index.vue', () => {
   const song = { slug: 'paranoia', name: 'PARANOiA', artist: '180', bpm: 180 }
   const series = [{ slug: '1st-jp' }, { slug: '2nd' }]
   const songs = [

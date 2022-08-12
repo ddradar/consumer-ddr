@@ -11,7 +11,7 @@
       :loading="isLoading"
     >
       <OTableColumn v-slot="props" field="name" label="Name" searchable>
-        <NuxtLink class="is-size-6-mobile" :to="`/song/${props.row.slug}/`">
+        <NuxtLink class="is-size-6-mobile" :to="`/songs/${props.row.slug}/`">
           {{ props.row.name }}
         </NuxtLink>
       </OTableColumn>

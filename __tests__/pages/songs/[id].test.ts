@@ -2,11 +2,11 @@ import { RouterLinkStub } from '@vue/test-utils'
 import { beforeAll, describe, expect, test, vi } from 'vitest'
 import { ref } from 'vue'
 
-import SongDetail from '~~/pages/song/[id].vue'
+import SongDetail from '~~/pages/songs/[id].vue'
 
 import { mountAsync, plugins } from '../../test-utils'
 
-describe('pages/song/[id].vue', () => {
+describe('pages/songs/[id].vue', () => {
   const songs = [
     {
       slug: 'trip-machine',

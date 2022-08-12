@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`pages/song/_id.vue renders correctly 1`] = `
+exports[`pages/songs/_id.vue renders correctly 1`] = `
 <section
   class="section"
 >

@@ -5,7 +5,7 @@
 
     <OTable :data="songs" striped narrowed :loading="isLoading">
       <OTableColumn v-slot="props" field="name" label="Name">
-        <NuxtLink :to="`/song/${props.row.slug}/`">
+        <NuxtLink :to="`/songs/${props.row.slug}/`">
           {{ props.row.name }}
         </NuxtLink>
       </OTableColumn>

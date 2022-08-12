@@ -1,6 +1,6 @@
 // Vitest Snapshot v1
 
-exports[`pages/song/index.vue > snapshot test > renders loading state 1`] = `
+exports[`pages/songs/index.vue > snapshot test > renders loading state 1`] = `
 <section
   class="section"
 >
@@ -308,7 +308,7 @@ exports[`pages/song/index.vue > snapshot test > renders loading state 1`] = `
 </section>
 `;
 
-exports[`pages/song/index.vue > snapshot test > renders song info 1`] = `
+exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
 <section
   class="section"
 >
