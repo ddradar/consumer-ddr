@@ -45,7 +45,7 @@ jobs:
         run: yarn build
 
       - name: Upload Production Artifact
-        if: github.event_name == 'release'
+        if: github.event_name == 'push'
         uses: actions/upload-pages-artifact@v1.0.3
         with:
           path: dist
