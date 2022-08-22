@@ -40,11 +40,12 @@
     "flush-promises": "^1.0.2",
     "jsdom": "^20.0.0",
     "npm-run-all2": "^5.0.2",
-    "nuxt": "^3.0.0-rc.7",
+    "nuxt": "^3.0.0-rc.8",
     "prettier": "^2.7.1",
     "sass": "^1.54.0",
     "typescript": "^4.7.4",
-    "vitest": "^0.21.1"
+    "vitest": "^0.22.1",
+    "vue-tsc": "^0.40.1"
   },
   "resolutions": {
     "@types/node": "16.x"
