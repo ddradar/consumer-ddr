@@ -39,7 +39,7 @@
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "flush-promises": "^1.0.2",
     "jsdom": "^20.0.0",
-    "npm-run-all2": "^5.0.2",
+    "npm-run-all2": "^6.0.2",
     "nuxt": "^3.0.0-rc.8",
     "prettier": "^2.7.1",
     "sass": "^1.54.0",
