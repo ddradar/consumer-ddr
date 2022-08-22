@@ -1,46 +1,60 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1
 
-exports[`pages/index.vue renders correctly 1`] = `
+exports[`pages/index.vue > renders correctly 1`] = `
 <section
   class="section"
 >
+  <head-stub />
+  <h1
+    class="title"
+  >
+    Consumer DDR
+  </h1>
   <div
     class="b-table"
   >
     <div
       style="display: none;"
     >
-      <span>
+      
+      <span
+        data-id="1"
+      >
         Name
       </span>
-       
-      <span>
+      <span
+        data-id="2"
+      >
         Platform
       </span>
-       
-      <span>
+      <span
+        data-id="3"
+      >
         Launched
       </span>
+      
     </div>
-    <!---->
-    <!---->
+    <!--v-if-->
+    <!--v-if-->
     <div
       class="table-wrapper"
     >
       <table
-        class="table is-striped is-narrow"
+        class="table is-striped"
+        tabindex="false"
       >
-        <!---->
+        <!--v-if-->
         <thead>
           <tr>
-            <!---->
-            <!---->
+            <!--v-if-->
+            <!--v-if-->
+            
             <th
               class=""
               draggable="false"
             >
               <span>
-                 Name 
+                Name 
                 <span
                   class="th-wrap sort-icon"
                   style="display: none;"
@@ -60,7 +74,7 @@ exports[`pages/index.vue renders correctly 1`] = `
               draggable="false"
             >
               <span>
-                 Platform 
+                Platform 
                 <span
                   class="th-wrap sort-icon"
                   style="display: none;"
@@ -80,7 +94,7 @@ exports[`pages/index.vue renders correctly 1`] = `
               draggable="false"
             >
               <span>
-                 Launched 
+                Launched 
                 <span
                   class="th-wrap sort-icon"
                   style="display: none;"
@@ -95,154 +109,112 @@ exports[`pages/index.vue renders correctly 1`] = `
                 </span>
               </span>
             </th>
-            <!---->
+            
+            <!--v-if-->
           </tr>
-          <tr>
-            <!---->
-            <!---->
-            <th
-              class=""
-            >
-              <div
-                class="control"
-              >
-                <input
-                  autocomplete="off"
-                  class="input"
-                  type="text"
-                />
-                <!---->
-                <!---->
-                <!---->
-              </div>
-            </th>
-            <th
-              class=""
-            >
-              <div
-                class="control"
-              >
-                <input
-                  autocomplete="off"
-                  class="input"
-                  type="text"
-                />
-                <!---->
-                <!---->
-                <!---->
-              </div>
-            </th>
-            <th
-              class=""
-            >
-              <!---->
-            </th>
-            <!---->
-          </tr>
-          <!---->
+          <!--v-if-->
+          <!--v-if-->
         </thead>
         <tbody>
+          
+          
           <tr
             class=""
             draggable="false"
           >
-            <!---->
-            <!---->
+            <!--v-if-->
+            <!--v-if-->
+            
             <td
               class=""
               data-label="Name"
+              scoped=""
             >
               <a
                 class="is-size-6-mobile"
               >
-                
-        Dance Dance Revolution
-      
+                Dance Dance Revolution
               </a>
             </td>
             <td
               class=""
               data-label="Platform"
+              scoped=""
             >
               <span>
-                
-        Play Station
-        🇯🇵
-      
+                Play Station JP
               </span>
             </td>
             <td
               class=""
               data-label="Launched"
+              scoped=""
             >
-              
-      1999-04-10
-    
+              1999-04-10
             </td>
-            <!---->
+            
+            <!--v-if-->
           </tr>
-          <transition-stub
-            name=""
-          >
-            <!---->
+          <transition-stub>
+            <!--v-if-->
           </transition-stub>
-          <!---->
+          <!--v-if-->
+          
+          
           <tr
             class=""
             draggable="false"
           >
-            <!---->
-            <!---->
+            <!--v-if-->
+            <!--v-if-->
+            
             <td
               class=""
               data-label="Name"
+              scoped=""
             >
               <a
                 class="is-size-6-mobile"
               >
-                
-        Dance Dance Revolution 2nd ReMIX
-      
+                Dance Dance Revolution 2nd ReMIX
               </a>
             </td>
             <td
               class=""
               data-label="Platform"
+              scoped=""
             >
               <span>
-                
-        Play Station
-        🇯🇵
-      
+                Play Station JP
               </span>
             </td>
             <td
               class=""
               data-label="Launched"
+              scoped=""
             >
-              
-      1999-08-26
-    
+              1999-08-26
             </td>
-            <!---->
+            
+            <!--v-if-->
           </tr>
-          <transition-stub
-            name=""
-          >
-            <!---->
+          <transition-stub>
+            <!--v-if-->
           </transition-stub>
-          <!---->
-          <!---->
+          <!--v-if-->
+          
+          
+          <!--v-if-->
         </tbody>
-        <!---->
+        <!--v-if-->
       </table>
-      <transition-stub
-        name="fade"
-      >
-        <!---->
+      
+      <transition-stub>
+        <!--v-if-->
       </transition-stub>
+      
     </div>
-    <!---->
+    <!--v-if-->
   </div>
 </section>
 `;

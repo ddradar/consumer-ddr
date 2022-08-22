@@ -1,12 +1,17 @@
 <template>
   <section class="section">
-    <OTable :data="softwareList" striped narrowed>
-      <OTableColumn v-slot="props" field="name" label="Name" searchable>
+    <Head>
+      <Title>Consumer DDR</Title>
+    </Head>
+    <h1 class="title">Consumer DDR</h1>
+
+    <OTable :data="softwareList" striped :loading="isLoading">
+      <OTableColumn v-slot="props" field="name" label="Name">
         <NuxtLink class="is-size-6-mobile" :to="`/series/${props.row.slug}/`">
           {{ props.row.name }}
         </NuxtLink>
       </OTableColumn>
-      <OTableColumn v-slot="props" field="platform" label="Platform" searchable>
+      <OTableColumn v-slot="props" field="platform" label="Platform">
         <span>
           {{ props.row.platform }}
           {{ props.row.region }}
@@ -27,48 +32,16 @@
   </section>
 </template>
 
-<script lang="ts">
-import { Context } from '@nuxt/types'
-import { Component, Vue } from 'nuxt-property-decorator'
-import { MetaInfo } from 'vue-meta'
+<script lang="ts" setup>
+import type { SoftwareParsedContent } from '~~/src/content'
 
-import { Software } from '~/types/software'
-
-type SoftListData = Omit<Software, 'difficultyNames' | 'region'> & {
-  region: string
-}
-
-@Component
-export default class IndexPage extends Vue {
-  softwareList: SoftListData[] = []
-
-  head(): MetaInfo {
-    return {
-      title: 'Consumer DDR',
-      titleTemplate: ''
-    }
-  }
-
-  async asyncData({ $content }: Pick<Context, '$content'>) {
-    const rawSoftwareList = await $content({ deep: true })
-      .where({ extension: { $eq: '.md' } })
-      .sortBy('launched')
-      .without('difficultyNames')
-      .fetch<SoftListData>()
-    const softwareList = [rawSoftwareList].flat().map((s) => {
-      const region =
-        s.region === 'JP'
-          ? '\u{1F1EF}\u{1F1F5}'
-          : s.region === 'US'
-          ? '\u{1F1FA}\u{1F1F8}'
-          : s.region === 'EU'
-          ? '\u{1F1EA}\u{1F1FA}'
-          : s.region === 'None'
-          ? '\u{1F1FA}\u{1F1F3}'
-          : '?'
-      return { ...s, region }
-    })
-    return { softwareList }
-  }
-}
+const { data: softwareList, pending: isLoading } = await useAsyncData(
+  '/software',
+  () =>
+    queryContent<SoftwareParsedContent>()
+      .where({ _type: 'markdown' })
+      .sort({ launched: 1 })
+      .only(['slug', 'name', 'platform', 'region', 'launched'])
+      .find()
+)
 </script>

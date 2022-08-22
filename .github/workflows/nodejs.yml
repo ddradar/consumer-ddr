@@ -9,7 +9,7 @@ on:
     types: [published]
 
 env:
-  NODE_VERSION: 12
+  NODE_VERSION: 16
 
 jobs:
   lint:
@@ -70,7 +70,7 @@ jobs:
         run: yarn --frozen-lockfile
 
       - name: Unit Test
-        run: yarn test
+        run: yarn test --coverage
 
       - name: Report Code Coverage to codecov
         uses: codecov/codecov-action@v3.1.0

@@ -1,0 +1,358 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/songs/_id.vue renders correctly 1`] = `
+<section
+  class="section"
+>
+  <h1
+    class="title"
+  >
+    BOYS / smile. dk
+  </h1>
+   
+  <h2
+    class="subtitle"
+  >
+    BPM 138
+  </h2>
+   
+  <div
+    class="buttons"
+  >
+    <a
+      class="button is-small is-info"
+    >
+      <span
+        class="button-wrapper"
+      >
+        <!---->
+        <span
+          class=""
+        >
+          
+      1st-jp
+    
+        </span>
+        <!---->
+      </span>
+    </a>
+    <a
+      class="button is-small is-success"
+    >
+      <span
+        class="button-wrapper"
+      >
+        <!---->
+        <span
+          class=""
+        >
+          
+      2nd-remix-jp
+    
+        </span>
+        <!---->
+      </span>
+    </a>
+  </div>
+   
+  <div
+    class="b-table"
+  >
+    <div
+      style="display: none;"
+    >
+      <span>
+        PlayStyle
+      </span>
+       
+      <span>
+        Difficulty
+      </span>
+       
+      <span>
+        Level
+      </span>
+    </div>
+    <!---->
+    <!---->
+    <div
+      class="table-wrapper"
+    >
+      <table
+        class="table is-striped"
+      >
+        <!---->
+        <thead>
+          <tr>
+            <!---->
+            <!---->
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                 PlayStyle 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                 Difficulty 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                 Level 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <!---->
+          </tr>
+          <!---->
+          <!---->
+        </thead>
+        <tbody>
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+            <!---->
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+      SINGLE
+    
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+      1
+    
+            </td>
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+      3, 3
+    
+            </td>
+            <!---->
+          </tr>
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+            <!---->
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+      SINGLE
+    
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+      2
+    
+            </td>
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+      4, 4
+    
+            </td>
+            <!---->
+          </tr>
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+            <!---->
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+      SINGLE
+    
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+      3
+    
+            </td>
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+      7, 7
+    
+            </td>
+            <!---->
+          </tr>
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+            <!---->
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+      SINGLE
+    
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+      1
+    
+            </td>
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+      4, 4
+    
+            </td>
+            <!---->
+          </tr>
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
+          <!---->
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!---->
+            <!---->
+            <td
+              class=""
+              data-label="PlayStyle"
+            >
+              
+      SINGLE
+    
+            </td>
+            <td
+              class=""
+              data-label="Difficulty"
+            >
+              
+      2
+    
+            </td>
+            <td
+              class=""
+              data-label="Level"
+            >
+              
+      5, 5
+    
+            </td>
+            <!---->
+          </tr>
+          <transition-stub
+            name=""
+          >
+            <!---->
+          </transition-stub>
+          <!---->
+          <!---->
+        </tbody>
+        <!---->
+      </table>
+      <transition-stub
+        name="fade"
+      >
+        <!---->
+      </transition-stub>
+    </div>
+    <!---->
+  </div>
+</section>
+`;

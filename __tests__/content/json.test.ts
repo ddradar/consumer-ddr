@@ -1,27 +1,24 @@
-import { readdirSync, readFile, stat } from 'fs'
-import { matchersWithOptions } from 'jest-json-schema'
+// eslint-disable-next-line import/no-named-as-default
+import Ajv from 'ajv'
+import { readdirSync, readFile, stat } from 'node:fs'
 import { extname, join } from 'path'
 import { promisify } from 'util'
+import { describe, expect, test } from 'vitest'
 
-import songSchema from '~/static/song-schema.json'
+import songSchema from '~~/public/song-schema.json'
 
-expect.extend(
-  matchersWithOptions({
-    schemas: [songSchema]
-  })
-)
-const rootPath = join(__dirname, '..', '..')
+const dirPath = join(__dirname, '..', '..', 'content')
 const readFileAsync = promisify(readFile)
 const statAsync = promisify(stat)
 
 describe('/content', () => {
-  const dirPath = join(rootPath, 'content')
+  const validate = new Ajv({ allowUnionTypes: true }).compile(songSchema)
   const seriesFolders = readdirSync(dirPath)
 
   describe.each(seriesFolders)('/%s', (series) => {
-    test(`has ${series}.md`, async () => {
+    test('has index.md', async () => {
       // Arrange
-      const markDownFilePath = join(dirPath, series, `${series}.md`)
+      const markDownFilePath = join(dirPath, series, 'index.md')
 
       // Act
       const stat = await statAsync(markDownFilePath)
@@ -42,7 +39,7 @@ describe('/content', () => {
       const jsonObject = JSON.parse(jsonString)
 
       // Assert
-      expect(jsonObject).toMatchSchema(songSchema)
+      expect(validate(jsonObject)).toBeTruthy()
       expect(jsonObject.series).toBe(series)
     })
   })

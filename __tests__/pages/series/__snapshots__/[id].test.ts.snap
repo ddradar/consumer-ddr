@@ -1,0 +1,647 @@
+// Vitest Snapshot v1
+
+exports[`pages/series/[id].vue > snapshot test > renders loading state 1`] = `
+<section
+  class="section"
+>
+  <h1
+    class="title"
+  >
+    Dance Dance Revolution
+  </h1>
+  <h2
+    class="subtitle"
+  >
+    Play Station(JP)
+  </h2>
+  <div
+    class="b-table"
+  >
+    <div
+      style="display: none;"
+    >
+      
+      <span
+        data-id="1"
+      >
+        Name
+      </span>
+      <span
+        data-id="2"
+      >
+        Artist
+      </span>
+      <span
+        data-id="3"
+      >
+        BPM
+      </span>
+      
+      
+      
+    </div>
+    <!--v-if-->
+    <!--v-if-->
+    <div
+      class="table-wrapper"
+    >
+      <table
+        class="table is-striped is-narrow is-empty"
+        tabindex="false"
+      >
+        <!--v-if-->
+        <thead>
+          <tr>
+            <!--v-if-->
+            <!--v-if-->
+            
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                Name 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                Artist 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                BPM 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            
+            <!--v-if-->
+          </tr>
+          <!--v-if-->
+          <!--v-if-->
+        </thead>
+        <tbody>
+          
+          
+          <tr>
+            <td
+              colspan="3"
+            >
+              
+              <section
+                class="section"
+              >
+                <div
+                  class="content has-text-grey has-text-centered"
+                >
+                  <p>
+                    Nothing here.
+                  </p>
+                </div>
+              </section>
+              
+            </td>
+          </tr>
+        </tbody>
+        <!--v-if-->
+      </table>
+      
+      <transition-stub>
+        <div
+          class="o-load loading"
+        >
+          <div
+            class="o-load__overlay loading-overlay"
+          />
+          
+          <span
+            class="icon is-spin is-medium o-load__icon icon"
+          >
+            <i
+              class="mdi mdi-loading mdi-36px"
+            />
+          </span>
+          
+        </div>
+      </transition-stub>
+      
+    </div>
+    <!--v-if-->
+  </div>
+</section>
+`;
+
+exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
+<section
+  class="section"
+>
+  <h1
+    class="title"
+  >
+    Dance Dance Revolution
+  </h1>
+  <h2
+    class="subtitle"
+  >
+    Play Station(JP)
+  </h2>
+  <div
+    class="b-table"
+  >
+    <div
+      style="display: none;"
+    >
+      
+      <span
+        data-id="1"
+      >
+        Name
+      </span>
+      <span
+        data-id="2"
+      >
+        Artist
+      </span>
+      <span
+        data-id="3"
+      >
+        BPM
+      </span>
+      
+      <span
+        data-id="4"
+      >
+        SINGLE
+      </span>
+      <span
+        data-id="5"
+      >
+        DOUBLE
+      </span>
+      
+      
+    </div>
+    <!--v-if-->
+    <!--v-if-->
+    <div
+      class="table-wrapper"
+    >
+      <table
+        class="table is-striped is-narrow"
+        tabindex="false"
+      >
+        <!--v-if-->
+        <thead>
+          <tr>
+            <!--v-if-->
+            <!--v-if-->
+            
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                Name 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                Artist 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                BPM 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                SINGLE 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                DOUBLE 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
+            
+            <!--v-if-->
+          </tr>
+          <!--v-if-->
+          <!--v-if-->
+        </thead>
+        <tbody>
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="Name"
+              scoped=""
+            >
+              <a>
+                MAKE IT BETTER
+              </a>
+            </td>
+            <td
+              class=""
+              data-label="Artist"
+              scoped=""
+            >
+              <span>
+                mitsu-O!
+              </span>
+            </td>
+            <td
+              class=""
+              data-label="BPM"
+              scoped=""
+            >
+              118
+            </td>
+            <td
+              class=""
+              data-label="SINGLE"
+              scoped=""
+            >
+              <div
+                class="tags has-addons"
+              >
+                
+                <span
+                  class="tag is-basic"
+                  title="BASIC"
+                >
+                  5
+                </span>
+                <span
+                  class="tag is-difficult"
+                  title="ANOTHER"
+                >
+                  6
+                </span>
+                <span
+                  class="tag is-expert"
+                  title="MANIAC"
+                >
+                  8
+                </span>
+                
+              </div>
+            </td>
+            <td
+              class=""
+              data-label="DOUBLE"
+              scoped=""
+            >
+              <div
+                class="tags has-addons"
+              >
+                
+                <span
+                  class="tag is-basic"
+                  title="BASIC"
+                >
+                  5
+                </span>
+                <span
+                  class="tag is-difficult"
+                  title="ANOTHER"
+                >
+                  6
+                </span>
+                
+              </div>
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="Name"
+              scoped=""
+            >
+              <a>
+                PARANOiA
+              </a>
+            </td>
+            <td
+              class=""
+              data-label="Artist"
+              scoped=""
+            >
+              <span>
+                180
+              </span>
+            </td>
+            <td
+              class=""
+              data-label="BPM"
+              scoped=""
+            >
+              180
+            </td>
+            <td
+              class=""
+              data-label="SINGLE"
+              scoped=""
+            >
+              <div
+                class="tags has-addons"
+              >
+                
+                <span
+                  class="tag is-basic"
+                  title="BASIC"
+                >
+                  6
+                </span>
+                <span
+                  class="tag is-difficult"
+                  title="ANOTHER"
+                >
+                  7
+                </span>
+                <span
+                  class="tag is-expert"
+                  title="MANIAC"
+                >
+                  8
+                </span>
+                
+              </div>
+            </td>
+            <td
+              class=""
+              data-label="DOUBLE"
+              scoped=""
+            >
+              <div
+                class="tags has-addons"
+              >
+                
+                <span
+                  class="tag is-basic"
+                  title="BASIC"
+                >
+                  7
+                </span>
+                <span
+                  class="tag is-difficult"
+                  title="ANOTHER"
+                >
+                  8
+                </span>
+                
+              </div>
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <tr
+            class=""
+            draggable="false"
+          >
+            <!--v-if-->
+            <!--v-if-->
+            
+            <td
+              class=""
+              data-label="Name"
+              scoped=""
+            >
+              <a>
+                TRIP MACHINE
+              </a>
+            </td>
+            <td
+              class=""
+              data-label="Artist"
+              scoped=""
+            >
+              <span>
+                DE-SIRE
+              </span>
+            </td>
+            <td
+              class=""
+              data-label="BPM"
+              scoped=""
+            >
+              160
+            </td>
+            <td
+              class=""
+              data-label="SINGLE"
+              scoped=""
+            >
+              <div
+                class="tags has-addons"
+              >
+                
+                <span
+                  class="tag is-basic"
+                  title="BASIC"
+                >
+                  6
+                </span>
+                <span
+                  class="tag is-difficult"
+                  title="ANOTHER"
+                >
+                  7
+                </span>
+                <span
+                  class="tag is-expert"
+                  title="MANIAC"
+                >
+                  8
+                </span>
+                
+              </div>
+            </td>
+            <td
+              class=""
+              data-label="DOUBLE"
+              scoped=""
+            >
+              <div
+                class="tags has-addons"
+              >
+                
+                <span
+                  class="tag is-basic"
+                  title="BASIC"
+                >
+                  7
+                </span>
+                <span
+                  class="tag is-difficult"
+                  title="ANOTHER"
+                >
+                  8
+                </span>
+                
+              </div>
+            </td>
+            
+            <!--v-if-->
+          </tr>
+          <transition-stub>
+            <!--v-if-->
+          </transition-stub>
+          <!--v-if-->
+          
+          
+          <!--v-if-->
+        </tbody>
+        <!--v-if-->
+      </table>
+      
+      <transition-stub>
+        <!--v-if-->
+      </transition-stub>
+      
+    </div>
+    <!--v-if-->
+  </div>
+</section>
+`;

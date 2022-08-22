@@ -21,23 +21,9 @@
 
     <div id="navbarMenu" class="navbar-menu">
       <div class="navbar-start">
-        <NuxtLink class="navbar-item" to="/song/">Songs</NuxtLink>
+        <NuxtLink class="navbar-item" to="/songs/">Songs</NuxtLink>
       </div>
       <div class="navbar-end" />
     </div>
   </nav>
 </template>
-
-<script lang="ts">
-import { Component, Prop, Vue } from 'vue-property-decorator'
-
-export interface MenuItem {
-  title: string
-  subMenu: { name: string; href: string }[]
-}
-
-@Component
-export default class Navbar extends Vue {
-  @Prop({ required: true }) readonly menuList!: MenuItem[]
-}
-</script>
