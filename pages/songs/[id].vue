@@ -1,5 +1,8 @@
 <template>
   <section v-if="song" class="section">
+    <Head>
+      <Title>{{ song.name }} / {{ song.artist }}</Title>
+    </Head>
     <h1 class="title">{{ song.name }} / {{ song.artist }}</h1>
     <h2 class="subtitle">BPM {{ song.bpm }}</h2>
     <div class="buttons">

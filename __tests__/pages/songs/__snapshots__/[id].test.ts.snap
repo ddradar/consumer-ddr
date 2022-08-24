@@ -4,6 +4,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
 <section
   class="section"
 >
+  <head-stub />
   <h1
     class="title"
   >

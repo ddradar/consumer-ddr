@@ -4,6 +4,7 @@ exports[`pages/series/[id].vue > snapshot test > renders loading state 1`] = `
 <section
   class="section"
 >
+  <head-stub />
   <h1
     class="title"
   >
@@ -176,6 +177,7 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
 <section
   class="section"
 >
+  <head-stub />
   <h1
     class="title"
   >

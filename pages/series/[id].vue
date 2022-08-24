@@ -1,5 +1,8 @@
 <template>
   <section v-if="software" class="section">
+    <Head>
+      <Title>{{ software.name }}</Title>
+    </Head>
     <h1 class="title">{{ software.name }}</h1>
     <h2 class="subtitle">{{ software.platform }}({{ software.region }})</h2>
 
