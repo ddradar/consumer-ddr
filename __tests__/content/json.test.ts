@@ -1,41 +1,35 @@
 // eslint-disable-next-line import/no-named-as-default
 import Ajv from 'ajv'
-import { readdirSync, readFile, stat } from 'node:fs'
+import { readdir, readFile, stat } from 'node:fs/promises'
 import { extname, join } from 'path'
-import { promisify } from 'util'
 import { describe, expect, test } from 'vitest'
 
 import songSchema from '~~/public/song-schema.json'
 
 const dirPath = join(__dirname, '..', '..', 'content')
-const readFileAsync = promisify(readFile)
-const statAsync = promisify(stat)
 
-describe('/content', () => {
+describe('/content', async () => {
   const validate = new Ajv({ allowUnionTypes: true }).compile(songSchema)
-  const seriesFolders = readdirSync(dirPath)
+  const seriesFolders = await readdir(dirPath)
 
-  describe.each(seriesFolders)('/%s', (series) => {
+  describe.each(seriesFolders)('/%s', async (series) => {
     test('has index.md', async () => {
       // Arrange
       const markDownFilePath = join(dirPath, series, 'index.md')
 
       // Act
-      const stat = await statAsync(markDownFilePath)
+      const fileStat = await stat(markDownFilePath)
 
       // Assert
-      expect(stat.isFile()).toBe(true)
+      expect(fileStat.isFile()).toBe(true)
     })
 
-    const jsonFiles: string[] = readdirSync(join(dirPath, series)).filter(
+    const jsonFiles: string[] = (await readdir(join(dirPath, series))).filter(
       (p) => extname(p) === '.json'
     )
     test.each(jsonFiles)('%s should be valid json', async (fileName) => {
       // Arrange - Act
-      const jsonString = await readFileAsync(
-        join(dirPath, series, fileName),
-        'utf8'
-      )
+      const jsonString = await readFile(join(dirPath, series, fileName), 'utf8')
       const jsonObject = JSON.parse(jsonString)
 
       // Assert

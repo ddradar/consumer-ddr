@@ -1,10 +1,16 @@
+import { readdirSync } from 'node:fs'
+import { join } from 'node:path'
 import { defineNuxtConfig } from 'nuxt'
 
 import pkg from './package.json'
 
 const title = 'Consumer DDR'
 
+/** Series slug */
+const series = readdirSync(join(__dirname, 'content'))
+
 export default defineNuxtConfig({
+  nitro: { prerender: { routes: series.map((s) => `/series/${s}`) } },
   app: {
     head: {
       titleTemplate: `%s - ${title}`,
