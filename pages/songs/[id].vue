@@ -3,15 +3,15 @@
     <h1 class="title">{{ song.name }} / {{ song.artist }}</h1>
     <h2 class="subtitle">BPM {{ song.bpm }}</h2>
     <div class="buttons">
-      <OButton
+      <NuxtLink
         v-for="id in series"
         :key="id"
-        tag="NuxtLink"
-        :variant="getClass(id)"
+        class="button"
+        :class="getClass(id)"
         :to="`/series/${id}/`"
       >
         {{ id }}
-      </OButton>
+      </NuxtLink>
     </div>
     <OTable :data="charts" striped>
       <OTableColumn v-slot="props" field="playStyle" label="PlayStyle">
@@ -71,6 +71,6 @@ const charts = computed(() =>
 const getClass = (id: string) => {
   const index = series.value.findIndex((s) => s === id)
   const classList = ['info', 'success', 'danger', 'warning', 'dark']
-  return classList[index % classList.length]
+  return `is-${classList[index % classList.length]}`
 }
 </script>
