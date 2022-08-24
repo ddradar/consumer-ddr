@@ -1,5 +1,5 @@
 import { readdirSync } from 'node:fs'
-import { join } from 'node:path'
+import { basename, extname, join } from 'node:path'
 import { defineNuxtConfig } from 'nuxt'
 
 import pkg from './package.json'
@@ -8,9 +8,22 @@ const title = 'Consumer DDR'
 
 /** Series slug */
 const series = readdirSync(join(__dirname, 'content'))
+/** Songs slug */
+const songs = series.flatMap((s) =>
+  readdirSync(join(__dirname, 'content', s))
+    .filter((f) => extname(f) === '.json')
+    .map((f) => basename(f, '.json'))
+)
 
 export default defineNuxtConfig({
-  nitro: { prerender: { routes: series.map((s) => `/series/${s}`) } },
+  nitro: {
+    prerender: {
+      routes: [
+        ...series.map((s) => `/series/${s}`),
+        ...songs.map((s) => `/songs/${s}`)
+      ]
+    }
+  },
   app: {
     head: {
       titleTemplate: `%s - ${title}`,

@@ -61,7 +61,10 @@ describe('pages/series/[id].vue', () => {
       ]
     }
   ]
-  const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }
+  const global = {
+    plugins,
+    stubs: { NuxtLink: RouterLinkStub, Head: true, Title: true }
+  }
 
   beforeAll(() => {
     vi.mocked(useRoute).mockReturnValue({ params: { id: '1st-jp' } } as any)

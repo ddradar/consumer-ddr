@@ -43,7 +43,10 @@ describe('pages/songs/[id].vue', () => {
       ]
     }
   ]
-  const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }
+  const global = {
+    plugins,
+    stubs: { NuxtLink: RouterLinkStub, Head: true, Title: true }
+  }
 
   beforeAll(() => {
     vi.mocked(useRoute).mockReturnValue({
