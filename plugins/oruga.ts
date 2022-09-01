@@ -4,3 +4,10 @@ import { bulmaConfig } from '@oruga-ui/theme-bulma'
 export default defineNuxtPlugin(({ vueApp }) => {
   vueApp.use(Oruga, bulmaConfig)
 })
+
+declare module '@vue/runtime-core' {
+  export interface GlobalComponents {
+    OTable: typeof import('@oruga-ui/oruga-next/src/components/table')['OTable']
+    OTableColumn: typeof import('@oruga-ui/oruga-next/src/components/table')['OTableColumn']
+  }
+}
