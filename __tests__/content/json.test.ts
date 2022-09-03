@@ -1,7 +1,7 @@
 // eslint-disable-next-line import/no-named-as-default
 import Ajv from 'ajv'
 import { readdir, readFile, stat } from 'node:fs/promises'
-import { extname, join } from 'path'
+import { extname, join } from 'node:path'
 import { describe, expect, test } from 'vitest'
 
 import songSchema from '~~/public/song-schema.json'
