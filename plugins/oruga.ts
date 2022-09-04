@@ -8,6 +8,7 @@ export default defineNuxtPlugin(({ vueApp }) => {
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     OAutocomplete: typeof import('@oruga-ui/oruga-next/src/components/autocomplete')['OAutocomplete']
+    OLoading: typeof import('@oruga-ui/oruga-next/src/components/loading')['OLoading']
     OTable: typeof import('@oruga-ui/oruga-next/src/components/table')['OTable']
     OTableColumn: typeof import('@oruga-ui/oruga-next/src/components/table')['OTableColumn']
   }

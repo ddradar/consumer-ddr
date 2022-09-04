@@ -1,5 +1,6 @@
 <template>
   <section>
+    <OLoading :active="isLoading" />
     <OAutocomplete
       v-model="term"
       icon="magnify"
@@ -19,7 +20,10 @@
 <script lang="ts" setup>
 import type { SongParsedContent } from '~~/src/content'
 
-type SearchSongResult = Pick<SongParsedContent, 'slug' | 'name' | 'artist'>
+export type SearchSongResult = Pick<
+  SongParsedContent,
+  'slug' | 'name' | 'artist'
+>
 
 const term = ref('')
 

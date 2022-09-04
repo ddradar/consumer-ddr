@@ -1,0 +1,118 @@
+// Vitest Snapshot v1
+
+exports[`components/SearchBox.vue > snapshot test > { isLoading: false, term: "" } renders input without autocomplete 1`] = `
+<section>
+  <transition-stub>
+    <!--v-if-->
+  </transition-stub>
+  <div
+    class="autocomplete control"
+  >
+    <div
+      class="control has-icons-left"
+    >
+      <input
+        aria-autocomplete="list"
+        autocomplete="off"
+        class="input"
+        loading="false"
+        placeholder="曲名 or アーティスト名"
+        type="text"
+      />
+      <span
+        class="icon is-left"
+      >
+        <i
+          class="mdi mdi-magnify mdi-24px"
+        />
+      </span>
+      <!--v-if-->
+      <!--v-if-->
+    </div>
+    <transition-stub>
+      <div
+        class="dropdown-menu dropdown-content is-opened-bottom"
+        is="div"
+        style="display: none;"
+      >
+        <!--v-if-->
+        
+        
+        <!--v-if-->
+        
+        
+        
+        
+        <!--v-if-->
+        <!--v-if-->
+      </div>
+    </transition-stub>
+  </div>
+</section>
+`;
+
+exports[`components/SearchBox.vue > snapshot test > { isLoading: true, term: "" } renders loading state 1`] = `
+<section>
+  <transition-stub>
+    <div
+      class="o-load loading o-load--fullpage is-full-page"
+    >
+      <div
+        class="o-load__overlay loading-overlay"
+      />
+      
+      <span
+        class="icon is-spin is-medium o-load__icon icon"
+      >
+        <i
+          class="mdi mdi-loading mdi-36px"
+        />
+      </span>
+      
+    </div>
+  </transition-stub>
+  <div
+    class="autocomplete control"
+  >
+    <div
+      class="control has-icons-left"
+    >
+      <input
+        aria-autocomplete="list"
+        autocomplete="off"
+        class="input"
+        loading="true"
+        placeholder="曲名 or アーティスト名"
+        type="text"
+      />
+      <span
+        class="icon is-left"
+      >
+        <i
+          class="mdi mdi-magnify mdi-24px"
+        />
+      </span>
+      <!--v-if-->
+      <!--v-if-->
+    </div>
+    <transition-stub>
+      <div
+        class="dropdown-menu dropdown-content is-opened-bottom"
+        is="div"
+        style="display: none;"
+      >
+        <!--v-if-->
+        
+        
+        <!--v-if-->
+        
+        
+        
+        
+        <!--v-if-->
+        <!--v-if-->
+      </div>
+    </transition-stub>
+  </div>
+</section>
+`;
