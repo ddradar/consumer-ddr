@@ -28,6 +28,7 @@ export type SearchSongResult = Pick<
 const term = ref('')
 
 const { data: _songs, pending: isLoading } = await useLazyAsyncData(
+  '/search-box',
   () =>
     queryContent<SongParsedContent>()
       .where({ _type: 'json' })

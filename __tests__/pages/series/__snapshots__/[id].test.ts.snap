@@ -221,6 +221,11 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
       >
         DOUBLE
       </span>
+      <span
+        data-id="6"
+      >
+        COUPLE
+      </span>
       
       
     </div>
@@ -339,6 +344,26 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
                 </span>
               </span>
             </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                COUPLE 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
             
             <!--v-if-->
           </tr>
@@ -440,6 +465,42 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
                 
               </div>
             </td>
+            <td
+              class=""
+              data-label="COUPLE"
+              scoped=""
+            >
+              <div
+                class="tags has-addons"
+              >
+                
+                <span
+                  class="tag is-basic"
+                  title="NORMAL"
+                >
+                  3
+                </span>
+                <span
+                  class="tag is-basic"
+                  title="BASIC"
+                >
+                  3
+                </span>
+                <span
+                  class="tag is-difficult"
+                  title="ANOTHER"
+                >
+                  4
+                </span>
+                <span
+                  class="tag is-expert"
+                  title="MANIAC"
+                >
+                  6
+                </span>
+                
+              </div>
+            </td>
             
             <!--v-if-->
           </tr>
@@ -529,6 +590,36 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
                 <span
                   class="tag is-difficult"
                   title="ANOTHER"
+                >
+                  8
+                </span>
+                
+              </div>
+            </td>
+            <td
+              class=""
+              data-label="COUPLE"
+              scoped=""
+            >
+              <div
+                class="tags has-addons"
+              >
+                
+                <span
+                  class="tag is-basic"
+                  title="BASIC"
+                >
+                  6
+                </span>
+                <span
+                  class="tag is-difficult"
+                  title="ANOTHER"
+                >
+                  7
+                </span>
+                <span
+                  class="tag is-expert"
+                  title="MANIAC"
                 >
                   8
                 </span>

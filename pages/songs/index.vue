@@ -66,6 +66,7 @@ const { data: songs, pending: isLoading } = await useAsyncData(
   () =>
     queryContent<SongParsedContent>()
       .where({ _type: 'json' })
+      .sort({ name: 1 })
       .without('charts')
       .find(),
   {

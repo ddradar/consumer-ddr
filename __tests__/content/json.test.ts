@@ -34,6 +34,7 @@ describe('/content', async () => {
 
       // Assert
       expect(validate(jsonObject)).toBeTruthy()
+      expect(`${jsonObject.slug}.json`).toBe(fileName)
       expect(jsonObject.series).toBe(series)
     })
   })
