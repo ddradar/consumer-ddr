@@ -2,60 +2,7 @@
 
 exports[`app.vue > renders correctly 1`] = `
 <div>
-  <nav
-    aria-label="main navigation"
-    class="navbar is-primary"
-    role="navigation"
-  >
-    <div
-      class="navbar-brand"
-    >
-      <a
-        class="navbar-item has-text-weight-bold"
-      >
-        <img
-          alt="Logo"
-          class="images"
-          src="/assets/img/logo.svg"
-        />
-         Consumer DDR 
-      </a>
-      <a
-        aria-expanded="false"
-        aria-label="menu"
-        class="navbar-burger"
-        data-target="navbarMenu"
-        role="button"
-      >
-        <span
-          aria-hidden="true"
-        />
-        <span
-          aria-hidden="true"
-        />
-        <span
-          aria-hidden="true"
-        />
-      </a>
-    </div>
-    <div
-      class="navbar-menu"
-      id="navbarMenu"
-    >
-      <div
-        class="navbar-start"
-      >
-        <a
-          class="navbar-item"
-        >
-          Songs
-        </a>
-      </div>
-      <div
-        class="navbar-end"
-      />
-    </div>
-  </nav>
+  <navbar-stub />
   <section
     class="main-content"
   >

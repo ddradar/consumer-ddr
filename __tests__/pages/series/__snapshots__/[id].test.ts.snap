@@ -221,6 +221,11 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
       >
         DOUBLE
       </span>
+      <span
+        data-id="6"
+      >
+        COUPLE
+      </span>
       
       
     </div>
@@ -339,6 +344,26 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
                 </span>
               </span>
             </th>
+            <th
+              class=""
+              draggable="false"
+            >
+              <span>
+                COUPLE 
+                <span
+                  class="th-wrap sort-icon"
+                  style="display: none;"
+                >
+                  <span
+                    class="icon is-small"
+                  >
+                    <i
+                      class="mdi mdi-arrow-up"
+                    />
+                  </span>
+                </span>
+              </span>
+            </th>
             
             <!--v-if-->
           </tr>
@@ -361,7 +386,7 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
               scoped=""
             >
               <a>
-                MAKE IT BETTER
+                butterfly
               </a>
             </td>
             <td
@@ -370,7 +395,7 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
               scoped=""
             >
               <span>
-                mitsu-O!
+                smile. dk
               </span>
             </td>
             <td
@@ -378,7 +403,7 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
               data-label="BPM"
               scoped=""
             >
-              118
+              135
             </td>
             <td
               class=""
@@ -391,21 +416,27 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
                 
                 <span
                   class="tag is-basic"
+                  title="NORMAL"
+                >
+                  3
+                </span>
+                <span
+                  class="tag is-basic"
                   title="BASIC"
                 >
-                  5
+                  3
                 </span>
                 <span
                   class="tag is-difficult"
                   title="ANOTHER"
                 >
-                  6
+                  4
                 </span>
                 <span
                   class="tag is-expert"
                   title="MANIAC"
                 >
-                  8
+                  6
                 </span>
                 
               </div>
@@ -423,11 +454,47 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
                   class="tag is-basic"
                   title="BASIC"
                 >
-                  5
+                  4
                 </span>
                 <span
                   class="tag is-difficult"
                   title="ANOTHER"
+                >
+                  6
+                </span>
+                
+              </div>
+            </td>
+            <td
+              class=""
+              data-label="COUPLE"
+              scoped=""
+            >
+              <div
+                class="tags has-addons"
+              >
+                
+                <span
+                  class="tag is-basic"
+                  title="NORMAL"
+                >
+                  3
+                </span>
+                <span
+                  class="tag is-basic"
+                  title="BASIC"
+                >
+                  3
+                </span>
+                <span
+                  class="tag is-difficult"
+                  title="ANOTHER"
+                >
+                  4
+                </span>
+                <span
+                  class="tag is-expert"
+                  title="MANIAC"
                 >
                   6
                 </span>
@@ -529,50 +596,9 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
                 
               </div>
             </td>
-            
-            <!--v-if-->
-          </tr>
-          <transition-stub>
-            <!--v-if-->
-          </transition-stub>
-          <!--v-if-->
-          
-          
-          <tr
-            class=""
-            draggable="false"
-          >
-            <!--v-if-->
-            <!--v-if-->
-            
             <td
               class=""
-              data-label="Name"
-              scoped=""
-            >
-              <a>
-                TRIP MACHINE
-              </a>
-            </td>
-            <td
-              class=""
-              data-label="Artist"
-              scoped=""
-            >
-              <span>
-                DE-SIRE
-              </span>
-            </td>
-            <td
-              class=""
-              data-label="BPM"
-              scoped=""
-            >
-              160
-            </td>
-            <td
-              class=""
-              data-label="SINGLE"
+              data-label="COUPLE"
               scoped=""
             >
               <div
@@ -594,30 +620,6 @@ exports[`pages/series/[id].vue > snapshot test > renders song info 1`] = `
                 <span
                   class="tag is-expert"
                   title="MANIAC"
-                >
-                  8
-                </span>
-                
-              </div>
-            </td>
-            <td
-              class=""
-              data-label="DOUBLE"
-              scoped=""
-            >
-              <div
-                class="tags has-addons"
-              >
-                
-                <span
-                  class="tag is-basic"
-                  title="BASIC"
-                >
-                  7
-                </span>
-                <span
-                  class="tag is-difficult"
-                  title="ANOTHER"
                 >
                   8
                 </span>

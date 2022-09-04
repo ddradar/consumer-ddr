@@ -2,9 +2,19 @@ import { RouterLinkStub } from '@vue/test-utils'
 import { beforeAll, describe, expect, test, vi } from 'vitest'
 import { ref } from 'vue'
 
+import butterfly from '~~/content/1st-jp/butterfly.json'
+import paranoia from '~~/content/1st-jp/paranoia.json'
 import SeriesDetail from '~~/pages/series/[id].vue'
 
 import { mountAsync, plugins } from '../../test-utils'
+
+const rawSongData = [butterfly, paranoia].map((d) => ({
+  slug: d.slug,
+  name: d.name,
+  artist: d.artist,
+  bpm: d.bpm,
+  charts: d.charts
+}))
 
 describe('pages/series/[id].vue', () => {
   const software = {
@@ -22,49 +32,54 @@ describe('pages/series/[id].vue', () => {
   }
   const songs = [
     {
-      slug: 'make-it-better',
-      name: 'MAKE IT BETTER',
-      artist: 'mitsu-O!',
-      bpm: 118,
-      charts: [
-        { playStyle: 'SINGLE', difficulty: 1, level: 5 },
-        { playStyle: 'SINGLE', difficulty: 2, level: 6 },
-        { playStyle: 'SINGLE', difficulty: 3, level: 8 },
-        { playStyle: 'DOUBLE', difficulty: 1, level: 5 },
-        { playStyle: 'DOUBLE', difficulty: 2, level: 6 }
-      ]
+      slug: butterfly.slug,
+      name: butterfly.name,
+      artist: butterfly.artist,
+      bpm: butterfly.bpm,
+      charts: {
+        SINGLE: [
+          { difficulty: 5, level: 3, name: 'NORMAL', color: 'is-basic' },
+          { difficulty: 1, level: 3, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 4, name: 'ANOTHER', color: 'is-difficult' },
+          { difficulty: 3, level: 6, name: 'MANIAC', color: 'is-expert' }
+        ],
+        DOUBLE: [
+          { difficulty: 1, level: 4, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 6, name: 'ANOTHER', color: 'is-difficult' }
+        ],
+        COUPLE: [
+          { difficulty: 5, level: 3, name: 'NORMAL', color: 'is-basic' },
+          { difficulty: 1, level: 3, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 4, name: 'ANOTHER', color: 'is-difficult' },
+          { difficulty: 3, level: 6, name: 'MANIAC', color: 'is-expert' }
+        ]
+      }
     },
     {
-      slug: 'paranoia',
-      name: 'PARANOiA',
-      artist: '180',
-      bpm: 180,
-      charts: [
-        { playStyle: 'SINGLE', difficulty: 1, level: 6 },
-        { playStyle: 'SINGLE', difficulty: 2, level: 7 },
-        { playStyle: 'SINGLE', difficulty: 3, level: 8 },
-        { playStyle: 'DOUBLE', difficulty: 1, level: 7 },
-        { playStyle: 'DOUBLE', difficulty: 2, level: 8 }
-      ]
-    },
-    {
-      slug: 'trip-machine',
-      name: 'TRIP MACHINE',
-      artist: 'DE-SIRE',
-      bpm: 160,
-      charts: [
-        { playStyle: 'SINGLE', difficulty: 1, level: 6 },
-        { playStyle: 'SINGLE', difficulty: 2, level: 7 },
-        { playStyle: 'SINGLE', difficulty: 3, level: 8 },
-        { playStyle: 'DOUBLE', difficulty: 1, level: 7 },
-        { playStyle: 'DOUBLE', difficulty: 2, level: 8 }
-      ]
+      slug: paranoia.slug,
+      name: paranoia.name,
+      artist: paranoia.artist,
+      bpm: paranoia.bpm,
+      charts: {
+        SINGLE: [
+          { difficulty: 1, level: 6, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 7, name: 'ANOTHER', color: 'is-difficult' },
+          { difficulty: 3, level: 8, name: 'MANIAC', color: 'is-expert' }
+        ],
+        DOUBLE: [
+          { difficulty: 1, level: 7, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 8, name: 'ANOTHER', color: 'is-difficult' }
+        ],
+        COUPLE: [
+          { difficulty: 1, level: 6, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 7, name: 'ANOTHER', color: 'is-difficult' },
+          { difficulty: 3, level: 8, name: 'MANIAC', color: 'is-expert' }
+        ]
+      }
     }
   ]
-  const global = {
-    plugins,
-    stubs: { NuxtLink: RouterLinkStub, Head: true, Title: true }
-  }
+  const stubs = { NuxtLink: RouterLinkStub, Head: true, Title: true }
+  const global = { plugins, stubs }
 
   beforeAll(() => {
     vi.mocked(useRoute).mockReturnValue({ params: { id: '1st-jp' } } as any)
@@ -105,6 +120,28 @@ describe('pages/series/[id].vue', () => {
 
       // Assert
       expect(wrapper.element).toMatchSnapshot()
+    })
+  })
+
+  describe('useAsyncData()', () => {
+    test('callse with transform option', async () => {
+      // Arrange
+      vi.mocked(useAsyncData).mockReset()
+      vi.mocked(useAsyncData).mockImplementation(
+        (path) =>
+          Promise.resolve(
+            path.endsWith('songs')
+              ? { data: ref([]), pending: ref(true) }
+              : { data: ref(software) }
+          ) as any
+      )
+
+      // Act
+      await mountAsync(SeriesDetail, { global })
+      const transform = vi.mocked(useAsyncData).mock.calls[1][2]?.transform!
+
+      // Assert
+      expect(transform(rawSongData)).toStrictEqual(songs)
     })
   })
 })

@@ -5,7 +5,7 @@
     </Head>
     <h1 class="title">Consumer DDR</h1>
 
-    <OTable :data="softwareList" striped :loading="isLoading">
+    <OTable :data="softwareList!" striped :loading="isLoading">
       <OTableColumn v-slot="props" field="name" label="Name">
         <NuxtLink class="is-size-6-mobile" :to="`/series/${props.row.slug}/`">
           {{ props.row.name }}
