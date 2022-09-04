@@ -22,49 +22,44 @@ describe('pages/series/[id].vue', () => {
   }
   const songs = [
     {
-      slug: 'make-it-better',
-      name: 'MAKE IT BETTER',
-      artist: 'mitsu-O!',
-      bpm: 118,
-      charts: [
-        { playStyle: 'SINGLE', difficulty: 1, level: 5 },
-        { playStyle: 'SINGLE', difficulty: 2, level: 6 },
-        { playStyle: 'SINGLE', difficulty: 3, level: 8 },
-        { playStyle: 'DOUBLE', difficulty: 1, level: 5 },
-        { playStyle: 'DOUBLE', difficulty: 2, level: 6 }
-      ]
+      slug: 'butterfly',
+      series: '1st-jp',
+      name: 'butterfly',
+      artist: 'smile. dk',
+      bpm: 135,
+      charts: {
+        SINGLE: [
+          { difficulty: 5, level: 3, name: 'NORMAL', color: 'is-basic' },
+          { difficulty: 1, level: 3, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 4, name: 'ANOTHER', color: 'is-difficult' },
+          { difficulty: 3, level: 6, name: 'MANIAC', color: 'is-expert' }
+        ],
+        DOUBLE: [
+          { difficulty: 1, level: 4, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 6, name: 'ANOTHER', color: 'is-difficult' }
+        ]
+      }
     },
     {
       slug: 'paranoia',
       name: 'PARANOiA',
       artist: '180',
       bpm: 180,
-      charts: [
-        { playStyle: 'SINGLE', difficulty: 1, level: 6 },
-        { playStyle: 'SINGLE', difficulty: 2, level: 7 },
-        { playStyle: 'SINGLE', difficulty: 3, level: 8 },
-        { playStyle: 'DOUBLE', difficulty: 1, level: 7 },
-        { playStyle: 'DOUBLE', difficulty: 2, level: 8 }
-      ]
-    },
-    {
-      slug: 'trip-machine',
-      name: 'TRIP MACHINE',
-      artist: 'DE-SIRE',
-      bpm: 160,
-      charts: [
-        { playStyle: 'SINGLE', difficulty: 1, level: 6 },
-        { playStyle: 'SINGLE', difficulty: 2, level: 7 },
-        { playStyle: 'SINGLE', difficulty: 3, level: 8 },
-        { playStyle: 'DOUBLE', difficulty: 1, level: 7 },
-        { playStyle: 'DOUBLE', difficulty: 2, level: 8 }
-      ]
+      charts: {
+        SINGLE: [
+          { difficulty: 1, level: 6, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 7, name: 'ANOTHER', color: 'is-difficult' },
+          { difficulty: 3, level: 8, name: 'MANIAC', color: 'is-expert' }
+        ],
+        DOUBLE: [
+          { difficulty: 1, level: 7, name: 'BASIC', color: 'is-basic' },
+          { difficulty: 2, level: 8, name: 'ANOTHER', color: 'is-difficult' }
+        ]
+      }
     }
   ]
-  const global = {
-    plugins,
-    stubs: { NuxtLink: RouterLinkStub, Head: true, Title: true }
-  }
+  const stubs = { NuxtLink: RouterLinkStub, Head: true, Title: true }
+  const global = { plugins, stubs }
 
   beforeAll(() => {
     vi.mocked(useRoute).mockReturnValue({ params: { id: '1st-jp' } } as any)

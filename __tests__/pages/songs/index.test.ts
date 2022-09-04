@@ -7,11 +7,22 @@ import SongList from '~/pages/songs/index.vue'
 import { mountAsync, plugins } from '../../test-utils'
 
 describe('pages/songs/index.vue', () => {
-  const song = { slug: 'paranoia', name: 'PARANOiA', artist: '180', bpm: 180 }
   const series = [{ slug: '1st-jp' }, { slug: '2nd' }]
   const songs = [
-    { slug: 'am-3p', series: '2nd', name: 'AM-3P', artist: 'KTz', bpm: 130 },
-    ...series.map(({ slug }) => ({ ...song, series: slug }))
+    {
+      slug: 'am-3p',
+      name: 'AM-3P',
+      artist: 'KTz',
+      bpm: 130,
+      seriesList: ['2nd']
+    },
+    {
+      slug: 'paranoia',
+      name: 'PARANOiA',
+      artist: '180',
+      bpm: 180,
+      seriesList: ['1st-jp', '2nd']
+    }
   ]
   const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }
 
