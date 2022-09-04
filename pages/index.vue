@@ -8,7 +8,7 @@
     <OTable :data="softwareList!" striped :loading="isLoading">
       <OTableColumn v-slot="props" field="name" label="Name">
         <NuxtLink class="is-size-6-mobile" :to="`/series/${props.row.slug}/`">
-          {{ props.row.name }}
+          {{ props.row.title }}
         </NuxtLink>
       </OTableColumn>
       <OTableColumn v-slot="props" field="platform" label="Platform">
@@ -41,7 +41,7 @@ const { data: softwareList, pending: isLoading } = await useAsyncData(
     queryContent<SoftwareParsedContent>()
       .where({ _type: 'markdown' })
       .sort({ launched: 1 })
-      .only(['slug', 'name', 'platform', 'region', 'launched'])
+      .only(['slug', 'title', 'platform', 'region', 'launched'])
       .find()
 )
 </script>

@@ -1,7 +1,7 @@
 <template>
   <section v-if="software" class="section">
     <Head>
-      <Title>{{ software.name }}</Title>
+      <Title>{{ software.title }}</Title>
     </Head>
     <ContentRenderer class="content" :value="software" />
   </section>
@@ -19,5 +19,5 @@ const { data: software } = await useAsyncData(`/software/${_id}`, () =>
     .findOne()
 )
 
-useHead(() => ({ title: software.value?.name }))
+useHead(() => ({ title: software.value?.title }))
 </script>

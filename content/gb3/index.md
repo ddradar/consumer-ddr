@@ -1,6 +1,5 @@
 ---
 slug: "gb3"
-name: "Dance Dance Revolution GB3"
 platform: "GAME BOY COLOR"
 region: "None"
 launched: "2001-03-15"
@@ -13,8 +12,10 @@ difficultyNames:
   "10": "MANIAC"
 ---
 
-## 隠し要素
+# Dance Dance Revolution GB3
 
-- foo
-- bar
-- baz
+:software-info{series="gb3"}
+
+## 収録曲リスト
+
+:song-list{series="gb3"}

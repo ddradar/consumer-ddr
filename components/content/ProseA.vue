@@ -1,7 +1,8 @@
 <template>
-  <NuxtLink :href="href">
+  <NuxtLink v-if="isRelativeLink" :href="href">
     <slot />
   </NuxtLink>
+  <a v-else :href="href"><slot /></a>
 </template>
 
 <script setup lang="ts">
@@ -10,5 +11,6 @@ export interface Props {
   blank?: boolean
 }
 
-withDefaults(defineProps<Props>(), { href: '', blank: false })
+const props = withDefaults(defineProps<Props>(), { href: '', blank: false })
+const isRelativeLink = computed(() => props.href.startsWith('/'))
 </script>

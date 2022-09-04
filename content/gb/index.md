@@ -1,6 +1,5 @@
 ---
 slug: "gb"
-name: "Dance Dance Revolution GB"
 platform: "GAME BOY COLOR"
 region: "None"
 launched: "2000-08-03"
@@ -11,8 +10,10 @@ difficultyNames:
   "5": "NORMAL"
 ---
 
-## 隠し要素
+# Dance Dance Revolution GB
 
-- foo
-- bar
-- baz
+:software-info{series="gb"}
+
+## 収録曲リスト
+
+:song-list{series="gb"}

@@ -1,6 +1,5 @@
 ---
 slug: "club-dc"
-name: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
 platform: "Dreamcast"
 region: "JP"
 launched: "2000-04-27"
@@ -10,8 +9,10 @@ difficultyNames:
   "3": "MANIAC"
 ---
 
-## 隠し要素
+# Dance Dance Revolution CLUB VERSION Dreamcast Edition
 
-- foo
-- bar
-- baz
+:software-info{series="club-dc"}
+
+## 収録曲リスト
+
+:song-list{series="club-dc"}
