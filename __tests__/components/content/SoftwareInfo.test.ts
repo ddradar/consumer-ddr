@@ -1,11 +1,11 @@
-import { beforeAll, describe, expect, test, vi } from 'vitest'
+import { describe, expect, test, vi } from 'vitest'
 import { ref } from 'vue'
 
-import SeriesDetail from '~~/pages/series/[id].vue'
+import SoftwareInfo from '~~/components/content/SoftwareInfo.vue'
 
-import { mountAsync, plugins } from '../../test-utils'
+import { mountAsync } from '../../test-utils'
 
-describe('pages/series/[id].vue', () => {
+describe('components/content/SongList.vue', () => {
   const software = {
     slug: '1st-jp',
     title: 'Dance Dance Revolution',
@@ -19,12 +19,6 @@ describe('pages/series/[id].vue', () => {
       '5': 'NORMAL'
     }
   }
-  const stubs = { ContentRenderer: true, Head: true, Title: true }
-  const global = { plugins, stubs }
-
-  beforeAll(() => {
-    vi.mocked(useRoute).mockReturnValue({ params: { id: '1st-jp' } } as any)
-  })
 
   describe('snapshot test', () => {
     test('renders correctly', async () => {
@@ -32,7 +26,9 @@ describe('pages/series/[id].vue', () => {
       vi.mocked(useAsyncData).mockReturnValue({ data: ref(software) } as any)
 
       // Act
-      const wrapper = await mountAsync(SeriesDetail, { global })
+      const wrapper = await mountAsync(SoftwareInfo, {
+        props: { series: software.slug }
+      })
 
       // Assert
       expect(wrapper.element).toMatchSnapshot()

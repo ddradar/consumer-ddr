@@ -10,18 +10,20 @@ export const plugins: (Plugin | [Plugin, ...any[]])[] = [[Oruga, bulmaConfig]]
 export const mountAsync = async (
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   component: any,
-  options: Parameters<typeof mount>[1]
+  options: Omit<Parameters<typeof mount>[1], 'props'> & { props?: {} }
 ) => {
+  const mountOptions = { ...options }
+  delete mountOptions.props
   const wrapper = mount(
     defineComponent({
       render() {
         return h(Suspense, null, {
-          default: h(component),
+          default: h(component, options?.props),
           fallback: h('div', 'fallback')
         })
       }
     }),
-    options
+    mountOptions
   )
 
   await flushPromises()
