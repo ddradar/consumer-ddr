@@ -1,0 +1,39 @@
+{
+  "slug": "let-the-beat-hit-em-classic",
+  "series": "max-jp",
+  "name": "Let the beat hit em! (CLASSIC R&B STYLE)",
+  "artist": "STONE BROS.",
+  "bpm": 102,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": "?"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "so-deep",
+  "series": "max-jp",
+  "name": "SO DEEP (PERFECT SPHERE REMIX)",
+  "artist": "SILVERTEAR",
+  "bpm": 140,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": "?"
+    }
+  ]
+}

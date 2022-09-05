@@ -1,6 +1,6 @@
-const basicNames = ['BASIC', 'NORMAL', 'LIGHT']
-const difficultNames = ['ANOTHER', 'DIFFICULT', 'TRICK']
-const expertNames = ['MANIAC', 'SSR', 'EXPERT']
+const basicNames = ['BASIC', 'NORMAL', 'LIGHT', '楽']
+const difficultNames = ['ANOTHER', 'DIFFICULT', 'TRICK', '踊', 'STANDARD']
+const expertNames = ['MANIAC', 'SSR', 'EXPERT', '激', 'HEAVY']
 const beginnerNames = ['BEGINNER']
 
 export function normalizeDifficulty(difficultyName: string) {

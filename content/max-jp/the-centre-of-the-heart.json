@@ -1,0 +1,39 @@
+{
+  "slug": "the-centre-of-the-heart",
+  "series": "max-jp",
+  "name": "The Centre Of The Heart (STONEBRIDGE CLUBMIX)",
+  "artist": "Roxette",
+  "bpm": 128,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": "?"
+    }
+  ]
+}

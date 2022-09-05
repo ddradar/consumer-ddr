@@ -1,0 +1,39 @@
+{
+  "slug": "orion-78-civilization",
+  "series": "max-jp",
+  "name": "ORION.78 (civilization mix)",
+  "artist": "2MB",
+  "bpm": 200,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": "?"
+    }
+  ]
+}
