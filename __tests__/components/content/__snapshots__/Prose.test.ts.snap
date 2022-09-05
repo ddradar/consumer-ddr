@@ -29,9 +29,13 @@ exports[`components/content/ > ProseH2.vue > { id: "Header2" } renders <h2> 1`] 
   <a
     href="#Header2"
   >
-    <oicon
-      icon="link-variant"
-    />
+    <span
+      class="icon"
+    >
+      <i
+        class="mdi mdi-link-variant mdi-24px"
+      />
+    </span>
   </a>
 </h2>
 `;
