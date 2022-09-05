@@ -7,8 +7,10 @@ import ProseH3 from '~~/components/content/ProseH3.vue'
 import ProseP from '~~/components/content/ProseP.vue'
 import ProseTable from '~~/components/content/ProseTable.vue'
 
+import { plugins } from '../../../__tests__/test-utils'
+
 describe('components/content/', () => {
-  const global = { stubs: { NuxtLink: RouterLinkStub } }
+  const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }
 
   describe('ProseA.vue', () => {
     test('{ href: "/songs" } renders <NuxtLink>', () => {

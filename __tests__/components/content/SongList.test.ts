@@ -3,10 +3,13 @@ import { describe, expect, test, vi } from 'vitest'
 import { ref } from 'vue'
 
 import SongList from '~~/components/content/SongList.vue'
+import useSoftwareData from '~~/composables/useSoftwareData'
 import butterfly from '~~/content/1st-jp/butterfly.json'
 import paranoia from '~~/content/1st-jp/paranoia.json'
 
-import { mountAsync, plugins } from '../../test-utils'
+import { mockSoftware, mountAsync, plugins } from '../../test-utils'
+
+vi.mock('~~/composables/useSoftwareData')
 
 const rawSongData = [butterfly, paranoia].map((d) => ({
   slug: d.slug,
@@ -17,19 +20,6 @@ const rawSongData = [butterfly, paranoia].map((d) => ({
 }))
 
 describe('components/content/SongList.vue', () => {
-  const software = {
-    slug: '1st-jp',
-    title: 'Dance Dance Revolution',
-    platform: 'Play Station',
-    region: 'JP',
-    launched: '1999-04-10',
-    difficultyNames: {
-      '1': 'BASIC',
-      '2': 'ANOTHER',
-      '3': 'MANIAC',
-      '5': 'NORMAL'
-    }
-  }
   const songs = [
     {
       slug: butterfly.slug,
@@ -79,19 +69,18 @@ describe('components/content/SongList.vue', () => {
     }
   ]
   const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }
-  const options = { global, props: { series: software.slug } }
+  const options = { global, props: { series: mockSoftware.slug } }
 
   describe('snapshot test', () => {
     test('renders loading state', async () => {
       // Arrange
-      vi.mocked(useAsyncData).mockImplementation(
-        (path) =>
-          Promise.resolve(
-            path.endsWith('songs')
-              ? { data: ref([]), pending: ref(true) }
-              : { data: ref(software) }
-          ) as any
-      )
+      vi.mocked(useSoftwareData).mockResolvedValue({
+        software: ref(mockSoftware)
+      })
+      vi.mocked(useAsyncData).mockResolvedValue({
+        data: ref([]),
+        pending: ref(true)
+      } as any)
 
       // Act
       const wrapper = await mountAsync(SongList, options)
@@ -102,14 +91,13 @@ describe('components/content/SongList.vue', () => {
 
     test('renders song info', async () => {
       // Arrange
-      vi.mocked(useAsyncData).mockImplementation(
-        (path) =>
-          Promise.resolve(
-            path.endsWith('songs')
-              ? { data: ref(songs), pending: ref(false) }
-              : { data: ref(software) }
-          ) as any
-      )
+      vi.mocked(useSoftwareData).mockResolvedValue({
+        software: ref(mockSoftware)
+      })
+      vi.mocked(useAsyncData).mockResolvedValue({
+        data: ref(songs),
+        pending: ref(false)
+      } as any)
 
       // Act
       const wrapper = await mountAsync(SongList, options)
@@ -120,21 +108,20 @@ describe('components/content/SongList.vue', () => {
   })
 
   describe('useAsyncData()', () => {
-    test('callse with transform option', async () => {
+    test('calls with transform option', async () => {
       // Arrange
+      vi.mocked(useSoftwareData).mockResolvedValue({
+        software: ref(mockSoftware)
+      })
       vi.mocked(useAsyncData).mockReset()
-      vi.mocked(useAsyncData).mockImplementation(
-        (path) =>
-          Promise.resolve(
-            path.endsWith('songs')
-              ? { data: ref([]), pending: ref(true) }
-              : { data: ref(software) }
-          ) as any
-      )
+      vi.mocked(useAsyncData).mockResolvedValue({
+        data: ref([]),
+        pending: ref(true)
+      } as any)
 
       // Act
       await mountAsync(SongList, options)
-      const transform = vi.mocked(useAsyncData).mock.calls[1][2]?.transform!
+      const transform = vi.mocked(useAsyncData).mock.calls[0][2]?.transform!
 
       // Assert
       expect(transform(rawSongData)).toStrictEqual(songs)
