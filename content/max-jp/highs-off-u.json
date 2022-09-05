@@ -1,0 +1,39 @@
+{
+  "slug": "highs-off-u",
+  "series": "max-jp",
+  "name": "HIGHS OFF U (Scorccio XY Mix)",
+  "artist": "4 REEEL",
+  "bpm": 130,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": "?"
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": "?"
+    }
+  ]
+}
