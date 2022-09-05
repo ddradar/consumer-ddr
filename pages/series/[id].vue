@@ -15,7 +15,7 @@ const _id = _route.params.id as string
 
 const { data: software } = await useAsyncData(`/software/${_id}`, () =>
   queryContent<SoftwareParsedContent>(_id)
-    .where({ _type: 'markdown' })
+    .where({ _type: 'markdown', slug: _id })
     .findOne()
 )
 
