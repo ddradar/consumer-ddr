@@ -61,7 +61,7 @@ const { data: songs, pending: isLoading } = await useAsyncData(
   `/software/${prop.series}/songs`,
   () =>
     queryContent<SongParsedContent>(prop.series)
-      .where({ _type: 'json' })
+      .where({ _type: 'json', series: prop.series })
       .without('series')
       .find(),
   {
