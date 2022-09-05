@@ -1,0 +1,54 @@
+{
+  "slug": "follow-the-sun",
+  "series": "4th",
+  "name": "FOLLOW THE SUN (90 IN THE SHADE MIX)",
+  "artist": "TRIPLE J",
+  "bpm": 170,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": 8
+    },
+    {
+      "playStyle": "6-PANELS",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "6-PANELS",
+      "difficulty": 2,
+      "level": 6
+    },
+    {
+      "playStyle": "6-PANELS",
+      "difficulty": 3,
+      "level": 8
+    }
+  ]
+}

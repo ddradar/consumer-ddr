@@ -1,0 +1,54 @@
+{
+  "slug": "young-forever",
+  "series": "4th",
+  "name": "Young Forever",
+  "artist": "Rebecca",
+  "bpm": 140,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 2,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 3,
+      "level": 7
+    },
+    {
+      "playStyle": "6-PANELS",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "6-PANELS",
+      "difficulty": 2,
+      "level": 5
+    },
+    {
+      "playStyle": "6-PANELS",
+      "difficulty": 3,
+      "level": 7
+    }
+  ]
+}
