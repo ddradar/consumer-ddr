@@ -23,16 +23,15 @@
       </OTableColumn>
       <OTableColumn v-slot="props" label="Series">
         <div class="buttons">
-          <OButton
+          <NuxtLink
             v-for="id in props.row.seriesList"
             :key="id"
-            tag="NuxtLink"
-            size="small"
-            :variant="getClass(id)"
+            class="button is-small"
+            :class="getClass(id)"
             :to="`/series/${id}/`"
           >
             {{ id }}
-          </OButton>
+          </NuxtLink>
         </div>
       </OTableColumn>
 
@@ -87,6 +86,6 @@ const { data: songs, pending: isLoading } = await useAsyncData(
 const getClass = (id: string) => {
   const index = _series.value.findIndex((s) => s.slug === id)
   const classList = ['info', 'success', 'danger', 'warning', 'dark']
-  return classList[index % classList.length]
+  return `is-${classList[index % classList.length]}`
 }
 </script>
