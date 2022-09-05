@@ -45,7 +45,7 @@ const { data: song } = await useAsyncData(
   () =>
     queryContent<SongParsedContent>()
       .where({ slug: { $eq: _id } })
-      .without('slug')
+      .only(['series', 'name', 'artist', 'bpm', 'charts'])
       .find(),
   {
     transform: (songs: SongParsedContent[]) => ({

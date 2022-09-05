@@ -61,8 +61,8 @@ const { data: songs, pending: isLoading } = await useAsyncData(
   `/software/${prop.series}/songs`,
   () =>
     queryContent<SongParsedContent>(prop.series)
-      .where({ _type: 'json' })
-      .without('series')
+      .where({ _type: 'json', series: prop.series })
+      .only(['slug', 'name', 'artist', 'bpm', 'charts'])
       .find(),
   {
     transform: (songs: SongParsedContent[]) =>
