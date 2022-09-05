@@ -5,6 +5,8 @@ import flushPromises from 'flush-promises'
 import type { Plugin } from 'vue'
 import { defineComponent, h, Suspense } from 'vue'
 
+import type { SoftwareParsedContent } from '~~/src/content'
+
 export const plugins: (Plugin | [Plugin, ...any[]])[] = [[Oruga, bulmaConfig]]
 
 export const mountAsync = async (
@@ -28,4 +30,20 @@ export const mountAsync = async (
 
   await flushPromises()
   return wrapper
+}
+
+export const mockSoftware: SoftwareParsedContent = {
+  slug: '1st-jp',
+  title: 'Dance Dance Revolution',
+  platform: 'Play Station',
+  region: 'JP',
+  launched: '1999-04-10',
+  difficultyNames: {
+    '1': 'BASIC',
+    '2': 'ANOTHER',
+    '3': 'MANIAC',
+    '5': 'NORMAL'
+  },
+  body: '',
+  _id: 'content:1st-jp:index.md'
 }
