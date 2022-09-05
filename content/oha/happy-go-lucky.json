@@ -1,0 +1,44 @@
+{
+  "slug": "happy-go-lucky",
+  "series": "oha",
+  "name": "HAPPY GO LUCKY",
+  "artist": "やまちゃん with ジムナスひかる",
+  "bpm": "120-125",
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 4
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 2
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 1,
+      "level": 1
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 2,
+      "level": 3
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 3,
+      "level": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cutie-chaser-morning",
+  "series": "oha",
+  "name": "CUTIE CHASER (MORNING MIX)",
+  "artist": "CLUB SPICE",
+  "bpm": 126,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 4,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 3
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 6,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 4
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 2,
+      "level": 3
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 3,
+      "level": 5
+    }
+  ]
+}

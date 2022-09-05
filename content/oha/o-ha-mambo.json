@@ -1,0 +1,44 @@
+{
+  "slug": "o-ha-mambo",
+  "series": "oha",
+  "name": "O-HA! Mambo (a Shiny new Today)",
+  "artist": "わるじぇんぬ",
+  "bpm": 125,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 1,
+      "level": 2
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 3,
+      "level": 5
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 1,
+      "level": 3
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 1,
+      "level": 2
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 2,
+      "level": 4
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 3,
+      "level": 5
+    }
+  ]
+}
