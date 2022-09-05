@@ -41,12 +41,8 @@
 </template>
 
 <script lang="ts" setup>
-import type {
-  Chart,
-  PlayStyle,
-  SoftwareParsedContent,
-  SongParsedContent
-} from '~~/src/content'
+import useSoftwareData from '~~/composables/useSoftwareData'
+import type { Chart, PlayStyle, SongParsedContent } from '~~/src/content'
 import { normalizeDifficulty } from '~~/src/song'
 
 type ChartInfo = Pick<Chart, 'level' | 'difficulty'> & {
@@ -59,11 +55,7 @@ interface Props {
 
 const prop = defineProps<Props>()
 
-const { data: software } = await useAsyncData(`/software/${prop.series}`, () =>
-  queryContent<SoftwareParsedContent>(prop.series)
-    .where({ _type: 'markdown' })
-    .findOne()
-)
+const { software } = await useSoftwareData(prop.series)
 
 const { data: songs, pending: isLoading } = await useAsyncData(
   `/software/${prop.series}/songs`,

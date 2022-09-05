@@ -1,5 +1,5 @@
 <template>
-  <section v-if="software" class="section">
+  <section class="section">
     <Head>
       <Title>{{ software.title }}</Title>
     </Head>
@@ -8,16 +8,12 @@
 </template>
 
 <script lang="ts" setup>
-import type { SoftwareParsedContent } from '~~/src/content'
+import useSoftwareData from '~~/composables/useSoftwareData'
 
 const _route = useRoute()
 const _id = _route.params.id as string
 
-const { data: software } = await useAsyncData(`/software/${_id}`, () =>
-  queryContent<SoftwareParsedContent>(_id)
-    .where({ _type: 'markdown', slug: _id })
-    .findOne()
-)
+const { software } = await useSoftwareData(_id)
 
-useHead(() => ({ title: software.value?.title }))
+useHead(() => ({ title: software.value.title }))
 </script>
