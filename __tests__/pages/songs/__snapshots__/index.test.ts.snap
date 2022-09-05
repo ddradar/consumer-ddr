@@ -552,19 +552,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 <a
                   class="button is-small is-success"
                 >
-                  <span
-                    class="button-wrapper"
-                  >
-                    <!--v-if-->
-                    <span
-                      class=""
-                    >
-                      
-                      2nd
-                      
-                    </span>
-                    <!--v-if-->
-                  </span>
+                  2nd
                 </a>
                 
               </div>
@@ -626,36 +614,12 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 <a
                   class="button is-small is-info"
                 >
-                  <span
-                    class="button-wrapper"
-                  >
-                    <!--v-if-->
-                    <span
-                      class=""
-                    >
-                      
-                      1st-jp
-                      
-                    </span>
-                    <!--v-if-->
-                  </span>
+                  1st-jp
                 </a>
                 <a
                   class="button is-small is-success"
                 >
-                  <span
-                    class="button-wrapper"
-                  >
-                    <!--v-if-->
-                    <span
-                      class=""
-                    >
-                      
-                      2nd
-                      
-                    </span>
-                    <!--v-if-->
-                  </span>
+                  2nd
                 </a>
                 
               </div>
