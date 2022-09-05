@@ -1,0 +1,44 @@
+{
+  "slug": "keep-on-movin",
+  "series": "oha",
+  "name": "KEEP ON MOVIN'",
+  "artist": "N.M.R.",
+  "bpm": 132,
+  "charts": [
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 4,
+      "level": 4
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 5,
+      "level": 5
+    },
+    {
+      "playStyle": "SINGLE",
+      "difficulty": 6,
+      "level": 7
+    },
+    {
+      "playStyle": "DOUBLE",
+      "difficulty": 4,
+      "level": 7
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 4,
+      "level": 4
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 5,
+      "level": 5
+    },
+    {
+      "playStyle": "UNISON",
+      "difficulty": 6,
+      "level": 7
+    }
+  ]
+}
