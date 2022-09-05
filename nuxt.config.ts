@@ -19,10 +19,7 @@ const songs = series.flatMap((s) =>
 export default defineNuxtConfig({
   nitro: {
     prerender: {
-      routes: [
-        ...series.map((s) => `/series/${s}`),
-        ...songs.map((s) => `/songs/${s}`)
-      ]
+      routes: [...songs.map((s) => `/songs/${s}`)]
     }
   },
   app: {
