@@ -1,0 +1,68 @@
+// Vitest Snapshot v1
+
+exports[`components/content/ > ProseA.vue > { href: "#name" } renders <a> 1`] = `
+<a
+  href="#name"
+>
+  
+  Link
+  
+</a>
+`;
+
+exports[`components/content/ > ProseA.vue > { href: "/songs" } renders <NuxtLink> 1`] = `
+<a>
+  
+  Link
+  
+</a>
+`;
+
+exports[`components/content/ > ProseH2.vue > { id: "Header2" } renders <h2> 1`] = `
+<h2
+  class="title is-4"
+  id="Header2"
+>
+  
+  Header2
+  
+  <a
+    href="#Header2"
+  >
+    <oicon
+      icon="link-variant"
+    />
+  </a>
+</h2>
+`;
+
+exports[`components/content/ > ProseH3.vue > { id: "Header3" } renders <h3> 1`] = `
+<h3
+  class="title is-5"
+  id="Header3"
+>
+  
+  Header3
+  
+</h3>
+`;
+
+exports[`components/content/ > ProseP.vue > renders <p> 1`] = `
+<p
+  class="block"
+>
+  
+  Content
+  
+</p>
+`;
+
+exports[`components/content/ > ProseTable.vue > renders <table> 1`] = `
+<table
+  class="table"
+>
+  
+  Content
+  
+</table>
+`;

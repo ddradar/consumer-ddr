@@ -1,6 +1,5 @@
 ---
 slug: "3rd"
-name: "Dance Dance Revolution 3rd MIX"
 platform: "Play Station"
 region: "JP"
 launched: "2000-06-01"
@@ -10,8 +9,10 @@ difficultyNames:
   "3": "SSR"
 ---
 
-## 隠し要素
+# Dance Dance Revolution 3rd MIX
 
-- foo
-- bar
-- baz
+:software-info{series="3rd"}
+
+## 収録曲リスト
+
+:song-list{series="3rd"}

@@ -10,8 +10,10 @@ difficultyNames:
   "3": "SSR"
 ---
 
-## 隠し要素
+# Dance Dance Revolution GB2
 
-- foo
-- bar
-- baz
+:software-info{series="gb2"}
+
+## 収録曲リスト
+
+:song-list{series="gb2"}

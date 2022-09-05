@@ -11,7 +11,7 @@ type Platform =
 
 export interface SoftwareParsedContent extends ParsedContent {
   slug: string
-  name: string
+  title: string
   platform: Platform
   region: Region
   launched: string

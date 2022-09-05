@@ -1,6 +1,5 @@
 ---
 slug: "dct"
-name: "Dancing Stage featuring DREAMS COME TRUE"
 platform: "Play Station"
 region: "JP"
 launched: "2000-04-20"
@@ -11,8 +10,10 @@ difficultyNames:
   "4": "SUPER MANIAC"
 ---
 
-## 隠し要素
+# Dancing Stage featuring DREAMS COME TRUE
 
-- foo
-- bar
-- baz
+:software-info{series="dct"}
+
+## 収録曲リスト
+
+:song-list{series="dct"}

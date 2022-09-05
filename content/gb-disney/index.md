@@ -1,6 +1,5 @@
 ---
 slug: "gb-disney"
-name: "Dance Dance Revolution GB Disney mix"
 platform: "GAME BOY COLOR"
 region: "None"
 launched: "2001-03-29"
@@ -9,8 +8,10 @@ difficultyNames:
   "2": "TRICK"
 ---
 
-## 隠し要素
+# Dance Dance Revolution GB Disney mix
 
-- foo
-- bar
-- baz
+:software-info{series="gb-disney"}
+
+## 収録曲リスト
+
+:song-list{series="gb-disney"}

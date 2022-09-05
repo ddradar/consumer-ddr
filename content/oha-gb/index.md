@@ -1,6 +1,5 @@
 ---
 slug: "oha-gb"
-name: "おはスタ Dance Dance Revolution GB"
 platform: "GAME BOY COLOR"
 region: "None"
 launched: "2001-02-08"
@@ -10,8 +9,10 @@ difficultyNames:
   "3": "MANIAC"
 ---
 
-## 隠し要素
+# おはスタ Dance Dance Revolution GB
 
-- foo
-- bar
-- baz
+:software-info{series="oha-gb"}
+
+## 収録曲リスト
+
+:song-list{series="oha-gb"}

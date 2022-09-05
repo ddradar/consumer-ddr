@@ -1,6 +1,5 @@
 ---
 slug: "best"
-name: "Dance Dance Revolution BEST HITS"
 platform: "Play Station"
 region: "JP"
 launched: "2000-12-21"
@@ -12,8 +11,10 @@ difficultyNames:
   "5": "BEGINNER"
 ---
 
-## 隠し要素
+# Dance Dance Revolution BEST HITS
 
-- foo
-- bar
-- baz
+:software-info{series="best"}
+
+## 収録曲リスト
+
+:song-list{series="best"}

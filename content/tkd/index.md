@@ -1,6 +1,5 @@
 ---
 slug: "tkd"
-name: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
 platform: "Play Station"
 region: "JP"
 launched: "1999-12-09"
@@ -16,8 +15,10 @@ difficultyNames:
   "8": "MANIAC"
 ---
 
-## 隠し要素
+# Dancing Stage featuring TRUE KiSS DESTiNATiON
 
-- foo
-- bar
-- baz
+:software-info{series="tkd"}
+
+## 収録曲リスト
+
+:song-list{series="tkd"}

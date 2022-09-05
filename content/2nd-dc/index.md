@@ -1,6 +1,5 @@
 ---
 slug: "2nd-dc"
-name: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
 platform: "Dreamcast"
 region: "JP"
 launched: "2000-02-17"
@@ -13,8 +12,10 @@ difficultyNames:
   "6": "MANIAC"
 ---
 
-## 隠し要素
+# Dance Dance Revolution 2nd MIX Dreamcast Edition
 
-- foo
-- bar
-- baz
+:software-info{series="2nd-dc"}
+
+## 収録曲リスト
+
+:song-list{series="2nd-dc"}

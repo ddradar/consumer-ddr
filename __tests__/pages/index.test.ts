@@ -15,14 +15,14 @@ describe('pages/index.vue', () => {
     const data: SoftListData[] = [
       {
         slug: '1st-jp',
-        name: 'Dance Dance Revolution',
+        title: 'Dance Dance Revolution',
         platform: 'Play Station',
         region: 'JP',
         launched: '1999-04-10'
       },
       {
         slug: '2nd-remix-jp',
-        name: 'Dance Dance Revolution 2nd ReMIX',
+        title: 'Dance Dance Revolution 2nd ReMIX',
         platform: 'Play Station',
         region: 'JP',
         launched: '1999-08-26'

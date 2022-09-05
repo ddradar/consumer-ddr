@@ -1,6 +1,5 @@
 ---
 slug: "club-2"
-name: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2"
 platform: "Play Station"
 region: "JP"
 launched: "1999-12-12"
@@ -10,8 +9,10 @@ difficultyNames:
   "3": "MANIAC"
 ---
 
-## 隠し要素
+# Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2
 
-- foo
-- bar
-- baz
+:software-info{series="club-2"}
+
+## 収録曲リスト
+
+:song-list{series="club-2"}
