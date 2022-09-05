@@ -5,7 +5,7 @@
     </Head>
     <h1 class="title">Consumer DDR</h1>
 
-    <OTable :data="softwareList!" striped :loading="isLoading">
+    <OTable :data="softwareList" striped :loading="isLoading">
       <OTableColumn v-slot="props" field="name" label="Name">
         <NuxtLink class="is-size-6-mobile" :to="`/series/${props.row.slug}/`">
           {{ props.row.title }}
@@ -33,15 +33,7 @@
 </template>
 
 <script lang="ts" setup>
-import type { SoftwareParsedContent } from '~~/src/content'
+import useSoftwareList from '~~/composables/useSoftwareList'
 
-const { data: softwareList, pending: isLoading } = await useAsyncData(
-  '/software',
-  () =>
-    queryContent<SoftwareParsedContent>()
-      .where({ _type: 'markdown' })
-      .sort({ launched: 1 })
-      .only(['slug', 'title', 'platform', 'region', 'launched'])
-      .find()
-)
+const { softwareList, isLoading } = await useSoftwareList()
 </script>

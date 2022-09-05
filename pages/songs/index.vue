@@ -48,19 +48,14 @@
 </template>
 
 <script lang="ts" setup>
-import type { SoftwareParsedContent, SongParsedContent } from '~~/src/content'
+import useSoftwareList from '~~/composables/useSoftwareList'
+import type { SongParsedContent } from '~~/src/content'
 
 type SongListData = Omit<SongParsedContent, 'series' | 'charts'> & {
   seriesList: string[]
 }
 
-const { data: _series } = await useAsyncData('/series', () =>
-  queryContent<SoftwareParsedContent>()
-    .where({ _type: 'markdown' })
-    .sort({ launched: 1 })
-    .only('slug')
-    .find()
-)
+const { softwareList: _series } = await useSoftwareList()
 const { data: songs, pending: isLoading } = await useAsyncData(
   '/songs',
   () =>
@@ -90,7 +85,7 @@ const { data: songs, pending: isLoading } = await useAsyncData(
 )
 
 const getClass = (id: string) => {
-  const index = _series.value!.findIndex((s) => s.slug === id)
+  const index = _series.value.findIndex((s) => s.slug === id)
   const classList = ['info', 'success', 'danger', 'warning', 'dark']
   return classList[index % classList.length]
 }
