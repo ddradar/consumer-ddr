@@ -1,9 +1,9 @@
 <template>
   <h2 :id="id" class="title is-4">
     <slot />
-    <NuxtLink :href="`#${id}`">
+    <a :href="`#${id}`">
       <OIcon icon="link-variant" />
-    </NuxtLink>
+    </a>
   </h2>
 </template>
 
