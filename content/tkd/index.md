@@ -1,5 +1,6 @@
 ---
 slug: "tkd"
+color: "midnightblue"
 platform: "Play Station"
 region: "JP"
 launched: "1999-12-09"

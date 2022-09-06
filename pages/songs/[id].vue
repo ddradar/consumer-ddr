@@ -1,21 +1,16 @@
 <template>
   <section v-if="song" class="section">
-    <Head>
-      <Title>{{ song.name }} / {{ song.artist }}</Title>
-    </Head>
     <h1 class="title">{{ song.name }} / {{ song.artist }}</h1>
-    <h2 class="subtitle">BPM {{ song.bpm }}</h2>
-    <div class="buttons">
-      <NuxtLink
-        v-for="id in song.series"
-        :key="id"
-        class="button"
-        :class="getClass(id)"
-        :to="`/series/${id}/`"
-      >
-        {{ id }}
-      </NuxtLink>
-    </div>
+    <span class="subtitle">BPM {{ song.bpm }}</span>
+
+    <section class="content">
+      <ul>
+        <li v-for="s in series" :key="s.slug">
+          <NuxtLink :to="`/series/${s.slug}`">{{ s.title }}</NuxtLink>
+        </li>
+      </ul>
+    </section>
+
     <OTable :data="song.charts" striped>
       <OTableColumn v-slot="props" field="playStyle" label="PlayStyle">
         {{ props.row.playStyle }}
@@ -24,22 +19,43 @@
         {{ props.row.difficulty }}
       </OTableColumn>
       <OTableColumn v-slot="props" field="level" label="Level">
-        {{ Object.values(props.row.levels).join(', ') }}
+        <div class="field is-grouped is-grouped-multiline">
+          <div
+            v-for="(s, i) in (props.row.seriesList as ChartInfo['seriesList'])"
+            :key="i"
+            class="control"
+          >
+            <OTooltip :label="s.title">
+              <div class="tags has-addons">
+                <SeriesComponent tag="span" :color="s.color" class="tag">
+                  {{ s.slug }}
+                </SeriesComponent>
+                <span class="tag">{{ s.level }}</span>
+              </div>
+            </OTooltip>
+          </div>
+        </div>
       </OTableColumn>
     </OTable>
   </section>
 </template>
 
 <script lang="ts" setup>
+import SeriesComponent from '~~/components/SeriesComponent.vue'
+import useSoftwareList, {
+  SoftwareListData
+} from '~~/composables/useSoftwareList'
 import type { Chart, SongParsedContent } from '~~/src/content'
 
-type ComplexChart = Omit<Chart, 'level'> & {
-  levels: { [key in string]: Chart['level'] }
+type ChartInfo = Omit<Chart, 'level'> & {
+  seriesList: (Pick<SoftwareListData, 'slug' | 'title' | 'color'> &
+    Pick<Chart, 'level'>)[]
 }
 
 const _route = useRoute()
 const _id = _route.params.id as string
 
+const { softwareList } = await useSoftwareList()
 const { data: song } = await useAsyncData(
   `/songs/${_id}`,
   () =>
@@ -55,32 +71,45 @@ const { data: song } = await useAsyncData(
       series: songs.map((s) => s.series),
       charts: songs.reduce((prev, current) => {
         for (const chart of current.charts) {
+          const series = softwareList.value.find(
+            (d) => d.slug === current.series
+          )!
           const existsChart = prev.find(
             (c) =>
               c.playStyle === chart.playStyle &&
               c.difficulty === chart.difficulty
           )
           if (existsChart) {
-            existsChart.levels[current.series] = chart.level
+            existsChart.seriesList.push({
+              slug: series.slug,
+              title: series.title,
+              color: series.color,
+              level: chart.level
+            })
           } else {
-            const levels: ComplexChart['levels'] = {}
-            levels[current.series] = chart.level
             prev.push({
               playStyle: chart.playStyle,
               difficulty: chart.difficulty,
-              levels
+              seriesList: [
+                {
+                  slug: series.slug,
+                  title: series.title,
+                  color: series.color,
+                  level: chart.level
+                }
+              ]
             })
           }
         }
         return prev
-      }, [] as ComplexChart[])
+      }, [] as ChartInfo[])
     })
   }
 )
 
-const getClass = (id: string) => {
-  const index = song.value!.series.findIndex((s) => s === id)
-  const classList = ['info', 'success', 'danger', 'warning', 'dark']
-  return `is-${classList[index % classList.length]}`
-}
+useHead({ title: song.value?.name })
+
+const series = computed(() =>
+  song.value!.series.map((s) => softwareList.value.find((d) => d.slug === s)!)
+)
 </script>

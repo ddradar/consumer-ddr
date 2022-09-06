@@ -1,5 +1,6 @@
 ---
 slug: "club-dc"
+color: "royalblue"
 platform: "Dreamcast"
 region: "JP"
 launched: "2000-04-27"

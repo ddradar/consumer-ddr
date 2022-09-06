@@ -5,8 +5,6 @@ import { defineNuxtConfig } from 'nuxt'
 
 import pkg from './package.json'
 
-const title = 'Consumer DDR'
-
 /** Series slug */
 const series = readdirSync(join(__dirname, 'content'))
 /** Songs slug */
@@ -24,7 +22,6 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      titleTemplate: `%s - ${title}`,
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },

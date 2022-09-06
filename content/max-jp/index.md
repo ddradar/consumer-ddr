@@ -1,5 +1,6 @@
 ---
 slug: "max-jp"
+color: "blue"
 platform: "Play Station 2"
 region: "JP"
 launched: "2002-05-16"

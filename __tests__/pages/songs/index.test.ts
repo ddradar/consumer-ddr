@@ -27,14 +27,14 @@ describe('pages/songs/index.vue', () => {
       name: am3p.name,
       artist: am3p.artist,
       bpm: am3p.bpm,
-      seriesList: [am3p.series]
+      seriesList: [mockSoftwareList[1]]
     },
     {
       slug: paranoiaFirst.slug,
       name: paranoiaFirst.name,
       artist: paranoiaFirst.artist,
       bpm: paranoiaFirst.bpm,
-      seriesList: [paranoiaFirst.series, paranoiaSecond.series]
+      seriesList: mockSoftwareList
     }
   ]
   const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }

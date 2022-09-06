@@ -18,7 +18,7 @@ describe('pages/index.vue', () => {
     })
 
     // Act
-    const stubs = { NuxtLink: RouterLinkStub, Head: true, Title: true }
+    const stubs = { NuxtLink: RouterLinkStub }
     const wrapper = await mountAsync(Index, { global: { plugins, stubs } })
 
     // Assert

@@ -1,5 +1,6 @@
 ---
 slug: "2nd"
+color: "mediumblue"
 platform: "Play Station"
 region: "JP"
 launched: "1999-08-26"
