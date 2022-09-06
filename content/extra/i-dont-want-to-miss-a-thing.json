@@ -1,0 +1,15 @@
+{
+  "slug": "i-dont-want-to-miss-a-thing",
+  "series": "extra",
+  "name": "I DON'T WANT TO MISS A THING (Planet Lution Mix)",
+  "artist": "DEJA VU featuring TASMIN",
+  "bpm": 170,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 4 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 7 },
+    { "playStyle": "6-PANELS", "difficulty": 1, "level": 3 },
+    { "playStyle": "6-PANELS", "difficulty": 2, "level": 5 },
+    { "playStyle": "6-PANELS", "difficulty": 3, "level": 7 }
+  ]
+}

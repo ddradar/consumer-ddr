@@ -1,0 +1,18 @@
+{
+  "slug": "na-na",
+  "series": "extra",
+  "name": "NA-NA",
+  "artist": "BUS STOP",
+  "bpm": 133,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "6-PANELS", "difficulty": 1, "level": 3 },
+    { "playStyle": "6-PANELS", "difficulty": 2, "level": 5 },
+    { "playStyle": "6-PANELS", "difficulty": 3, "level": 8 }
+  ]
+}

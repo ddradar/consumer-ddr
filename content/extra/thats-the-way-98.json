@@ -1,0 +1,15 @@
+{
+  "slug": "thats-the-way-98",
+  "series": "extra",
+  "name": "THAT'S THE WAY '98",
+  "artist": "DJ BASS feat. MC DIXIE",
+  "bpm": 126,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 7 },
+    { "playStyle": "6-PANELS", "difficulty": 1, "level": 4 },
+    { "playStyle": "6-PANELS", "difficulty": 2, "level": 6 },
+    { "playStyle": "6-PANELS", "difficulty": 3, "level": 8 }
+  ]
+}
