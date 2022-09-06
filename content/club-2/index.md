@@ -1,5 +1,6 @@
 ---
 slug: "club-2"
+color: "fuchsia"
 platform: "Play Station"
 region: "JP"
 launched: "1999-12-12"

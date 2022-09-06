@@ -1,5 +1,6 @@
 ---
 slug: "gb3"
+color: "goldenrod"
 platform: "GAME BOY COLOR"
 region: "None"
 launched: "2001-03-15"

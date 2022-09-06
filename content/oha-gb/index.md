@@ -1,5 +1,6 @@
 ---
 slug: "oha-gb"
+color: "darkgray"
 platform: "GAME BOY COLOR"
 region: "None"
 launched: "2001-02-08"

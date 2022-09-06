@@ -1,5 +1,6 @@
 ---
 slug: "gb2"
+color: "darkgreen"
 name: "Dance Dance Revolution GB2"
 platform: "GAME BOY COLOR"
 region: "None"

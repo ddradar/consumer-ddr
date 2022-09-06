@@ -1,5 +1,6 @@
 ---
 slug: "4th"
+color: "midnightblue"
 platform: "Play Station"
 region: "JP"
 launched: "2001-03-15"
