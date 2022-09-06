@@ -11,5 +11,6 @@ declare module '@vue/runtime-core' {
     OLoading: typeof import('@oruga-ui/oruga-next/src/components/loading')['OLoading']
     OTable: typeof import('@oruga-ui/oruga-next/src/components/table')['OTable']
     OTableColumn: typeof import('@oruga-ui/oruga-next/src/components/table')['OTableColumn']
+    OTooltip: typeof import('@oruga-ui/oruga-next/src/components/tooltip')['OTooltip']
   }
 }

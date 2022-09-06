@@ -23,15 +23,17 @@
       </OTableColumn>
       <OTableColumn v-slot="props" label="Series">
         <div class="buttons">
-          <NuxtLink
-            v-for="id in props.row.seriesList"
-            :key="id"
+          <SeriesComponent
+            v-for="s in props.row.seriesList"
+            :key="s.slug"
+            :title="s.name"
+            tag="NuxtLink"
             class="button is-small"
-            :class="getClass(id)"
-            :to="`/series/${id}/`"
+            :color="s.color"
+            :to="`/series/${s.slug}/`"
           >
-            {{ id }}
-          </NuxtLink>
+            {{ s.slug }}
+          </SeriesComponent>
         </div>
       </OTableColumn>
 
@@ -47,11 +49,14 @@
 </template>
 
 <script lang="ts" setup>
-import useSoftwareList from '~~/composables/useSoftwareList'
+import SeriesComponent from '~~/components/SeriesComponent.vue'
+import useSoftwareList, {
+  SoftwareListData
+} from '~~/composables/useSoftwareList'
 import type { SongParsedContent } from '~~/src/content'
 
 type SongListData = Omit<SongParsedContent, 'series' | 'charts'> & {
-  seriesList: string[]
+  seriesList: SoftwareListData[]
 }
 
 const { softwareList: _series } = await useSoftwareList()
@@ -68,24 +73,20 @@ const { data: songs, pending: isLoading } = await useAsyncData(
       songs.reduce((prev, current) => {
         const song = prev.find((s) => s.slug === current.slug)
         if (song) {
-          song.seriesList.push(current.series)
+          song.seriesList.push(
+            _series.value.find((d) => d.slug === current.series)!
+          )
         } else {
           prev.push({
             slug: current.slug,
             name: current.name,
             artist: current.artist,
             bpm: current.bpm,
-            seriesList: [current.series]
+            seriesList: [_series.value.find((d) => d.slug === current.series)!]
           })
         }
         return prev
       }, [] as SongListData[])
   }
 )
-
-const getClass = (id: string) => {
-  const index = _series.value.findIndex((s) => s.slug === id)
-  const classList = ['info', 'success', 'danger', 'warning', 'dark']
-  return `is-${classList[index % classList.length]}`
-}
 </script>
