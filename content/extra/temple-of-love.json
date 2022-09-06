@@ -1,0 +1,15 @@
+{
+  "slug": "temple-of-love",
+  "series": "extra",
+  "name": "TEMPLE OF LOVE",
+  "artist": "E-ROTIC",
+  "bpm": 142,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 2 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 6 },
+    { "playStyle": "6-PANELS", "difficulty": 1, "level": 2 },
+    { "playStyle": "6-PANELS", "difficulty": 2, "level": 5 },
+    { "playStyle": "6-PANELS", "difficulty": 3, "level": 6 }
+  ]
+}

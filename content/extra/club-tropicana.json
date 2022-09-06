@@ -1,0 +1,15 @@
+{
+  "slug": "club-tropicana",
+  "series": "extra",
+  "name": "Club Tropicana",
+  "artist": "Cydney D",
+  "bpm": 132,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 2 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 4 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 6 },
+    { "playStyle": "6-PANELS", "difficulty": 1, "level": 2 },
+    { "playStyle": "6-PANELS", "difficulty": 2, "level": 4 },
+    { "playStyle": "6-PANELS", "difficulty": 3, "level": 8 }
+  ]
+}
