@@ -24,7 +24,18 @@
         {{ props.row.difficulty }}
       </OTableColumn>
       <OTableColumn v-slot="props" field="level" label="Level">
-        {{ Object.values(props.row.levels).join(', ') }}
+        <div class="field is-grouped is-grouped-multiline">
+          <div
+            v-for="[series, level] in Object.entries(props.row.levels)"
+            :key="series"
+            class="control"
+          >
+            <div class="tags has-addons">
+              <span class="tag" :class="getClass(series)">{{ series }}</span>
+              <span class="tag">{{ level }}</span>
+            </div>
+          </div>
+        </div>
       </OTableColumn>
     </OTable>
   </section>

@@ -165,7 +165,48 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              6, 6
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-info"
+                    >
+                      1st-jp
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      6
+                    </span>
+                  </div>
+                </div>
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-success"
+                    >
+                      3rd
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      6
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -202,7 +243,48 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              7, 7
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-info"
+                    >
+                      1st-jp
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      7
+                    </span>
+                  </div>
+                </div>
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-success"
+                    >
+                      3rd
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      7
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -239,7 +321,48 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              8, 8
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-info"
+                    >
+                      1st-jp
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      8
+                    </span>
+                  </div>
+                </div>
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-success"
+                    >
+                      3rd
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      8
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -276,7 +399,48 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              7, 7
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-info"
+                    >
+                      1st-jp
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      7
+                    </span>
+                  </div>
+                </div>
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-success"
+                    >
+                      3rd
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      7
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -313,7 +477,48 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              8, 8
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-info"
+                    >
+                      1st-jp
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      8
+                    </span>
+                  </div>
+                </div>
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-success"
+                    >
+                      3rd
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      8
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -350,7 +555,30 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              6
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-info"
+                    >
+                      1st-jp
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      6
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -387,7 +615,30 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              7
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-info"
+                    >
+                      1st-jp
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      7
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -424,7 +675,30 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              8
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-info"
+                    >
+                      1st-jp
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      8
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -461,7 +735,30 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              6
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-success"
+                    >
+                      3rd
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      6
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -498,7 +795,30 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              7
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-success"
+                    >
+                      3rd
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      7
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
@@ -535,7 +855,30 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Level"
               scoped=""
             >
-              8
+              <div
+                class="field is-grouped is-grouped-multiline"
+              >
+                
+                <div
+                  class="control"
+                >
+                  <div
+                    class="tags has-addons"
+                  >
+                    <span
+                      class="tag is-success"
+                    >
+                      3rd
+                    </span>
+                    <span
+                      class="tag"
+                    >
+                      8
+                    </span>
+                  </div>
+                </div>
+                
+              </div>
             </td>
             
             <!--v-if-->
