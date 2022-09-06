@@ -16,10 +16,8 @@ withDefaults(defineProps<SeriesButtonProps>(), { color: '#3e8ed0' })
 </script>
 
 <style lang="scss" scoped>
-@import 'bulma/sass/utilities/functions';
-
 .is-series {
   background-color: v-bind('color');
-  color: findColorInvert(v-bind('color'));
+  color: #fff;
 }
 </style>

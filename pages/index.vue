@@ -1,8 +1,5 @@
 <template>
   <section class="section">
-    <Head>
-      <Title>Consumer DDR</Title>
-    </Head>
     <h1 class="title">Consumer DDR</h1>
 
     <OTable :data="softwareList" striped :loading="isLoading">

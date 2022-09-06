@@ -59,6 +59,8 @@ type SongListData = Omit<SongParsedContent, 'series' | 'charts'> & {
   seriesList: SoftwareListData[]
 }
 
+useHead({ title: 'Song List' })
+
 const { softwareList: _series } = await useSoftwareList()
 const { data: songs, pending: isLoading } = await useAsyncData(
   '/songs',

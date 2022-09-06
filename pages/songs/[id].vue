@@ -1,8 +1,5 @@
 <template>
   <section v-if="song" class="section">
-    <Head>
-      <Title>{{ song.name }} / {{ song.artist }}</Title>
-    </Head>
     <h1 class="title">{{ song.name }} / {{ song.artist }}</h1>
     <span class="subtitle">BPM {{ song.bpm }}</span>
 
@@ -109,6 +106,8 @@ const { data: song } = await useAsyncData(
     })
   }
 )
+
+useHead({ title: song.value?.name })
 
 const series = computed(() =>
   song.value!.series.map((s) => softwareList.value.find((d) => d.slug === s)!)
