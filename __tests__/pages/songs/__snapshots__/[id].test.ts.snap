@@ -4,33 +4,34 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
 <section
   class="section"
 >
-  <head-stub />
   <h1
     class="title"
   >
     TRIP MACHINE / DE-SIRE
   </h1>
-  <h2
+  <span
     class="subtitle"
   >
     BPM 160
-  </h2>
-  <div
-    class="buttons"
+  </span>
+  <section
+    class="content"
   >
-    
-    <a
-      class="button is-info"
-    >
-      1st-jp
-    </a>
-    <a
-      class="button is-success"
-    >
-      3rd
-    </a>
-    
-  </div>
+    <ul>
+      
+      <li>
+        <a>
+          Dance Dance Revolution
+        </a>
+      </li>
+      <li>
+        <a>
+          Dance Dance Revolution 3rd MIX
+        </a>
+      </li>
+      
+    </ul>
+  </section>
   <div
     class="b-table"
   >
@@ -173,36 +174,88 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-info"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      1st-jp
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      6
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          1st-jp
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          6
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 <div
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-success"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution 3rd MIX
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      3rd
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      6
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          3rd
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          6
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -251,36 +304,88 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-info"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      1st-jp
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      7
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          1st-jp
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          7
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 <div
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-success"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution 3rd MIX
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      3rd
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      7
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          3rd
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          7
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -329,36 +434,88 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-info"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      1st-jp
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      8
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          1st-jp
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          8
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 <div
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-success"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution 3rd MIX
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      3rd
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      8
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          3rd
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          8
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -407,36 +564,88 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-info"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      1st-jp
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      7
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          1st-jp
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          7
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 <div
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-success"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution 3rd MIX
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      3rd
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      7
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          3rd
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          7
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -485,36 +694,88 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-info"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      1st-jp
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      8
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          1st-jp
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          8
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 <div
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-success"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution 3rd MIX
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      3rd
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      8
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          3rd
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          8
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -563,18 +824,44 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-info"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      1st-jp
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      6
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          1st-jp
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          6
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -623,18 +910,44 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-info"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      1st-jp
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      7
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          1st-jp
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          7
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -683,18 +996,44 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-info"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      1st-jp
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      8
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          1st-jp
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          8
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -743,18 +1082,44 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-success"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution 3rd MIX
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      3rd
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      6
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          3rd
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          6
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -803,18 +1168,44 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-success"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution 3rd MIX
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      3rd
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      7
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          3rd
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          7
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 
@@ -863,18 +1254,44 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
                   class="control"
                 >
                   <div
-                    class="tags has-addons"
+                    class="b-tooltip is-primary is-top"
                   >
-                    <span
-                      class="tag is-success"
+                    <transition-stub>
+                      <div
+                        class="tooltip-content is-top"
+                        style="display: none;"
+                      >
+                        <span
+                          class=""
+                        />
+                        
+                        Dance Dance Revolution 3rd MIX
+                        
+                      </div>
+                    </transition-stub>
+                    <div
+                      class="tooltip-trigger"
                     >
-                      3rd
-                    </span>
-                    <span
-                      class="tag"
-                    >
-                      8
-                    </span>
+                      
+                      <div
+                        class="tags has-addons"
+                      >
+                        <span
+                          class="is-series tag"
+                          data-v-c1fd21ef=""
+                        >
+                          
+                          3rd
+                          
+                        </span>
+                        <span
+                          class="tag"
+                        >
+                          8
+                        </span>
+                      </div>
+                      
+                    </div>
                   </div>
                 </div>
                 

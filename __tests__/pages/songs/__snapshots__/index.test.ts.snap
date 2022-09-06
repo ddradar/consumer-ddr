@@ -549,11 +549,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 class="buttons"
               >
                 
-                <a
-                  class="button is-small is-success"
-                >
-                  2nd
-                </a>
+                <!--[object Object]-->
                 
               </div>
             </td>
@@ -611,16 +607,8 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 class="buttons"
               >
                 
-                <a
-                  class="button is-small is-info"
-                >
-                  1st-jp
-                </a>
-                <a
-                  class="button is-small is-success"
-                >
-                  2nd
-                </a>
+                <!--[object Object]-->
+                <!--[object Object]-->
                 
               </div>
             </td>
