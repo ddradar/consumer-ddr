@@ -8,6 +8,9 @@ difficultyNames:
   "1": "BASIC"
   "2": "TRICK"
   "3": "MANIAC"
+  "4": "BASIC"
+  "5": "TRICK"
+  "6": "MANIAC"
 ---
 
 # Dance Dance Revolution 5thMIX
