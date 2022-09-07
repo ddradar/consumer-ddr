@@ -42,7 +42,7 @@
 
 <script lang="ts" setup>
 import useSoftwareData from '~~/composables/useSoftwareData'
-import type { Chart, PlayStyle, SongParsedContent } from '~~/src/content'
+import type { Chart, PlayStyle, Song } from '~~/src/content'
 import { normalizeDifficulty } from '~~/src/song'
 
 type ChartInfo = Pick<Chart, 'level' | 'difficulty'> & {
@@ -60,12 +60,12 @@ const { software } = await useSoftwareData(prop.series)
 const { data: songs, pending: isLoading } = await useAsyncData(
   `/software/${prop.series}/songs`,
   () =>
-    queryContent<SongParsedContent>(prop.series)
+    queryContent<Song>(prop.series)
       .where({ _type: 'json', series: prop.series })
       .only(['slug', 'name', 'artist', 'bpm', 'charts'])
       .find(),
   {
-    transform: (songs: SongParsedContent[]) =>
+    transform: (songs: Song[]) =>
       songs.map((s) => ({
         slug: s.slug,
         name: s.name,

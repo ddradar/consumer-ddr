@@ -18,21 +18,19 @@
 </template>
 
 <script lang="ts" setup>
-import type { SongParsedContent } from '~~/src/content'
+import type { Song } from '~~/src/content'
 
-export type SearchSongResult = Pick<
-  SongParsedContent,
-  'slug' | 'name' | 'artist'
->
+const keys = ['slug', 'name', 'artist'] as const
+type SearchSongResult = Pick<Song, typeof keys[number]>
 
 const term = ref('')
 
 const { data: _songs, pending: isLoading } = await useLazyAsyncData(
   '/search-box',
   () =>
-    queryContent<SongParsedContent>()
+    queryContent<Song>()
       .where({ _type: 'json' })
-      .only(['slug', 'name', 'artist'])
+      .only([...keys])
       .find(),
   {
     transform: (songs: SearchSongResult[]) =>

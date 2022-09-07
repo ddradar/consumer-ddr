@@ -1,5 +1,3 @@
-import type { ParsedContent } from '@nuxt/content/dist/runtime/types'
-
 type Region = 'JP' | 'US' | 'EU' | 'None'
 
 type Platform =
@@ -9,7 +7,7 @@ type Platform =
   | 'GAME BOY COLOR'
   | 'Wii'
 
-export interface SoftwareParsedContent extends ParsedContent {
+export interface Software {
   slug: string
   title: string
   color?: string
@@ -28,13 +26,13 @@ export type PlayStyle =
   | '3-PANELS'
   | 'STEP BATTLE'
 
-export type Chart = {
+export interface Chart {
   playStyle: PlayStyle
   difficulty: number
   level: number | '10+' | '?'
 }
 
-export interface SongParsedContent extends ParsedContent {
+export interface Song {
   slug: string
   series: string
   name: string

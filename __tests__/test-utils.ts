@@ -2,18 +2,17 @@ import Oruga from '@oruga-ui/oruga-next'
 import { bulmaConfig } from '@oruga-ui/theme-bulma'
 import { mount } from '@vue/test-utils'
 import flushPromises from 'flush-promises'
-import type { Plugin } from 'vue'
+import type { DefineComponent, Plugin } from 'vue'
 import { defineComponent, h, Suspense } from 'vue'
 
+import type { SoftwareParsedContent } from '~~/composables/useSoftwareData'
 import type { SoftwareListData } from '~~/composables/useSoftwareList'
-import type { SoftwareParsedContent } from '~~/src/content'
 
 export const plugins: (Plugin | [Plugin, ...any[]])[] = [[Oruga, bulmaConfig]]
 
-export const mountAsync = async (
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  component: any,
-  options: Omit<Parameters<typeof mount>[1], 'props'> & { props?: {} }
+export const mountAsync = async <T extends DefineComponent<any, any, any, any>>(
+  component: T,
+  options: Parameters<typeof mount<T>>[1]
 ) => {
   const mountOptions = { ...options }
   delete mountOptions.props
@@ -35,6 +34,7 @@ export const mountAsync = async (
 
 export const mockSoftware: SoftwareParsedContent = {
   slug: '1st-jp',
+  color: 'darkviolet',
   title: 'Dance Dance Revolution',
   platform: 'Play Station',
   region: 'JP',

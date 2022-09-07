@@ -45,7 +45,7 @@ import SeriesComponent from '~~/components/SeriesComponent.vue'
 import useSoftwareList, {
   SoftwareListData
 } from '~~/composables/useSoftwareList'
-import type { Chart, SongParsedContent } from '~~/src/content'
+import type { Chart, Song } from '~~/src/content'
 
 type ChartInfo = Omit<Chart, 'level'> & {
   seriesList: (Pick<SoftwareListData, 'slug' | 'title' | 'color'> &
@@ -59,12 +59,12 @@ const { softwareList } = await useSoftwareList()
 const { data: song } = await useAsyncData(
   `/songs/${_id}`,
   () =>
-    queryContent<SongParsedContent>()
+    queryContent<Song>()
       .where({ slug: { $eq: _id } })
       .only(['series', 'name', 'artist', 'bpm', 'charts'])
       .find(),
   {
-    transform: (songs: SongParsedContent[]) => ({
+    transform: (songs: Song[]) => ({
       name: songs[0].name,
       artist: songs[0].artist,
       bpm: songs[0].bpm,
