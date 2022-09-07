@@ -12,10 +12,8 @@ vi.mock('~~/composables/useSoftwareList')
 describe('pages/index.vue', () => {
   test('renders correctly', async () => {
     // Arrange
-    vi.mocked(useSoftwareList).mockResolvedValue({
-      softwareList: ref(mockSoftwareList),
-      isLoading: ref(false)
-    })
+    const softwareList = ref(mockSoftwareList)
+    vi.mocked(useSoftwareList).mockResolvedValue({ softwareList })
 
     // Act
     const stubs = { NuxtLink: RouterLinkStub }

@@ -13,7 +13,7 @@ const keys = [
 export type SoftwareListData = Pick<SoftwareParsedContent, typeof keys[number]>
 
 export default async function () {
-  const { data, pending: isLoading } = await useAsyncData('/software', () =>
+  const { data } = await useAsyncData('/software', () =>
     queryContent<SoftwareParsedContent>()
       .where({ _type: 'markdown' })
       .sort({ launched: 1 })
@@ -21,5 +21,5 @@ export default async function () {
       .find()
   )
 
-  return { softwareList: data as Ref<SoftwareListData[]>, isLoading }
+  return { softwareList: data as Ref<SoftwareListData[]> }
 }

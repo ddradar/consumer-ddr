@@ -2,7 +2,7 @@
   <section class="section">
     <h1 class="title">Consumer DDR</h1>
 
-    <OTable :data="softwareList" striped :loading="isLoading">
+    <OTable :data="softwareList" striped>
       <OTableColumn v-slot="props" field="name" label="Name">
         <NuxtLink class="is-size-6-mobile" :to="`/series/${props.row.slug}`">
           {{ props.row.title }}
@@ -32,5 +32,5 @@
 <script lang="ts" setup>
 import useSoftwareList from '~~/composables/useSoftwareList'
 
-const { softwareList, isLoading } = await useSoftwareList()
+const { softwareList } = await useSoftwareList()
 </script>

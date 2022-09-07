@@ -206,9 +206,8 @@ describe('pages/songs/[id].vue', () => {
     vi.mocked(useRoute).mockReturnValue({
       params: { id: 'trip-machine' }
     } as any)
-    vi.mocked(useSoftwareList).mockResolvedValue({
-      softwareList: ref([...mockSoftwareList, thirdSeries])
-    } as any)
+    const softwareList = ref([...mockSoftwareList, thirdSeries])
+    vi.mocked(useSoftwareList).mockResolvedValue({ softwareList })
     vi.mocked(useAsyncData).mockReset()
     vi.mocked(useAsyncData).mockResolvedValue({ data: ref(song) } as any)
   })
