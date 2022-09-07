@@ -53,9 +53,9 @@ import SeriesComponent from '~~/components/SeriesComponent.vue'
 import useSoftwareList, {
   SoftwareListData
 } from '~~/composables/useSoftwareList'
-import type { SongParsedContent } from '~~/src/content'
+import type { Song } from '~~/src/content'
 
-type SongListData = Omit<SongParsedContent, 'series' | 'charts'> & {
+type SongListData = Omit<Song, 'series' | 'charts'> & {
   seriesList: SoftwareListData[]
 }
 
@@ -65,13 +65,13 @@ const { softwareList: _series } = await useSoftwareList()
 const { data: songs, pending: isLoading } = await useAsyncData(
   '/songs',
   () =>
-    queryContent<SongParsedContent>()
+    queryContent<Song>()
       .where({ _type: 'json' })
       .sort({ name: 1 })
       .only(['slug', 'series', 'name', 'artist', 'bpm'])
       .find(),
   {
-    transform: (songs: SongParsedContent[]) =>
+    transform: (songs: Song[]) =>
       songs.reduce((prev, current) => {
         const song = prev.find((s) => s.slug === current.slug)
         if (song) {

@@ -1,5 +1,5 @@
 import { RouterLinkStub } from '@vue/test-utils'
-import { describe, expect, test, vi } from 'vitest'
+import { beforeAll, beforeEach, describe, expect, test, vi } from 'vitest'
 import { ref } from 'vue'
 
 import useSoftwareList from '~~/composables/useSoftwareList'
@@ -39,17 +39,20 @@ describe('pages/songs/index.vue', () => {
   ]
   const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }
 
+  beforeAll(() => {
+    const softwareList = ref(mockSoftwareList)
+    vi.mocked(useSoftwareList).mockResolvedValue({ softwareList })
+  })
+  beforeEach(() => {
+    vi.mocked(useAsyncData).mockReset()
+  })
+
   describe('snapshot test', () => {
     test('renders loading state', async () => {
       // Arrange
-      vi.mocked(useSoftwareList).mockResolvedValue({
-        softwareList: ref(mockSoftwareList),
-        isLoading: ref(false)
-      })
-      vi.mocked(useAsyncData).mockResolvedValue({
-        data: ref([]),
-        pending: ref(true)
-      } as any)
+      const data = ref([])
+      const pending = ref(true)
+      vi.mocked(useAsyncData).mockResolvedValue({ data, pending } as any)
 
       // Act
       const wrapper = await mountAsync(SongList, { global })
@@ -60,14 +63,9 @@ describe('pages/songs/index.vue', () => {
 
     test('renders song info', async () => {
       // Arrange
-      vi.mocked(useSoftwareList).mockResolvedValue({
-        softwareList: ref(mockSoftwareList),
-        isLoading: ref(false)
-      })
-      vi.mocked(useAsyncData).mockResolvedValue({
-        data: ref(songs),
-        pending: ref(false)
-      } as any)
+      const data = ref(songs)
+      const pending = ref(false)
+      vi.mocked(useAsyncData).mockResolvedValue({ data, pending } as any)
 
       // Act
       const wrapper = await mountAsync(SongList, { global })
@@ -80,15 +78,9 @@ describe('pages/songs/index.vue', () => {
   describe('useAsyncData()', () => {
     test('calls with transform option', async () => {
       // Arrange
-      vi.mocked(useSoftwareList).mockResolvedValue({
-        softwareList: ref(mockSoftwareList),
-        isLoading: ref(false)
-      })
-      vi.mocked(useAsyncData).mockReset()
-      vi.mocked(useAsyncData).mockResolvedValue({
-        data: ref(songs),
-        pending: ref(false)
-      } as any)
+      const data = ref(songs)
+      const pending = ref(false)
+      vi.mocked(useAsyncData).mockResolvedValue({ data, pending } as any)
 
       // Act
       await mountAsync(SongList, { global })

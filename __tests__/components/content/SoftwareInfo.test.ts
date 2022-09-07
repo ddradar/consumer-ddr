@@ -8,7 +8,7 @@ import { mockSoftware, mountAsync } from '../../test-utils'
 
 vi.mock('~~/composables/useSoftwareData')
 
-describe('components/content/SongList.vue', () => {
+describe('components/content/SoftwareInfo.vue', () => {
   describe('snapshot test', () => {
     test('renders correctly', async () => {
       // Arrange
@@ -17,9 +17,8 @@ describe('components/content/SongList.vue', () => {
       })
 
       // Act
-      const wrapper = await mountAsync(SoftwareInfo, {
-        props: { series: mockSoftware.slug }
-      })
+      const props = { series: mockSoftware.slug } as any
+      const wrapper = await mountAsync(SoftwareInfo, { props })
 
       // Assert
       expect(wrapper.element).toMatchSnapshot()
