@@ -1,0 +1,11 @@
+{
+  "slug": "the-centre-of-the-heart",
+  "series": "5th",
+  "name": "The Centre Of The Heart (STONEBRIDGE CLUBMIX)",
+  "artist": "Roxette",
+  "bpm": 128,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 2 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 2 }
+  ]
+}
