@@ -1,0 +1,18 @@
+{
+  "slug": "i-believe-in-miracles",
+  "series": "us",
+  "name": "I believe in miracles",
+  "artist": "HI-RISE",
+  "bpm": 126,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "UNISON", "difficulty": 1, "level": 5 },
+    { "playStyle": "UNISON", "difficulty": 2, "level": 6 },
+    { "playStyle": "UNISON", "difficulty": 3, "level": 8 }
+  ]
+}

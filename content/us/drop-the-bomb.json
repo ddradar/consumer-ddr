@@ -1,17 +1,17 @@
 {
-  "slug": "brilliant-2u",
-  "series": "best",
-  "name": "BRILLIANT 2U",
-  "artist": "NAOKI",
+  "slug": "drop-the-bomb",
+  "series": "us",
+  "name": "DROP THE BOMB",
+  "artist": "Scotty D.",
   "bpm": 150,
   "charts": [
-    { "playStyle": "SINGLE", "difficulty": 5, "level": 1 },
+    { "playStyle": "SINGLE", "difficulty": 6, "level": 1 },
     { "playStyle": "SINGLE", "difficulty": 1, "level": 4 },
     { "playStyle": "SINGLE", "difficulty": 2, "level": 5 },
     { "playStyle": "SINGLE", "difficulty": 3, "level": 6 },
     { "playStyle": "DOUBLE", "difficulty": 1, "level": 4 },
     { "playStyle": "DOUBLE", "difficulty": 2, "level": 5 },
-    { "playStyle": "DOUBLE", "difficulty": 3, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 6 },
     { "playStyle": "UNISON", "difficulty": 1, "level": 4 },
     { "playStyle": "UNISON", "difficulty": 2, "level": 5 },
     { "playStyle": "UNISON", "difficulty": 3, "level": 6 }

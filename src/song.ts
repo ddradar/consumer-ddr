@@ -1,5 +1,5 @@
 const basicNames = ['BASIC', 'NORMAL', 'LIGHT', '楽']
-const difficultNames = ['ANOTHER', 'DIFFICULT', 'TRICK', '踊', 'STANDARD']
+const difficultNames = ['ANOTHER', 'DIFFICULT', 'TRICK', '踊']
 const expertNames = ['MANIAC', 'SSR', 'EXPERT', '激', 'HEAVY']
 const beginnerNames = ['BEGINNER']
 

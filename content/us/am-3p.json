@@ -1,0 +1,19 @@
+{
+  "slug": "am-3p",
+  "series": "us",
+  "name": "AM-3P",
+  "artist": "KTz",
+  "bpm": 130,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 5, "level": 1 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 7 },
+    { "playStyle": "UNISON", "difficulty": 1, "level": 5 },
+    { "playStyle": "UNISON", "difficulty": 2, "level": 6 },
+    { "playStyle": "UNISON", "difficulty": 3, "level": 8 }
+  ]
+}
