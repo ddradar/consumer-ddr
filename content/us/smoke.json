@@ -12,8 +12,8 @@
     { "playStyle": "DOUBLE", "difficulty": 1, "level": 4 },
     { "playStyle": "DOUBLE", "difficulty": 2, "level": 5 },
     { "playStyle": "DOUBLE", "difficulty": 3, "level": 6 },
-    { "playStyle": "COUPLE", "difficulty": 1, "level": 3 },
-    { "playStyle": "COUPLE", "difficulty": 2, "level": 4 },
-    { "playStyle": "COUPLE", "difficulty": 3, "level": 6 }
+    { "playStyle": "UNISON", "difficulty": 1, "level": 3 },
+    { "playStyle": "UNISON", "difficulty": 2, "level": 4 },
+    { "playStyle": "UNISON", "difficulty": 3, "level": 6 }
   ]
 }
