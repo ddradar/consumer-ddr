@@ -1,0 +1,14 @@
+{
+  "slug": "genom-screams",
+  "series": "konamix",
+  "name": "GENOM SCREAMS",
+  "artist": "L.E.D. LIGHT",
+  "bpm": 150,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 8 }
+  ]
+}
