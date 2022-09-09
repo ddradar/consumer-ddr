@@ -1,0 +1,15 @@
+{
+  "slug": "sweet-sweet-love-magic",
+  "series": "max2-jp",
+  "name": "Sweet Sweet ♥ Magic",
+  "artist": "jun",
+  "bpm": 180,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 9 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 9 }
+  ]
+}

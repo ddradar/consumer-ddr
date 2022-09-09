@@ -1,0 +1,11 @@
+{
+  "slug": "look-to-the-sky-trance",
+  "series": "max2-jp",
+  "name": "Look To The Sky (Trance Mix)",
+  "artist": "System S.F. feat. Anna",
+  "bpm": 140,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}

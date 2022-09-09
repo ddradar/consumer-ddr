@@ -1,0 +1,11 @@
+{
+  "slug": "my-summer-love-tommys-smile",
+  "series": "max2-jp",
+  "name": "MY SUMMER LOVE (TOMMY'S SMILE MIX)",
+  "artist": "mitsu-O! with GEILA",
+  "bpm": 100,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}

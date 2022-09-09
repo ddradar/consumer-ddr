@@ -1,0 +1,11 @@
+{
+  "slug": "silent-hill-3rd-christmas",
+  "series": "max2-jp",
+  "name": "Silent Hill (3rd christmas mix)",
+  "artist": "THOMAS HOWARD",
+  "bpm": 125,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}

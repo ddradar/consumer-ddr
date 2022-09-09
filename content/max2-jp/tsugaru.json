@@ -1,0 +1,15 @@
+{
+  "slug": "tsugaru",
+  "series": "max2-jp",
+  "name": "TSUGARU",
+  "artist": "RevenG vs DE-SIRE",
+  "bpm": "95-165",
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 9 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 4 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 9 }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "super-star-from-nonstop",
+  "series": "max2-jp",
+  "name": "SUPER STAR (FROM NONSTOP MEGAMIX)",
+  "artist": "D.J. RICH feat. Tail Bros.",
+  "bpm": 128,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}
