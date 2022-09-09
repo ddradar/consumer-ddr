@@ -5,50 +5,15 @@
   "artist": "C.J. Crew feat. Sedge",
   "bpm": 170,
   "charts": [
-    {
-      "playStyle": "SINGLE",
-      "difficulty": 1,
-      "level": 4
-    },
-    {
-      "playStyle": "SINGLE",
-      "difficulty": 2,
-      "level": 7
-    },
-    {
-      "playStyle": "SINGLE",
-      "difficulty": 3,
-      "level": 9
-    },
-    {
-      "playStyle": "DOUBLE",
-      "difficulty": 1,
-      "level": 4
-    },
-    {
-      "playStyle": "DOUBLE",
-      "difficulty": 2,
-      "level": 6
-    },
-    {
-      "playStyle": "DOUBLE",
-      "difficulty": 3,
-      "level": 9
-    },
-    {
-      "playStyle": "6-PANELS",
-      "difficulty": 1,
-      "level": 4
-    },
-    {
-      "playStyle": "6-PANELS",
-      "difficulty": 2,
-      "level": 6
-    },
-    {
-      "playStyle": "6-PANELS",
-      "difficulty": 3,
-      "level": 9
-    }
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 4 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 7 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 9 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 4 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 9 },
+    { "playStyle": "6-PANELS", "difficulty": 1, "level": 4 },
+    { "playStyle": "6-PANELS", "difficulty": 2, "level": 6 },
+    { "playStyle": "6-PANELS", "difficulty": 3, "level": 9 },
+    { "playStyle": "BATTLE", "difficulty": 1, "level": 8 }
   ]
 }
