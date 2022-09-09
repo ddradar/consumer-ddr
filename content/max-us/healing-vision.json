@@ -1,0 +1,15 @@
+{
+  "slug": "healing-vision",
+  "series": "max-us",
+  "name": "Healing Vision",
+  "artist": "DE-SIRE",
+  "bpm": "49-196",
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 9 }
+  ]
+}

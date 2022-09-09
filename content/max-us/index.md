@@ -8,6 +8,7 @@ difficultyNames:
   "1": "楽"
   "2": "踊"
   "3": "激"
+  "6": "激"
 ---
 
 # DDRMAX Dance Dance Revolution
