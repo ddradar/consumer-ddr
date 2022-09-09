@@ -1,0 +1,15 @@
+{
+  "slug": "sana-mollete-ne-ente",
+  "series": "max-us",
+  "name": "SANA MORETTE NE ENTE",
+  "artist": "Togo Project feat.Sana",
+  "bpm": 90,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 2 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 2 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 8 }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "cutie-chaser-morning",
+  "series": "max-us",
+  "name": "CUTIE CHASER (MORNING MIX)",
+  "artist": "CLUB SPICE",
+  "bpm": 126,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 6, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 4 }
+  ]
+}
