@@ -1,0 +1,16 @@
+{
+  "slug": "the-whistle-song",
+  "series": "max2-us",
+  "name": "THE WHISTLE SONG (Blow My Whistle Baby)",
+  "artist": "DJ ALIGATOR PROJECT",
+  "bpm": 140,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 0, "level": 1 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 4 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 4 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 7 }
+  ]
+}
