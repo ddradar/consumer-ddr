@@ -1,0 +1,11 @@
+{
+  "slug": "matsuri-japan-from-nonstop",
+  "series": "max2-jp",
+  "name": "祭 JAPAN (FROM NONSTOP MEGAMIX)",
+  "artist": "RE-VENGE",
+  "bpm": 180,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}

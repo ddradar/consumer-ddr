@@ -1,0 +1,11 @@
+{
+  "slug": "wild-rush-from-nonstop",
+  "series": "max2-jp",
+  "name": "WILD RUSH (FROM NONSTOP MEGAMIX)",
+  "artist": "FACTOR-X",
+  "bpm": 125,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 8 }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "do-it-right-80s-electro",
+  "series": "max2-jp",
+  "name": "Do It Right (80's Electro Mix)",
+  "artist": "SOTA feat. Ebony Fay",
+  "bpm": 135,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}

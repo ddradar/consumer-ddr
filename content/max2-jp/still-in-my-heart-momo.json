@@ -1,0 +1,11 @@
+{
+  "slug": "still-in-my-heart-momo",
+  "series": "max2-jp",
+  "name": "STILL IN MY HEART (MOMO MIX)",
+  "artist": "NAOKI",
+  "bpm": "85-170",
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 8 }
+  ]
+}

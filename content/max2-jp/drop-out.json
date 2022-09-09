@@ -1,0 +1,15 @@
+{
+  "slug": "drop-out",
+  "series": "max2-jp",
+  "name": "DROP OUT",
+  "artist": "NW260",
+  "bpm": 260,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 7 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 9 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 9 }
+  ]
+}

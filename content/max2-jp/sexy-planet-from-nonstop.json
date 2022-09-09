@@ -1,0 +1,11 @@
+{
+  "slug": "sexy-planet-from-nonstop",
+  "series": "max2-jp",
+  "name": "SEXY PLANET (FROM NONSTOP MEGAMIX)",
+  "artist": "Crystal Aliens",
+  "bpm": 180,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}

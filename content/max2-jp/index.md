@@ -3,7 +3,7 @@ slug: "max2-jp"
 color: "black"
 platform: "Play Station 2"
 region: "JP"
-launched: "2002-05-16"
+launched: "2003-04-24"
 difficultyNames:
   "1": "楽"
   "2": "踊"

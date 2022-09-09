@@ -1,0 +1,15 @@
+{
+  "slug": "baby-love-me",
+  "series": "max2-jp",
+  "name": "BABY LOVE ME",
+  "artist": "JUDY CRYSTAL",
+  "bpm": 160,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 8 }
+  ]
+}
