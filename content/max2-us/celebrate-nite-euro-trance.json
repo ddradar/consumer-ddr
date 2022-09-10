@@ -1,0 +1,11 @@
+{
+  "slug": "celebrate-nite-euro-trance",
+  "series": "max2-us",
+  "name": "CELEBRATE NITE (EURO TRANCE STYLE)",
+  "artist": "N.M.R.",
+  "bpm": 144,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 8 }
+  ]
+}
