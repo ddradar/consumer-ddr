@@ -29,7 +29,7 @@
   "devDependencies": {
     "@nuxt/content": "^2.0.1",
     "@nuxtjs/eslint-config-typescript": "^11.0.0",
-    "@vitest/coverage-c8": "^0.22.1",
+    "@vitest/coverage-c8": "^0.23.2",
     "@vue/test-utils": "^2.0.2",
     "ajv": "^8.11.0",
     "eslint": "^8.23.0",
