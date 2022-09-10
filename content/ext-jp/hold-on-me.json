@@ -1,15 +1,15 @@
 {
-  "slug": "forever-sunshine",
-  "series": "max2-us",
-  "name": "Forever Sunshine",
-  "artist": "Chel Y.",
-  "bpm": 128,
+  "slug": "hold-on-me",
+  "series": "ext-jp",
+  "name": "HOLD ON ME",
+  "artist": "tiger YAMATO",
+  "bpm": 152,
   "charts": [
     { "playStyle": "SINGLE", "difficulty": 0, "level": 1 },
     { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
     { "playStyle": "SINGLE", "difficulty": 2, "level": 5 },
-    { "playStyle": "SINGLE", "difficulty": 3, "level": 5 },
-    { "playStyle": "DOUBLE", "difficulty": 1, "level": 2 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
     { "playStyle": "DOUBLE", "difficulty": 2, "level": 5 },
     { "playStyle": "DOUBLE", "difficulty": 3, "level": 6 }
   ]

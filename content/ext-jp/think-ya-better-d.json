@@ -1,0 +1,16 @@
+{
+  "slug": "think-ya-better-d",
+  "series": "ext-jp",
+  "name": "think ya better D",
+  "artist": "sAmi",
+  "bpm": 136,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 0, "level": 1 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 4 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 4 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 7 }
+  ]
+}

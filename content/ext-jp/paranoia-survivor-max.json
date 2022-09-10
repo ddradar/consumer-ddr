@@ -1,0 +1,18 @@
+{
+  "slug": "paranoia-survivor-max",
+  "series": "ext-jp",
+  "name": "PARANOIA survivor MAX",
+  "artist": "290",
+  "bpm": "145-290",
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 0, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 8 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": "10+" },
+    { "playStyle": "SINGLE", "difficulty": 4, "level": "10+" },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": "10+" },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": "10+" }
+  ]
+}
