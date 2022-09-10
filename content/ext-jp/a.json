@@ -1,0 +1,18 @@
+{
+  "slug": "a",
+  "series": "ext-jp",
+  "name": "A",
+  "artist": "D.J.Amuro",
+  "bpm": "93-191",
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 0, "level": 2 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 4 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 9 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 4 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 9 }
+  ]
+}

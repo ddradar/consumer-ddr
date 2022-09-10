@@ -1,0 +1,16 @@
+{
+  "slug": "magic-door",
+  "series": "ext-jp",
+  "name": "魔法の扉 (スペース★マコのテーマ)",
+  "artist": "a.s.a.",
+  "bpm": 184,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 0, "level": 2 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 4 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 4 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 8 }
+  ]
+}
