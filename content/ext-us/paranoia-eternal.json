@@ -1,0 +1,16 @@
+{
+  "slug": "paranoia-eternal",
+  "series": "ext-us",
+  "name": "PARANOiA ETERNAL",
+  "artist": "STM 200",
+  "bpm": 200,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 0, "level": 2 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 9 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 9 }
+  ]
+}

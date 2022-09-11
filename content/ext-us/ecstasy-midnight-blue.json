@@ -1,0 +1,11 @@
+{
+  "slug": "ecstasy-midnight-blue",
+  "series": "ext-us",
+  "name": "ECSTASY (midnight blue mix)",
+  "artist": "d-complex",
+  "bpm": 145,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 8 }
+  ]
+}

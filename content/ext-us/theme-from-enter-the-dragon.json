@@ -1,0 +1,16 @@
+{
+  "slug": "theme-from-enter-the-dragon",
+  "series": "ext-us",
+  "name": "THEME FROM ENTER THE DRAGON (notorious mix)",
+  "artist": "B3-PROJECT",
+  "bpm": 142,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 0, "level": 1 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 8 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 8 }
+  ]
+}
