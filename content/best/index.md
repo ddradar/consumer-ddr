@@ -10,6 +10,7 @@ difficultyNames:
   "2": "ANOTHER"
   "3": "MANIAC"
   "5": "BEGINNER"
+  "6": "MANIAC"
 ---
 
 # Dance Dance Revolution BEST HITS
