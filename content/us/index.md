@@ -10,7 +10,8 @@ difficultyNames:
   "2": "DIFFICULT"
   "3": "EXPERT"
   "5": "BEGINNER"
-  "6": "BEGINNER"
+  "6": "EXPERT"
+  "7": "BEGINNER"
 ---
 
 # Dance Dance Revolution

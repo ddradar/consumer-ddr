@@ -9,6 +9,7 @@ difficultyNames:
   "2": "ANOTHER"
   "3": "MANIAC"
   "5": "NORMAL"
+  "6": "MANIAC"
 ---
 
 # Dance Dance Revolution GB
