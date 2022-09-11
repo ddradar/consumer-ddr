@@ -1,0 +1,11 @@
+{
+  "slug": "b4u-b4-za-beat",
+  "series": "ext-us",
+  "name": "B4U (B4 ZA BEAT MIX)",
+  "artist": "NAOKI",
+  "bpm": 170,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}

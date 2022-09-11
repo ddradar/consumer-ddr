@@ -1,0 +1,16 @@
+{
+  "slug": "never-ending-story",
+  "series": "ext-us",
+  "name": "NEVER ENDING STORY (Power Club Vocal Mix)",
+  "artist": "DJ-AC-DC",
+  "bpm": 140,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 0, "level": 1 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 4 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 8 }
+  ]
+}
