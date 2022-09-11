@@ -2,6 +2,10 @@
   "$schema": "http://json-schema.org/draft-07/schema",
   "$id": "https://cs.ddradar.app/song-schema.json",
   "definitions": {
+    "id": {
+      "type": "string",
+      "pattern": "^([0-9a-z]+-)*[0-9a-z]+$"
+    },
     "chart": {
       "type": "object",
       "properties": {
@@ -36,17 +40,17 @@
       "additionalProperties": false
     }
   },
-  "title": "Software Schema",
+  "title": "Song Schema",
   "type": "object",
   "properties": {
     "$schema": { "type": "string" },
     "slug": {
-      "description": "Song Id",
-      "type": "string"
+      "$ref": "#/definitions/id",
+      "description": "Song Id"
     },
     "series": {
-      "description": "Series slug",
-      "type": "string"
+      "$ref": "#/definitions/id",
+      "description": "Series slug"
     },
     "name": { "type": "string" },
     "artist": { "type": "string" },
