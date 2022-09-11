@@ -12,7 +12,9 @@ difficultyNames:
 
 # Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1
 
-:software-info{series="club-1"}
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
 
 ## 収録曲リスト
 

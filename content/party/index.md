@@ -14,7 +14,9 @@ difficultyNames:
 
 # Dance Dance Revolution Party Collection
 
-:software-info{series="party"}
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
 
 ## 収録曲リスト
 

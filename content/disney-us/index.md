@@ -12,7 +12,9 @@ difficultyNames:
 
 # Dance Dance Revolution Disney MIX
 
-:software-info{series="disney-us"}
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
 
 ## 収録曲リスト
 

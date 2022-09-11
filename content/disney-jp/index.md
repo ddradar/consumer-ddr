@@ -12,7 +12,9 @@ difficultyNames:
 
 # Dance Dance Revolution Disney's RAVE
 
-:software-info{series="disney-jp"}
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
 
 ## 収録曲リスト
 
