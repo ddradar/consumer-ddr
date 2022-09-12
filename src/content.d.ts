@@ -25,6 +25,7 @@ export type PlayStyle =
   | '6-PANELS'
   | '3-PANELS'
   | 'STEP BATTLE'
+  | 'BATTLE'
 
 export interface Chart {
   playStyle: PlayStyle

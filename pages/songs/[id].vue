@@ -16,7 +16,7 @@
         {{ props.row.playStyle }}
       </OTableColumn>
       <OTableColumn v-slot="props" field="difficulty" label="Difficulty">
-        {{ props.row.difficulty }}
+        {{ normalizeDifficulty(props.row.difficulty) }}
       </OTableColumn>
       <OTableColumn v-slot="props" field="level" label="Level">
         <div class="field is-grouped is-grouped-multiline">
@@ -46,12 +46,23 @@ import useSoftwareList, {
   SoftwareListData
 } from '~~/composables/useSoftwareList'
 import type { Chart, Song } from '~~/src/content'
+import { normalizeDifficulty } from '~~/src/song'
 
 type ChartInfo = Omit<Chart, 'level'> & {
   seriesList: (Pick<SoftwareListData, 'slug' | 'title' | 'color'> &
     Pick<Chart, 'level'>)[]
 }
-const keys = ['series', 'name', 'artist', 'bpm', 'charts'] as const
+const _keys = ['series', 'name', 'artist', 'bpm', 'charts'] as const
+const _playStyles = [
+  'SINGLE',
+  'DOUBLE',
+  'COUPLE',
+  'UNISON',
+  '6-PANELS',
+  '3-PANELS',
+  'STEP BATTLE',
+  'BATTLE'
+]
 
 const _route = useRoute()
 const _id = _route.params.id as string
@@ -62,7 +73,7 @@ const { data: song } = await useAsyncData(
   () =>
     queryContent<Song>()
       .where({ slug: { $eq: _id } })
-      .only([...keys])
+      .only([..._keys])
       .find(),
   {
     transform: (songs) => ({
@@ -70,40 +81,47 @@ const { data: song } = await useAsyncData(
       artist: songs[0].artist,
       bpm: songs[0].bpm,
       series: songs.map((s) => s.series),
-      charts: songs.reduce((prev, current) => {
-        for (const chart of current.charts) {
-          const series = softwareList.value.find(
-            (d) => d.slug === current.series
-          )!
-          const existsChart = prev.find(
-            (c) =>
-              c.playStyle === chart.playStyle &&
-              c.difficulty === chart.difficulty
-          )
-          if (existsChart) {
-            existsChart.seriesList.push({
-              slug: series.slug,
-              title: series.title,
-              color: series.color,
-              level: chart.level
-            })
-          } else {
-            prev.push({
-              playStyle: chart.playStyle,
-              difficulty: chart.difficulty,
-              seriesList: [
-                {
-                  slug: series.slug,
-                  title: series.title,
-                  color: series.color,
-                  level: chart.level
-                }
-              ]
-            })
+      charts: songs
+        .reduce((prev, current) => {
+          for (const chart of current.charts) {
+            const series = softwareList.value.find(
+              (d) => d.slug === current.series
+            )!
+            const existsChart = prev.find(
+              (c) =>
+                c.playStyle === chart.playStyle &&
+                c.difficulty === chart.difficulty
+            )
+            if (existsChart) {
+              existsChart.seriesList.push({
+                slug: series.slug,
+                title: series.title,
+                color: series.color,
+                level: chart.level
+              })
+            } else {
+              prev.push({
+                playStyle: chart.playStyle,
+                difficulty: chart.difficulty,
+                seriesList: [
+                  {
+                    slug: series.slug,
+                    title: series.title,
+                    color: series.color,
+                    level: chart.level
+                  }
+                ]
+              })
+            }
           }
-        }
-        return prev
-      }, [] as ChartInfo[])
+          return prev
+        }, [] as ChartInfo[])
+        .sort((l, r) =>
+          l.playStyle === r.playStyle
+            ? l.difficulty - r.difficulty
+            : _playStyles.indexOf(l.playStyle) -
+              _playStyles.indexOf(r.playStyle)
+        )
     })
   }
 )

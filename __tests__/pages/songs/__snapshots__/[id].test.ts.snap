@@ -159,7 +159,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              1
+              BASIC
             </td>
             <td
               class=""
@@ -289,7 +289,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              2
+              DIFFICULT
             </td>
             <td
               class=""
@@ -419,7 +419,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              3
+              EXPERT
             </td>
             <td
               class=""
@@ -549,7 +549,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              1
+              BASIC
             </td>
             <td
               class=""
@@ -679,7 +679,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              2
+              DIFFICULT
             </td>
             <td
               class=""
@@ -809,7 +809,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              1
+              BASIC
             </td>
             <td
               class=""
@@ -895,7 +895,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              2
+              DIFFICULT
             </td>
             <td
               class=""
@@ -981,7 +981,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              3
+              EXPERT
             </td>
             <td
               class=""
@@ -1067,7 +1067,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              1
+              BASIC
             </td>
             <td
               class=""
@@ -1153,7 +1153,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              2
+              DIFFICULT
             </td>
             <td
               class=""
@@ -1239,7 +1239,7 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
               data-label="Difficulty"
               scoped=""
             >
-              3
+              EXPERT
             </td>
             <td
               class=""
