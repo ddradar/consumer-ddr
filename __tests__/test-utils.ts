@@ -43,7 +43,7 @@ export const mockSoftware: SoftwareParsedContent = {
     '1': 'BASIC',
     '2': 'ANOTHER',
     '3': 'MANIAC',
-    '5': 'NORMAL'
+    '6': 'NORMAL'
   },
   body: '',
   _id: 'content:1st-jp:index.md'

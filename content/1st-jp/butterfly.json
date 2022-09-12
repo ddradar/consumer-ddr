@@ -11,7 +11,7 @@
     { "playStyle": "SINGLE", "difficulty": 3, "level": 6 },
     { "playStyle": "DOUBLE", "difficulty": 1, "level": 4 },
     { "playStyle": "DOUBLE", "difficulty": 2, "level": 6 },
-    { "playStyle": "COUPLE", "difficulty": 5, "level": 3 },
+    { "playStyle": "COUPLE", "difficulty": 6, "level": 3 },
     { "playStyle": "COUPLE", "difficulty": 1, "level": 3 },
     { "playStyle": "COUPLE", "difficulty": 2, "level": 4 },
     { "playStyle": "COUPLE", "difficulty": 3, "level": 6 }
