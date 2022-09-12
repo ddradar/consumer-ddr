@@ -4,5 +4,8 @@
       "fileMatch": ["/content/**/*.json"],
       "url": "/public/song-schema.json"
     }
-  ]
+  ],
+  "markdownlint.config": {
+    "MD033": { "allowed_elements": ["kbd"] }
+  }
 }
