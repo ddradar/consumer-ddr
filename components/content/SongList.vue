@@ -82,7 +82,7 @@ const { data: songs, pending: isLoading } = await useAsyncData(
             level: c.level,
             difficulty: c.difficulty,
             name,
-            color: `is-${normalizeDifficulty(name).toLowerCase()}`
+            color: `is-${normalizeDifficulty(c.difficulty).toLowerCase()}`
           })
           return p
         }, {} as Partial<Record<PlayStyle, ChartInfo[]>>)

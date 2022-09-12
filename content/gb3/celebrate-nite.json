@@ -5,20 +5,8 @@
   "artist": "N.M.R.",
   "bpm": 144,
   "charts": [
-    {
-      "playStyle": "SINGLE",
-      "difficulty": 6,
-      "level": 4
-    },
-    {
-      "playStyle": "SINGLE",
-      "difficulty": 9,
-      "level": 6
-    },
-    {
-      "playStyle": "SINGLE",
-      "difficulty": 10,
-      "level": 7
-    }
+    { "playStyle": "SINGLE", "difficulty": 6, "level": 4 },
+    { "playStyle": "SINGLE", "difficulty": 12, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 13, "level": 7 }
   ]
 }

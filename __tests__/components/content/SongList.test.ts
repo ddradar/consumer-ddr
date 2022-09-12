@@ -28,7 +28,7 @@ describe('components/content/SongList.vue', () => {
       bpm: butterfly.bpm,
       charts: {
         SINGLE: [
-          { difficulty: 5, level: 3, name: 'NORMAL', color: 'is-basic' },
+          { difficulty: 6, level: 3, name: 'NORMAL', color: 'is-basic' },
           { difficulty: 1, level: 3, name: 'BASIC', color: 'is-basic' },
           { difficulty: 2, level: 4, name: 'ANOTHER', color: 'is-difficult' },
           { difficulty: 3, level: 6, name: 'MANIAC', color: 'is-expert' }
@@ -38,7 +38,7 @@ describe('components/content/SongList.vue', () => {
           { difficulty: 2, level: 6, name: 'ANOTHER', color: 'is-difficult' }
         ],
         COUPLE: [
-          { difficulty: 5, level: 3, name: 'NORMAL', color: 'is-basic' },
+          { difficulty: 6, level: 3, name: 'NORMAL', color: 'is-basic' },
           { difficulty: 1, level: 3, name: 'BASIC', color: 'is-basic' },
           { difficulty: 2, level: 4, name: 'ANOTHER', color: 'is-difficult' },
           { difficulty: 3, level: 6, name: 'MANIAC', color: 'is-expert' }
