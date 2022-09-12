@@ -5,7 +5,7 @@
   "artist": "Roxette",
   "bpm": 128,
   "charts": [
-    { "playStyle": "SINGLE", "difficulty": 4, "level": 2 },
-    { "playStyle": "DOUBLE", "difficulty": 4, "level": 2 }
+    { "playStyle": "SINGLE", "difficulty": 6, "level": 2 },
+    { "playStyle": "DOUBLE", "difficulty": 6, "level": 2 }
   ]
 }

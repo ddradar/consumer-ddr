@@ -5,7 +5,7 @@
   "artist": "JUDY CRYSTAL",
   "bpm": 160,
   "charts": [
-    { "playStyle": "SINGLE", "difficulty": 4, "level": 3 },
-    { "playStyle": "DOUBLE", "difficulty": 4, "level": 3 }
+    { "playStyle": "SINGLE", "difficulty": 6, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 6, "level": 3 }
   ]
 }

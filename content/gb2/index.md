@@ -9,6 +9,9 @@ difficultyNames:
   "1": "BASIC"
   "2": "ANOTHER"
   "3": "SSR"
+  "6": "BASIC"
+  "7": "ANOTHER"
+  "8": "SSR"
 ---
 
 # Dance Dance Revolution GB2

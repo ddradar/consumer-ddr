@@ -9,8 +9,8 @@ difficultyNames:
   "2": "TRICK"
   "3": "MANIAC"
   "6": "BASIC"
-  "9": "TRICK"
-  "10": "MANIAC"
+  "12": "TRICK"
+  "13": "MANIAC"
 ---
 
 # Dance Dance Revolution GB3
