@@ -18,7 +18,9 @@ difficultyNames:
 
 # Dancing Stage featuring TRUE KiSS DESTiNATiON
 
-:software-info{series="tkd"}
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
 
 ## 収録曲リスト
 

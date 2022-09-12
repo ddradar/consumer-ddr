@@ -51,6 +51,7 @@ type ChartInfo = Omit<Chart, 'level'> & {
   seriesList: (Pick<SoftwareListData, 'slug' | 'title' | 'color'> &
     Pick<Chart, 'level'>)[]
 }
+const keys = ['series', 'name', 'artist', 'bpm', 'charts'] as const
 
 const _route = useRoute()
 const _id = _route.params.id as string
@@ -61,10 +62,10 @@ const { data: song } = await useAsyncData(
   () =>
     queryContent<Song>()
       .where({ slug: { $eq: _id } })
-      .only(['series', 'name', 'artist', 'bpm', 'charts'])
+      .only([...keys])
       .find(),
   {
-    transform: (songs: Song[]) => ({
+    transform: (songs) => ({
       name: songs[0].name,
       artist: songs[0].artist,
       bpm: songs[0].bpm,

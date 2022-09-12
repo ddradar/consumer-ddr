@@ -132,7 +132,7 @@ exports[`pages/index.vue > renders correctly 1`] = `
               <a
                 class="is-size-6-mobile"
               >
-                Dance Dance Revolution
+                Dance Dance Revolution (JP) 
               </a>
             </td>
             <td
@@ -140,9 +140,7 @@ exports[`pages/index.vue > renders correctly 1`] = `
               data-label="Platform"
               scoped=""
             >
-              <span>
-                Play Station JP
-              </span>
+              Play Station
             </td>
             <td
               class=""
@@ -175,7 +173,7 @@ exports[`pages/index.vue > renders correctly 1`] = `
               <a
                 class="is-size-6-mobile"
               >
-                Dance Dance Revolution 2nd ReMIX
+                Dance Dance Revolution 2nd ReMIX (JP) 
               </a>
             </td>
             <td
@@ -183,9 +181,7 @@ exports[`pages/index.vue > renders correctly 1`] = `
               data-label="Platform"
               scoped=""
             >
-              <span>
-                Play Station JP
-              </span>
+              Play Station
             </td>
             <td
               class=""

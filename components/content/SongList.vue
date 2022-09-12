@@ -52,6 +52,7 @@ type ChartInfo = Pick<Chart, 'level' | 'difficulty'> & {
 interface Props {
   series: string
 }
+const keys = ['slug', 'name', 'artist', 'bpm', 'charts'] as const
 
 const prop = defineProps<Props>()
 
@@ -62,10 +63,10 @@ const { data: songs, pending: isLoading } = await useAsyncData(
   () =>
     queryContent<Song>(prop.series)
       .where({ _type: 'json', series: prop.series })
-      .only(['slug', 'name', 'artist', 'bpm', 'charts'])
+      .only([...keys])
       .find(),
   {
-    transform: (songs: Song[]) =>
+    transform: (songs) =>
       songs.map((s) => ({
         slug: s.slug,
         name: s.name,

@@ -12,7 +12,9 @@ difficultyNames:
 
 # Dance Dance Revolution 4thMIX
 
-:software-info{series="4th"}
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
 
 ## 収録曲リスト
 

@@ -33,7 +33,7 @@ const { data: _songs, pending: isLoading } = await useLazyAsyncData(
       .only([...keys])
       .find(),
   {
-    transform: (songs: SearchSongResult[]) =>
+    transform: (songs) =>
       songs.reduce((prev, s) => {
         if (!prev.find((d) => d.slug === s.slug)) prev.push(s)
         return prev

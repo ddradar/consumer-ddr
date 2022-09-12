@@ -58,6 +58,7 @@ import type { Song } from '~~/src/content'
 type SongListData = Omit<Song, 'series' | 'charts'> & {
   seriesList: SoftwareListData[]
 }
+const keys = ['slug', 'series', 'name', 'artist', 'bpm'] as const
 
 useHead({ title: 'Song List' })
 
@@ -68,10 +69,10 @@ const { data: songs, pending: isLoading } = await useAsyncData(
     queryContent<Song>()
       .where({ _type: 'json' })
       .sort({ name: 1 })
-      .only(['slug', 'series', 'name', 'artist', 'bpm'])
+      .only([...keys])
       .find(),
   {
-    transform: (songs: Song[]) =>
+    transform: (songs) =>
       songs.reduce((prev, current) => {
         const song = prev.find((s) => s.slug === current.slug)
         if (song) {

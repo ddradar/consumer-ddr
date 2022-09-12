@@ -5,14 +5,11 @@
     <OTable :data="softwareList" striped>
       <OTableColumn v-slot="props" field="name" label="Name">
         <NuxtLink class="is-size-6-mobile" :to="`/series/${props.row.slug}`">
-          {{ props.row.title }}
+          {{ props.row.title }} ({{ props.row.region }})
         </NuxtLink>
       </OTableColumn>
       <OTableColumn v-slot="props" field="platform" label="Platform">
-        <span>
-          {{ props.row.platform }}
-          {{ props.row.region }}
-        </span>
+        {{ props.row.platform }}
       </OTableColumn>
       <OTableColumn v-slot="props" field="launched" label="Launched">
         {{ props.row.launched }}

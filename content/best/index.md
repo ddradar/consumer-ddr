@@ -15,7 +15,9 @@ difficultyNames:
 
 # Dance Dance Revolution BEST HITS
 
-:software-info{series="best"}
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
 
 ## 収録曲リスト
 

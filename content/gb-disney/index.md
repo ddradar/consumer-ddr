@@ -11,7 +11,9 @@ difficultyNames:
 
 # Dance Dance Revolution GB Disney mix
 
-:software-info{series="gb-disney"}
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
 
 ## 収録曲リスト
 

@@ -13,7 +13,9 @@ difficultyNames:
 
 # DDRMAX -DanceDanceRevolution 6thMIX-
 
-:software-info{series="max-jp"}
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
 
 ## 収録曲リスト
 
