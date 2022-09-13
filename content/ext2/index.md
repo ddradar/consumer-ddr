@@ -10,6 +10,10 @@ difficultyNames:
   "2": "STANDARD"
   "3": "HEAVY"
   "4": "CHALLENGE"
+  "6": "LIGHT"
+  "7": "STANDARD"
+  "8": "HEAVY"
+  "9": "CHALLENGE"
 ---
 
 # Dance Dance Revolution EXTREME 2

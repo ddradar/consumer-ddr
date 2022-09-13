@@ -10,7 +10,7 @@ difficultyNames:
   "2": "踊"
   "3": "激"
   "4": "鬼"
-  "9": "激"
+  "8": "激"
 ---
 
 # Dance Dance Revolution Party Collection

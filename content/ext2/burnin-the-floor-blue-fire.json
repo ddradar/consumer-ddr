@@ -1,0 +1,11 @@
+{
+  "slug": "burnin-the-floor-blue-fire",
+  "series": "ext2",
+  "name": "BURNIN' THE FLOOR (BLUE FIRE mix)",
+  "artist": "NAOKI",
+  "bpm": 155,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}

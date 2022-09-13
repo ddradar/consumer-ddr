@@ -1,0 +1,11 @@
+{
+  "slug": "look-to-the-sky-trance",
+  "series": "ext2",
+  "name": "Look To The Sky (Trance Mix)",
+  "artist": "SysF. feat. Anna",
+  "bpm": 140,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}

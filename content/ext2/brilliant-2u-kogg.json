@@ -1,0 +1,11 @@
+{
+  "slug": "brilliant-2u-kogg",
+  "series": "ext2",
+  "name": "BRILLIANT 2U (K.O.G G3 MIX)",
+  "artist": "NAOKI",
+  "bpm": 170,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}
