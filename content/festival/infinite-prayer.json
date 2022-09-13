@@ -1,0 +1,15 @@
+{
+  "slug": "infinite-prayer",
+  "series": "festival",
+  "name": "INFINITE PRAYER",
+  "artist": "L.E.D. LIGHT feat. Goro",
+  "bpm": 137,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 2 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 9, "level": 9 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 2 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 7 }
+  ]
+}

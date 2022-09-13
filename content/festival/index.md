@@ -5,11 +5,15 @@ platform: "Play Station 2"
 region: "JP"
 launched: "2004-11-18"
 difficultyNames:
-  "0": "習"
-  "1": "楽"
-  "2": "踊"
-  "3": "激"
-  "4": "鬼"
+  "0": "BEGINNER"
+  "1": "LIGHT"
+  "2": "STANDARD"
+  "3": "HEAVY"
+  "4": "CHALLENGE"
+  "6": "LIGHT"
+  "7": "STANDARD"
+  "8": "HEAVY"
+  "9": "HEAVY"
 ---
 
 # DDR FESTIVAL Dance Dance Revolution

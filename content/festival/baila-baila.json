@@ -1,0 +1,15 @@
+{
+  "slug": "baila-baila",
+  "series": "festival",
+  "name": "BAILA! BAILA!",
+  "artist": "DANDY MINERO",
+  "bpm": 130,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 8 }
+  ]
+}

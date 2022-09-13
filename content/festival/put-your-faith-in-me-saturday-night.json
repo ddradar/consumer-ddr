@@ -1,0 +1,15 @@
+{
+  "slug": "put-your-faith-in-me-saturday-night",
+  "series": "festival",
+  "name": "PUT YOUR FAITH IN ME (SATURDAY NIGHT MIX)",
+  "artist": "UZI-LAY",
+  "bpm": 120,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 3 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 6, "level": 3 },
+    { "playStyle": "DOUBLE", "difficulty": 7, "level": 5 },
+    { "playStyle": "DOUBLE", "difficulty": 8, "level": 6 }
+  ]
+}
