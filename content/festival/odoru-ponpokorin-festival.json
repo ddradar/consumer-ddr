@@ -1,0 +1,16 @@
+{
+  "slug": "odoru-ponpokorin-festival",
+  "series": "festival",
+  "name": "おどるポンポコリン",
+  "artist": "(アニメ)",
+  "bpm": 140,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 0, "level": 1 },
+    { "playStyle": "SINGLE", "difficulty": 1, "level": 2 },
+    { "playStyle": "SINGLE", "difficulty": 2, "level": 5 },
+    { "playStyle": "SINGLE", "difficulty": 3, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 1, "level": 4 },
+    { "playStyle": "DOUBLE", "difficulty": 2, "level": 6 },
+    { "playStyle": "DOUBLE", "difficulty": 3, "level": 7 }
+  ]
+}
