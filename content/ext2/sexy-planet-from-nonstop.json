@@ -1,0 +1,11 @@
+{
+  "slug": "sexy-planet-from-nonstop",
+  "series": "ext2",
+  "name": "SEXY PLANET (FROM NONSTOP MEGAMIX)",
+  "artist": "Crystal Aliens",
+  "bpm": 180,
+  "charts": [
+    { "playStyle": "SINGLE", "difficulty": 4, "level": 7 },
+    { "playStyle": "DOUBLE", "difficulty": 4, "level": 7 }
+  ]
+}
