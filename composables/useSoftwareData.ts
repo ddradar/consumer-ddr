@@ -7,7 +7,7 @@ export type SoftwareParsedContent = ParsedContent & Software
 
 export default async function (slug: string) {
   const { data } = await useAsyncData(`/software/${slug}`, () =>
-    queryContent<SoftwareParsedContent>(slug)
+    queryContent<SoftwareParsedContent>()
       .where({ _type: 'markdown', slug })
       .findOne()
   )

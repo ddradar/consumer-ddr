@@ -1,43 +1,27 @@
-type Region = 'JP' | 'US' | 'EU' | 'None'
+const regionList = ['JP', 'US', 'EU', 'None'] as const
 
-type Platform =
-  | 'Play Station'
-  | 'Play Station 2'
-  | 'Dreamcast'
-  | 'GAME BOY COLOR'
-  | 'Wii'
+const platforms = [
+  'Play Station',
+  'Play Station 2',
+  'Dreamcast',
+  'GAME BOY COLOR',
+  'Wii'
+] as const
 
 export interface Software {
   slug: string
   title: string
   color?: string
-  platform: Platform
-  region: Region
+  platform: typeof platforms[number]
+  region: typeof regionList[number]
   launched: string
-  difficultyNames: { [key in number]: string }
-}
-
-export type PlayStyle =
-  | 'SINGLE'
-  | 'DOUBLE'
-  | 'COUPLE'
-  | 'UNISON'
-  | '6-PANELS'
-  | '3-PANELS'
-  | 'STEP BATTLE'
-  | 'BATTLE'
-
-export interface Chart {
-  playStyle: PlayStyle
-  difficulty: number
-  level: number | '10+' | '?'
+  difficulties: { [key in number]: { name: string; class: string } }
 }
 
 export interface Song {
   slug: string
-  series: string
   name: string
   artist: string
   bpm: number | string
-  charts: Chart[]
+  series: string[]
 }

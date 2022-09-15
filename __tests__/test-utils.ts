@@ -7,6 +7,7 @@ import { defineComponent, h, Suspense } from 'vue'
 
 import type { SoftwareParsedContent } from '~~/composables/useSoftwareData'
 import type { SoftwareListData } from '~~/composables/useSoftwareList'
+import type { SongParsedContent } from '~~/composables/useSongData'
 
 export const plugins: (Plugin | [Plugin, ...any[]])[] = [[Oruga, bulmaConfig]]
 
@@ -39,11 +40,11 @@ export const mockSoftware: SoftwareParsedContent = {
   platform: 'Play Station',
   region: 'JP',
   launched: '1999-04-10',
-  difficultyNames: {
-    '1': 'BASIC',
-    '2': 'ANOTHER',
-    '3': 'MANIAC',
-    '6': 'NORMAL'
+  difficulties: {
+    0: { name: 'NORMAL', class: 'is-basic' },
+    1: { name: 'BASIC', class: 'is-basic' },
+    2: { name: 'ANOTHER', class: 'is-difficult' },
+    3: { name: 'MANIAC', class: 'is-expert' }
   },
   body: '',
   _id: 'content:1st-jp:index.md'
@@ -67,3 +68,13 @@ export const mockSoftwareList: SoftwareListData[] = [
     launched: '1999-08-26'
   }
 ]
+
+export const mockSong: SongParsedContent = {
+  slug: 'butterfly',
+  name: 'butterfly',
+  artist: 'smile. dk',
+  bpm: 135,
+  series: ['1st-jp'],
+  body: '',
+  _id: 'content:1st-jp:index.md'
+}
