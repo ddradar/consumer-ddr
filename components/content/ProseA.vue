@@ -12,5 +12,5 @@ export interface Props {
 }
 
 const props = withDefaults(defineProps<Props>(), { href: '', blank: false })
-const isRelativeLink = computed(() => props.href.startsWith('/'))
+const isRelativeLink = computed(() => !props.href.startsWith('http'))
 </script>

@@ -1,0 +1,31 @@
+---
+slug: "make-a-jam"
+name: "MAKE A JAM!"
+artist: "U1"
+bpm: 124
+series:
+  - "1st-jp"
+---
+
+# {{ $doc.name }} / {{ $doc.artist }}
+
+|Artist|BPM|
+|------|---|
+|{{ $doc.artist }}|{{ $doc.bpm }}|
+
+## 収録タイトル
+
+- [Dance Dance Revolution (JP)](/series/1st-jp/)
+
+## 譜面一覧
+
+|PlayStyle|Difficulty|Levels|Movie|
+|---------|----------|------|-----|
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=2}||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="1st-jp" level=4}||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="1st-jp" level=5}||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=3}||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="1st-jp" level=5}||
+|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=2}||
+|COUPLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="1st-jp" level=4}||
+|COUPLE|[EXPERT]{.tag.is-expert}|:level{slug="1st-jp" level=5}||
