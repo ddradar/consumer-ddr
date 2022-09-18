@@ -1,5 +1,5 @@
 <template>
-  <div class="tags has-addons">
+  <div class="tags has-addons" style="display: inline-block; margin: 0px">
     <span
       v-for="(level, i) in splitedLevels"
       :key="i"
