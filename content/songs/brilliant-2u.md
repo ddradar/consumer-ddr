@@ -67,9 +67,9 @@ series:
 |DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="best" level=7} :level{slug="us" level=7} :level{slug="konamix" level=7} :level{slug="ext-jp" level=7} :level{slug="party" level=7} :level{slug="ext2" level=7}|227/0||
 |DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=8} :level{slug="party" level=8} :level{slug="ext2" level=8}|229/8||
 |DOUBLE|["STREAM" Special]{.tag.is-challenge}||325/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="gb" level=4}|||
-|COUPLE|[ANOTHER]{.tag.is-difficult}|:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="gb" level=5}|||
-|COUPLE|[MANIAC]{.tag.is-expert}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="gb" level=6}|||
+|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="gb" level=4}|149/0||
+|COUPLE|[ANOTHER]{.tag.is-difficult}|:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="gb" level=5}|165/0||
+|COUPLE|[MANIAC]{.tag.is-expert}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="gb" level=6}|225/0||
 |UNISON|[BASIC (EASY)]{.tag.is-basic}|:level{slug="oha" level=3}|||
 |UNISON|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=4} :level{slug="oha" level=5} :level{slug="best" level=4} :level{slug="us" level=4}|||
 |UNISON|[ANOTHER (EASY)]{.tag.is-difficult}|:level{slug="oha" level=4}|||
