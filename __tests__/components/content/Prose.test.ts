@@ -21,11 +21,11 @@ describe('components/content/', () => {
       })
       expect(wrapper.element).toMatchSnapshot()
     })
-    test('{ href: "#name" } renders <a>', () => {
+    test('{ href: "https://example.com" } renders <a>', () => {
       const wrapper = mount(ProseA, {
         global,
         slots: { default: 'Link' },
-        props: { href: '#name' }
+        props: { href: 'https://example.com' }
       })
       expect(wrapper.element).toMatchSnapshot()
     })

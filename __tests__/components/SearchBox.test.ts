@@ -1,75 +1,37 @@
-import { describe, expect, test, vi } from 'vitest'
+import { beforeEach, describe, expect, test, vi } from 'vitest'
 import { ref } from 'vue'
 
-import SearchBox, { SearchSongResult } from '~~/components/SearchBox.vue'
-import boysFirst from '~~/content/1st-jp/boys-smiledk.json'
-import butterfly from '~~/content/1st-jp/butterfly.json'
-import littleBitch from '~~/content/1st-jp/little-bitch.json'
-import myFire from '~~/content/1st-jp/my-fire.json'
-import boysSecond from '~~/content/2nd/boys-smiledk.json'
+import SearchBox from '~~/components/SearchBox.vue'
+import useSongList from '~~/composables/useSongList'
 
 import { mountAsync, plugins } from '../test-utils'
 
-const rawSongData = [boysFirst, butterfly, littleBitch, myFire, boysSecond].map(
-  (d) => ({ slug: d.slug, name: d.name, artist: d.artist })
-)
+vi.mock('~~/composables/useSongList')
 
 describe('components/SearchBox.vue', () => {
-  const songs: SearchSongResult[] = [...rawSongData]
-  songs.pop()
-
-  describe('snapshot test', () => {
-    test('{ isLoading: true, term: "" } renders loading state', async () => {
-      // Arrange
-      const data = ref([])
-      const pending = ref(true)
-      vi.mocked(useLazyAsyncData).mockResolvedValue({ data, pending } as any)
-
-      // Act
-      const wrapper = await mountAsync(SearchBox, { global: { plugins } })
-
-      // Assert
-      expect(wrapper.element).toMatchSnapshot()
-    })
-    test('{ isLoading: false, term: "" } renders input without autocomplete', async () => {
-      // Arrange
-      const data = ref([])
-      const pending = ref(false)
-      vi.mocked(useLazyAsyncData).mockResolvedValue({ data, pending } as any)
-
-      // Act
-      const wrapper = await mountAsync(SearchBox, { global: { plugins } })
-
-      // Assert
-      expect(wrapper.element).toMatchSnapshot()
-    })
+  const songs = [
+    { slug: 'boys-smiledk', name: 'BOYS', artist: 'smile. dk' },
+    { slug: 'butterfly', name: 'butterfly', artist: 'smile. dk' },
+    { slug: 'little-bitch', name: 'LITTLE BITCH', artist: 'THE SPECIALS' },
+    { slug: 'my-fire', name: 'MY FIRE', artist: 'X-TREME' }
+  ]
+  beforeEach(() => {
+    vi.mocked(useSongList).mockResolvedValue({ songs: ref(songs) } as any)
   })
 
-  describe('useLazyAsyncData()', () => {
-    test('calls with transform option', async () => {
-      // Arrange
-      const data = ref([])
-      const pending = ref(false)
-      vi.mocked(useLazyAsyncData).mockReset()
-      vi.mocked(useLazyAsyncData).mockResolvedValue({ data, pending } as any)
-
-      // Act
-      await mountAsync(SearchBox, { global: { plugins } })
-      const transform = vi.mocked(useLazyAsyncData).mock.calls[0][2]?.transform!
+  describe('snapshot test', () => {
+    test('{ term: "" } renders input without autocomplete', async () => {
+      // Arrange - Act
+      const wrapper = await mountAsync(SearchBox, { global: { plugins } })
 
       // Assert
-      expect(transform(rawSongData)).toStrictEqual(songs)
+      expect(wrapper.element).toMatchSnapshot()
     })
   })
 
   describe('term', () => {
     test('@change renders autocomplete', async () => {
-      // Arrange
-      const data = ref(songs)
-      const pending = ref(false)
-      vi.mocked(useLazyAsyncData).mockResolvedValue({ data, pending } as any)
-
-      // Act
+      // Arrange - Act
       const wrapper = await mountAsync(SearchBox, { global: { plugins } })
       await wrapper.find('input.input').setValue('sm')
 
@@ -81,9 +43,6 @@ describe('components/SearchBox.vue', () => {
   describe('autocomplete', () => {
     test('@select calls router.push("/songs/{id}")', async () => {
       // Arrange
-      const data = ref(songs)
-      const pending = ref(false)
-      vi.mocked(useLazyAsyncData).mockResolvedValue({ data, pending } as any)
       const push = vi.fn()
       vi.mocked(useRouter).mockReturnValue({ push } as any)
 

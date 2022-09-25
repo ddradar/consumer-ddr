@@ -1,17 +1,17 @@
 // Vitest Snapshot v1
 
-exports[`components/content/ > ProseA.vue > { href: "#name" } renders <a> 1`] = `
-<a
-  href="#name"
->
+exports[`components/content/ > ProseA.vue > { href: "/songs" } renders <NuxtLink> 1`] = `
+<a>
   
   Link
   
 </a>
 `;
 
-exports[`components/content/ > ProseA.vue > { href: "/songs" } renders <NuxtLink> 1`] = `
-<a>
+exports[`components/content/ > ProseA.vue > { href: "https://example.com" } renders <a> 1`] = `
+<a
+  href="https://example.com"
+>
   
   Link
   
@@ -63,7 +63,7 @@ exports[`components/content/ > ProseP.vue > renders <p> 1`] = `
 
 exports[`components/content/ > ProseTable.vue > renders <table> 1`] = `
 <table
-  class="table"
+  class="table is-striped"
 >
   
   Content
