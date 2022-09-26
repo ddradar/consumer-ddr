@@ -6,7 +6,11 @@ from: "Dance Dance Revolution (CS)"
 bpm: 124
 series:
   - "1st-jp"
+  - "2nd"
+  - "2nd-dc"
+  - "3rd"
   - "oha"
+  - "konamix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
