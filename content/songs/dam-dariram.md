@@ -2,7 +2,7 @@
 slug: "dam-dariram"
 name: "DAM DARIRAM"
 artist: "JOGA"
-from: ""
+from: "Dancemania X3"
 bpm: 142
 series:
   - "3rd"
