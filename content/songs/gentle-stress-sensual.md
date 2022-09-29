@@ -1,6 +1,6 @@
 ---
 slug: "gentle-stress-sensual"
-name: "gentle stress (AMD SEXUAL MIX)"
+name: "gentle stress (SENSUAL MIX)"
 artist: "MR. DOG feat. DJ SWAN"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 160
@@ -35,4 +35,4 @@ series:
 
 ## メモ
 
-- [DDRMAX Dance Dance Revolution (US)](/series/max-us/)では「gentle stress (SENSUAL MIX)」という曲名で収録。
+- [Dance Dance Revolution 3rd MIX (JP)](/series/3rd/)では「gentle stress (AMD SEXUAL MIX)」という曲名で収録。
