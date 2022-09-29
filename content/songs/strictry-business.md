@@ -16,7 +16,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution (JP)](/series/1st-jp/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

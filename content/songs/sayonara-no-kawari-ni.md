@@ -17,8 +17,7 @@ series:
 
 ## 収録タイトル
 
-- [おはスタ Dance Dance Revolution](/series/oha/)
-- [おはスタ Dance Dance Revolution GB](/series/oha-gb/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

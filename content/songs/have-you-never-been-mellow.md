@@ -20,11 +20,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution (JP)](/series/1st-jp/)
-- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc/)
-- [Dance Dance Revolution GB](/series/gb/)
-- [Dance Dance Revolution BEST HITS](/series/best/)
-- [Dance Dance Revolution (US)](/series/us/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

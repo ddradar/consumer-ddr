@@ -16,9 +16,7 @@ series:
 
 ## 収録タイトル
 
-- [おはスタ Dance Dance Revolution](/series/oha/)
-- [DDRMAX Dance Dance Revolution (US)](/series/max-us/)
-- [DDRMAX2 -DanceDanceRevolution 7thMIX-](/series/max2-jp/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

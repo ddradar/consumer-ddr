@@ -27,18 +27,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution (JP)](/series/1st-jp/)
-- [Dance Dance Revolution 2nd ReMIX](/series/2nd/)
-- [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/series/club-2/)
-- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc/)
-- [Dance Dance Revolution CLUB VERSION Dreamcast Edition](/series/club-dc/)
-- [Dance Dance Revolution 3rd MIX](/series/3rd/)
-- [Dance Dance Revolution GB](/series/gb/)
-- [Dance Dance Revolution BEST HITS](/series/best/)
-- [Dance Dance Revolution (US)](/series/us/)
-- [DDRMAX Dance Dance Revolution (US)](/series/max-us/)
-- [Dance Dance Revolution EXTREME (JP)](/series/ext-jp/)
-- [Dance Dance Revolution EXTREME (US)](/series/ext-us/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 
