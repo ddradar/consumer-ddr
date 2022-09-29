@@ -18,9 +18,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution 3rd MIX](/series/3rd/)
-- [DDRMAX Dance Dance Revolution (US)](/series/max-us/)
-- [DDR FESTIVAL Dance Dance Revolution](/series/festival/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

@@ -23,14 +23,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution 2nd ReMIX](/series/2nd/)
-- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc/)
-- [Dance Dance Revolution 3rd MIX](/series/3rd/)
-- [Dance Dance Revolution GB](/series/gb/)
-- [Dance Dance Revolution (US)](/series/us/)
-- [DDRMAX Dance Dance Revolution (US)](/series/max-us/)
-- [DDRMAX2 Dance Dance Revolution (US)](/series/max2-us/)
-- [Dance Dance Revolution Party Collection](/series/party/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

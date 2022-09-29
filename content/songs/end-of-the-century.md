@@ -20,11 +20,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution 3rd MIX](/series/3rd/)
-- [Dance Dance Revolution BEST HITS](/series/best/)
-- [Dance Dance Revolution KONAMIX](/series/konamix/)
-- [DDRMAX2 Dance Dance Revolution (US)](/series/max2-us/)
-- [Dance Dance Revolution Party Collection](/series/party/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

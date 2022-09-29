@@ -16,9 +16,7 @@ series:
 
 # {{ $doc.name }} / {{ $doc.artist }}
 
-|Artist|BPM|From|
-|------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+:series-list{:series="series"}
 
 ## 収録タイトル
 

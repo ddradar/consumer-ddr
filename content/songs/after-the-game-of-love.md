@@ -19,10 +19,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution 3rd MIX](/series/3rd/)
-- [Dance Dance Revolution BEST HITS](/series/best/)
-- [Dance Dance Revolution KONAMIX](/series/konamix/)
-- [Dance Dance Revolution EXTREME (JP)](/series/ext-jp/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

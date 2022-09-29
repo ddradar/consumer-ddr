@@ -23,14 +23,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution 3rd MIX](/series/3rd/)
-- [Dance Dance Revolution GB](/series/gb/)
-- [Dance Dance Revolution GB2](/series/gb2/)
-- [Dance Dance Revolution BEST HITS](/series/best/)
-- [Dance Dance Revolution (US)](/series/us/)
-- [Dance Dance Revolution EXTREME (JP)](/series/ext-jp/)
-- [Dance Dance Revolution Party Collection](/series/party/)
-- [Dance Dance Revolution EXTREME (US)](/series/ext-us/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

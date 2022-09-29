@@ -18,9 +18,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution 3rd MIX](/series/3rd/)
-- [Dance Dance Revolution KONAMIX](/series/konamix/)
-- [DDRMAX2 -DanceDanceRevolution 7thMIX- (JP)](/series/max2-jp/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

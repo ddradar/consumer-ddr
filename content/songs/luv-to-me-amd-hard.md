@@ -16,7 +16,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution GB3](/series/gb3/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 

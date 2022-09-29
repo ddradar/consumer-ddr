@@ -17,8 +17,7 @@ series:
 
 ## 収録タイトル
 
-- [Dance Dance Revolution 2nd ReMIX](/series/2nd/)
-- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc/)
+:series-list{:series="series"}
 
 ## 譜面一覧
 
