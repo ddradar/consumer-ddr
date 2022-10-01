@@ -31,8 +31,8 @@ difficulties:
 |[HELLO AGAIN](/songs/hello-again)|TRUE KiSS DESTiNATiON|177|:charts{:slug="slug" levels="?,4,4.5,5,?" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="?,4.5,6.5,?" difficulties="0,1,2,3"}|
 |[PURE MIND](/songs/pure-mind)|TRUE KiSS DESTiNATiON|120|:charts{:slug="slug" levels="?,3,4,6,?" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="?,4,7.5,?" difficulties="0,1,2,3"}|
 |[RESPONSIBILITY](/songs/responsibility)|TRUE KiSS DESTiNATiON|110|:charts{:slug="slug" levels="?,3,4.5,6.5,?" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="?,4,4.5,?" difficulties="0,1,2,3"}|
-|[](/songs/)|TRUE KiSS DESTiNATiON||:charts{:slug="slug" levels="?,,,,?" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="?,,,?" difficulties="0,1,2,3"}|
-|[](/songs/)|TRUE KiSS DESTiNATiON||:charts{:slug="slug" levels="?,,,,?" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="?,,,?" difficulties="0,1,2,3"}|
+|[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:slug="slug" levels="?,4.5,5,7,?" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="?,3.5,8.5,?" difficulties="0,1,2,3"}|
+|[SEXY PLANET](/songs/sexy-planet)|Crystal Aliens|180|:charts{:slug="slug" levels="?,5.5,6,8,?" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="?,6.5,9,?" difficulties="0,1,2,3"}|
 
 ## システム概要
 
