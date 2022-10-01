@@ -31,3 +31,6 @@ series:
 |DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=5.5}|229/0||
 |DOUBLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=9}|243/0||
 |DOUBLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level="?"}|306/0||
+|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4.5}|||
+|COUPLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=5.5}|||
+|COUPLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=7.5}|||

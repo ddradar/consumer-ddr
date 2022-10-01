@@ -33,7 +33,7 @@ series:
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=6} :level{slug="ext-jp" level=6} :level{slug="ext2" level=6}|221/0||
 |SINGLE|[MANIAC (TKD)]{.tag.is-expert}|:level{slug="tkd" level=8}|239/0||
 |SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=7} :level{slug="ext-jp" level=7} :level{slug="ext2" level=7}|262/0||
-|SINGLE|[SUPER MANIAC (TKD)]{.tag.is-challenge}|:level{slug="tkd" level="?"}|267/0||
+|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{slug="tkd" level="?"}|267/0||
 |DOUBLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|||
 |DOUBLE|[BASIC (TKD)]{.tag.is-basic}|:level{slug="tkd" level=6.5}|211/0||
 |DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=4} :level{slug="ext-jp" level=4} :level{slug="ext2" level=4}|175/0||
@@ -41,6 +41,9 @@ series:
 |DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=5} :level{slug="ext-jp" level=5} :level{slug="ext2" level=5}|207/0||
 |DOUBLE|[MANIAC (TKD)]{.tag.is-expert}|:level{slug="tkd" level="?"}|242/0||
 |DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=7} :level{slug="ext-jp" level=7} :level{slug="ext2" level=7}|236/0||
+|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=5.5}|||
+|COUPLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=6}|||
+|COUPLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=8}|||
 |6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="extra" level=4}|198/0||
 |6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=6}|237/0||
 |6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=7}|270/0||
