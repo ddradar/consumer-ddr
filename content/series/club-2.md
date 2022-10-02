@@ -49,12 +49,70 @@ difficulties:
 
 ## システム概要
 
-(WIP)
+当ソフトはアペンドディスクのため、**起動には下記いずれかのソフトが別途必要。**
+
+- [Dance Dance Revolution 2nd ReMIX](/series/2nd)
+- [Dance Dance Revolution 3rd MIX](/series/3rd)
+
+### プレースタイル
+
+- SINGLE
+- COUPLE
+  - COUPLE譜面は用意されていないため、1P/2P両方でSINGLE譜面が流れる。
+- VERSUS (要コマンド)
+- DOUBLE (要コマンド)
+
+<kbd>×</kbd>ボタンを押しながらゲームスタートすることで、選択画面が表示される。
+
+### 難易度
+
+- BASIC
+  - (ANOTHER, MANIACから戻す場合)プレイモード選択時に<kbd>↑</kbd>を素早く2回押す。
+- ANOTHER (要コマンド)
+  - プレイモード選択時に<kbd>↓</kbd>を素早く2回押す。
+- MANIAC (要コマンド)
+  - ANOTHERを選択後、さらに<kbd>↓</kbd>を素早く2回押す。
+
+### オプション
+
+矢印の色はFLAT固定。
+
+選曲画面で<kbd>SELECT</kbd>ボタンを押すと表示されるメニュー画面で設定する。
+
+- MIRROR
+- RIGHT
+- LEFT
+- SHUFFLE
+- HIDDEN
+- LITTLE
+  - 矢印が4分のリズムだけになる。(現代のCUT1と同一)
 
 ## 隠し要素
 
-(WIP)
+### キャラクター変更
+
+所定のボタンを押しながらモードを決定することで、背景のキャラを変更可能。
+
+|OPTION|通常(1P)|通常(2P)|<kbd>←</kbd>(1P)|<kbd>←</kbd>(2P)|<kbd>→</kbd>(2P)|<kbd>→</kbd>(2P)|
+|------|--------|--------|----------------|----------------|----------------|----------------|
+|MODEL 1|ドレッド・スネーク|ジャネット|コンセント2号|おしゃれずきん2号さん|アフロ(2nd)|レディ(2nd)|
+|MODEL 2|ドレッド・スネーク(衣装替え)|ジャネット(衣装替え)|まめお|カウ子|アフロ(2nd衣装替え)|レディ(2nd衣装替え)|
+
+### 隠し曲
+
+複数条件が提示されている場合は、いずれかを達成することで解禁できる。
+
+|曲名|条件|
+|----|----|
+|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/songs/paranoia-max)|30曲以上クリア<br/>[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)の全譜面をクリアし、RECORDを埋める|
+|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)](/songs/paranoia-max)|60曲以上クリア<br/>[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/songs/paranoia-max)の全譜面をクリアし、RECORDを埋める|
+
+### ENDLESSモード
+
+- 隠し曲を含めた全楽曲を1回ずつクリアする(モードや難易度は問わない)
 
 ## 他ソフトとの連動
 
-(WIP)
+### このソフトの隠し要素を解禁できるソフト
+
+- [Dance Dance Revolution 3rd MIX](/series/3rd)
