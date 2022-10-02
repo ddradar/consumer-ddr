@@ -71,14 +71,14 @@ series:
 - 以下のシリーズには、別音源・別譜面で収録されている。
   - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/series/club-2/)
     - [PARANOiA MAX \~DIRTY MIX\~] : CLUB音源・CLUB譜面
-    - [PARANOiA MAX \~DIRTY MIX\~ (ANOTHER)] : CLUB ANOTHER音源・CLUB譜面
-    - [PARANOiA MAX \~DIRTY MIX\~ (ANOTHER ver.2)] : CLUB ANOTHER音源・CLUB ANOTHER譜面
+    - [PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)] : CLUB ANOTHER音源・CLUB譜面
+    - [PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)] : CLUB ANOTHER音源・CLUB ANOTHER譜面
   - [Dance Dance Revolution CLUB VERSION Dreamcast Edition](/series/club-dc/)
     - [PARANOiA MAX \~DIRTY MIX\~] : CLUB音源・CLUB譜面
-    - [PARANOiA MAX \~DIRTY MIX\~ (ANOTHER)] : CLUB ANOTHER音源・CLUB譜面
-    - [PARANOiA MAX \~DIRTY MIX\~ (ANOTHER ver.2)] : CLUB ANOTHER音源・CLUB ANOTHER譜面
+    - [PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)] : CLUB ANOTHER音源・CLUB譜面
+    - [PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)] : CLUB ANOTHER音源・CLUB ANOTHER譜面
   - [Dance Dance Revolution (US)](/series/us/)
-    - [PARANOiA MAX \~DIRTY MIX\~ (ANOTHER ver.2)] : CLUB ANOTHER音源・CLUB譜面
+    - [PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)] : CLUB ANOTHER音源・CLUB譜面
     - なお、[DOUBLE/EXPERT]{.tag.is-expert}は[DOUBLE/DIFFICULT]{.tag.is-difficult}と同一譜面。
 - (in roulette)譜面は、ルーレットディスクからこの楽曲が選ばれた際の譜面を示す。(いわゆる偽パラMAX)
   - 譜面は[PARANOiA](/songs/paranoia)の同難易度と同一譜面。
