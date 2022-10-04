@@ -2,7 +2,7 @@
 slug: "22dunk"
 name: "22DUNK"
 artist: "SLAKE"
-from: ""
+from: "beatmania IIDX"
 bpm: 135
 series:
   - "club-1"
