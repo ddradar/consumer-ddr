@@ -48,7 +48,21 @@ difficulties:
 
 ## システム概要
 
-(WIP)
+### プレースタイル
+
+- SINGLE
+- COUPLE
+  - 譜面はSINGLEと同一。(勝敗が出ない以外はVERSUSと同じ)
+- DOUBLE
+
+### 難易度
+
+- BASIC
+- TRICK (要コマンド)
+  - 曲選択時に<kbd>↓</kbd>を素早く2回押す。
+- MANIAC (要解禁, 要コマンド)
+  - TRICKを選択後、さらに<kbd>↓</kbd>を素早く2回押す。
+  - DOUBLEプレー時には選択不可
 
 ## 隠し要素
 
