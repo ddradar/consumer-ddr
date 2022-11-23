@@ -613,10 +613,10 @@
     eslint-plugin-unicorn "^43.0.2"
     eslint-plugin-vue "^9.4.0"
 
-"@oruga-ui/oruga-next@^0.5.7":
-  version "0.5.7"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.5.7.tgz#b146381100252d4997282dfbf0cc0040cf44658a"
-  integrity sha512-kPWWG+Ts27vc8l3sbhlJwneHnn2kIOmsVwsQXQMztbJjz7Vx1TB9JHX7Vqi63XqFM8C7q/5uiO7ph1T0RVsKeA==
+"@oruga-ui/oruga-next@^0.5.9":
+  version "0.5.9"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.5.9.tgz#1655cb4c56536f77c0840108a0be5cefec70ea0a"
+  integrity sha512-51T9mcJ4qQKxXJrB5EHr8T8zmGMBicZpXKeIRw4KzRhL/A2pSdi7303d0wtzMS3vKgb00mNzvUT3KbBbnjB0Gw==
 
 "@oruga-ui/theme-bulma@^0.2.8":
   version "0.2.8"

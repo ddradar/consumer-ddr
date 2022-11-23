@@ -23,7 +23,7 @@
     "url": "git+https://github.com/ddradar/consumer-ddr.git"
   },
   "dependencies": {
-    "@oruga-ui/oruga-next": "^0.5.7",
+    "@oruga-ui/oruga-next": "^0.5.9",
     "@oruga-ui/theme-bulma": "^0.2.8"
   },
   "devDependencies": {
