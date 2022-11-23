@@ -55,7 +55,7 @@ describe('components/SearchBox.vue', () => {
 
       // Act
       await mountAsync(SearchBox, { global: { plugins } })
-      const transform = vi.mocked(useLazyAsyncData).mock.calls[0][2]?.transform!
+      const transform = vi.mocked(useLazyAsyncData).mock.calls[0][2]!.transform!
 
       // Assert
       expect(transform(rawSongData)).toStrictEqual(songs)

@@ -121,7 +121,7 @@ describe('components/content/SongList.vue', () => {
 
       // Act
       await mountAsync(SongList, options)
-      const transform = vi.mocked(useAsyncData).mock.calls[0][2]?.transform!
+      const transform = vi.mocked(useAsyncData).mock.calls[0][2]!.transform!
 
       // Assert
       expect(transform(rawSongData)).toStrictEqual(songs)
