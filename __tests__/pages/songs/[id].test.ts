@@ -223,7 +223,7 @@ describe('pages/songs/[id].vue', () => {
     test('calls with transform option', async () => {
       // Arrange - Act
       await mountAsync(SongDetail, { global })
-      const transform = vi.mocked(useAsyncData).mock.calls[0][2]?.transform!
+      const transform = vi.mocked(useAsyncData).mock.calls[0][2]!.transform!
 
       // Assert
       expect(transform(rawSongData)).toStrictEqual(song)
