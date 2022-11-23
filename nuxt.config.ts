@@ -1,8 +1,6 @@
 import { readdirSync } from 'node:fs'
 import { basename, extname, join } from 'node:path'
 
-import { defineNuxtConfig } from 'nuxt'
-
 import pkg from './package.json'
 
 /** Series slug */
