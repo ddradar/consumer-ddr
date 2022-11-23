@@ -618,10 +618,10 @@
   resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.5.7.tgz#b146381100252d4997282dfbf0cc0040cf44658a"
   integrity sha512-kPWWG+Ts27vc8l3sbhlJwneHnn2kIOmsVwsQXQMztbJjz7Vx1TB9JHX7Vqi63XqFM8C7q/5uiO7ph1T0RVsKeA==
 
-"@oruga-ui/theme-bulma@^0.2.7":
-  version "0.2.7"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-bulma/-/theme-bulma-0.2.7.tgz#41a3abce8339f2f7f5ba40be3529ce5604ecf579"
-  integrity sha512-YcMiQ3+EA1cXEZSSIt7cURDO1gtpjKdJpvNvOZXCOHBag/D2OV7N7dHmdoSI/M17jKzGdNgmW/aKqIYFR9t3Rw==
+"@oruga-ui/theme-bulma@^0.2.8":
+  version "0.2.8"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-bulma/-/theme-bulma-0.2.8.tgz#73aa43184efff9edec695af4ab16f315cfe81d8a"
+  integrity sha512-0bj00sq3SbWJcOaEGzuhEUMRkqFNR9c0pPNt/wrrEohM+hb/ODtfhV1BvE6sbnMdGEU8RbsyAjLPgLPIOmRhVA==
   dependencies:
     bulma "0.9.4"
 
