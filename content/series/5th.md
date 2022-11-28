@@ -6,8 +6,8 @@ region: "JP"
 launched: "2001-09-20"
 difficulties:
   1: { name: "BASIC", class: "is-basic" }
-  2: { name: "DIFFICULT", class: "is-difficult" }
-  3: { name: "EXPERT", class: "is-expert" }
+  2: { name: "TRICK", class: "is-difficult" }
+  3: { name: "MANIAC", class: "is-expert" }
 ---
 
 # Dance Dance Revolution 5thMIX
