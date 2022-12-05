@@ -1,18 +1,18 @@
 ---
-slug: ""
-color: ""
-platform: ""
-region: ""
-launched: ""
+slug: "ext2"
+color: "seagreen"
+platform: "Play Station 2"
+region: "US"
+launched: "2005-09-27"
 difficulties:
   0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "DIFFICULT", class: "is-difficult" }
-  3: { name: "EXPERT", class: "is-expert" }
+  1: { name: "LIGHT", class: "is-basic" }
+  2: { name: "STANDARD", class: "is-difficult" }
+  3: { name: "HEAVY", class: "is-expert" }
   4: { name: "CHALLENGE", class: "is-challenge" }
 ---
 
-# title
+# Dance Dance Revolution EXTREME 2
 
 |発売日|機種|リージョン|
 |------|----|---------|

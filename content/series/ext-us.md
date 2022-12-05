@@ -1,18 +1,18 @@
 ---
-slug: ""
-color: ""
-platform: ""
-region: ""
-launched: ""
+slug: "ext-us"
+color: "seagreen"
+platform: "Play Station 2"
+region: "US"
+launched: "2004-09-21"
 difficulties:
-  0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "DIFFICULT", class: "is-difficult" }
-  3: { name: "EXPERT", class: "is-expert" }
-  4: { name: "CHALLENGE", class: "is-challenge" }
+  0: { name: "習", class: "is-beginner" }
+  1: { name: "楽", class: "is-basic" }
+  2: { name: "踊", class: "is-difficult" }
+  3: { name: "激", class: "is-expert" }
+  4: { name: "鬼", class: "is-challenge" }
 ---
 
-# title
+# Dance Dance Revolution EXTREME
 
 |発売日|機種|リージョン|
 |------|----|---------|

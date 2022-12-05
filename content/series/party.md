@@ -1,18 +1,18 @@
 ---
-slug: ""
-color: ""
-platform: ""
-region: ""
-launched: ""
+slug: "party"
+color: "hotpink"
+platform: "Play Station 2"
+region: "JP"
+launched: "2003-12-11"
 difficulties:
-  0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "DIFFICULT", class: "is-difficult" }
-  3: { name: "EXPERT", class: "is-expert" }
-  4: { name: "CHALLENGE", class: "is-challenge" }
+  0: { name: "習", class: "is-beginner" }
+  1: { name: "楽", class: "is-basic" }
+  2: { name: "踊", class: "is-difficult" }
+  3: { name: "激", class: "is-expert" }
+  4: { name: "鬼", class: "is-challenge" }
 ---
 
-# title
+# Dance Dance Revolution Party Collection
 
 |発売日|機種|リージョン|
 |------|----|---------|

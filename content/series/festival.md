@@ -1,18 +1,18 @@
 ---
-slug: ""
-color: ""
-platform: ""
-region: ""
-launched: ""
+slug: "festival"
+color: "seagreen"
+platform: "Play Station 2"
+region: "JP"
+launched: "2004-11-18"
 difficulties:
   0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "DIFFICULT", class: "is-difficult" }
-  3: { name: "EXPERT", class: "is-expert" }
+  1: { name: "LIGHT", class: "is-basic" }
+  2: { name: "STANDARD", class: "is-difficult" }
+  3: { name: "HEAVY", class: "is-expert" }
   4: { name: "CHALLENGE", class: "is-challenge" }
 ---
 
-# title
+# DDR FESTIVAL Dance Dance Revolution
 
 |発売日|機種|リージョン|
 |------|----|---------|
