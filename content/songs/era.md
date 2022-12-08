@@ -25,7 +25,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=}|89/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=2}|89/0||
 |SINGLE|[BASIC]{.tag.is-basic}|:level{slug="4th" level=3} :level{slug="konamix" level=3} :level{slug="max-us" level=3} :level{slug="festival" level=3}|125/0||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=6} :level{slug="konamix" level=6} :level{slug="max-us" level=6} :level{slug="festival" level=6}|235/0||
 |SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=8} :level{slug="konamix" level=8} :level{slug="max-us" level=8} :level{slug="festival" level=8}|356/0||

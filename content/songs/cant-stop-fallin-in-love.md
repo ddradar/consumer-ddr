@@ -33,7 +33,7 @@ series:
 |DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=3} :level{slug="konamix" level=3} :level{slug="max2-us" level=3} :level{slug="party" level=3}|182/0||
 |DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=4} :level{slug="konamix" level=4} :level{slug="max2-us" level=4} :level{slug="party" level=4}|224/0||
 |DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=8} :level{slug="konamix" level=8} :level{slug="max2-us" level=8} :level{slug="party" level=8}|299/0||
-|BATTLE|[BATTLE]{.tag.is-basic}|:level{slug="extra" level=8}|||
+|BATTLE|[BATTLE]{.tag.is-basic}|:level{slug="konamix" level=8}|||
 |6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="extra" level=3} :level{slug="konamix" level=3}|160/0||
 |6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=4} :level{slug="konamix" level=4}|235/0||
 |6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=8} :level{slug="konamix" level=8}|328/0||

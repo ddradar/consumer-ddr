@@ -10,7 +10,8 @@ $custom-colors: (
   'basic': #fc0,
   'difficult': #f36,
   'expert': #6c0,
-  'challenge': #93c
+  'challenge': #93c,
+  'unknown': #999,
 ) !default;
 
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')

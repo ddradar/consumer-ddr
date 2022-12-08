@@ -21,6 +21,10 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[B4U](/songs/b4u)|NAOKI|155|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[DEAD END](/songs/dead-end)|N&S|190|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|
+|[DYNAMITE RAVE](/songs/dynamite-rave)|NAOKI|150|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,6,8" difficulties="1,2,3"}|
+|[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:slug="slug" levels="6,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="6,8,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="6,7,9" difficulties="1,2,3"}|
 |[](/songs/)|||:charts{:slug="slug" levels=",," difficulties="1,2,3"}|:charts{:slug="slug" levels=",," difficulties="1,2,3"}|
 
 ## システム概要

@@ -20,7 +20,11 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
-|[](/songs/)|||:charts{:slug="slug" levels=",," difficulties="1,2,3"}|:charts{:slug="slug" levels=",," difficulties="1,2,3"}|
+|[GROOVE](/songs/groove)|Sho-T feat. Blenda|130|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[Midnite Blaze](/songs/midnite-blaze)|U1 Jewel style|150|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[ORION.78 \~civilization mix\~](/songs/orion-78-civilization)|2MB|200|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[Share My Love](/songs/share-my-love)|Julie Frost|125|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[](/songs/)|||:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 
 ## システム概要
 
