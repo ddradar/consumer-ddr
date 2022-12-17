@@ -22,7 +22,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|||
+|SINGLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|99/0||
 |SINGLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4}|200/0||
 |SINGLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=4.5}|233/0||
 |SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=5}|244/0||
