@@ -24,7 +24,10 @@ difficulties:
 |----|------|---|------|------|
 |[5.1.1.](/songs/5-1-1)|dj nagureo|101|:charts{:slug="slug" levels="1,1,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="2,5,8" difficulties="1,2,3"}|
 |[.59](/songs/59)|dj TAKA|123-135|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:slug="slug" levels="1,4,5,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
+|[DIVE](/songs/dive)|Be For U|155|:charts{:slug="slug" levels="1,4,5,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:slug="slug" levels="1,4,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,6" difficulties="1,2,3"}|
+|[Electro Tuned (the SubS mix)](/songs/electro-tuned)|TaQ|125|:charts{:slug="slug" levels="1,5,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[era (nostalmix)](/songs/era)|TaQ|90-180|:charts{:slug="slug" levels="2,3,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:slug="slug" levels="1,5,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,8,9" difficulties="1,2,3"}|
 |[Holic](/songs/holic)|TaQ|155|:charts{:slug="slug" levels="1,4,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|

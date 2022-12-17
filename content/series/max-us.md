@@ -26,13 +26,18 @@ difficulties:
 |[AM-3P](/songs/am-3p)|KTz|130|:charts{:slug="slug" levels="5,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,6,7" difficulties="1,2,3"}|
 |[BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love)|DIVAS|96|:charts{:slug="slug" levels="1,3,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,4,6" difficulties="1,2,3"}|
 |[BRILLIANT 2U (Orchestra-Groove)](/songs/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:slug="slug" levels="5,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
+|[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:slug="slug" levels="4,5,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
 |[celebrate](/songs/celebrate)|JJ COMPANY|134|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,8,8" difficulties="1,2,4"}|
 |[DEEP IN YOU](/songs/deep-in-you)|dj nagureo|126|:charts{:slug="slug" levels="5,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,8,8" difficulties="1,2,4"}|
+|[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[Electro Tuned (the SubS mix)](/songs/electro-tuned)|TaQ|125|:charts{:slug="slug" levels="5,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[era (nostalmix)](/songs/era)|TaQ|90-180|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[GAMBOL](/songs/gambol)|SLAKE|102|:charts{:slug="slug" levels="1,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,7,7" difficulties="1,2,4"}|
 |[gentle stress (SENSUAL MIX)](/songs/)|||:charts{:slug="slug" levels="5,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,4,7" difficulties="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:slug="slug" levels="5,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,8,9" difficulties="1,2,3"}|
+|[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|
+|[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[Holic](/songs/holic)|TaQ|155|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[Let's talk it over](/songs/lets-talk-it-over)|SHIN Murayama feat. Argie Phine|100|:charts{:slug="slug" levels="2,5,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,4,7" difficulties="1,2,3"}|
 |[LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|

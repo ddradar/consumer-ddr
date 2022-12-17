@@ -20,7 +20,10 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[DIVE (more deep & deeper style)](/songs/dive-more-deep)|Be For U|155|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[Do It Right](/songs/do-it-right)|SOTA feat. Ebony Fay|135|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[GROOVE](/songs/groove)|Sho-T feat. Blenda|130|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[Midnite Blaze](/songs/midnite-blaze)|U1 Jewel style|150|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[ORION.78 \~civilization mix\~](/songs/orion-78-civilization)|2MB|200|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[Share My Love](/songs/share-my-love)|Julie Frost|125|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|

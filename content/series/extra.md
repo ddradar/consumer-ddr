@@ -23,9 +23,13 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|6-PANELS|
 |----|------|---|------|------|--------|
+|[AFRONOVA PRIMEVAL](/songs/afronova-primeval)|8 bit|200|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,8" difficulties="4,5,6"}|
+|[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:slug="slug" levels="4,5,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,4,8" difficulties="4,5,6"}|
 |[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,4,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,4,8" difficulties="1,2,3"}|
 |[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[Club Tropicana](/songs/club-tropicana)|Cydney D|132|:charts{:slug="slug" levels="2,4,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="1,3,5" difficulties="4,5,6"}|:charts{:slug="slug" levels="2,4,8" difficulties="1,2,3"}|
+|[DIVE](/songs/dive)|Be For U|155|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,4,7" difficulties="4,5,6"}|
+|[DXY!](/songs/dxy)|TaQ|148|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="4,5,6"}|
 |[HIGH ENERGY (John 'OO' Fleming Remix)](/songs/high-energy)|SLIP & SHUFFLE featuring LEONI|140|:charts{:slug="slug" levels="2,4,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="1,3,5" difficulties="4,5,6"}|:charts{:slug="slug" levels="2,4,6" difficulties="1,2,3"}|
 |[I DON'T WANT TO MISS A THING (Planet Lution Mix)](/songs/i-dont-want-to-miss-a-thing)|DEJA VU featuring TASMIN|170|:charts{:slug="slug" levels="3,4,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,3,6" difficulties="4,5,6"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[I'M ALIVE](/songs/im-alive)|CUT'N' MOVE|134|:charts{:slug="slug" levels="1,4,5" difficulties="1,2,3"}|:charts{:slug="slug" levels="1,3,4" difficulties="4,5,6"}|:charts{:slug="slug" levels="1,4,5" difficulties="1,2,3"}|

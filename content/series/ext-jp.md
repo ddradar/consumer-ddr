@@ -27,8 +27,12 @@ difficulties:
 |[BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love)|DIVAS|96|:charts{:slug="slug" levels="1,1,3,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="2,4,6" difficulties="1,2,3"}|
 |[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:slug="slug" levels="1,4,5,6,7" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="4,5,7,8" difficulties="1,2,3,4"}|
 |[BRILLIANT 2U (Orchestra-Groove)](/songs/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:slug="slug" levels="1,5,6,7,8" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="4,5,7,8" difficulties="1,2,3,4"}|
+|[CAN'T STOP FALLIN' IN LOVE (SPEED MIX)](/songs/cant-stop-fallin-in-love-speed)|NAOKI|170|:charts{:slug="slug" levels="1,4,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
 |[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:slug="slug" levels="1,4,5,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
 |[DYNAMITE RAVE](/songs/dynamite-rave)|NAOKI|150|:charts{:slug="slug" levels="1,5,7,9,9" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="5,6,8,8" difficulties="1,2,3,4"}|
+|[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:slug="slug" levels="2,3,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|
+|[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:slug="slug" levels="2,5,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[HIGHER](/songs/higher)|NM feat. SUNNY|132|:charts{:slug="slug" levels="1,3,5,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[KEEP ON MOVIN'](/songs/keep-on-movin)|N.M.R.|132|:charts{:slug="slug" levels="1,4,5,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[La Señorita Virtual](/songs/la-senorita-virtual)|2MB|182|:charts{:slug="slug" levels="2,7,8,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|

@@ -22,10 +22,23 @@ difficulties:
 |----|------|---|------|------|
 |[ABSOLUTE](/songs/absolute)|dj TAKA|144|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|
 |[Abyss](/songs/abyss)|dj TAKA|142|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[AFRONOVA PRIMEVAL](/songs/afronova-primeval)|8 bit|200|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
 |[AGAINST ALL ODDS (Definitive MIX)](/songs/against-all-odds)|DEJAVU featuring TASMIN|139|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[B4U glorious style](/songs/b4u-glorious)|NAOKI|155|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,6,9" difficulties="1,2,3"}|
 |[BE TOGETHER](/songs/be-together)|NI-NI|142|:charts{:slug="slug" levels=",," difficulties="1,2,3"}|:charts{:slug="slug" levels=",," difficulties="1,2,3"}|
+|[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:slug="slug" levels="4,5,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
+|[CAN'T STOP FALLIN' IN LOVE (SPEED MIX)](/songs/cant-stop-fallin-in-love-speed)|NAOKI|170|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
 |[DANCING ALL ALONE](/songs/dancing-all-alone)|SMiLE.dk|140|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|
+|[DIVE](/songs/dive)|Be For U|155|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[DIVE \~more deep & deeper style\~](/songs/dive-more-deep)|Be For U|155|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,5,6" difficulties="1,2,3"}|
+|[Do It Right](/songs/do-it-right)|SOTA feat. Ebony Fay|135|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|
+|[DXY!](/songs/dxy)|TaQ|148|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
+|[DYNAMITE RAVE (Long ver.)](/songs/dynamite-rave-long)|NAOKI|150|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
+|[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[Electro Tuned (the SubS mix)](/songs/electro-tuned)|TaQ|125|:charts{:slug="slug" levels="5,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
+|[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|
+|[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
+|[HOT LIMIT](/songs/hot-limit-long)|JOHN DESIRE|156|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|
 |[MOVIN ON (Extended Moon Mix)](/songs/movin-on)|ELLEN GEE|142|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[MY GENERATION (Fat Beat Mix)](/songs/my-generation)|CAPTAIN JACK|140|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,6" difficulties="1,2,3"}|
 |[NO LIMIT(RM Remix)](/songs/no-limit)|2 UNLIMITED|141|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
