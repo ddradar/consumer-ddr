@@ -43,6 +43,7 @@ difficulties:
 |[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:slug="slug" levels="1,3,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|
 |[ORION.78 \~civilization mix\~](/songs/orion-78-civilization)|2MB|200|:charts{:slug="slug" levels="2,6,8,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="6,8,9" difficulties="1,2,3"}|
 |[PARANOiA](/songs/paranoia)|180|180|:charts{:slug="slug" levels="2,6,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,9" difficulties="1,2,3"}|
+|[PARANOiA ETERNAL](/songs/paranoia-eternal)|STM 200|200|:charts{:slug="slug" levels="2,5,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,6,9" difficulties="1,2,3"}|
 |[PARANOiA KCET \~clean mix\~](/songs/paranoia-kcet)|2MB|180|:charts{:slug="slug" levels="2,5,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)|190|190|:charts{:slug="slug" levels="2,6,8,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,9" difficulties="1,2,3"}|
 |[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:slug="slug" levels="2,6,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="6,8,9" difficulties="1,2,3"}|

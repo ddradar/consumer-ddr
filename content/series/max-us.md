@@ -39,19 +39,25 @@ difficulties:
 |[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|
 |[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[Holic](/songs/holic)|TaQ|155|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
+|[I Was The One](/songs/i-was-the-one)|good-cool|125|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,6" difficulties="1,2,3"}|
+|[INSERTiON](/songs/insertion)|NAOKI underground|140-220|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[Let's talk it over](/songs/lets-talk-it-over)|SHIN Murayama feat. Argie Phine|100|:charts{:slug="slug" levels="2,5,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,4,7" difficulties="1,2,3"}|
+|[Look To The Sky](/songs/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:slug="slug" levels="3,4,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|
 |[LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang Ma|95-190|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="7,8,9" difficulties="1,2,3"}|
+|[MATSURI JAPAN](/songs/matsuri-japan)|RE-VENGE|180|:charts{:slug="slug" levels="4,5,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[Midnite Blaze](/songs/midnite-blaze)|U1 Jewel style|150|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|
 |[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|
 |[never let you down](/songs/never-let-you-down)|good-cool feat. JP Miles|125|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
 |[ORION.78 (civilization mix)](/songs/orion-78-civilization)|2MB|200|:charts{:slug="slug" levels="6,8,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="6,8,9" difficulties="1,2,3"}|
 |[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)](/songs/paranoia-max)|190|190|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="7,9,9" difficulties="1,2,4"}|
+|[Remember You](/songs/remember-you)|NM feat.Julie|105|:charts{:slug="slug" levels="1,3,5" difficulties="1,2,3"}|:charts{:slug="slug" levels="1,3,5" difficulties="1,2,3"}|
 |[RUGGED ASH](/songs/rugged-ash)|SYMPHONIC DEFOGGERS|168|:charts{:slug="slug" levels="5,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,7,7" difficulties="1,2,4"}|
 |[Share My Love](/songs/share-my-love)|Julie Frost|125|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,4,5" difficulties="1,2,3"}|
 |[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:slug="slug" levels="2,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
 |[Stomp to my beat](/songs/stomp-to-my-beat)|JS16|134|:charts{:slug="slug" levels="5,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,6,7" difficulties="1,2,3"}|
 |[SYNCHRONIZED LOVE (Red Monster Hyper Mix)](/songs/synchronized-love)|JOE RINOIE|150|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
+|[THE CUBE](/songs/the-cube)|DJ SUWAMI|178|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[](/songs/)|||:charts{:slug="slug" levels=",," difficulties="1,2,3"}|:charts{:slug="slug" levels=",," difficulties="1,2,3"}|
 
