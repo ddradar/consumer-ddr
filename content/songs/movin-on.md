@@ -2,7 +2,7 @@
 slug: "movin-on"
 name: "MOVIN ON (Extended Moon Mix)"
 artist: "ELLEN GEE"
-from: ""
+from: "Dancemania X8"
 bpm: 142
 series:
   - "5th"
@@ -22,9 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3}|143/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5}|220/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8}|304/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3}|132/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5}|218/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=7}|282/0||

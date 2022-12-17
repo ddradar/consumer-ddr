@@ -2,7 +2,7 @@
 slug: "test-my-best"
 name: "TEST MY BEST"
 artist: "E-ROTIC"
-from: ""
+from: "Dancemania X8"
 bpm: 147
 series:
   - "5th"
@@ -22,9 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=4}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3}|147/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=4}|189/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=7}|292/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3}|140/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5}|225/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=7}|285/0||
