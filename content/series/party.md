@@ -44,13 +44,19 @@ difficulties:
 |[IF YOU WERE HERE](/songs/if-you-were-here)|JENNIFER|146|:charts{:slug="slug" levels="1,5,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="6,7,7" difficulties="1,2,3"}|
 |[La Senorita](/songs/la-senorita)|CAPTAIN. T|182|:charts{:slug="slug" levels="2,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
 |[LET'S GET DOWN](/songs/lets-get-down)|JT PLAYAZ|128|:charts{:slug="slug" levels="1,3,4,5,8" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="3,4,7,7" difficulties="1,2,3"}|
+|[Look To The Sky](/songs/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:slug="slug" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|
+|[MOONLIGHT SHADOW (New Vocal Version)](/songs/moonlight-shadow)|MISSING HEART|140|:charts{:slug="slug" levels="1,4,5,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
 |[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:slug="slug" levels="1,3,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|
+|[NEVER ENDING STORY (Power Club Vocal Mix)](/songs/never-ending-story)|DJ-AC-DC|140|:charts{:slug="slug" levels="1,4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,7,8" difficulties="1,2,3"}|
 |[ORION.78 (AMeuro-MIX)](/songs/orion-78-ameuro)|RE-VENGE|105|:charts{:slug="slug" levels="1,3,5,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[PARANOiA](/songs/paranoia)|180|180|:charts{:slug="slug" levels="2,6,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,9" difficulties="1,2,3"}|
 |[PUT YOUR FAITH IN ME](/songs/put-your-faith-in-me)|UZI-LAY|119|:charts{:slug="slug" levels="1,3,4,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
+|[Remember You](/songs/remember-you)|NM feat.Julie|105|:charts{:slug="slug" levels="1,1,3,5" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="1,3,5" difficulties="1,2,3"}|
 |[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:slug="slug" levels="1,2,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
 |[SKY HIGH](/songs/sky-high-miko)|DJ MIKO|136|:charts{:slug="slug" levels="1,2,4,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[STILL IN MY HEART](/songs/still-in-my-heart)|NAOKI|150|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
 |[SYNCHRONIZED LOVE (Red Monster Hyper Mix)](/songs/synchronized-love)|JOE RINOIE|150|:charts{:slug="slug" levels="1,4,5,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
+|[祭 JAPAN](/songs/matsuri-japan)|RE-VENGE|180|:charts{:slug="slug" levels="2,4,5,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[](/songs/)|||:charts{:slug="slug" levels=",,," difficulties="0,1,2,3"}|:charts{:slug="slug" levels=",," difficulties="1,2,3"}|
 
 ## システム概要

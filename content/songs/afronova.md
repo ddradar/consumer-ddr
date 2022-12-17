@@ -28,11 +28,11 @@ series:
 |---------|----------|------|-----|-----|
 |SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="us" level=1} :level{slug="max2-us" level=2} :level{slug="ext-jp" level=2}|108/0||
 |SINGLE|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=5} :level{slug="us" level=5} :level{slug="max2-us" level=5} :level{slug="ext-jp" level=5}|214/0||
+|SINGLE|[BASIC (Omitted)]{.tag.is-basic}|:level{slug="gb2" level=5}|210/0||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=7} :level{slug="us" level=7} :level{slug="max2-us" level=7} :level{slug="ext-jp" level=7}|244/0||
+|SINGLE|[DIFFICULT (Omitted)]{.tag.is-difficult}|:level{slug="gb2" level=7}|240/0||
 |SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=9} :level{slug="us" level=9} :level{slug="max2-us" level=9} :level{slug="ext-jp" level=9}|370/0||
-|SINGLE|[BASIC (Omitted)]{.tag.is-basic}|:level{slug="gb2" level=5}|0/0||
-|SINGLE|[DIFFICULT (Omitted)]{.tag.is-difficult}|:level{slug="gb2" level=7}|0/0||
-|SINGLE|[EXPERT (Omitted)]{.tag.is-expert}|:level{slug="gb2" level=9}|0/0||
+|SINGLE|[EXPERT (Omitted)]{.tag.is-expert}|:level{slug="gb2" level=9}|360/0||
 |DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=6} :level{slug="us" level=6} :level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}|233/0||
 |DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=7} :level{slug="us" level=7} :level{slug="max2-us" level=7} :level{slug="ext-jp" level=7}|245/0||
 |DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=9} :level{slug="us" level=9} :level{slug="max2-us" level=9} :level{slug="ext-jp" level=9}|357/0||

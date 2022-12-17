@@ -1,7 +1,7 @@
 <template>
   <ul>
-    <li v-for="series in seriesList" :key="series.to">
-      <NuxtLink :to="series.to">{{ series.title }}</NuxtLink>
+    <li v-for="s in seriesList" :key="s.to">
+      <NuxtLink :to="s.to">{{ s.title }}</NuxtLink>
     </li>
   </ul>
 </template>

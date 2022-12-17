@@ -27,7 +27,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|||
+|SINGLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|81/0||
 |SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1} :level{slug="party" level=1}|92/0||
 |SINGLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4.5} :level{slug="gb3" level=4} :level{slug="extra" level=4} :level{slug="konamix" level=4} :level{slug="max2-us" level=4} :level{slug="party" level=4}|171/0||
 |SINGLE|[TRICK (TKD)]{.tag.is-difficult}|:level{slug="tkd" level=5}|198/0||

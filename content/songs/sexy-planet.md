@@ -25,7 +25,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|||
+|SINGLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|74/0||
 |SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=2} :level{slug="ext2" level=2}|75/0||
 |SINGLE|[BASIC (TKD)]{.tag.is-basic}|:level{slug="tkd" level=5.5}|219/0||
 |SINGLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=5} :level{slug="ext-jp" level=5} :level{slug="ext2" level=5}|201/0||
