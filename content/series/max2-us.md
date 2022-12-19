@@ -26,6 +26,7 @@ difficulties:
 |[AM-3P](/songs/am-3p)|KTz|130|:charts{:slug="slug" levels="1,5,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,6,7" difficulties="1,2,3"}|
 |[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:slug="slug" levels="1,3,5,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,4,8" difficulties="1,2,3"}|
 |[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[CONGA FEELING](/songs/conga-feeling)|VIVIAN|130|:charts{:slug="slug" levels="1,3,5,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,7,8" difficulties="1,2,3"}|
 |[Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:slug="slug" levels="1,4,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,6" difficulties="1,2,3"}|
 |[DREAM A DREAM](/songs/dream-a-dream)|CAPTAIN JACK|141|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[DIVE \~more deep & deeper style\~](/songs/dive-more-deep)|Be For U|155|:charts{:slug="slug" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="2,5,6" difficulties="1,2,3"}|

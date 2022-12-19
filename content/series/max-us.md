@@ -35,6 +35,7 @@ difficulties:
 |[GAMBOL](/songs/gambol)|SLAKE|102|:charts{:slug="slug" levels="1,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,7,7" difficulties="1,2,4"}|
 |[gentle stress (SENSUAL MIX)](/songs/)|||:charts{:slug="slug" levels="5,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,4,7" difficulties="1,2,3"}|
+|[Groove 2001](/songs/groove-2001)|Sho-T feat. Brenda|140|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:slug="slug" levels="5,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,8,9" difficulties="1,2,3"}|
 |[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|
 |[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|

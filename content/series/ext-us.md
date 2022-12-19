@@ -25,6 +25,8 @@ difficulties:
 |[.59](/songs/59)|dj TAKA|123-135|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[B4U](/songs/b4u)|NAOKI|155|:charts{:slug="slug" levels="1,4,5,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[CAN'T STOP FALLIN' IN LOVE (SPEED MIX)](/songs/cant-stop-fallin-in-love-speed)|NAOKI|170|:charts{:slug="slug" levels="1,4,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
+|[DO ME (H.I.G.E.O. MIX)](/songs/do-me)|MUSTACHE MEN|130|:charts{:slug="slug" levels="1,5,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,7,8" difficulties="1,2,3"}|
+|[DROP OUT](/songs/drop-out)|NW260|260|:charts{:slug="slug" levels="3,5,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:slug="slug" levels="1,4,5,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
 |[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[HIGHER](/songs/higher)|NM feat. SUNNY|132|:charts{:slug="slug" levels="1,3,5,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
