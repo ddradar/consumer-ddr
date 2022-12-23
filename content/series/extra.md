@@ -80,7 +80,23 @@ difficulties:
 
 ## 隠し要素
 
-(WIP)
+クリアした累計曲数によって、下記の隠し要素が解禁する。
+
+- CHALLENGE MODEの全課題をクリアすることでも解禁可能。
+
+|隠し要素|曲数|
+|-------|---:|
+|[DIVE](/songs/dive)|5|
+|CHALLENGE MODE|10|
+|[I'M ALIVE](/songs/im-alive)|20|
+|[TOGETHER & FOREVER](/songs/together-forever)|30|
+|[Remember You](/songs/remember-you)|40|
+|[Let the beat hit em! (BM IIDX version)](/songs/let-the-beat-hit-em-bm)|50|
+|[BROKEN MY HEART](/songs/broken-my-heart)|60|
+|[Let the beat hit em! (CLASSIC R&B STYLE)](/songs/let-the-beat-hit-em-classic)|70|
+|[Groove 2001](/songs/groove-2001)|80|
+|[AFRONOVA PRIMEVAL](/songs/afronova-primeval)|95|
+|ENDLESS MODE|100|
 
 ## 他ソフトとの連動
 
