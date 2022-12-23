@@ -72,3 +72,13 @@ difficulties:
 ## 他ソフトとの連動
 
 (WIP)
+|[Can Be Real](/songs/can-be-real)|Vision F|132|:charts{:slug="slug" levels="1,4,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,6,7" difficulties="1,2,3"}|
+|[Freedom](/songs/freedom)|Be For U|148|:charts{:slug="slug" levels="1,4,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,6,7" difficulties="1,2,3"}|
+|[I Need You (Insideout Door Mix)](/songs/i-need-you-insideout-door)|Supa Fova|65-130|:charts{:slug="slug" levels="1,4,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,7,7" difficulties="1,2,3"}|
+|[PARANOiA -Respect-](/songs/paranoia-respect)|.3k|300|:charts{:slug="slug" levels="3,6,9,10+" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="6,8,10+" difficulties="1,2,3"}|
+|[STARS☆☆☆ (2nd NAOKI's style)](/songs/stars)|TËЯRA|140|:charts{:slug="slug" levels="1,5,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,7,8" difficulties="1,2,3"}|
+|[Sweet Sweet ♥ Magic](/songs/sweet-sweet-love-magic)|jun|180|:charts{:slug="slug" levels="2,3,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|
+|[Try 2 Luv. U](/songs/try-2-luv-u)|S.F.M.P.|115|:charts{:slug="slug" levels="1,3,4,5" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="2,4,6" difficulties="1,2,3"}|
+|[Wannabe](/songs/wannabe)|Spice Girls|110|:charts{:slug="slug" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,6,7" difficulties="1,2,3"}|
+|[WE WILL ROCK YOU](/songs/we-will-rock-you)|HOUSEBOYZ|90|:charts{:slug="slug" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[WITCH DOCTOR (GIANTS TOONS VERSION)](/songs/witch-doctor)|CARTOONS|150|:charts{:slug="slug" levels="1,3,4,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="2,6,8" difficulties="1,2,3"}|

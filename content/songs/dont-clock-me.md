@@ -32,3 +32,11 @@ series:
 ## メモ
 
 - [Dance Dance Revolution EXTRA MIX](/series/extra)のDOUBLE譜面は、SINGLE譜面と同一。(1P側にSINGLE譜面が流れる)
+<!-- ext-us -->
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|0/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=4}|0/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=6}|0/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=2}|0/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=4}|0/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=4}|0/0||

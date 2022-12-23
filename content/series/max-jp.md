@@ -20,6 +20,7 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[LOVIN' YOU (ROB SEARLE CLUB MIX)](/songs/lovin-you)|VINYL BABY|139|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[DIVE (more deep & deeper style)](/songs/dive-more-deep)|Be For U|155|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[Do It Right](/songs/do-it-right)|SOTA feat. Ebony Fay|135|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[GROOVE](/songs/groove)|Sho-T feat. Blenda|130|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
@@ -46,3 +47,33 @@ difficulties:
 ## 他ソフトとの連動
 
 (WIP)
+|[BYE BYE BABY BALLOON](/songs/bye-bye-baby-balloon)|JOGA|145|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[COW GIRL](/songs/cow-girl)|BAMBEE|138|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[DO YOU REMEMBER ME](/songs/do-you-remember-me)|JENNY|150|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[exotic ethnic](/songs/exotic-ethnic)|RevenG|190|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[FANTASY](/songs/fantasy-melissa)|MELISSA|160|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[Firefly](/songs/firefly)|BeForU|150|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[FLASH IN THE NIGHT](/songs/flash-in-the-night)|FLASHMAN|158|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[FOLLOW ME](/songs/follow-me)|LADY BABY|158|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[そばかす FRECKLES (KCP Re-Edit)](/songs/freckles)|TIGGY|150|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[GHOSTS (VINCENT DE MOOR REMIX)](/songs/ghosts)|TENTH PLANET|138|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[HIGHS OFF U (Scorccio XY Mix)](/songs/highs-off-u)|4 REEEL|130|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[I'M IN THE MOOD FOR DANCING](/songs/im-in-the-mood-for-dancing)|SHARON|150|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[JUSTIFY MY LOVE](/songs/justify-my-love)|TESS|140|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,6"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[LET'S GROOVE](/songs/lets-groove)|TIPS & TRICKS VS WISDOME|65-130|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[MAX 300](/songs/max-300)|Ω|300|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[MIRACLE](/songs/miracle)|ST.JENNARO|128|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[MY SWEET DARLIN'](/songs/my-sweet-darlin)|WILDSIDE|157|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[ORDINARY WORLD](/songs/ordinary-world)|AURORA featuring NAIMEE COLEMAN|139|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[SO DEEP (PERFECT SPHERE REMIX)](/songs/so-deep)|SILVERTEAR|140|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,8"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[SOMEWHERE OVER THE RAINBOW](/songs/somewhere-over-the-rainbow)|COSMIC GATE|35-140|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[TELEPHONE OPERATOR (Club MIX)](/songs/telephone-operator)|SHELLEY PETER|146|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[true... (radio edit)](/songs/true-radio)|小坂りゆ|125|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[true... (Trance Sunrise Mix)](/songs/true-trance)|小坂りゆ|140|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[TWILIGHT ZONE (R-C Extended Club MIX)](/songs/twilight-zone-rc-extended)|2 UNLIMITED|138|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[WITCH DOCTOR (GIANTS TOONS VERSION)](/songs/witch-doctor)|CARTOONS|150|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[WWW.BLONDE GIRL (MOMO MIX)](/songs/www-blonde-girl)|JENNY ROM|170|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[夜空ノムコウ](/songs/yozora-no-muko)|EUROBEAT LOVERS|156|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|

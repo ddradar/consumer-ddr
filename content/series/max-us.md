@@ -86,3 +86,28 @@ difficulties:
 ## 他ソフトとの連動
 
 (WIP)
+|[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
+|[Dark Black Forest (short trip)](/songs/dark-black-forest)|Steve Rhyner|140|:charts{:slug="slug" levels="3,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
+|[Do It Right (Harmonized 2Step Mix)](/songs/do-it-right-harmonized-2step)|SOTA feat. Ebony Fay|135|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[DROP THE BOMB -System S.F. Mix-](/songs/drop-the-bomb-sysf)|Scotty D.|150|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|
+|[DYNAMITE RAVE -Down Bird SOTA Mix-](/songs/dynamite-rave-down-bird-sota)|NAOKI|150|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[era (nostalmix)](/songs/era)|TaQ|90-180|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
+|[exotic ethnic](/songs/exotic-ethnic)|RevenG|190|:charts{:slug="slug" levels="4,5,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,9" difficulties="1,2,3"}|
+|[I Like To Move It](/songs/i-like-to-move-it)|Reel 2 Real|123|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[I'M FOR REAL](/songs/im-for-real)|SLAKE|140|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,4,6" difficulties="1,2,3"}|
+|[Jam & Marmalade](/songs/jam-marmalade)|Final Offset|145|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,6"}|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|
+|[LOGICAL DASH](/songs/logical-dash)|dj TAKA|144|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[Look To The Sky (True Color Mix)](/songs/look-to-the-sky-true-color)|System S.F. feat. Anna|140|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[MAX 300](/songs/max-300)|Ω|300|:charts{:slug="slug" levels="6,8,10" difficulties="1,2,3"}|:charts{:slug="slug" levels="6,8,10" difficulties="1,2,3"}|
+|[ORDINARY WORLD](/songs/ordinary-world)|AURORA featuring NAIMEE COLEMAN|139|:charts{:slug="slug" levels="1,4,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
+|[OVERBLAST!!](/songs/overblast)|L.E.D. LIGHT|147|:charts{:slug="slug" levels="3,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|
+|[PEACE-OUT](/songs/peace-out)|dj nagureo|133|:charts{:slug="slug" levels="2,4,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[Sandstorm](/songs/sandstorm)|Darude|136|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
+|[Secret Rendez-vous](/songs/secret-rendez-vous)|DIVAS|98|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|
+|[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:slug="slug" levels="3,6,7" difficulties="1,2,6"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[Spin the disc](/songs/spin-the-disc)|good-cool|130|:charts{:slug="slug" levels="2,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,5,8" difficulties="1,2,3"}|
+|[Take It To The Morning Light (Extended Vocal)](/songs/take-it-to-the-morning-light)|Golden Gate|129|:charts{:slug="slug" levels="5,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|
+|[THE SHINING POLARIS](/songs/the-shining-polaris)|L.E.D. feat. Sana|147|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[true... (Trance Sunrise Mix)](/songs/true-trance)|RIYU KOSAKA|140|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|
+|[You Leave Me Alone](/songs/you-leave-me-alone)|Venus|138|:charts{:slug="slug" levels="3,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
