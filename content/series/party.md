@@ -32,6 +32,7 @@ difficulties:
 |[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:slug="slug" levels="1,3,5,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,4,8" difficulties="1,2,3"}|
 |[CAPTAIN JACK (GRANDALE REMIX)](/songs/captain-jack)|CAPTAIN JACK|170|:charts{:slug="slug" levels="1,4,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
+|[CONGA FEELING](/songs/conga-feeling)|VIVIAN|130|:charts{:slug="slug" levels="1,3,5,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,7,8" difficulties="1,2,3"}|
 |[DAM DARIRAM](/songs/dam-dariram)|JOGA|142|:charts{:slug="slug" levels="1,4,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|
 |[DREAM A DREAM](/songs/dream-a-dream)|CAPTAIN JACK|141|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:slug="slug" levels="1,4,5,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
@@ -52,6 +53,7 @@ difficulties:
 |[PARANOiA](/songs/paranoia)|180|180|:charts{:slug="slug" levels="2,6,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,9" difficulties="1,2,3"}|
 |[PUT YOUR FAITH IN ME](/songs/put-your-faith-in-me)|UZI-LAY|119|:charts{:slug="slug" levels="1,3,4,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
 |[Remember You](/songs/remember-you)|NM feat.Julie|105|:charts{:slug="slug" levels="1,1,3,5" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="1,3,5" difficulties="1,2,3"}|
+|[RHYTHM AND POLICE (K.O.G G3 Mix)](/songs/rhythm-and-police)|CJ CREW feat. CHRISTIAN D|170|:charts{:slug="slug" levels="1,4,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,7,9" difficulties="1,2,3"}|
 |[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:slug="slug" levels="1,2,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
 |[SKY HIGH](/songs/sky-high-miko)|DJ MIKO|136|:charts{:slug="slug" levels="1,2,4,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[STILL IN MY HEART](/songs/still-in-my-heart)|NAOKI|150|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
