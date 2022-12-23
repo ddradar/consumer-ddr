@@ -2,7 +2,7 @@
 slug: "sky-high-lucyfer"
 name: "SKY HIGH"
 artist: "LUCYFER"
-from: ""
+from: "Dancemania EURO MIX HAPPY PARADISE"
 bpm: 160
 series:
   - "extra"

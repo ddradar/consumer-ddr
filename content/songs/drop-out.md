@@ -2,7 +2,7 @@
 slug: "drop-out"
 name: "DROP OUT"
 artist: "NW260"
-from: ""
+from: "DanceDanceRevolution Solo 2000"
 bpm: 260
 series:
   - "extra"

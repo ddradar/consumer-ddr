@@ -2,7 +2,7 @@
 slug: "conga-feeling"
 name: "CONGA FEELING"
 artist: "VIVIAN"
-from: ""
+from: "Dancemania SUMMERS 3"
 bpm: 130
 series:
   - "extra"

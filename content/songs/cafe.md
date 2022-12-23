@@ -2,7 +2,7 @@
 slug: "cafe"
 name: "CAFE"
 artist: "D.D.SOUND"
-from: ""
+from: "Dancemania Super Classics 3"
 bpm: 129
 series:
   - "extra"

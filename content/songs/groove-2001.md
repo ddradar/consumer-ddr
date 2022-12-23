@@ -2,7 +2,7 @@
 slug: "groove-2001"
 name: "Groove 2001"
 artist: "Sho-T feat. Brenda"
-from: ""
+from: "DanceDanceRevolution EXTRA MIX"
 bpm: 140
 series:
   - "extra"

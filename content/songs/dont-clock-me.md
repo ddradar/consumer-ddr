@@ -2,7 +2,7 @@
 slug: "dont-clock-me"
 name: "DON'T CLOCK ME"
 artist: "POPULA DEMAND feat. THE GET FRESH GIRLS"
-from: ""
+from: "Dancemania BASS#2"
 bpm: 124
 series:
   - "extra"

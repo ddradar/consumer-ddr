@@ -2,7 +2,7 @@
 slug: "wonda"
 name: "WONDA (SPEED K MIX)"
 artist: "MM"
-from: ""
+from: "Dancemania SPEED BEST 2001"
 bpm: 170
 series:
   - "extra"

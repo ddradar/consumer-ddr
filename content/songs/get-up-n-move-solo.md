@@ -2,7 +2,7 @@
 slug: "get-up-n-move-solo"
 name: "GET UP'N MOVE"
 artist: "S&K"
-from: ""
+from: "Dancemania BASS #2"
 bpm: 132
 series:
   - "extra"

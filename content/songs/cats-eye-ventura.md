@@ -2,7 +2,7 @@
 slug: "cats-eye-ventura"
 name: "CAT'S EYE (Ventura Mix)"
 artist: "E-ROTIC"
-from: ""
+from: "Dancemania presents E-ROTIC MEGAMIX"
 bpm: 159
 series:
   - "extra"

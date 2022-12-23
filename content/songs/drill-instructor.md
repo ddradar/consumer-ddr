@@ -2,7 +2,7 @@
 slug: "drill-instructor"
 name: "DRILL INSTRUCTOR (C-Jah Happy Mix)"
 artist: "CAPTAIN JACK"
-from: ""
+from: "Dancemania SPEED 3"
 bpm: 168
 series:
   - "extra"

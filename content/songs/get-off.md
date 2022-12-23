@@ -2,7 +2,7 @@
 slug: "get-off"
 name: "GET OFF"
 artist: "WIZZZARD"
-from: ""
+from: "Dancemania BASS#0"
 bpm: 137
 series:
   - "extra"

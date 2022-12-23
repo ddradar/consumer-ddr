@@ -2,7 +2,7 @@
 slug: "freaky"
 name: "FREAKY"
 artist: "DE LITE & MC YOUNG"
-from: ""
+from: "Dancemania BASS#3"
 bpm: 160
 series:
   - "extra"
