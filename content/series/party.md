@@ -53,6 +53,7 @@ difficulties:
 |[PARANOiA](/songs/paranoia)|180|180|:charts{:slug="slug" levels="2,6,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,9" difficulties="1,2,3"}|
 |[PUT YOUR FAITH IN ME](/songs/put-your-faith-in-me)|UZI-LAY|119|:charts{:slug="slug" levels="1,3,4,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
 |[Remember You](/songs/remember-you)|NM feat.Julie|105|:charts{:slug="slug" levels="1,1,3,5" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="1,3,5" difficulties="1,2,3"}|
+|[RHYTHM AND POLICE (K.O.G G3 Mix)](/songs/rhythm-and-police)|CJ CREW feat. CHRISTIAN D|170|:charts{:slug="slug" levels="1,4,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,7,9" difficulties="1,2,3"}|
 |[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:slug="slug" levels="1,2,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
 |[SKY HIGH](/songs/sky-high-miko)|DJ MIKO|136|:charts{:slug="slug" levels="1,2,4,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[STILL IN MY HEART](/songs/still-in-my-heart)|NAOKI|150|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|

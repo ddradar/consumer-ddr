@@ -21,6 +21,7 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[AM-3P (303 BASS MIX)](/songs/am-3p-303-bass)|KTz (remixed by U1)|130|:charts{:slug="slug" levels="3,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,6,7" difficulties="1,2,3"}|
 |[B4U](/songs/b4u)|NAOKI|155|:charts{:slug="slug" levels="4,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
 |[DEAD END](/songs/dead-end)|N&S|190|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|
 |[DROP OUT](/songs/drop-out)|NW260|260|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|

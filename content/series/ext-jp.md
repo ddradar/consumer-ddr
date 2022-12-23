@@ -44,6 +44,7 @@ difficulties:
 |[ORION.78 \~civilization mix\~](/songs/orion-78-civilization)|2MB|200|:charts{:slug="slug" levels="2,6,8,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="6,8,9" difficulties="1,2,3"}|
 |[PARANOiA](/songs/paranoia)|180|180|:charts{:slug="slug" levels="2,6,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,9" difficulties="1,2,3"}|
 |[PARANOiA ETERNAL](/songs/paranoia-eternal)|STM 200|200|:charts{:slug="slug" levels="2,5,6,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,6,9" difficulties="1,2,3"}|
+|[PARANOIA EVOLUTION](/songs/paranoia-evolution)|200|200|:charts{:slug="slug" levels="2,6,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[PARANOiA KCET \~clean mix\~](/songs/paranoia-kcet)|2MB|180|:charts{:slug="slug" levels="2,5,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)|190|190|:charts{:slug="slug" levels="2,6,8,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,9" difficulties="1,2,3"}|
 |[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:slug="slug" levels="2,6,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="6,8,9" difficulties="1,2,3"}|
@@ -52,10 +53,12 @@ difficulties:
 |[SEXY PLANET](/songs/sexy-planet)|Crystal Aliens|180|:charts{:slug="slug" levels="2,5,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
 |[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:slug="slug" levels="1,2,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
 |[SP-TRIP MACHINE \~JUNGLE MIX\~](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:slug="slug" levels="1,6,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,8" difficulties="1,2,3"}|
+|[SUPER STAR](/songs/super-star)|D.J. RICH feat. Tail Bros.|128|:charts{:slug="slug" levels="1,5,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[think ya better D](/songs/)|||:charts{:slug="slug" levels=",,," difficulties="0,1,2,3"}|:charts{:slug="slug" levels=",," difficulties="1,2,3"}|
 |[TRIP MACHINE](/songs/trip-machine)|DE-SIRE|160|:charts{:slug="slug" levels="1,6,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,8" difficulties="1,2,3"}|
 |[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:slug="slug" levels="1,5,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
 |[TRIP MACHINE \~luv mix\~](/songs/trip-machine-luv)|2MB|160|:charts{:slug="slug" levels="1,6,7,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="7,8,9" difficulties="1,2,3"}|
+|[WILD RUSH](/songs/wild-rush)|FACTOR-X|80-180|:charts{:slug="slug" levels="2,4,5,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[](/songs/)|||:charts{:slug="slug" levels=",,," difficulties="0,1,2,3"}|:charts{:slug="slug" levels=",," difficulties="1,2,3"}|
 
 ## システム概要

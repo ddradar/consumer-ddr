@@ -25,6 +25,7 @@ difficulties:
 |[GROOVE](/songs/groove)|Sho-T feat. Blenda|130|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[Groove 2001](/songs/groove-2001)|Sho-T feat. Brenda|140|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
+|[Let the beat hit em! (CLASSIC R&B STYLE)](/songs/let-the-beat-hit-em-classic)|Stone Bros.|102|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[Look To The Sky](/songs/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[Midnite Blaze](/songs/midnite-blaze)|U1 Jewel style|150|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
 |[NORI NORI NORI](/songs/nori-nori-nori)|JUDY CRYSTAL|160|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|:charts{:slug="slug" levels="?,?,?" difficulties="1,2,3"}|
