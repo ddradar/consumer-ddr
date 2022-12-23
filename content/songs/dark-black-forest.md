@@ -2,19 +2,10 @@
 slug: "dark-black-forest"
 name: "Dark Black Forest (short trip)"
 artist: "Steve Rhyner"
-from: ""
+from: "Dark Black Forest"
 bpm: 140
 series:
-  - "max-jp"
   - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-us -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=3}|130/34||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=6}|176/37||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|214/50||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=4}|130/12||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|201/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|226/21||

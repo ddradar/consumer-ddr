@@ -2,19 +2,12 @@
 slug: "spin-the-disc"
 name: "Spin the disc"
 artist: "good-cool"
-from: ""
+from: "beatmania IIDX 5th style"
 bpm: 130
 series:
-  - "max-jp"
   - "max-us"
   - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,25 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-us -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=8}|0/0||
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|0/0||
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|69/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2} :level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|70/11||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5} :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}|194/3||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=8} :level{slug="max2-jp" level=8} :level{slug="max2-us" level=8}|304/12||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2} :level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|102/4||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5} :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}|194/5||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=8} :level{slug="max2-jp" level=8} :level{slug="max2-us" level=8}|264/7||

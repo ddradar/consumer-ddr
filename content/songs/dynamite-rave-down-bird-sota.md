@@ -2,19 +2,11 @@
 slug: "dynamite-rave-down-bird-sota"
 name: "DYNAMITE RAVE -Down Bird SOTA Mix-"
 artist: "NAOKI"
-from: ""
+from: "DDRMAX -DanceDanceRevolution-"
 bpm: 150
 series:
-  - "max-jp"
   - "max-us"
   - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,17 +23,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-us -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|0/0||
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=4} :level{slug="max2-jp" level=4}|168/28||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5} :level{slug="max2-jp" level=5}|232/28||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7} :level{slug="max2-jp" level=7}|269/32||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=3} :level{slug="max2-jp" level=3}|153/14||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5} :level{slug="max2-jp" level=5}|228/9||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7} :level{slug="max2-jp" level=7}|270/27||
