@@ -2,19 +2,10 @@
 slug: "telephone-operator"
 name: "TELEPHONE OPERATOR (Club MIX)"
 artist: "SHELLEY PETER"
-from: ""
+from: "Dancemania 20"
 bpm: 146
 series:
   - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|109/8||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|208/7||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|297/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|123/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|196/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|284/11||

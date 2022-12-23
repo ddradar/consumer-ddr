@@ -2,19 +2,10 @@
 slug: "yozora-no-muko"
 name: "夜空ノムコウ"
 artist: "EUROBEAT LOVERS"
-from: ""
+from: "Dancemania HAPPY PARADISE 2"
 bpm: 156
 series:
   - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|72/3||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|148/33||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|272/20||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|74/4||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|135/28||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|277/52||

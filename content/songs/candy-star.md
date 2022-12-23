@@ -2,19 +2,11 @@
 slug: "candy-star"
 name: "CANDY☆"
 artist: "Luv UNLIMITED"
-from: ""
+from: "DDRMAX -DanceDanceRevolution 6thMIX-"
 bpm: 192
 series:
   - "max-jp"
   - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,17 +23,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
-<!-- max-us -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=9}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"} :level{slug="max-us" level=4}|170/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"} :level{slug="max-us" level=5}|236/16||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"} :level{slug="max-us" level=8}|327/29||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"} :level{slug="max-us" level=4}|198/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"} :level{slug="max-us" level=6}|207/27||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"} :level{slug="max-us" level=9}|325/10||

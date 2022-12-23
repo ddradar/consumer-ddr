@@ -2,19 +2,10 @@
 slug: "follow-me"
 name: "FOLLOW ME"
 artist: "LADY BABY"
-from: ""
+from: "Dancemania HAPPY PARADISE 2"
 bpm: 158
 series:
   - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|149/8||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|202/10||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|300/20||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|140/7||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|183/21||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|313/14||

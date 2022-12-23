@@ -2,19 +2,11 @@
 slug: "highs-off-u"
 name: "HIGHS OFF U (Scorccio XY Mix)"
 artist: "4 REEEL"
-from: ""
+from: "Dancemania SUMMERS 2001"
 bpm: 130
 series:
   - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
   - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,18 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
-<!-- ext-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=1}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|49/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=1}|74/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=5}|169/26||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=7}|316/2||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=2}|108/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=5}|189/25||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=8}|323/0||

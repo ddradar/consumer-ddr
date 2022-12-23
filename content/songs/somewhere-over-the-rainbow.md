@@ -2,19 +2,10 @@
 slug: "somewhere-over-the-rainbow"
 name: "SOMEWHERE OVER THE RAINBOW"
 artist: "COSMIC GATE"
-from: ""
+from: "The Best Of World Trance FantasiA"
 bpm: "35-140"
 series:
   - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|123/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|162/4||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|233/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|114/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|179/5||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|236/4||
