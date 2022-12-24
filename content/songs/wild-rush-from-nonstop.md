@@ -2,19 +2,11 @@
 slug: "wild-rush-from-nonstop"
 name: "WILD RUSH (FROM NONSTOP MEGAMIX)"
 artist: "FACTOR-X"
-from: ""
+from: "DanceDanceRevolution Solo 2000 ORIGINAL SOUNDTRACK"
 bpm: 125
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
   - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,9 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|0/0||
-<!-- ext-us -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-us" level=7}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-us" level=8}|0/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="ext-us" level=7}|207/15||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8} :level{slug="ext-us" level=8}|229/18||

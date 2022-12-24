@@ -2,19 +2,10 @@
 slug: "paranoia-respect"
 name: "PARANOiA -Respect-"
 artist: ".3k"
-from: ""
+from: "DanceDanceRevolution Party Collection"
 bpm: 300
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
   - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- party -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=3}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=6}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=9}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level="10+"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=6}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=8}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level="10+"}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=3}|95/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=6}|345/10||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=9}|413/26||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level="10+"}|555/18||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=6}|247/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=8}|396/13||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level="10+"}|524/13||

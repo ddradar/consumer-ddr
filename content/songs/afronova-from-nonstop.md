@@ -2,19 +2,11 @@
 slug: "afronova-from-nonstop"
 name: "AFRONOVA (FROM NONSTOP MEGAMIX)"
 artist: "RE-VENGE"
-from: ""
+from: "DanceDanceRevolution 3rdMIX ORIGINAL SOUNDTRACK"
 bpm: 200
 series:
   - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
   - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,9 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|0/0||
-<!-- ext2 -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext2" level=8}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext2" level=8}|0/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8} :level{slug="ext2" level=8}|355/9||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8} :level{slug="ext2" level=8}|355/5||

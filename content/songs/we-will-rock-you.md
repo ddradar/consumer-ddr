@@ -2,19 +2,11 @@
 slug: "we-will-rock-you"
 name: "WE WILL ROCK YOU"
 artist: "HOUSEBOYZ"
-from: ""
+from: "Dancemania SPORTS"
 bpm: 90
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
   - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,19 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|0/0||
-<!-- party -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1} :level{slug="party" level=1}|58/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3} :level{slug="party" level=3}|98/1||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5} :level{slug="party" level=5}|155/8||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7} :level{slug="party" level=7}|179/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3} :level{slug="party" level=3}|102/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5} :level{slug="party" level=5}|149/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7} :level{slug="party" level=7}|161/9||

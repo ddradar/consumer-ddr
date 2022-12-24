@@ -103,3 +103,4 @@ difficulties:
 |[Y.M.C.A.](/songs/ymca)|VILLAGE PEOPLE|130|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="2,6,7" difficulties="1,2,3"}|
 |[You're Not Here](/songs/you-re-not-here)|Heather|70-138|:charts{:slug="slug" levels="1,4,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[Your Rain (RAGE MIX)](/songs/your-rain)|Akira Yamaoka feat. Mary Elizabeth McGlynn|84|:charts{:slug="slug" levels="1,3,4,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|
+|[NEVER ENDING STORY (Power Club Vocal Mix)](/songs/never-ending-story)|DJ-AC-DC|140|:charts{:slug="slug" levels="1,4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,7,8" difficulties="1,2,3"}|
