@@ -2,19 +2,12 @@
 slug: "secret-rendez-vous"
 name: "Secret Rendez-vous"
 artist: "DIVAS"
-from: ""
+from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 98
 series:
-  - "max-jp"
   - "max-us"
   - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,25 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-us -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|0/0||
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|71/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2} :level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|94/1||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5} :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}|146/3||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7} :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|237/12||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2} :level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|101/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5} :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}|148/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7} :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|256/8||

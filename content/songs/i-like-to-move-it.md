@@ -2,19 +2,10 @@
 slug: "i-like-to-move-it"
 name: "I Like To Move It"
 artist: "Reel 2 Real"
-from: ""
+from: "I Like To Move It"
 bpm: 123
 series:
-  - "max-jp"
   - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max-us -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=4}|105/23||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=6}|163/26||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|214/41||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=3}|124/4||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5}|171/7||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7}|245/12||
