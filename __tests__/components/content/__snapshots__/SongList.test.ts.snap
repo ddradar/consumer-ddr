@@ -354,7 +354,6 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="Name"
-            scoped=""
           >
             <a>
               butterfly
@@ -363,7 +362,6 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="Artist"
-            scoped=""
           >
             <span>
               smile. dk
@@ -372,14 +370,12 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="BPM"
-            scoped=""
           >
             135
           </td>
           <td
             class=""
             data-label="SINGLE"
-            scoped=""
           >
             <div
               class="tags has-addons"
@@ -415,7 +411,6 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="DOUBLE"
-            scoped=""
           >
             <div
               class="tags has-addons"
@@ -439,7 +434,6 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="COUPLE"
-            scoped=""
           >
             <div
               class="tags has-addons"
@@ -491,7 +485,6 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="Name"
-            scoped=""
           >
             <a>
               PARANOiA
@@ -500,7 +493,6 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="Artist"
-            scoped=""
           >
             <span>
               180
@@ -509,14 +501,12 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="BPM"
-            scoped=""
           >
             180
           </td>
           <td
             class=""
             data-label="SINGLE"
-            scoped=""
           >
             <div
               class="tags has-addons"
@@ -546,7 +536,6 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="DOUBLE"
-            scoped=""
           >
             <div
               class="tags has-addons"
@@ -570,7 +559,6 @@ exports[`components/content/SongList.vue > snapshot test > renders song info 1`]
           <td
             class=""
             data-label="COUPLE"
-            scoped=""
           >
             <div
               class="tags has-addons"

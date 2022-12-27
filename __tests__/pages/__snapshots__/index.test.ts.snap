@@ -127,7 +127,6 @@ exports[`pages/index.vue > renders correctly 1`] = `
             <td
               class=""
               data-label="Name"
-              scoped=""
             >
               <a
                 class="is-size-6-mobile"
@@ -138,14 +137,12 @@ exports[`pages/index.vue > renders correctly 1`] = `
             <td
               class=""
               data-label="Platform"
-              scoped=""
             >
               Play Station
             </td>
             <td
               class=""
               data-label="Launched"
-              scoped=""
             >
               1999-04-10
             </td>
@@ -168,7 +165,6 @@ exports[`pages/index.vue > renders correctly 1`] = `
             <td
               class=""
               data-label="Name"
-              scoped=""
             >
               <a
                 class="is-size-6-mobile"
@@ -179,14 +175,12 @@ exports[`pages/index.vue > renders correctly 1`] = `
             <td
               class=""
               data-label="Platform"
-              scoped=""
             >
               Play Station
             </td>
             <td
               class=""
               data-label="Launched"
-              scoped=""
             >
               1999-08-26
             </td>
