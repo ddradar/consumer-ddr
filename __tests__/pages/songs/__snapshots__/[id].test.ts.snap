@@ -150,21 +150,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               SINGLE
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               BASIC
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -280,21 +277,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               SINGLE
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               DIFFICULT
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -410,21 +404,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               SINGLE
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               EXPERT
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -540,21 +531,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               DOUBLE
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               BASIC
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -670,21 +658,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               DOUBLE
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               DIFFICULT
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -800,21 +785,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               COUPLE
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               BASIC
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -886,21 +868,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               COUPLE
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               DIFFICULT
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -972,21 +951,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               COUPLE
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               EXPERT
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -1058,21 +1034,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               UNISON
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               BASIC
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -1144,21 +1117,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               UNISON
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               DIFFICULT
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
@@ -1230,21 +1200,18 @@ exports[`pages/songs/[id].vue > snapshot test > renders correctly 1`] = `
             <td
               class=""
               data-label="PlayStyle"
-              scoped=""
             >
               UNISON
             </td>
             <td
               class=""
               data-label="Difficulty"
-              scoped=""
             >
               EXPERT
             </td>
             <td
               class=""
               data-label="Level"
-              scoped=""
             >
               <div
                 class="field is-grouped is-grouped-multiline"
