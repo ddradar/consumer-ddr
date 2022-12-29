@@ -2,19 +2,11 @@
 slug: "vanity-angel"
 name: "VANITY ANGEL"
 artist: "FIXX"
-from: ""
+from: "Dancing Stage EuroMIX2"
 bpm: 140
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
   - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,19 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=8}|0/0||
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1} :level{slug="ext-jp" level=1}|79/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3} :level{slug="ext-jp" level=3}|144/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}|236/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=8} :level{slug="ext-jp" level=8}|325/17||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3} :level{slug="ext-jp" level=3}|134/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5} :level{slug="ext-jp" level=5}|222/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=8} :level{slug="ext-jp" level=8}|284/0||

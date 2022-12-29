@@ -2,19 +2,10 @@
 slug: "heaven"
 name: "Heaven"
 artist: "DJ Sammy & Yanou featuring DO"
-from: ""
+from: "Heaven"
 bpm: 138
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|112/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4}|139/25||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|232/45||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|260/49||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|128/10||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|206/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|253/9||

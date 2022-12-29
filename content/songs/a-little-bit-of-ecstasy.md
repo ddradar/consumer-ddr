@@ -2,19 +2,10 @@
 slug: "a-little-bit-of-ecstasy"
 name: "A Little Bit Of Ecstasy"
 artist: "Jocelyn Enriquez"
-from: ""
+from: "Jocelyn"
 bpm: "56-135"
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|91/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4}|139/30||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|188/35||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|281/3||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|91/15||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|162/14||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|209/17||

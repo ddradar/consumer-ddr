@@ -2,19 +2,11 @@
 slug: "tomorrow-perfume"
 name: "Tomorrow Perfume"
 artist: "dj TAKA"
-from: ""
+from: "beatmania IIDX 7th style"
 bpm: 144
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
   - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,19 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1} :level{slug="ext-jp" level=1}|92/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3} :level{slug="ext-jp" level=3}|126/15||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5} :level{slug="ext-jp" level=5}|201/18||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7} :level{slug="ext-jp" level=7}|258/33||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3} :level{slug="ext-jp" level=3}|118/12||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}|195/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7} :level{slug="ext-jp" level=7}|228/12||

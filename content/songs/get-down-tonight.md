@@ -2,19 +2,10 @@
 slug: "get-down-tonight"
 name: "Get Down Tonight"
 artist: "KC & THE SUNSHINE BAND"
-from: ""
+from: "KC and the Sunshine Band"
 bpm: "106-120"
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=6}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=6}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|86/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|101/12||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|176/22||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=6}|204/28||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|93/4||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|144/4||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=6}|184/8||

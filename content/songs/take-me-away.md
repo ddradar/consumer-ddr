@@ -2,19 +2,10 @@
 slug: "take-me-away"
 name: "Take Me Away (into the night) (radio vocal)"
 artist: "4 STRINGS"
-from: ""
+from: "Believe"
 bpm: 138
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|105/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4}|149/27||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|210/37||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|250/35||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|97/6||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|152/11||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|219/25||
