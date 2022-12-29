@@ -2,19 +2,10 @@
 slug: "get-busy"
 name: "Get Busy"
 artist: "Sean Paul"
-from: ""
+from: "Dutty Rock"
 bpm: 100
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
   - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext2 -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|89/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=4}|144/40||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|189/42||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=8}|324/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=4}|144/40||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|189/42||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=8}|324/2||

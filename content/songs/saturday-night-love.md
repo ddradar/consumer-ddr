@@ -2,17 +2,9 @@
 slug: "saturday-night-love"
 name: "Saturday Night Love"
 artist: "Sota feat. Brenda V."
-from: ""
+from: "DanceDanceRevolution EXTREME2"
 bpm: 128
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
   - "ext2"
   - "strike"
 ---
@@ -31,19 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext2 -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=6}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=6}|0/0||
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=6}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1} :level{slug="strike" level=1}|81/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3} :level{slug="strike" level=3}|111/22||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5} :level{slug="strike" level=5}|181/38||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=6} :level{slug="strike" level=6}|214/42||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3} :level{slug="strike" level=3}|117/5||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5} :level{slug="strike" level=5}|179/7||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=6} :level{slug="strike" level=6}|220/7||

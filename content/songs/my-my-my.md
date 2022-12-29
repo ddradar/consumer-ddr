@@ -2,19 +2,10 @@
 slug: "my-my-my"
 name: "My My My"
 artist: "Armand Van Helden"
-from: ""
+from: "Nympho"
 bpm: 128
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
   - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext2 -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|74/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|113/11||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|213/8||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|308/3||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|110/11||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=6}|215/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|275/21||

@@ -2,17 +2,9 @@
 slug: "tomorrow"
 name: "TOMORROW"
 artist: "nc ft. Dreamscanner"
-from: ""
+from: "DanceDanceRevolution EXTREME2"
 bpm: 140
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
   - "ext2"
   - "strike"
 ---
@@ -31,19 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext2 -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|0/0||
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1} :level{slug="strike" level=1}|91/1||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3} :level{slug="strike" level=3}|124/16||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5} :level{slug="strike" level=5}|212/3||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7} :level{slug="strike" level=7}|290/10||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=4} :level{slug="strike" level=4}|140/15||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5} :level{slug="strike" level=5}|214/11||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7} :level{slug="strike" level=7}|285/11||
