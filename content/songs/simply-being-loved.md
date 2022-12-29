@@ -1,6 +1,6 @@
 ---
 slug: "simply-being-loved"
-name: "Simply Being Loved "Somnambulist""
+name: "Simply Being Loved \"Somnambulist\""
 artist: "BT"
 from: ""
 bpm: 135

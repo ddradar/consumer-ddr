@@ -2,19 +2,11 @@
 slug: "super-star-from-nonstop"
 name: "SUPER STAR (FROM NONSTOP MEGAMIX)"
 artist: "D.J. RICH feat. Tail Bros."
-from: ""
+from: "DanceDanceRevolution Solo 2000 ORIGINAL SOUNDTRACK"
 bpm: 128
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,9 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7}|0/0||
-<!-- max2-us -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-us" level=7}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-us" level=7}|0/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|282/8||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|281/8||

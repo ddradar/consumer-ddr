@@ -32,7 +32,7 @@ difficulties:
 |[ever snow](/songs/ever-snow)|YOMA KOMATSU|145|:charts{:slug="slug" levels="2,5,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,6,8" difficulties="1,2,3"}|
 |[FANTASY](/songs/fantasy-lockout)|LOCKOUT|140|:charts{:slug="slug" levels="2,5,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|
 |[i feel...](/songs/i-feel)|AKIRA YAMAOKA|141|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,5,9" difficulties="1,2,3"}|
-|[LITTLE BOY (Boy On Boy Mix)](/songs/little-boy)|CAPTAIN JACK|150|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|
+|[LITTLE BOY (BOY ON BOY MIX)](/songs/little-boy)|CAPTAIN JACK|150|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|
 |[LIVING IN AMERICA](/songs/living-in-america)|ROSE & JOHN|169|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|
 |[LONG TRAIN RUNNIN'](/songs/long-train-runnin-bus-stop)|BUS STOP|126|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[LOOK AT US (Daddy DJ Remix)](/songs/look-at-us)|SARINA PARIS|135|:charts{:slug="slug" levels="2,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="2,5,7" difficulties="1,2,3"}|

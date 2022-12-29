@@ -2,19 +2,11 @@
 slug: "break-down"
 name: "BRE∀K DOWN!"
 artist: "Be For U"
-from: ""
+from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 190
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,18 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=9}|0/0||
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=2}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=2}|103/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=4} :level{slug="max2-us" level=4}|144/7||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6} :level{slug="max2-us" level=6}|279/14||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=9} :level{slug="max2-us" level=9}|403/5||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=4} :level{slug="max2-us" level=4}|152/9||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6} :level{slug="max2-us" level=6}|276/13||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=9} :level{slug="max2-us" level=9}|418/1||

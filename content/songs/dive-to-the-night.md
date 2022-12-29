@@ -2,19 +2,10 @@
 slug: "dive-to-the-night"
 name: "DIVE TO THE NIGHT"
 artist: "小坂りゆ"
-from: ""
+from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 155
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|144/4||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|253/4||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|341/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|139/3||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|258/3||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|341/2||

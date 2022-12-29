@@ -2,19 +2,11 @@
 slug: "drifting-away"
 name: "DRIFTING AWAY"
 artist: "LANGE feat. SKYE"
-from: ""
+from: "The Best of World Trance FantasiA 2"
 bpm: 136
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,18 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|0/0||
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|90/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|114/4||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}|227/8||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8} :level{slug="max2-us" level=8}|356/7||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|124/7||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}|216/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8} :level{slug="max2-us" level=8}|338/13||

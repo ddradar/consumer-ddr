@@ -129,7 +129,7 @@ difficulties:
 |[桜](/songs/sakura)|RevenG|14-300|:charts{:slug="slug" levels="3,5,8,10,9" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="6,8,10,9" difficulties="1,2,3,4"}|
 |[Scorching Moon](/songs/scorching-moon)|Shawn the Horny Master|125|:charts{:slug="slug" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
 |[SPEED OVER BEETHOVEN](/songs/speed-over-beethoven)|ROSE|169|:charts{:slug="slug" levels="1,3,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,9" difficulties="1,2,3"}|
-|[STAY (Organic house Version)](/songs/stay)|emi|125|:charts{:slug="slug" levels="1,3,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[STAY (Organic house Version)](/songs/stay-organic-house)|emi|125|:charts{:slug="slug" levels="1,3,6,7" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[stoic (EXTREME version)](/songs/stoic)|TaQ|155|:charts{:slug="slug" levels="1,4,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,7,9" difficulties="1,2,3"}|
 |[sync (EXTREME version)](/songs/sync)|OutPhase|167|:charts{:slug="slug" levels="1,4,7,8,9" difficulties="0,1,2,3,4"}|:charts{:slug="slug" levels="3,7,8,9" difficulties="1,2,3,4"}|
 |[TEARS](/songs/tears)|NAOKI underground feat.EK|143|:charts{:slug="slug" levels="1,5,7,9" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,7,9" difficulties="1,2,3"}|

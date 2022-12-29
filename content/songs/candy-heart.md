@@ -2,19 +2,12 @@
 slug: "candy-heart"
 name: "CANDY♥"
 artist: "小坂りゆ"
-from: ""
+from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 180
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
   - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,26 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
-<!-- festival -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=2}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-<!-- ext2 -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=2}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=2} :level{slug="ext2" level=2}|139/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3} :level{slug="festival" level=3} :level{slug="ext2" level=3}|126/4||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5} :level{slug="festival" level=5} :level{slug="ext2" level=5}|230/16||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7} :level{slug="festival" level=7} :level{slug="ext2" level=7}|317/20||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3} :level{slug="festival" level=3} :level{slug="ext2" level=3}|127/12||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5} :level{slug="festival" level=5} :level{slug="ext2" level=5}|211/27||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7} :level{slug="festival" level=7} :level{slug="ext2" level=7}|287/8||

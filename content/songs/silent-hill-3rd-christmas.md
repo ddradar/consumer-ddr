@@ -2,19 +2,11 @@
 slug: "silent-hill-3rd-christmas"
 name: "Silent Hill (3rd christmas mix)"
 artist: "THOMAS HOWARD"
-from: ""
+from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 125
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,9 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7}|0/0||
-<!-- max2-us -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-us" level=7}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-us" level=7}|0/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|232/50||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|234/48||

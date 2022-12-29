@@ -2,19 +2,10 @@
 slug: "still-in-my-heart-momo"
 name: "STILL IN MY HEART (MOMO MIX)"
 artist: "NAOKI"
-from: ""
+from: "Dancemania SPEED 8"
 bpm: "85-170"
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,6 +22,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|0/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|357/2||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|357/2||

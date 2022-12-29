@@ -2,19 +2,11 @@
 slug: "look-to-the-sky-trance"
 name: "Look To The Sky (Trance Mix)"
 artist: "System S.F. feat. Anna"
-from: ""
+from: "DDRMAX2 -DanceDanceRevolution 7thMIX- CS"
 bpm: 140
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
   - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,9 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7}|0/0||
-<!-- ext2 -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext2" level=7}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext2" level=7}|0/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="ext2" level=7}|242/12||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="ext2" level=7}|240/12||

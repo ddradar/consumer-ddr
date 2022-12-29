@@ -2,19 +2,11 @@
 slug: "the-whistle-song"
 name: "THE WHISTLE SONG (Blow My Whistle Bitch)"
 artist: "DJ ALIGATOR PROJECT"
-from: ""
+from: "Dancemania SUPER TRANCE BEST"
 bpm: 140
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,18 +23,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=4}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=4}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
-<!-- max2-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=4}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=4}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|94/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3} :level{slug="max2-us" level=3}|122/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=4} :level{slug="max2-us" level=4}|199/3||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|308/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3} :level{slug="max2-us" level=3}|109/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=4} :level{slug="max2-us" level=4}|192/3||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|297/1||
+
+## メモ
+
+- [DDRMAX2 Dance Dance Revolution](/series/max2-us)では、「THE WHISTLE SONG (Blow My Whistle Baby)」という楽曲名で収録されている。

@@ -2,19 +2,10 @@
 slug: "so-fabulous-so-fierce"
 name: "SO FABULOUS SO FIERCE (FREAK OUT)"
 artist: "THUNDERPUSS feat. JOCELYN ENRIQUEZ"
-from: ""
+from: "Dancemania 20"
 bpm: 128
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|90/1||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|175/2||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|256/3||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|125/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|200/7||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|249/13||

@@ -2,19 +2,10 @@
 slug: "waka-laka"
 name: "WAKA LAKA"
 artist: "JENNY ROM VS ZIPPERS"
-from: ""
+from: "Dancemania SPEED 8"
 bpm: 170
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|154/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|243/19||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|361/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|136/9||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|234/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|335/8||

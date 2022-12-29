@@ -2,19 +2,11 @@
 slug: "kind-lady-interlude"
 name: "Kind Lady (interlude)"
 artist: "OKUYATOS"
-from: ""
+from: "DDRMAX2 -DanceDanceRevolution 7thMIX- CS"
 bpm: 135
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
   - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,9 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|0/0||
-<!-- max2-us -->
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-us" level=8}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-us" level=8}|0/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8} :level{slug="max2-us" level=8}|247/29||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8} :level{slug="max2-us" level=8}|248/29||

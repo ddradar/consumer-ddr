@@ -2,19 +2,10 @@
 slug: "maximum-overdrive"
 name: "MAXIMUM OVERDRIVE (KC Club Mix)"
 artist: "2 UNLIMITED"
-from: ""
+from: "Dancemania 21"
 bpm: 140
 series:
-  - "max-jp"
-  - "max-us"
   - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- max2-jp -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=4}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=1}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2}|63/3||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=4}|192/10||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|251/15||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=1}|80/10||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|191/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|245/7||
