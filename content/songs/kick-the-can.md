@@ -6,6 +6,7 @@ from: "ZIPmania III"
 bpm: 144
 series:
   - "4th"
+  - "ext-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

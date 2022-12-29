@@ -1,3 +1,27 @@
+---
+slug: "strike"
+color: "dodgerblue"
+platform: "Play Station 2"
+region: "JP"
+launched: "2006-02-16"
+difficulties:
+  0: { name: "BEGINNER", class: "is-beginner" }
+  1: { name: "LIGHT", class: "is-basic" }
+  2: { name: "STANDARD", class: "is-difficult" }
+  3: { name: "HEAVY", class: "is-expert" }
+  4: { name: "CHALLENGE", class: "is-challenge" }
+---
+
+# DanceDanceRevolution STRIKE
+
+|発売日|機種|リージョン|
+|------|----|---------|
+|{{ $doc.launched }}|{{ $doc.platform }}|{{ $doc.region }}|
+
+## 収録曲リスト
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
 |[19, November](/songs/19-november)|good-cool|125|:charts{:slug="slug" levels="1,3,5,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
 |[.59 remix](/songs/59-remix)|Jesper Kyd|130|:charts{:slug="slug" levels="1,4,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|
 |[As The Rush Comes (Gabriel & Dresden Sweeping Strings Radio Edit)](/songs/as-the-rush-comes)|Motorcycle|136|:charts{:slug="slug" levels="1,5,6,8" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="5,6,7" difficulties="1,2,3"}|

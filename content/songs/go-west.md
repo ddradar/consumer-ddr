@@ -2,19 +2,10 @@
 slug: "go-west"
 name: "Go West"
 artist: "PET SHOP BOYS"
-from: ""
+from: "Very"
 bpm: 120
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
   - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=6}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|82/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=4}|129/8||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|177/6||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=6}|211/13||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|102/16||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|162/14||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|207/36||

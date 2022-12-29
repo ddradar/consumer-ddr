@@ -2,19 +2,10 @@
 slug: "diving"
 name: "Diving"
 artist: "4 Strings"
-from: ""
+from: "Diving"
 bpm: 140
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
   - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=6}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=6}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|92/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|113/13||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|168/34||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=6}|204/43||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=2}|89/11||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|137/29||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=6}|169/20||

@@ -2,19 +2,10 @@
 slug: "simply-being-loved"
 name: "Simply Being Loved \"Somnambulist\""
 artist: "BT"
-from: ""
+from: "Somnambulist (Simply Being Loved)"
 bpm: 135
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
   - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|97/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=4}|126/25||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=6}|212/39||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|270/59||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|107/17||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=6}|188/63||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|220/57||

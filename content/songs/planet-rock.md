@@ -2,19 +2,10 @@
 slug: "planet-rock"
 name: "Planet Rock (Swordfish Radio Edit)"
 artist: "Paul Oakenfold vs. Afrika Bambaata and the Soul Sonic Force"
-from: ""
+from: "Swordfish: The Album"
 bpm: 126
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
   - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|94/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|125/15||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|191/29||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|247/30||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=2}|98/16||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|162/22||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|222/29||
