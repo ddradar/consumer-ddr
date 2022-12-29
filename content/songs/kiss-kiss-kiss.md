@@ -2,19 +2,10 @@
 slug: "kiss-kiss-kiss"
 name: "KISS KISS KISS"
 artist: "NAOKI feat. SHANTI"
-from: ""
+from: "Dance Maniax 2ndMIX"
 bpm: 150
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|107/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|199/1||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|243/7||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|332/31||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|167/14||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|226/19||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|332/19||

@@ -2,19 +2,10 @@
 slug: "i-do-i-do-i-do"
 name: "I DO I DO I DO"
 artist: "CREAMY"
-from: ""
+from: "Dancemania EX 1"
 bpm: 134
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|73/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=2}|89/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|193/9||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|283/3||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|129/5||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|195/5||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|266/4||

@@ -2,19 +2,10 @@
 slug: "across-the-nightmare"
 name: "Across the nightmare"
 artist: "Jimmy Weckl"
-from: ""
+from: "drummania / GUITARFREAKS 2ndMIX"
 bpm: 300
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,13 +22,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=3}|171/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5}|205/7||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|274/13||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|305/12||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|372/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5}|205/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|274/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|305/14||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|365/0||

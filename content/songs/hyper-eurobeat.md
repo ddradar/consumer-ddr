@@ -2,19 +2,10 @@
 slug: "hyper-eurobeat"
 name: "HYPER EUROBEAT"
 artist: "NAOKI feat. DDR ALL STARS"
-from: ""
+from: "DanceDanceRevolution EXTREME"
 bpm: 152
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=4}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|95/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|174/10||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=4}|223/16||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|293/16||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|182/12||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|239/22||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|277/18||

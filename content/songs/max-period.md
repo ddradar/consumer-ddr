@@ -2,19 +2,10 @@
 slug: "max-period"
 name: "MAX. (period)"
 artist: "2MB"
-from: ""
-bpm: "???"
+from: "DanceDanceRevolution EXTREME CS"
+bpm: "150-600"
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,13 +22,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=9}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=9}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level="10+"}|0/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level="10+"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=8}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=9}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level="10+"}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=3}|94/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=9}|343/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=9}|394/3||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level="10+"}|573/3||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level="10+"}|534/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=8}|256/3||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=9}|347/3||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level="10+"}|510/3||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|374/3||

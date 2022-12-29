@@ -2,19 +2,10 @@
 slug: "stoic"
 name: "stoic (EXTREME version)"
 artist: "TaQ"
-from: ""
+from: "DanceDanceRevolution EXTREME"
 bpm: 155
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|102/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|134/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7}|270/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|342/3||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|131/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7}|265/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|333/0||

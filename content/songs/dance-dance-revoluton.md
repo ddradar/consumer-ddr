@@ -2,19 +2,10 @@
 slug: "dance-dance-revoluton"
 name: "Dance Dance Revoluton"
 artist: "DDR ALL STARS"
-from: ""
-bpm: "???"
+from: "DanceDanceRevolution EXTREME"
+bpm: "150"
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,13 +22,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|0/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=3}|127/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|170/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7}|245/4||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|352/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|369/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|192/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|234/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|345/0||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=9}|344/0||

@@ -2,19 +2,11 @@
 slug: "trip-machine-survivor"
 name: "TRIP MACHINE survivor"
 artist: "DE-SIRE"
-from: ""
+from: "DanceDanceRevolution EXTREME"
 bpm: 170
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
   - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,19 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|0/0||
-<!-- ext-us -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=5}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=8}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=5}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=8}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1} :level{slug="ext-us" level=1}|121/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5} :level{slug="ext-us" level=5}|184/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8} :level{slug="ext-us" level=8}|289/2||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9} :level{slug="ext-us" level=9}|347/2||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5} :level{slug="ext-us" level=5}|174/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8} :level{slug="ext-us" level=8}|296/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9} :level{slug="ext-us" level=9}|347/1||

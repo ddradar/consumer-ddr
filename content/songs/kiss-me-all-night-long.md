@@ -2,19 +2,10 @@
 slug: "kiss-me-all-night-long"
 name: "KISS ME ALL NIGHT LONG"
 artist: "NAOKI J-STYLE feat.MIU"
-from: ""
+from: "Dance Maniax 2ndMIX"
 bpm: 155
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|106/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|116/4||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|193/13||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|316/10||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|130/6||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|197/13||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|291/15||

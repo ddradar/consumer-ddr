@@ -2,19 +2,10 @@
 slug: "we-are-the-champions"
 name: "WE ARE THE CHAMPIONS (Factory Team Remix)"
 artist: "LIVE 2 LOVE"
-from: ""
+from: "Dancemania SPORTS"
 bpm: 136
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
   - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|77/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|110/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|170/15||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|225/5||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|98/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|150/7||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|225/6||

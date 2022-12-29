@@ -31,23 +31,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=3}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level="10+"}|0/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level="10+"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=6}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level="10+"}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level="10+"}|0/0||
-<!-- ext2 -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=3}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=5}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=8}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level="10+"}|0/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext2" level="10+"}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=6}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=8}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level="10+"}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext2" level="10+"}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=3} :level{slug="ext2" level=3}|121/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5} :level{slug="ext2" level=5}|258/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8} :level{slug="ext2" level=8}|377/2||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level="10+"} :level{slug="ext2" level="10+"}|567/5||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level="10+"} :level{slug="ext2" level="10+"}|613/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=6} :level{slug="ext2" level=6}|258/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8} :level{slug="ext2" level=8}|375/3||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level="10+"} :level{slug="ext2" level="10+"}|533/3||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level="10+"} :level{slug="ext2" level="10+"}|613/4||
