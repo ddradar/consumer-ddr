@@ -2,19 +2,10 @@
 slug: "gakuen-tengoku"
 name: "学園天国"
 artist: "(J-POP)"
-from: ""
+from: "ダイエットチャンネル"
 bpm: 175
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|117/9||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=5}|197/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|218/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|218/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|167/6||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=7}|213/9||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|215/0||

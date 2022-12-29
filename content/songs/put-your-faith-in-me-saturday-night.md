@@ -2,19 +2,10 @@
 slug: "put-your-faith-in-me-saturday-night"
 name: "PUT YOUR FAITH IN ME (SATURDAY NIGHT MIX)"
 artist: "UZI-LAY"
-from: ""
+from: "Dance Maniax"
 bpm: 120
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=5}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=6}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|132/6||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|210/11||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|252/12||
+|DOUBLE|[BASIC (Old)]{.tag.is-basic}|:level{slug="festival" level=3}|111/13||
+|DOUBLE|[DIFFICULT (Old)]{.tag.is-difficult}|:level{slug="festival" level=5}|141/15||
+|DOUBLE|[EXPERT (Old)]{.tag.is-expert}|:level{slug="festival" level=6}|175/12||

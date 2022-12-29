@@ -2,19 +2,10 @@
 slug: "odoru-ponpokorin-festival"
 name: "おどるポンポコリン"
 artist: "(アニメ)"
-from: ""
+from: "ダイエットチャンネル"
 bpm: 140
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|84/7||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|89/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|186/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|233/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|154/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|186/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|249/6||

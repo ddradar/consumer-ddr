@@ -2,19 +2,10 @@
 slug: "there-4-you"
 name: "There 4 You"
 artist: "Thuggie D."
-from: ""
+from: "DanceDanceRevolution ULTRAMIX"
 bpm: 113
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|122/19||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|166/26||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|245/28||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|123/21||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|166/26||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|245/28||

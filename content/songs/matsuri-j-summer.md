@@ -2,19 +2,10 @@
 slug: "matsuri-j-summer"
 name: "MATSURI (J-SUMMER MIX)"
 artist: "RE-VENGE"
-from: ""
+from: "Dance Maniax 2ndMIX"
 bpm: 180
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=9}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=4}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=8}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|213/24||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|291/16||
+|SINGLE|[EXPERT (Old)]{.tag.is-expert}|:level{slug="festival" level=9}|316/20||
+|DOUBLE|[BASIC (Old)]{.tag.is-basic}|:level{slug="festival" level=4}|211/25||
+|DOUBLE|[DIFFICULT (Old)]{.tag.is-difficult}|:level{slug="festival" level=6}|296/17||
+|DOUBLE|[EXPERT (Old)]{.tag.is-expert}|:level{slug="festival" level=8}|340/41||

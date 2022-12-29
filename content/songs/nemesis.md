@@ -2,19 +2,10 @@
 slug: "nemesis"
 name: "NEMESIS"
 artist: "D.J. SETUP"
-from: ""
+from: "beatmania IIDX 6th style"
 bpm: 164
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|205/91||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|309/48||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|399/45||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|205/91||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|309/48||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|335/75||

@@ -2,19 +2,10 @@
 slug: "diamonds"
 name: "Diamonds"
 artist: "(J-POP)"
-from: ""
+from: "ダイエットチャンネル"
 bpm: 111
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|104/1||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|136/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|197/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|271/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|148/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|210/13||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|278/7||

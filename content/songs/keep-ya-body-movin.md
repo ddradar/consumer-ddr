@@ -2,19 +2,10 @@
 slug: "keep-ya-body-movin"
 name: "Keep Ya Body Movin'"
 artist: "Thuggie D."
-from: ""
+from: "DanceDanceRevolution ULTRAMIX"
 bpm: 95
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=3}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=5}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=4}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|94/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=3}|134/6||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=5}|191/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|87/5||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=4}|134/6||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|188/10||

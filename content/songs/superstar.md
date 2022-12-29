@@ -2,19 +2,10 @@
 slug: "superstar"
 name: "Superstar"
 artist: "Jamelia"
-from: ""
+from: "Thank You"
 bpm: 110
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|81/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|125/3||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|183/21||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|282/22||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|128/11||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|192/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|236/9||

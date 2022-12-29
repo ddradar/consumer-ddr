@@ -2,19 +2,10 @@
 slug: "meaning-of-life"
 name: "MEANING OF LIFE"
 artist: "K. Wit feat. GARY"
-from: ""
+from: "Dance Maniax"
 bpm: 112
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=4}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|146/29||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|203/15||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|243/15||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|149/21||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=4}|213/23||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|291/18||

@@ -2,19 +2,10 @@
 slug: "cuty-honey"
 name: "キューティーハニー"
 artist: "(アニメ)"
-from: ""
+from: "pop'n music アニメロ"
 bpm: 156
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|88/1||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|130/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|190/47||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|289/65||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|114/12||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|158/16||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|211/14||

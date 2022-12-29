@@ -2,19 +2,10 @@
 slug: "ballad-for-you"
 name: "BALLAD FOR YOU ~想いの雨~"
 artist: "NM feat. Thomas Howard"
-from: ""
+from: "beatmania IIDX 6th style"
 bpm: 65
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|104/10||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|150/27||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|212/26||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|102/11||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|155/7||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|208/6||

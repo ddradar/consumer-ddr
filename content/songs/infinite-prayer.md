@@ -2,19 +2,11 @@
 slug: "infinite-prayer"
 name: "INFINITE PRAYER"
 artist: "L.E.D. LIGHT feat. Goro"
-from: ""
+from: "beatmania APPEND GOTTAMIX2 ~Going Global~"
 bpm: 137
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
   - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,19 +23,16 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|SINGLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-<!-- ext2 -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|0/0||
-|SINGLE|[undefined]{.tag.is-undefined}|:level{slug="ext2" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|133/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2} :level{slug="ext2" level=2}|146/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6} :level{slug="ext2" level=6}|201/36||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|309/20||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="festival" level=9} :level{slug="ext2" level=9}|450/18||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=2}　:level{slug="ext2" level=2}|0/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6}　:level{slug="ext2" level=6}|0/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}　:level{slug="ext2" level=7}|0/0||
+
+## メモ
+
+- [DDR FESTIVAL](/series/festival)の[SINGLE/EXPERT]{.tag.is-expert}譜面は後のシリーズで登場した[SINGLE/CHALLENGE]{.tag.is-challenge}と同一。
+  - 譜面一覧では[SINGLE/CHALLENGE]{.tag.is-challenge}に掲載。

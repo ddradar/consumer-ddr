@@ -2,19 +2,10 @@
 slug: "analyze"
 name: "ANALYZE"
 artist: "B. BANDJ"
-from: ""
+from: "beatmania CORE REMIX"
 bpm: 93
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|90/26||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|140/43||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|232/2||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|88/28||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|139/41||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|184/34||

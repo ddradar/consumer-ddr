@@ -2,19 +2,10 @@
 slug: "something-wonderful"
 name: "SOMETHING WONDERFUL"
 artist: "L.E.D."
-from: ""
+from: "beatmania IIDX 5th style -new songs collection-"
 bpm: 150
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|195/86||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|276/98||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|422/44||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|195/86||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|276/82||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|354/137||

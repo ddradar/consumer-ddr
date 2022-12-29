@@ -2,19 +2,10 @@
 slug: "baby-baby-gimme-your-love-2002"
 name: "BABY BABY GIMME YOUR LOVE 2002"
 artist: "DIVAS"
-from: ""
+from: "beatmania 7thMIX -keepin' evolution-"
 bpm: 96
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
-  - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,10 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|110/55||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|176/72||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|254/44||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|110/55||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|176/72||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|209/102||

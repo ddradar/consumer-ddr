@@ -2,19 +2,11 @@
 slug: "insertion-machine-gun-kelly"
 name: "INSERTiON (Machine Gun Kelly Mix)"
 artist: "Thuggie D."
-from: ""
+from: "DanceDanceRevolution ULTRAMIX"
 bpm: "69-139"
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
   - "festival"
   - "ext2"
-  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,18 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=3}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=6}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="festival" level=7}|0/0||
-<!-- ext2 -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="ext2" level=3}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="ext2" level=6}|0/0||
-|DOUBLE|[undefined]{.tag.is-undefined}|:level{slug="ext2" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|90/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3} :level{slug="ext2" level=3}|122/10||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5} :level{slug="ext2" level=5}|206/14||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7} :level{slug="ext2" level=7}|244/19||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3} :level{slug="ext2" level=3}|130/17||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6} :level{slug="ext2" level=6}|201/17||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7} :level{slug="ext2" level=7}|239/17||
