@@ -206,7 +206,6 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="Name"
-              scoped=""
             >
               <a
                 class="is-size-6-mobile"
@@ -217,7 +216,6 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="Artist"
-              scoped=""
             >
               <span
                 class="is-size-6-mobile"
@@ -228,14 +226,12 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="BPM"
-              scoped=""
             >
               130
             </td>
             <td
               class=""
               data-label="Series"
-              scoped=""
             >
               <div
                 class="buttons"
@@ -269,7 +265,6 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="Name"
-              scoped=""
             >
               <a
                 class="is-size-6-mobile"
@@ -280,7 +275,6 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="Artist"
-              scoped=""
             >
               <span
                 class="is-size-6-mobile"
@@ -291,14 +285,12 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="BPM"
-              scoped=""
             >
               180
             </td>
             <td
               class=""
               data-label="Series"
-              scoped=""
             >
               <div
                 class="buttons"
@@ -349,7 +341,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
       <div>
         <div>
           <nav
-            class="pagination"
+            class="pagination is-right"
           >
             <a
               aria-current="false"

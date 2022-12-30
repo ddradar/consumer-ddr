@@ -14,9 +14,9 @@ jobs:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@v3.2.0
       - name: Setup Node.js ${{ env.NODE_VERSION }}
-        uses: actions/setup-node@v3.4.1
+        uses: actions/setup-node@v3.5.1
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: yarn
@@ -31,9 +31,9 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@v3.2.0
       - name: Setup Node.js ${{ env.NODE_VERSION }}
-        uses: actions/setup-node@v3.4.1
+        uses: actions/setup-node@v3.5.1
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: yarn
@@ -46,7 +46,7 @@ jobs:
 
       - name: Upload Production Artifact
         if: github.event_name == 'push'
-        uses: actions/upload-pages-artifact@v1.0.4
+        uses: actions/upload-pages-artifact@v1.0.7
         with:
           path: dist
 
@@ -54,9 +54,9 @@ jobs:
     name: Test
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@v3.2.0
       - name: Setup Node.js ${{ env.NODE_VERSION }}
-        uses: actions/setup-node@v3.4.1
+        uses: actions/setup-node@v3.5.1
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: yarn
@@ -68,7 +68,7 @@ jobs:
         run: yarn test --coverage
 
       - name: Report Code Coverage to codecov
-        uses: codecov/codecov-action@v3.1.0
+        uses: codecov/codecov-action@v3.1.1
 
   deploy:
     name: Deploy
@@ -84,4 +84,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1.0.10
+        uses: actions/deploy-pages@v1.2.3
