@@ -14,8 +14,7 @@ export type SoftwareListData = Pick<Software, typeof keys[number]>
 
 export default async function () {
   const { data } = await useAsyncData('/software', () =>
-    queryContent<Software>()
-      .where({ _type: 'markdown' })
+    queryContent<Software>('series')
       .sort({ launched: 1 })
       .only([...keys])
       .find()
