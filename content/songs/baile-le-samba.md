@@ -1,0 +1,31 @@
+---
+slug: "baile-le-samba"
+name: "Baile Le Samba"
+artist: "Big Idea"
+from: "DanceDanceRevolution ULTRAMIX2"
+bpm: 92
+series:
+  - "strike"
+---
+
+# {{ $doc.name }} / {{ $doc.artist }}
+
+|Artist|BPM|From|
+|------|---|----|
+|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+
+## 収録タイトル
+
+:series-list{:series="series"}
+
+## 譜面一覧
+
+|PlayStyle|Difficulty|Levels|Notes|Movie|
+|---------|----------|------|-----|-----|
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|50/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=2}|55/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|161/18||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|215/23||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|78/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|131/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|209/2||

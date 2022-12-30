@@ -6,6 +6,8 @@ from: "おはスタ Dance Dance Revolution"
 bpm: 126
 series:
   - "oha"
+  - "max-us"
+  - "max2-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -41,3 +43,7 @@ series:
 |UNISON|[ANOTHER]{.tag.is-difficult}|:level{slug="oha" level=3}|||
 |UNISON|[MANIAC (EASY)]{.tag.is-expert}|:level{slug="oha" level=3}|||
 |UNISON|[MANIAC]{.tag.is-expert}|:level{slug="oha" level=5}|||
+
+## メモ
+
+- [DDRMAX Dance Dance Revolution](/series/max-us)の[DOUBLE/DIFFICULT]{.tag.is-difficult}譜面, [DOUBLE/EXPERT]{.tag.is-expert}譜面は、[DOUBLE/BASIC]{.tag.is-basic}譜面と同一。
