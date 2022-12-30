@@ -2,18 +2,9 @@
 slug: "starmine"
 name: "starmine"
 artist: "Ryu"
-from: ""
+from: "beatmania IIDX 4th style"
 bpm: 182
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=2}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=5}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=5}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=7}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=2}|159/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=5}|225/16||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|285/28||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|364/12||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=5}|213/26||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=7}|304/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|352/3||

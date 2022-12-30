@@ -2,18 +2,9 @@
 slug: "fly-through-the-night"
 name: "fly through the night"
 artist: "Mr. T"
-from: ""
+from: "beatmania IIDX 6th style"
 bpm: 140
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|111/7||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|125/11||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|282/23||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|330/23||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|154/17||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|214/16||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|313/27||

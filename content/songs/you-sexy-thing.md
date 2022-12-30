@@ -2,18 +2,9 @@
 slug: "you-sexy-thing"
 name: "You Sexy Thing"
 artist: "Hot Chocolate"
-from: ""
+from: "You Sexy Thing Remix by Ben Liebrand"
 bpm: 106
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|81/1||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|115/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|177/5||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|241/15||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|127/9||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|186/6||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|271/13||

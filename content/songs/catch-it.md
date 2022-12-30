@@ -2,18 +2,9 @@
 slug: "catch-it"
 name: "Catch it!"
 artist: "TOTAL SCIENCE"
-from: ""
+from: "beatmania 6thMIX -THE UK UNDERGROUND MUSIC-"
 bpm: 174
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|113/3||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|177/3||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|211/20||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|311/13||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|160/33||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|237/1||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|271/2||

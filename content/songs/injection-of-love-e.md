@@ -2,18 +2,9 @@
 slug: "injection-of-love-e"
 name: "INJECTION OF LOVE (e)"
 artist: "AKIRA YAMAOKA"
-from: ""
+from: "DanceDanceRevolution STRIKE"
 bpm: 160
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|117/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|156/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|207/26||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|293/15||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|167/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|208/50||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|286/28||

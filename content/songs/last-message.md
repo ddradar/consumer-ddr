@@ -22,7 +22,6 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- ext-jp -->
 |SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|116/0||
 |SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|150/4||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|221/24||

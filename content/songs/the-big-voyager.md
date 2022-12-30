@@ -2,18 +2,9 @@
 slug: "the-big-voyager"
 name: "THE BIG VOYAGER -INFINITE PRAYER REINTERPRETATION-"
 artist: "L.E.D."
-from: ""
+from: "beatmania IIDX 4th style CS -new songs collection-"
 bpm: 147
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=7}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|130/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|215/14||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|262/34||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|380/5||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|196/8||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=7}|302/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|401/7||

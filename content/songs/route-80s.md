@@ -2,18 +2,9 @@
 slug: "route-80s"
 name: "route 80s"
 artist: "sampling masters MEGA"
-from: ""
+from: "beatmania IIDX 6th style"
 bpm: "122-244"
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=2}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=2}|99/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|155/20||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|247/15||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|319/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|118/16||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|228/11||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|330/12||

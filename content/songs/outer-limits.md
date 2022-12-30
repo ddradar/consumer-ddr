@@ -22,7 +22,6 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- festival -->
 |SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=5}|204/87||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=7}|311/95||
 |SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level="10+"}|501/48||

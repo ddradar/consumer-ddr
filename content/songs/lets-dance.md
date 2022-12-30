@@ -2,18 +2,9 @@
 slug: "lets-dance"
 name: "Let's Dance"
 artist: "DAVID BOWIE"
-from: ""
+from: "DISCO VIKING"
 bpm: 114
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,13 +22,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|78/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|120/8||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|195/23||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|242/7||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=8}|289/13||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|120/8||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|195/23||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|244/11||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=8}|288/8||

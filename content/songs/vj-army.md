@@ -2,18 +2,9 @@
 slug: "vj-army"
 name: "VJ Army"
 artist: "good-cool"
-from: ""
+from: "beatmania IIDX 6th style"
 bpm: "135-160"
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=2}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=7}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=2}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|96/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=2}|107/16||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=7}|363/10||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|381/21||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=2}|107/16||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|265/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|478/11||

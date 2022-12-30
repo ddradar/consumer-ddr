@@ -2,18 +2,9 @@
 slug: "make-a-jam-dub-house"
 name: "MAKE A JAM! (Dub/House)"
 artist: "Big Idea"
-from: ""
+from: "DanceDanceRevolution ULTRAMIX2"
 bpm: 124
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|91/8||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|128/20||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|212/14||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|272/13||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|112/10||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|201/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|252/3||

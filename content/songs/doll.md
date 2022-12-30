@@ -2,18 +2,9 @@
 slug: "doll"
 name: "DoLL"
 artist: "TËЯRA"
-from: ""
+from: "beatmania IIDX 10th style"
 bpm: 170
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,13 +22,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|0/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|0/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=9}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|121/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|194/17||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|251/68||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|366/53||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=9}|431/51||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|198/18||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|244/71||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|374/37||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=9}|454/36||

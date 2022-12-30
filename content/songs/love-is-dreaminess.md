@@ -2,18 +2,9 @@
 slug: "love-is-dreaminess"
 name: "Love Is Dreaminess"
 artist: "L.E.D.-G vs GUHROOVY fw/ Asuka"
-from: ""
+from: "beatmania IIDX 5th style -new songs collection-"
 bpm: 178
 series:
-  - "max-jp"
-  - "max-us"
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
-  - "festival"
-  - "ext2"
   - "strike"
 ---
 
@@ -31,11 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-<!-- strike -->
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|0/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|0/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|0/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|0/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|0/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|134/8||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|180/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|318/21||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|465/5||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|176/15||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|300/28||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|428/20||
