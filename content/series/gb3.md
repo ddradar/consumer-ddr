@@ -20,29 +20,29 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|
 |----|------|---|------|
-|[1,2,3,4,007](/songs/1-2-3-4-007)|NI-NI|140|:charts{:slug="slug" levels="1,3,6" difficulties="1,2,3"}|
-|[LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
-|[HIGHER](/songs/higher)|NM feat. SUNNY|132|:charts{:slug="slug" levels="3,5,6" difficulties="1,2,3"}|
-|[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
-|[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:slug="slug" levels="3,6,9" difficulties="1,2,3"}|
-|[HYPNØTIC CRISIS](/songs/hypnotic-crisis)|BLUE DESTROYERS|135|:charts{:slug="slug" levels="5,6,9" difficulties="1,2,3"}|
-|[IN THE HEAT OF THE NIGHT](/songs/in-the-heat-of-the-night)|E-ROTIC|136|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
-|[WALKIE TALKIE](/songs/walkie-talkie)|King Kong & D. Jungle Girls|138|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
-|[PINK DINOSAUR](/songs/pink-dinosaur)|PAPAYA|136|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
-|[DREAM A DREAM](/songs/dream-a-dream)|CAPTAIN JACK|141|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
-|[NEVER GONNA MAKE (FACTORY DANCE TEAM MIX)](/songs/never-gonna-make)|MORGANA|136|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
-|[EAT YOU UP](/songs/eat-you-up)|ANGIE GOLD|130|:charts{:slug="slug" levels="2,5,6" difficulties="1,2,3"}|
-|[HOLIDAY](/songs/holiday)|WHO'S THAT GIRL!|128|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
-|[UPSIDE DOWN](/songs/upside-down)|COO COO|124|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
-|[LUV TO ME (AMD MIX)](/songs/luv-to-me-amd)|DJ KAZU feat. tiger YAMATO|154|:charts{:slug="slug" levels="4,7,8" difficulties="1,2,3"}|
-|[I DON'T WANT TO MISS A THING (Planet Lution Mix)](/songs/i-dont-want-to-miss-a-thing)|DEJA VU featuring TASMIN|170|:charts{:slug="slug" levels="3,4,7" difficulties="1,2,3"}|
-|[KISS ME (KCP REMIX)](/songs/kiss-me)|E-ROTIC|170|:charts{:slug="slug" levels="2,4,7" difficulties="1,2,3"}|
-|[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
-|[1,2,3,4,007 (HARD)](/songs/1-2-3-4-007)|NI-NI|140|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
-|[EAT YOU UP (HARD)](/songs/eat-you-up)|ANGIE GOLD|130|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
-|[LUV TO ME (AMD MIX) (HARD)](/songs/luv-to-me-amd-hard)|DJ KAZU feat. tiger YAMATO|210|:charts{:slug="slug" levels="6,8,9" difficulties="1,2,3"}|
-|[Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:slug="slug" levels="4,5,7" difficulties="1,2,3"}|
-|[Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:slug="slug" levels="3,6,8" difficulties="1,2,3"}|
+|[1,2,3,4,007](/songs/1-2-3-4-007)|NI-NI|140|:charts{:difficulties="difficulties" levels="1,3,6" charts="1,2,3"}|
+|[LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[HIGHER](/songs/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
+|[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
+|[HYPNØTIC CRISIS](/songs/hypnotic-crisis)|BLUE DESTROYERS|135|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
+|[IN THE HEAT OF THE NIGHT](/songs/in-the-heat-of-the-night)|E-ROTIC|136|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[WALKIE TALKIE](/songs/walkie-talkie)|King Kong & D. Jungle Girls|138|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[PINK DINOSAUR](/songs/pink-dinosaur)|PAPAYA|136|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[DREAM A DREAM](/songs/dream-a-dream)|CAPTAIN JACK|141|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[NEVER GONNA MAKE (FACTORY DANCE TEAM MIX)](/songs/never-gonna-make)|MORGANA|136|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[EAT YOU UP](/songs/eat-you-up)|ANGIE GOLD|130|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
+|[HOLIDAY](/songs/holiday)|WHO'S THAT GIRL!|128|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
+|[UPSIDE DOWN](/songs/upside-down)|COO COO|124|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[LUV TO ME (AMD MIX)](/songs/luv-to-me-amd)|DJ KAZU feat. tiger YAMATO|154|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
+|[I DON'T WANT TO MISS A THING (Planet Lution Mix)](/songs/i-dont-want-to-miss-a-thing)|DEJA VU featuring TASMIN|170|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
+|[KISS ME (KCP REMIX)](/songs/kiss-me)|E-ROTIC|170|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|
+|[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[1,2,3,4,007 (HARD)](/songs/1-2-3-4-007)|NI-NI|140|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[EAT YOU UP (HARD)](/songs/eat-you-up)|ANGIE GOLD|130|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[LUV TO ME (AMD MIX) (HARD)](/songs/luv-to-me-amd-hard)|DJ KAZU feat. tiger YAMATO|210|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
+|[Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 
 ## NONSTOP
 

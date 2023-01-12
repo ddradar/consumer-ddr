@@ -20,26 +20,26 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|
 |----|------|---|------|
-|[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:slug="slug" levels="2,6,7" difficulties="1,2,3"}|
-|[La Senorita](/songs/la-senorita)|CAPTAIN. T|182|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}||
-|[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|
-|[TURN ME ON (HEAVENLY MIX)](/songs/turn-me-on)|E-ROTIC|170|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
-|[OPERATOR (Two Gees Mix)](/songs/operator)|PAPAYA|135|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
-|[IN THE NAVY '99 (XXL Disaster Remix)](/songs/in-the-navy)|CAPTAIN JACK|135|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
-|[MR. WONDERFUL](/songs/mr-wonderful)|SMiLE.dk|138|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
-|[SO MANY MEN](/songs/so-many-men)|ME & MY|121|:charts{:slug="slug" levels="3,5,6" difficulties="1,2,3"}|
-|[DAM DARIRAM](/songs/dam-dariram)|JOGA|142|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}||
-|[IF YOU CAN SAY GOODBYE](/songs/if-you-can-say-goodbye)|KATE PROJECT|132|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
-|[VOL. 4](/songs/vol-4)|RAVERS CHOICE|166|:charts{:slug="slug" levels="4,6,8" difficulties="1,2,3"}|
-|[Club Tropicana](/songs/club-tropicana)|Cydney D|132|:charts{:slug="slug" levels="2,4,6" difficulties="1,2,3"}|
-|[LOVE MACHINE](/songs/love-machine)|PONY TOWN BOYZ|160-161|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
-|[TOGETHER & FOREVER](/songs/together-forever)|CAPTAIN JACK|150|:charts{:slug="slug" levels="3,5,8" difficulties="1,2,3"}|
-|[I'M ALIVE](/songs/im-alive)|CUT'N' MOVE|134|:charts{:slug="slug" levels="1,4,5" difficulties="1,2,3"}|
-|[HIGH ENERGY (John 'OO' Fleming Remix)](/songs/high-energy)|SLIP & SHUFFLE featuring LEONI|140|:charts{:slug="slug" levels="2,4,6" difficulties="1,2,3"}|
-|[SKY HIGH](/songs/sky-high-miko)|DJ MIKO|136|:charts{:slug="slug" levels="2,4,7" difficulties="1,2,3"}|
-|[Typical Tropical](/songs/typical-tropical)|BAMBEE|137|:charts{:slug="slug" levels="3,6,7" difficulties="1,2,3"}|
-|[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:slug="slug" levels="6,7,9" difficulties="1,2,3"}|
-|[AFRONOVA](/songs/afronova)|RE-VENGE|200|:charts{:slug="slug" levels="5,7,9" difficulties="1,2,3"}|
+|[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
+|[La Senorita](/songs/la-senorita)|CAPTAIN. T|182|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}||
+|[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[TURN ME ON (HEAVENLY MIX)](/songs/turn-me-on)|E-ROTIC|170|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[OPERATOR (Two Gees Mix)](/songs/operator)|PAPAYA|135|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[IN THE NAVY '99 (XXL Disaster Remix)](/songs/in-the-navy)|CAPTAIN JACK|135|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[MR. WONDERFUL](/songs/mr-wonderful)|SMiLE.dk|138|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[SO MANY MEN](/songs/so-many-men)|ME & MY|121|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
+|[DAM DARIRAM](/songs/dam-dariram)|JOGA|142|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}||
+|[IF YOU CAN SAY GOODBYE](/songs/if-you-can-say-goodbye)|KATE PROJECT|132|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
+|[VOL. 4](/songs/vol-4)|RAVERS CHOICE|166|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[Club Tropicana](/songs/club-tropicana)|Cydney D|132|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
+|[LOVE MACHINE](/songs/love-machine)|PONY TOWN BOYZ|160-161|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[TOGETHER & FOREVER](/songs/together-forever)|CAPTAIN JACK|150|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[I'M ALIVE](/songs/im-alive)|CUT'N' MOVE|134|:charts{:difficulties="difficulties" levels="1,4,5" charts="1,2,3"}|
+|[HIGH ENERGY (John 'OO' Fleming Remix)](/songs/high-energy)|SLIP & SHUFFLE featuring LEONI|140|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
+|[SKY HIGH](/songs/sky-high-miko)|DJ MIKO|136|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|
+|[Typical Tropical](/songs/typical-tropical)|BAMBEE|137|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
+|[AFRONOVA](/songs/afronova)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 
 ## NONSTOP
 
