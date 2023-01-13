@@ -33,10 +33,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1} :level{slug="ext-jp" level=1} :level{slug="party" level=1}|66/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3} :level{slug="ext-jp" level=3} :level{slug="party" level=3}|73/17||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=4} :level{slug="ext-jp" level=4} :level{slug="party" level=4}125/16||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=5} :level{slug="ext-jp" level=5} :level{slug="party" level=5}|150/30||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2} :level{slug="ext-jp" level=2} :level{slug="party" level=2}|88/7||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=4} :level{slug="ext-jp" level=4} :level{slug="party" level=4}|127/10||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=6} :level{slug="ext-jp" level=6} :level{slug="party" level=6}|169/12||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1} :level{:slug="series['ext-jp']" level=1} :level{:slug="series['party']" level=1}|66/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-us']" level=3} :level{:slug="series['ext-jp']" level=3} :level{:slug="series['party']" level=3}|73/17||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-us']" level=4} :level{:slug="series['ext-jp']" level=4} :level{:slug="series['party']" level=4}125/16||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-us']" level=5} :level{:slug="series['ext-jp']" level=5} :level{:slug="series['party']" level=5}|150/30||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-us']" level=2} :level{:slug="series['ext-jp']" level=2} :level{:slug="series['party']" level=2}|88/7||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-us']" level=4} :level{:slug="series['ext-jp']" level=4} :level{:slug="series['party']" level=4}|127/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-us']" level=6} :level{:slug="series['ext-jp']" level=6} :level{:slug="series['party']" level=6}|169/12||

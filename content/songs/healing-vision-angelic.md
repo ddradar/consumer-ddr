@@ -37,10 +37,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=2}|153/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5} :level{slug="ext-jp" level=5}|273/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=7} :level{slug="max-jp" level="?"} :level{slug="max-us" level=7} :level{slug="ext-jp" level=7}|377/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=9} :level{slug="max-jp" level="?"} :level{slug="max-us" level=9} :level{slug="ext-jp" level=9}|479/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5} :level{slug="ext-jp" level=5}|272/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=7} :level{slug="max-jp" level="?"} :level{slug="max-us" level=7} :level{slug="ext-jp" level=7}|377/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=9} :level{slug="max-jp" level="?"} :level{slug="max-us" level=9} :level{slug="ext-jp" level=9}|471/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-jp']" level=2}|153/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=5} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=5} :level{:slug="series['ext-jp']" level=5}|273/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=7} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=7} :level{:slug="series['ext-jp']" level=7}|377/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=9} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=9} :level{:slug="series['ext-jp']" level=9}|479/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=5} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=5} :level{:slug="series['ext-jp']" level=5}|272/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=7} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=7} :level{:slug="series['ext-jp']" level=7}|377/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=9} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=9} :level{:slug="series['ext-jp']" level=9}|471/0||

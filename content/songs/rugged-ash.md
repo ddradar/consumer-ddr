@@ -33,8 +33,8 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="max-us" level=5}|142/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-2" level=7} :level{slug="club-dc" level=7} :level{slug="max-us" level=7}|161/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="max-us" level=8}|181/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="max-us" level=5}|141/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-2" level=7} :level{slug="club-dc" level=7} :level{slug="max-us" level=7}|161/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['club-2']" level=5} :level{:slug="series['club-dc']" level=5} :level{:slug="series['max-us']" level=5}|142/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['club-2']" level=7} :level{:slug="series['club-dc']" level=7} :level{:slug="series['max-us']" level=7}|161/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['club-2']" level=8} :level{:slug="series['club-dc']" level=8} :level{:slug="series['max-us']" level=8}|181/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['club-2']" level=5} :level{:slug="series['club-dc']" level=5} :level{:slug="series['max-us']" level=5}|141/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['club-2']" level=7} :level{:slug="series['club-dc']" level=7} :level{:slug="series['max-us']" level=7}|161/0||

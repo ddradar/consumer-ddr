@@ -33,11 +33,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}|180/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}|205/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}|256/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}|209/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}|247/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['club-2']" level=5} :level{:slug="series['club-dc']" level=5} :level{:slug="series['konamix']" level=5}|180/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['club-2']" level=6} :level{:slug="series['club-dc']" level=6} :level{:slug="series['konamix']" level=6}|205/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['club-2']" level=8} :level{:slug="series['club-dc']" level=8} :level{:slug="series['konamix']" level=8}|256/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['club-2']" level=6} :level{:slug="series['club-dc']" level=6} :level{:slug="series['konamix']" level=6}|209/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['club-2']" level=8} :level{:slug="series['club-dc']" level=8} :level{:slug="series['konamix']" level=8}|247/0||
 
 ## メモ
 

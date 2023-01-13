@@ -25,9 +25,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|144/4||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|253/4||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|341/1||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|139/3||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|258/3||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7}|341/2||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=3}|144/4||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=5}|253/4||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=7}|341/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=3}|139/3||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=6}|258/3||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=7}|341/2||

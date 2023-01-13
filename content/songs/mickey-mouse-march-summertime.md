@@ -33,8 +33,8 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="disney-jp" level=2} :level{slug="gb-disney" level=2} :level{slug="disney-us" level=2}|126/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="disney-jp" level=4} :level{slug="gb-disney" level=4} :level{slug="disney-us" level=4}|231/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="disney-jp" level=9} :level{slug="disney-us" level=9}|337/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="disney-jp" level=4} :level{slug="disney-us" level=4}|186/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="disney-jp" level=9} :level{slug="disney-us" level=9}|316/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['disney-jp']" level=2} :level{:slug="series['gb-disney']" level=2} :level{:slug="series['disney-us']" level=2}|126/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['disney-jp']" level=4} :level{:slug="series['gb-disney']" level=4} :level{:slug="series['disney-us']" level=4}|231/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['disney-jp']" level=9} :level{:slug="series['disney-us']" level=9}|337/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['disney-jp']" level=4} :level{:slug="series['disney-us']" level=4}|186/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['disney-jp']" level=9} :level{:slug="series['disney-us']" level=9}|316/0||

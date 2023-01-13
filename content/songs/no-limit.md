@@ -25,9 +25,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=4}|196/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=6}|273/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=9}|412/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=4}|190/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=6}|255/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8}|349/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=4}|196/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=6}|273/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=9}|412/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=4}|190/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=6}|255/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=8}|349/0||

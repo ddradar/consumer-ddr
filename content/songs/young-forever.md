@@ -25,13 +25,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="4th" level=3}|148/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=4}|174/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=7}|254/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="4th" level=3}|156/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=5}|203/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=7}|261/0||
-|BATTLE|[BATTLE]{.tag.is-basic}|:level{slug="4th" level=3}|||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="4th" level=3}|141/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=5}|197/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=7}|336/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['4th']" level=3}|148/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['4th']" level=4}|174/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['4th']" level=7}|254/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['4th']" level=3}|156/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['4th']" level=5}|203/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['4th']" level=7}|261/0||
+|BATTLE|[BATTLE]{.tag.is-basic}|:level{:slug="series['4th']" level=3}|||
+|6-PANELS|[BASIC]{.tag.is-basic}|:level{:slug="series['4th']" level=3}|141/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['4th']" level=5}|197/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|:level{:slug="series['4th']" level=7}|336/0||

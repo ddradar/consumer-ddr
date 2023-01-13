@@ -25,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|107/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|124/4||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|210/5||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=6}|282/5||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|121/4||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|203/5||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=6}|286/5||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-jp']" level=1}|107/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=3}|124/4||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=5}|210/5||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=6}|282/5||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=3}|121/4||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=5}|203/5||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=6}|286/5||

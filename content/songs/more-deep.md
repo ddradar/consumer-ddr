@@ -29,10 +29,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1} :level{slug="ext-jp" level=1}|81/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3} :level{slug="ext-jp" level=3}|81/15||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5} :level{slug="ext-jp" level=5}|162/38||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}|195/40||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2} :level{slug="ext-jp" level=2}|93/9||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5} :level{slug="ext-jp" level=5}|133/28||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}|184/16||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1} :level{:slug="series['ext-jp']" level=1}|81/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-us']" level=3} :level{:slug="series['ext-jp']" level=3}|81/15||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-us']" level=5} :level{:slug="series['ext-jp']" level=5}|162/38||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-us']" level=6} :level{:slug="series['ext-jp']" level=6}|195/40||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-us']" level=2} :level{:slug="series['ext-jp']" level=2}|93/9||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-us']" level=5} :level{:slug="series['ext-jp']" level=5}|133/28||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-us']" level=6} :level{:slug="series['ext-jp']" level=6}|184/16||

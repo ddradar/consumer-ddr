@@ -37,10 +37,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1} :level{slug="festival" level=1}|91/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3} :level{slug="max-us" level=3} :level{slug="max2-us" level=3} :level{slug="festival" level=3}|145/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5} :level{slug="max-us" level=5} :level{slug="max2-us" level=5} :level{slug="festival" level=5}|217/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=7} :level{slug="max-us" level=7} :level{slug="max2-us" level=7} :level{slug="festival" level=7}|291/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3} :level{slug="max-us" level=3} :level{slug="max2-us" level=3} :level{slug="festival" level=3}|141/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5} :level{slug="max-us" level=5} :level{slug="max2-us" level=5} :level{slug="festival" level=5}|236/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=6} :level{slug="max-us" level=6} :level{slug="max2-us" level=6} :level{slug="festival" level=6}|277/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1} :level{:slug="series['festival']" level=1}|91/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=3} :level{:slug="series['max-us']" level=3} :level{:slug="series['max2-us']" level=3} :level{:slug="series['festival']" level=3}|145/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=5} :level{:slug="series['max-us']" level=5} :level{:slug="series['max2-us']" level=5} :level{:slug="series['festival']" level=5}|217/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=7} :level{:slug="series['max-us']" level=7} :level{:slug="series['max2-us']" level=7} :level{:slug="series['festival']" level=7}|291/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=3} :level{:slug="series['max-us']" level=3} :level{:slug="series['max2-us']" level=3} :level{:slug="series['festival']" level=3}|141/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=5} :level{:slug="series['max-us']" level=5} :level{:slug="series['max2-us']" level=5} :level{:slug="series['festival']" level=5}|236/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=6} :level{:slug="series['max-us']" level=6} :level{:slug="series['max2-us']" level=6} :level{:slug="series['festival']" level=6}|277/0||

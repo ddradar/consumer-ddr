@@ -29,12 +29,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=4} :level{slug="gb2" level=4}|148/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=6} :level{slug="gb2" level=6}|200/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8} :level{slug="gb2" level=8}|258/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=5}|151/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=6}|210/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8}|250/0||
-|UNISON|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=4}|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=6}|||
-|UNISON|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8}|||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['3rd']" level=4} :level{:slug="series['gb2']" level=4}|148/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['3rd']" level=6} :level{:slug="series['gb2']" level=6}|200/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['3rd']" level=8} :level{:slug="series['gb2']" level=8}|258/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['3rd']" level=5}|151/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['3rd']" level=6}|210/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['3rd']" level=8}|250/0||
+|UNISON|[BASIC]{.tag.is-basic}|:level{:slug="series['3rd']" level=4}|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['3rd']" level=6}|||
+|UNISON|[EXPERT]{.tag.is-expert}|:level{:slug="series['3rd']" level=8}|||

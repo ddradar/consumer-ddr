@@ -33,10 +33,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|73/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=2} :level{slug="max-us" level=2} :level{slug="festival" level=2}|128/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5} :level{slug="max-us" level=5} :level{slug="festival" level=5}|190/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8} :level{slug="max-us" level=8} :level{slug="festival" level=8}|294/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=2} :level{slug="max-us" level=2} :level{slug="festival" level=2}|128/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5} :level{slug="max-us" level=5} :level{slug="festival" level=5}|225/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8} :level{slug="max-us" level=8} :level{slug="festival" level=8}|269/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['festival']" level=1}|73/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=2} :level{:slug="series['max-us']" level=2} :level{:slug="series['festival']" level=2}|128/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=5} :level{:slug="series['max-us']" level=5} :level{:slug="series['festival']" level=5}|190/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=8} :level{:slug="series['max-us']" level=8} :level{:slug="series['festival']" level=8}|294/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=2} :level{:slug="series['max-us']" level=2} :level{:slug="series['festival']" level=2}|128/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=5} :level{:slug="series['max-us']" level=5} :level{:slug="series['festival']" level=5}|225/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=8} :level{:slug="series['max-us']" level=8} :level{:slug="series['festival']" level=8}|269/0||

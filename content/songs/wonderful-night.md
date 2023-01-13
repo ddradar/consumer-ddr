@@ -25,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|126/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=6}|234/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=8}|331/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=8}|402/1||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=6}|234/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=8}|326/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=8}|400/10||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext2']" level=1}|126/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=6}|234/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=8}|331/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=8}|402/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=6}|234/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=8}|326/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=8}|400/10||

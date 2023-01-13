@@ -37,13 +37,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=1} :level{slug="ext-us" level=1}|123/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3} :level{slug="konamix" level=3} :level{slug="party" level=3} :level{slug="ext-us" level=3}|142/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5} :level{slug="konamix" level=5} :level{slug="party" level=5} :level{slug="ext-us" level=5}|252/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8} :level{slug="konamix" level=8} :level{slug="party" level=8} :level{slug="ext-us" level=8}|311/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=3} :level{slug="konamix" level=3} :level{slug="party" level=3} :level{slug="ext-us" level=3}|135/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=5} :level{slug="konamix" level=5} :level{slug="party" level=5} :level{slug="ext-us" level=5}|215/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8} :level{slug="konamix" level=8} :level{slug="party" level=8} :level{slug="ext-us" level=8}|303/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['party']" level=1} :level{:slug="series['ext-us']" level=1}|123/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=3} :level{:slug="series['konamix']" level=3} :level{:slug="series['party']" level=3} :level{:slug="series['ext-us']" level=3}|142/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=5} :level{:slug="series['konamix']" level=5} :level{:slug="series['party']" level=5} :level{:slug="series['ext-us']" level=5}|252/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=8} :level{:slug="series['konamix']" level=8} :level{:slug="series['party']" level=8} :level{:slug="series['ext-us']" level=8}|311/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=3} :level{:slug="series['konamix']" level=3} :level{:slug="series['party']" level=3} :level{:slug="series['ext-us']" level=3}|135/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=5} :level{:slug="series['konamix']" level=5} :level{:slug="series['party']" level=5} :level{:slug="series['ext-us']" level=5}|215/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=8} :level{:slug="series['konamix']" level=8} :level{:slug="series['party']" level=8} :level{:slug="series['ext-us']" level=8}|303/0||
 
 ## メモ
 

@@ -25,15 +25,15 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|99/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4}|200/0||
-|SINGLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=4.5}|233/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=5}|244/0||
-|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{slug="tkd" level="?"}|274/0||
-|DOUBLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4.5}|167/0||
-|DOUBLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=6.5}|203/0||
-|DOUBLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level="?"}|252/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4}|||
-|COUPLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=4.5}|||
-|COUPLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=5}|||
+|SINGLE|[FREE]{.tag.is-beginner}|:level{:slug="series['tkd']" level="?"}|99/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['tkd']" level=4}|200/0||
+|SINGLE|[TRICK]{.tag.is-difficult}|:level{:slug="series['tkd']" level=4.5}|233/0||
+|SINGLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['tkd']" level=5}|244/0||
+|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{:slug="series['tkd']" level="?"}|274/0||
+|DOUBLE|[FREE]{.tag.is-beginner}|:level{:slug="series['tkd']" level="?"}|||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['tkd']" level=4.5}|167/0||
+|DOUBLE|[TRICK]{.tag.is-difficult}|:level{:slug="series['tkd']" level=6.5}|203/0||
+|DOUBLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['tkd']" level="?"}|252/0||
+|COUPLE|[BASIC]{.tag.is-basic}|:level{:slug="series['tkd']" level=4}|||
+|COUPLE|[TRICK]{.tag.is-difficult}|:level{:slug="series['tkd']" level=4.5}|||
+|COUPLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['tkd']" level=5}|||

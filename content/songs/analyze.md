@@ -25,9 +25,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|90/26||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|140/43||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|232/2||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|88/28||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|139/41||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|184/34||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['festival']" level=4}|90/26||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['festival']" level=5}|140/43||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['festival']" level=7}|232/2||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['festival']" level=4}|88/28||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['festival']" level=5}|139/41||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['festival']" level=7}|184/34||

@@ -37,13 +37,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=1}|41/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=1} :level{slug="5th" level=1} :level{slug="max-us" level=1} :level{slug="party" level=1}|41/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=3} :level{slug="5th" level=3} :level{slug="max-us" level=3} :level{slug="party" level=3}|130/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=5} :level{slug="5th" level=5} :level{slug="max-us" level=5} :level{slug="party" level=5}|197/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=1} :level{slug="5th" level=1} :level{slug="max-us" level=1} :level{slug="party" level=1}|47/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=3} :level{slug="5th" level=3} :level{slug="max-us" level=3} :level{slug="party" level=3}|135/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=5} :level{slug="5th" level=5} :level{slug="max-us" level=5} :level{slug="party" level=5}|198/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['party']" level=1}|41/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=1} :level{:slug="series['5th']" level=1} :level{:slug="series['max-us']" level=1} :level{:slug="series['party']" level=1}|41/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=3} :level{:slug="series['5th']" level=3} :level{:slug="series['max-us']" level=3} :level{:slug="series['party']" level=3}|130/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=5} :level{:slug="series['5th']" level=5} :level{:slug="series['max-us']" level=5} :level{:slug="series['party']" level=5}|197/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=1} :level{:slug="series['5th']" level=1} :level{:slug="series['max-us']" level=1} :level{:slug="series['party']" level=1}|47/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=3} :level{:slug="series['5th']" level=3} :level{:slug="series['max-us']" level=3} :level{:slug="series['party']" level=3}|135/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=5} :level{:slug="series['5th']" level=5} :level{:slug="series['max-us']" level=5} :level{:slug="series['party']" level=5}|198/0||
 
 ## メモ
 

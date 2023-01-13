@@ -37,13 +37,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="4th" level=3} :level{slug="disney-us" level=2} :level{slug="max-jp" level="?"} :level{slug="max-us" level=3}|176/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=4} :level{slug="disney-us" level=3} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5}|196/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=5} :level{slug="disney-us" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=7}|333/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="4th" level=3} :level{slug="disney-us" level=2} :level{slug="max-jp" level="?"} :level{slug="max-us" level=3}|178/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=4} :level{slug="disney-us" level=3} :level{slug="max-jp" level="?"} :level{slug="max-us" level=4}|224/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5}|334/0||
-|BATTLE|[BATTLE]{.tag.is-basic}|:level{slug="4th" level=4}|||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="4th" level=3}|176/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=4}|196/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=5}|332/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['4th']" level=3} :level{:slug="series['disney-us']" level=2} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=3}|176/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['4th']" level=4} :level{:slug="series['disney-us']" level=3} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=5}|196/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['4th']" level=5} :level{:slug="series['disney-us']" level=5} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=7}|333/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['4th']" level=3} :level{:slug="series['disney-us']" level=2} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=3}|178/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['4th']" level=4} :level{:slug="series['disney-us']" level=3} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=4}|224/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['4th']" level=5} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=5}|334/0||
+|BATTLE|[BATTLE]{.tag.is-basic}|:level{:slug="series['4th']" level=4}|||
+|6-PANELS|[BASIC]{.tag.is-basic}|:level{:slug="series['4th']" level=3}|176/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['4th']" level=4}|196/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|:level{:slug="series['4th']" level=5}|332/0||

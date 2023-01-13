@@ -25,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|94/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3}|125/15||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|191/29||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|247/30||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=2}|98/16||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5}|162/22||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7}|222/29||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-us']" level=1}|94/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-us']" level=3}|125/15||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-us']" level=5}|191/29||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-us']" level=7}|247/30||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-us']" level=2}|98/16||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-us']" level=5}|162/22||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-us']" level=7}|222/29||

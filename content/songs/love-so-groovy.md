@@ -29,11 +29,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="club-1" level=3} :level{slug="club-dc" level=3}|112/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-1" level=4} :level{slug="club-dc" level=4}|135/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="club-1" level=7} :level{slug="club-dc" level=7}|186/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="club-1" level=4} :level{slug="club-dc" level=4}|136/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-1" level=7} :level{slug="club-dc" level=7}|187/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['club-1']" level=3} :level{:slug="series['club-dc']" level=3}|112/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['club-1']" level=4} :level{:slug="series['club-dc']" level=4}|135/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['club-1']" level=7} :level{:slug="series['club-dc']" level=7}|186/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['club-1']" level=4} :level{:slug="series['club-dc']" level=4}|136/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['club-1']" level=7} :level{:slug="series['club-dc']" level=7}|187/0||
 
 ## メモ
 

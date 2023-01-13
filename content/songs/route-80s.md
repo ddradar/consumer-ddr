@@ -25,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=2}|99/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|155/20||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|247/15||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|319/1||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|118/16||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|228/11||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|330/12||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['strike']" level=2}|99/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=4}|155/20||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=6}|247/15||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=8}|319/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=4}|118/16||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=6}|228/11||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=9}|330/12||

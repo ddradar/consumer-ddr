@@ -25,16 +25,16 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="dct" level=4}|140/0||
-|SINGLE|[TRICK]{.tag.is-difficult}|:level{slug="dct" level=7}|232/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="dct" level=8}|288/0||
-|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{slug="dct" level="?"}|337/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="dct" level=5}|143/0||
-|DOUBLE|[TRICK]{.tag.is-difficult}|:level{slug="dct" level=8.5}|206/0||
-|DOUBLE|[MANIAC]{.tag.is-expert}|:level{slug="dct" level="?"}|266/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="dct" level=4}|||
-|COUPLE|[TRICK]{.tag.is-difficult}|:level{slug="dct" level=7}|||
-|COUPLE|[MANIAC]{.tag.is-expert}|:level{slug="dct" level=8}|||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['dct']" level=4}|140/0||
+|SINGLE|[TRICK]{.tag.is-difficult}|:level{:slug="series['dct']" level=7}|232/0||
+|SINGLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['dct']" level=8}|288/0||
+|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{:slug="series['dct']" level="?"}|337/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['dct']" level=5}|143/0||
+|DOUBLE|[TRICK]{.tag.is-difficult}|:level{:slug="series['dct']" level=8.5}|206/0||
+|DOUBLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['dct']" level="?"}|266/0||
+|COUPLE|[BASIC]{.tag.is-basic}|:level{:slug="series['dct']" level=4}|||
+|COUPLE|[TRICK]{.tag.is-difficult}|:level{:slug="series['dct']" level=7}|||
+|COUPLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['dct']" level=8}|||
 
 ## メモ
 

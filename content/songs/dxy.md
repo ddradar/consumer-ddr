@@ -29,12 +29,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=4} :level{slug="konamix" level=4}|108/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=6} :level{slug="konamix" level=6}|157/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8} :level{slug="konamix" level=8}|269/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=4} :level{slug="konamix" level=4}|355/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=6} :level{slug="konamix" level=6}|205/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8} :level{slug="konamix" level=8}|334/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=4} :level{:slug="series['konamix']" level=4}|108/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=6} :level{:slug="series['konamix']" level=6}|157/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=8} :level{:slug="series['konamix']" level=8}|269/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=4} :level{:slug="series['konamix']" level=4}|355/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=6} :level{:slug="series['konamix']" level=6}|205/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=8} :level{:slug="series['konamix']" level=8}|334/0||
 
 ## メモ
 

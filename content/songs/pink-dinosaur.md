@@ -29,13 +29,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="4th" level=4} :level{slug="gb3" level=4}|146/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=5} :level{slug="gb3" level=5}|184/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=7} :level{slug="gb3" level=7}|186/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="4th" level=4}|161/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=5}|185/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=6}|202/0||
-|BATTLE|[BATTLE]{.tag.is-basic}|:level{slug="4th" level=2}|||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="4th" level=4}|141/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=5}|187/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=7}|183/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['4th']" level=4} :level{:slug="series['gb3']" level=4}|146/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['4th']" level=5} :level{:slug="series['gb3']" level=5}|184/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['4th']" level=7} :level{:slug="series['gb3']" level=7}|186/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['4th']" level=4}|161/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['4th']" level=5}|185/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['4th']" level=6}|202/0||
+|BATTLE|[BATTLE]{.tag.is-basic}|:level{:slug="series['4th']" level=2}|||
+|6-PANELS|[BASIC]{.tag.is-basic}|:level{:slug="series['4th']" level=4}|141/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['4th']" level=5}|187/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|:level{:slug="series['4th']" level=7}|183/0||

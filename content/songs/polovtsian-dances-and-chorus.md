@@ -29,10 +29,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1} :level{slug="strike" level=1}|104/4||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=4} :level{slug="strike" level=4}|149/9||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=6} :level{slug="strike" level=6}|228/38||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=8} :level{slug="strike" level=8}|328/4||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=4} :level{slug="strike" level=4}|149/9||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=6} :level{slug="strike" level=6}|233/39||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=8} :level{slug="strike" level=8}|340/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext2']" level=1} :level{:slug="series['strike']" level=1}|104/4||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=4} :level{:slug="series['strike']" level=4}|149/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=6} :level{:slug="series['strike']" level=6}|228/38||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=8} :level{:slug="series['strike']" level=8}|328/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=4} :level{:slug="series['strike']" level=4}|149/9||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=6} :level{:slug="series['strike']" level=6}|233/39||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=8} :level{:slug="series['strike']" level=8}|340/0||

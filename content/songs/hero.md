@@ -33,11 +33,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="gb" level=4}|124/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="gb" level=5}|151/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="gb" level=6}|181/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5}|126/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}|155/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="gb" level=4}|116/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="gb" level=5}|140/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="gb" level=6}|181/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['2nd']" level=4} :level{:slug="series['2nd-dc']" level=4} :level{:slug="series['gb']" level=4}|124/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['2nd']" level=5} :level{:slug="series['2nd-dc']" level=5} :level{:slug="series['gb']" level=5}|151/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['2nd']" level=6} :level{:slug="series['2nd-dc']" level=6} :level{:slug="series['gb']" level=6}|181/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['2nd']" level=5} :level{:slug="series['2nd-dc']" level=5}|126/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['2nd']" level=6} :level{:slug="series['2nd-dc']" level=6}|155/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['2nd']" level=4} :level{:slug="series['2nd-dc']" level=4} :level{:slug="series['gb']" level=4}|116/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['2nd']" level=5} :level{:slug="series['2nd-dc']" level=5} :level{:slug="series['gb']" level=5}|140/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['2nd']" level=6} :level{:slug="series['2nd-dc']" level=6} :level{:slug="series['gb']" level=6}|181/0||

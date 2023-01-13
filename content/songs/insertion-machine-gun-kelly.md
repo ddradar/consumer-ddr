@@ -29,10 +29,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|90/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3} :level{slug="ext2" level=3}|122/10||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5} :level{slug="ext2" level=5}|206/14||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7} :level{slug="ext2" level=7}|244/19||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3} :level{slug="ext2" level=3}|130/17||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=6} :level{slug="ext2" level=6}|201/17||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7} :level{slug="ext2" level=7}|239/17||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext2']" level=1}|90/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['festival']" level=3} :level{:slug="series['ext2']" level=3}|122/10||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['festival']" level=5} :level{:slug="series['ext2']" level=5}|206/14||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['festival']" level=7} :level{:slug="series['ext2']" level=7}|244/19||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['festival']" level=3} :level{:slug="series['ext2']" level=3}|130/17||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['festival']" level=6} :level{:slug="series['ext2']" level=6}|201/17||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['festival']" level=7} :level{:slug="series['ext2']" level=7}|239/17||

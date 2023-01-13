@@ -33,10 +33,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1} :level{slug="ext-us" level=1}|92/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3} :level{slug="max2-us" level=3} :level{slug="ext-us" level=3}|107/18||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6} :level{slug="max2-us" level=6} :level{slug="ext-us" level=6}|232/8||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=9} :level{slug="max2-us" level=9} :level{slug="ext-us" level=9}|366/8||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=4} :level{slug="max2-us" level=4} :level{slug="ext-us" level=4}|158/4||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7} :level{slug="ext-us" level=7}|236/5||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=9} :level{slug="max2-us" level=9} :level{slug="ext-us" level=9}|360/3||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1} :level{:slug="series['ext-us']" level=1}|92/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=3} :level{:slug="series['max2-us']" level=3} :level{:slug="series['ext-us']" level=3}|107/18||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=6} :level{:slug="series['max2-us']" level=6} :level{:slug="series['ext-us']" level=6}|232/8||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=9} :level{:slug="series['max2-us']" level=9} :level{:slug="series['ext-us']" level=9}|366/8||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=4} :level{:slug="series['max2-us']" level=4} :level{:slug="series['ext-us']" level=4}|158/4||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=7} :level{:slug="series['max2-us']" level=7} :level{:slug="series['ext-us']" level=7}|236/5||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=9} :level{:slug="series['max2-us']" level=9} :level{:slug="series['ext-us']" level=9}|360/3||

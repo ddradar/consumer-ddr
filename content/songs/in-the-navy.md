@@ -41,17 +41,17 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|99/0||
-|SINGLE|[BASIC (BONUS)]{.tag.is-basic}|:level{slug="2nd" level=4}|209/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="2nd-dc" level=4} :level{slug="3rd" level=4} :level{slug="gb2" level=4} :level{slug="max2-us" level=4}|199/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="gb2" level=6} :level{slug="max2-us" level=6}|249/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="gb2" level=8} :level{slug="max2-us" level=8}|307/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="3rd" level=4} :level{slug="max2-us" level=4}|203/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd-dc" level=5} :level{slug="3rd" level=5} :level{slug="max2-us" level=5}|214/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="max2-us" level=8}|331/0||
-|UNISON|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=4}|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=6}|||
-|UNISON|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8}|||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1}|99/0||
+|SINGLE|[BASIC (BONUS)]{.tag.is-basic}|:level{:slug="series['2nd']" level=4}|209/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['2nd-dc']" level=4} :level{:slug="series['3rd']" level=4} :level{:slug="series['gb2']" level=4} :level{:slug="series['max2-us']" level=4}|199/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['2nd-dc']" level=6} :level{:slug="series['3rd']" level=6} :level{:slug="series['gb2']" level=6} :level{:slug="series['max2-us']" level=6}|249/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['2nd-dc']" level=8} :level{:slug="series['3rd']" level=8} :level{:slug="series['gb2']" level=8} :level{:slug="series['max2-us']" level=8}|307/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['2nd']" level=4} :level{:slug="series['2nd-dc']" level=4} :level{:slug="series['3rd']" level=4} :level{:slug="series['max2-us']" level=4}|203/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['2nd-dc']" level=5} :level{:slug="series['3rd']" level=5} :level{:slug="series['max2-us']" level=5}|214/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['2nd-dc']" level=8} :level{:slug="series['3rd']" level=8} :level{:slug="series['max2-us']" level=8}|331/0||
+|UNISON|[BASIC]{.tag.is-basic}|:level{:slug="series['3rd']" level=4}|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['3rd']" level=6}|||
+|UNISON|[EXPERT]{.tag.is-expert}|:level{:slug="series['3rd']" level=8}|||
 
 ## メモ
 
