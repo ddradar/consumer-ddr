@@ -16,14 +16,15 @@
       </OTableColumn>
       <OTableColumn v-slot="props" label="Series">
         <div class="buttons">
-          <Series
-            v-for="s in props.row.series"
-            :key="s"
-            :slug="s"
-            tag="NuxtLink"
+          <NuxtLink
+            v-for="v in props.row.series"
+            :key="v.slug"
             class="button is-small"
-            :to="`/series/${s}/`"
-          />
+            :to="`/series/${v.slug}/`"
+            :style="{ backgroundColor: v.color, color: '#fff' }"
+          >
+            <span :title="v.title">{{ v.slug }}</span>
+          </NuxtLink>
         </div>
       </OTableColumn>
 

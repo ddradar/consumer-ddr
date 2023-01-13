@@ -5,7 +5,7 @@ const platforms = [
   'Play Station 2',
   'Dreamcast',
   'GAME BOY COLOR',
-  'Wii'
+  'Wii',
 ] as const
 
 export interface Software {
@@ -23,5 +23,5 @@ export interface Song {
   name: string
   artist: string
   bpm: number | string
-  series: string[]
+  series: Pick<Software, 'slug' | 'title' | 'color'>[]
 }

@@ -1,20 +1,25 @@
 <template>
-  <OTooltip :label="software.title">
-    <div class="tags has-addons">
-      <Series :slug="slug" tag="span" class="tag" />
-      <span class="tag">{{ level }}</span>
-    </div>
-  </OTooltip>
+  <div class="tags has-addons">
+    <NuxtLink
+      :to="`/series/${series.slug}/`"
+      class="tag"
+      :style="{ backgroundColor: series.color, color: '#fff' }"
+    >
+      <span :title="series.title">{{ series.slug }}</span>
+    </NuxtLink>
+    <span class="tag">{{ level }}</span>
+  </div>
 </template>
 
 <script lang="ts" setup>
-import useSoftwareData from '~~/composables/useSoftwareData'
+import type { Song } from '~~/src/content'
+
+const NuxtLink = resolveComponent('NuxtLink')
 
 interface LevelProps {
-  slug: string
+  series: Song['series'][number]
   level: number | '10+' | '?'
 }
 
 const props = defineProps<LevelProps>()
-const { software } = await useSoftwareData(props.slug)
 </script>
