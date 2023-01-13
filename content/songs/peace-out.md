@@ -5,9 +5,18 @@ artist: "dj nagureo"
 from: "beatmania 4thMIX -the beat goes on-"
 bpm: 133
 series:
-  - "max-us"
-  - "max2-jp"
-  - "ext-us"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

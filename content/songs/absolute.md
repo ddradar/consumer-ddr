@@ -5,10 +5,22 @@ artist: "dj TAKA"
 from: "beatmania IIDX 4th style"
 bpm: 144
 series:
-  - "5th"
-  - "konamix"
-  - "party"
-  - "ext-us"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

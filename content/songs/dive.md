@@ -5,11 +5,26 @@ artist: "Be For U"
 from: "DanceDanceRevolution 5thMIX"
 bpm: 
 series:
-  - "extra"
-  - "5th"
-  - "konamix"
-  - "festival"
-  - "ext2"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

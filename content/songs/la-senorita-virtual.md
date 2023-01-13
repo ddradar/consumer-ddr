@@ -5,9 +5,18 @@ artist: "2MB"
 from: "DanceDanceRevolution 3rdMIX CS"
 bpm: 182
 series:
-  - "3rd"
-  - "konamix"
-  - "ext-jp"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

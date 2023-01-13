@@ -5,8 +5,14 @@ artist: "DJ SIMON"
 from: "beatmania completeMIX 2"
 bpm: 192
 series:
-  - "ext-jp"
-  - "ext-us"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "Venus"
 from: "You Leave Me Alone"
 bpm: 138
 series:
-  - "max-us"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

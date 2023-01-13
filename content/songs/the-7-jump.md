@@ -5,7 +5,10 @@ artist: "KEN D"
 from: "Dancemania X7"
 bpm: 138
 series:
-  - "4th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

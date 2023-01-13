@@ -5,7 +5,10 @@ artist: "L.E.D.-G"
 from: "beatmania IIDX 6th style -new songs collection-"
 bpm: "86-343"
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

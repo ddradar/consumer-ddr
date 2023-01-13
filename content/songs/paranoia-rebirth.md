@@ -5,11 +5,26 @@ artist: "190'"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 190
 series:
-  - "3rd"
-  - "gb2"
-  - "konamix"
-  - "max2-jp"
-  - "ext-jp"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb2":
+    slug: "gb2"
+    title: "Dance Dance Revolution GB2"
+    color: "darkgreen"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,14 +5,38 @@ artist: "KTz"
 from: "DanceDanceRevolution 2ndMIX"
 bpm: 130
 series:
-  - "2nd"
-  - "2nd-dc"
-  - "3rd"
-  - "gb"
-  - "us"
-  - "max-us"
-  - "max2-us"
-  - "party"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb":
+    slug: "gb"
+    title: "Dance Dance Revolution GB"
+    color: "tomato"
+  "us":
+    slug: "us"
+    title: "Dance Dance Revolution"
+    color: "mediumvioletred"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

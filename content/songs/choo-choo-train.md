@@ -5,7 +5,10 @@ artist: "(J-POP)"
 from: "DANCE 86.4 FUNKY RADIO STATION"
 bpm: 123
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

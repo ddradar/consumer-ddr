@@ -5,7 +5,10 @@ artist: "S&K"
 from: "Dancemania BASS #2"
 bpm: 132
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

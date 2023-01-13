@@ -5,9 +5,18 @@ artist: "smile. dk"
 from: "Dancemania X1"
 bpm: 138
 series:
-  - "1st-jp"
-  - "2nd"
-  - "2nd-dc"
+  "1st-jp":
+    slug: "1st-jp"
+    title: "Dance Dance Revolution"
+    color: "darkviolet"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

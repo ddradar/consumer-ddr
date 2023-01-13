@@ -5,8 +5,14 @@ artist: "MUSTACHE MEN"
 from: "DanceDanceRevolution 4thMIX PLUS"
 bpm: 130
 series:
-  - "extra"
-  - "ext-us"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

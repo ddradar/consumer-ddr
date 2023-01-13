@@ -5,7 +5,10 @@ artist: "TaQ"
 from: "DanceDanceRevolution EXTREME"
 bpm: 155
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

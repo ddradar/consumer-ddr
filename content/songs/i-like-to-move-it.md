@@ -5,7 +5,10 @@ artist: "Reel 2 Real"
 from: "I Like To Move It"
 bpm: 123
 series:
-  - "max-us"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

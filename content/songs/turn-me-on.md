@@ -5,9 +5,18 @@ artist: "E-ROTIC"
 from: "Dancemania SPEED 2"
 bpm: 170
 series:
-  - "3rd"
-  - "gb2"
-  - "best"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb2":
+    slug: "gb2"
+    title: "Dance Dance Revolution GB2"
+    color: "darkgreen"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

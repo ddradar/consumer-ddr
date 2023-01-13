@@ -5,11 +5,26 @@ artist: "Dr. VIBE feat. JP Miles"
 from: "DanceDanceRevolution 4thMIX"
 bpm: 130
 series:
-  - "4th"
-  - "gb3"
-  - "konamix"
-  - "max2-us"
-  - "festival"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,8 +5,14 @@ artist: "4 REEEL"
 from: "Dancemania SUMMERS 2001"
 bpm: 130
 series:
-  - "max-jp"
-  - "ext-us"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,10 +5,22 @@ artist: "Crystal Aliens"
 from: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
 bpm: 180
 series:
-  - "tkd"
-  - "extra"
-  - "ext-jp"
-  - "ext2"
+  "tkd":
+    slug: "tkd"
+    title: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
+    color: "midnightblue"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

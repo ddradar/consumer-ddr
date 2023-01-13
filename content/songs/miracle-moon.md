@@ -5,8 +5,14 @@ artist: "Togo Project feat. Sana"
 from: "beatmania APPEND 5thMIX -Time to get down-"
 bpm: 138
 series:
-  - "ext-jp"
-  - "ext2"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

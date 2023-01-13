@@ -5,7 +5,10 @@ artist: "CREAMY"
 from: "Dancemania EX 1"
 bpm: 134
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

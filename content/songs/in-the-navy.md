@@ -5,11 +5,26 @@ artist: "CAPTAIN JACK"
 from: "Dancemania X3"
 bpm: 135
 series:
-  - "2nd"
-  - "2nd-dc"
-  - "3rd"
-  - "gb2"
-  - "max2-us"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb2":
+    slug: "gb2"
+    title: "Dance Dance Revolution GB2"
+    color: "darkgreen"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

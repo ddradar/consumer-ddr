@@ -5,9 +5,18 @@ artist: "NAOKI"
 from: "beatmania IIDX 5th style / DanceDanceRevolution 5thMIX"
 bpm: 150
 series:
-  - "5th"
-  - "max2-us"
-  - "party"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

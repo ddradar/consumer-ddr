@@ -5,7 +5,10 @@ artist: "Steve Rhyner"
 from: "Dark Black Forest"
 bpm: 140
 series:
-  - "max-us"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,8 +5,14 @@ artist: "TIPS & TRICKS VS WISDOME"
 from: "Dancemania SUMMERS 2001"
 bpm: "65-130"
 series:
-  - "max-jp"
-  - "max2-us"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

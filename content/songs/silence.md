@@ -5,7 +5,10 @@ artist: "Delerium with Sarah McLachlan"
 from: "Karma"
 bpm: 136
 series:
-  - "ext2"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

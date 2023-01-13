@@ -5,7 +5,10 @@ artist: "M/A/R/R/S"
 from: "Pump Up The Volume"
 bpm: 114
 series:
-  - "ext2"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

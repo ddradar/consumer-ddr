@@ -5,7 +5,10 @@ artist: "DAVID BOWIE"
 from: "DISCO VIKING"
 bpm: 114
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

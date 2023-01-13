@@ -5,7 +5,10 @@ artist: "新谷さなえ"
 from: "pop'n music 7"
 bpm: 125
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "LIVE 2 LOVE"
 from: "Dancemania SPORTS"
 bpm: 136
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

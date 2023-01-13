@@ -5,8 +5,14 @@ artist: "DJ SIMON"
 from: "beatmania 6thMIX -THE UK UNDERGROUND MUSIC-"
 bpm: 130
 series:
-  - "ext-jp"
-  - "ext2"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

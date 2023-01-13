@@ -5,7 +5,10 @@ artist: "Jocelyn Enriquez"
 from: "Jocelyn"
 bpm: "56-135"
 series:
-  - "max2-us"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

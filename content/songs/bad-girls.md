@@ -5,9 +5,18 @@ artist: "Juliet Roberts"
 from: "ZIPmania II"
 bpm: 122
 series:
-  - "2nd"
-  - "2nd-dc"
-  - "gb"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "gb":
+    slug: "gb"
+    title: "Dance Dance Revolution GB"
+    color: "tomato"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "MM"
 from: "Dancemania SPEED BEST 2001"
 bpm: 170
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

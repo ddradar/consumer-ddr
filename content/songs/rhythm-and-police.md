@@ -5,9 +5,18 @@ artist: "CJ CREW feat. CHRISTIAN D"
 from: "Dancemania SPEED BEST 2001"
 bpm: 170
 series:
-  - "extra"
-  - "max-us"
-  - "party"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

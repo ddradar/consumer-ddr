@@ -5,8 +5,14 @@ artist: "Supa Fova"
 from: "DanceDanceRevolution Party Collection"
 bpm: "65-130"
 series:
-  - "party"
-  - "ext2"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

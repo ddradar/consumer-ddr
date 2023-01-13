@@ -5,10 +5,22 @@ artist: "NAOKI feat. PAULA TERRY"
 from: "Dance Maniax"
 bpm: 160
 series:
-  - "extra"
-  - "5th"
-  - "max-us"
-  - "festival"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

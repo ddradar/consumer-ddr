@@ -5,11 +5,26 @@ artist: "System S.F. feat. ANNA"
 from: "DanceDanceRevolution 5thMIX CS"
 bpm: 140
 series:
-  - "5th"
-  - "konamix"
-  - "max-jp"
-  - "max-us"
-  - "party"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

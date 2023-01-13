@@ -5,8 +5,14 @@ artist: "dj nagureo"
 from: "beatmania"
 bpm: 130
 series:
-  - "club-2"
-  - "club-dc"
+  "club-2":
+    slug: "club-2"
+    title: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2"
+    color: "fuchsia"
+  "club-dc":
+    slug: "club-dc"
+    title: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
+    color: "royalblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

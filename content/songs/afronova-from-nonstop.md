@@ -5,8 +5,14 @@ artist: "RE-VENGE"
 from: "DanceDanceRevolution 3rdMIX ORIGINAL SOUNDTRACK"
 bpm: 200
 series:
-  - "max-jp"
-  - "ext2"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "NAOKI"
 from: "Dancemania SPEED 8"
 bpm: "85-170"
 series:
-  - "max2-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

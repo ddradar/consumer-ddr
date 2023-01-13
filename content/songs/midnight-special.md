@@ -5,7 +5,10 @@ artist: "Love machineguns"
 from: "drummania 2ndMIX"
 bpm: 182
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

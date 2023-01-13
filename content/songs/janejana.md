@@ -5,8 +5,14 @@ artist: "T.E.M.P.O. feat. Mohammed&Emi"
 from: "Dance Maniax"
 bpm: 125
 series:
-  - "ext-jp"
-  - "ext-us"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

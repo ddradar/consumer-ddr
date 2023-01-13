@@ -5,7 +5,10 @@ artist: "DREAMS COME TRUE"
 from: "LOVE LOVE LOVE/嵐が来る"
 bpm: 84
 series:
-  - "dct"
+  "dct":
+    slug: "dct"
+    title: "Dancing Stage featuring DREAMS COME TRUE"
+    color: "mediumvioletred"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

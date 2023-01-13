@@ -5,11 +5,26 @@ artist: "JOGA"
 from: "Dancemania X3"
 bpm: 142
 series:
-  - "3rd"
-  - "gb"
-  - "gb2"
-  - "best"
-  - "party"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb":
+    slug: "gb"
+    title: "Dance Dance Revolution GB"
+    color: "tomato"
+  "gb2":
+    slug: "gb2"
+    title: "Dance Dance Revolution GB2"
+    color: "darkgreen"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

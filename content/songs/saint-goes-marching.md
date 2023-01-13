@@ -5,7 +5,10 @@ artist: "THE SAINT"
 from: "Dancemania SPEED 4"
 bpm: "110-175"
 series:
-  - "4th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

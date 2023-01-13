@@ -5,7 +5,10 @@ artist: "Be For U"
 from: "DanceDanceRevolution Party Collection"
 bpm: 148
 series:
-  - "party"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

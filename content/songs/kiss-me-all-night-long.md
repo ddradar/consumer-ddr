@@ -5,7 +5,10 @@ artist: "NAOKI J-STYLE feat.MIU"
 from: "Dance Maniax 2ndMIX"
 bpm: 155
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

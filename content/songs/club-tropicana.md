@@ -5,8 +5,14 @@ artist: "Cydney D"
 from: "Dancemania BASS #4"
 bpm: 132
 series:
-  - "gb2"
-  - "extra"
+  "gb2":
+    slug: "gb2"
+    title: "Dance Dance Revolution GB2"
+    color: "darkgreen"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

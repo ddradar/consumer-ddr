@@ -5,7 +5,10 @@ artist: "Mr. T"
 from: "beatmania IIDX 6th style"
 bpm: 140
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

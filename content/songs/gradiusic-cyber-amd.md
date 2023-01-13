@@ -5,9 +5,18 @@ artist: "BIG-O feat. TAKA"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 160
 series:
-  - "3rd"
-  - "max-us"
-  - "festival"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

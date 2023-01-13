@@ -7,14 +7,12 @@
 </template>
 
 <script lang="ts" setup>
-import type { Software } from '~~/src/content'
-
-type SeriesListData = Pick<Software, 'slug' | 'title'>
+import type { Song } from '~~/src/content'
 
 const NuxtLink = resolveComponent('NuxtLink')
 
 interface SeriesListProps {
-  series: SeriesListData[]
+  series: Song['series']
 }
 
 const _prop = defineProps<SeriesListProps>()

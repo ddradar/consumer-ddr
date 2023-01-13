@@ -5,9 +5,18 @@ artist: "Z"
 from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: "140-320"
 series:
-  - "max2-jp"
-  - "max2-us"
-  - "ext-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

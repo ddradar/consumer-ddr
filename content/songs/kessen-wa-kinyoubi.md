@@ -5,7 +5,10 @@ artist: "DREAMS COME TRUE"
 from: "決戦は金曜日/太陽が見てる"
 bpm: 125
 series:
-  - "dct"
+  "dct":
+    slug: "dct"
+    title: "Dancing Stage featuring DREAMS COME TRUE"
+    color: "mediumvioletred"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

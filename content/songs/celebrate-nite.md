@@ -5,12 +5,30 @@ artist: "N.M.R."
 from: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
 bpm: 144
 series:
-  - "tkd"
-  - "gb3"
-  - "extra"
-  - "konamix"
-  - "max2-us"
-  - "party"
+  "tkd":
+    slug: "tkd"
+    title: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
+    color: "midnightblue"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

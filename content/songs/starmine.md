@@ -5,7 +5,10 @@ artist: "Ryu"
 from: "beatmania IIDX 4th style"
 bpm: 182
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

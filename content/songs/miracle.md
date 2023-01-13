@@ -5,8 +5,14 @@ artist: "ST.JENNARO"
 from: ""
 bpm: 128
 series:
-  - "max-jp"
-  - "ext-us"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

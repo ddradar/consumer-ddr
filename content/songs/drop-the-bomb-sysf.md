@@ -5,8 +5,14 @@ artist: "Scotty D."
 from: "DDRMAX -DanceDanceRevolution-"
 bpm: 150
 series:
-  - "max-us"
-  - "max2-jp"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

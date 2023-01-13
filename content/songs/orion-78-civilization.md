@@ -5,10 +5,22 @@ artist: "2MB"
 from: "DanceDanceRevolution 4thMIX CS"
 bpm: 200
 series:
-  - "4th"
-  - "max-jp"
-  - "max-us"
-  - "ext-jp"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

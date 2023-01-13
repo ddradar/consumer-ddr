@@ -5,9 +5,18 @@ artist: "QUADRA"
 from: "beatmania IIDX"
 bpm: 150
 series:
-  - "club-1"
-  - "club-dc"
-  - "konamix"
+  "club-1":
+    slug: "club-1"
+    title: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1"
+    color: "deepskyblue"
+  "club-dc":
+    slug: "club-dc"
+    title: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
+    color: "royalblue"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

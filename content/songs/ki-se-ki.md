@@ -5,7 +5,10 @@ artist: "Be For U"
 from: "DDR FESTIVAL -DanceDanceRevolution-"
 bpm: 155
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

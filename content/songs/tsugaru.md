@@ -5,9 +5,18 @@ artist: "RevenG vs DE-SIRE"
 from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: "95-165"
 series:
-  - "max2-jp"
-  - "max2-us"
-  - "ext-us"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,8 +5,14 @@ artist: "わるじぇんぬ"
 from: "おはスタベスト OHA-STUDIO BEST ～vol.2～"
 bpm: 125
 series:
-  - "oha"
-  - "oha-gb"
+  "oha":
+    slug: "oha"
+    title: "おはスタ Dance Dance Revolution"
+    color: "dodgerblue"
+  "oha-gb":
+    slug: "oha-gb"
+    title: "おはスタ Dance Dance Revolution GB"
+    color: "darkgray"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

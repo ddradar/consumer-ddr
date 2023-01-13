@@ -5,9 +5,18 @@ artist: "DJ KAZU feat. tiger YAMATO"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 154
 series:
-  - "3rd"
-  - "gb3"
-  - "konamix"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

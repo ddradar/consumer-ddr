@@ -5,18 +5,54 @@ artist: "190"
 from: "DanceDanceRevolution 2ndMIX"
 bpm: 190
 series:
-  - "1st-jp"
-  - "2nd"
-  - "club-2"
-  - "2nd-dc"
-  - "club-dc"
-  - "3rd"
-  - "gb"
-  - "best"
-  - "us"
-  - "max-us"
-  - "ext-jp"
-  - "ext-us"
+  "1st-jp":
+    slug: "1st-jp"
+    title: "Dance Dance Revolution"
+    color: "darkviolet"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "club-2":
+    slug: "club-2"
+    title: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2"
+    color: "fuchsia"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "club-dc":
+    slug: "club-dc"
+    title: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
+    color: "royalblue"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb":
+    slug: "gb"
+    title: "Dance Dance Revolution GB"
+    color: "tomato"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "us":
+    slug: "us"
+    title: "Dance Dance Revolution"
+    color: "mediumvioletred"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

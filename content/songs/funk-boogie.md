@@ -5,8 +5,14 @@ artist: "Funk Kid feat. KOOL BOYS"
 from: "DanceDanceRevolution EXTREME CS (US)"
 bpm: 127
 series:
-  - "ext-us"
-  - "festival"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

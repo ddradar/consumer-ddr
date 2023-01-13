@@ -5,7 +5,10 @@ artist: "UZI-LAY"
 from: "Dance Maniax"
 bpm: 120
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

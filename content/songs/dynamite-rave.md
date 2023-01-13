@@ -5,14 +5,38 @@ artist: "NAOKI"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 150
 series:
-  - "2nd-dc"
-  - "3rd"
-  - "best"
-  - "us"
-  - "konamix"
-  - "max2-jp"
-  - "ext-jp"
-  - "ext2"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "us":
+    slug: "us"
+    title: "Dance Dance Revolution"
+    color: "mediumvioletred"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,9 +5,18 @@ artist: ""
 from: "Forever Club Disney Super Dancin' Mania-The Perfect Best"
 bpm: 250
 series:
-  - "disney-jp"
-  - "gb-disney"
-  - "disney-us"
+  "disney-jp":
+    slug: "disney-jp"
+    title: "Dance Dance Revolution Disney's RAVE"
+    color: "dimgray"
+  "gb-disney":
+    slug: "gb-disney"
+    title: "Dance Dance Revolution GB Disney mix"
+    color: "orchid"
+  "disney-us":
+    slug: "disney-us"
+    title: "Dance Dance Revolution Disney MIX"
+    color: "gold"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

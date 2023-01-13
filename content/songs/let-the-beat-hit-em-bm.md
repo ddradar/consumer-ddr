@@ -5,8 +5,14 @@ artist: "Stone Bros."
 from: "beatmania IIDX 2nd style"
 bpm: 110
 series:
-  - "extra"
-  - "max-us"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

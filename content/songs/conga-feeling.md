@@ -5,9 +5,18 @@ artist: "VIVIAN"
 from: "Dancemania SUMMERS 3"
 bpm: 130
 series:
-  - "extra"
-  - "max2-us"
-  - "party"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

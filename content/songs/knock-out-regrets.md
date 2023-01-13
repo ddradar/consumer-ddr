@@ -5,7 +5,10 @@ artist: "MAKI@TOGO.BAND"
 from: "DanceDanceRevolution STRIKE"
 bpm: 180
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

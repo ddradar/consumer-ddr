@@ -5,8 +5,14 @@ artist: "PONY TOWN BOYZ"
 from: "Dancemania BASS #4"
 bpm: "160-161"
 series:
-  - "gb2"
-  - "extra"
+  "gb2":
+    slug: "gb2"
+    title: "Dance Dance Revolution GB2"
+    color: "darkgreen"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

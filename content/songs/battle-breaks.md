@@ -5,7 +5,10 @@ artist: "DJ TAKAWO"
 from: "beatmania APPEND 5thMIX -Time to get down-"
 bpm: 112
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

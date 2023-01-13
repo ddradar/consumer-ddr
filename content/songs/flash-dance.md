@@ -5,7 +5,10 @@ artist: "MAGIKA"
 from: "Dancemania SPEED 2"
 bpm: 167
 series:
-  - "3rd"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

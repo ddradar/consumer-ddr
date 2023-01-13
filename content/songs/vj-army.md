@@ -5,7 +5,10 @@ artist: "good-cool"
 from: "beatmania IIDX 6th style"
 bpm: "135-160"
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

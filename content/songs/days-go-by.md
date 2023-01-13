@@ -5,7 +5,10 @@ artist: "Dirty Vegas"
 from: "Dirty Vegas"
 bpm: 127
 series:
-  - "max2-us"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

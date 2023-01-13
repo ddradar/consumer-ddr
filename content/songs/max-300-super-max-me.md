@@ -5,7 +5,10 @@ artist: "Jondi & Spesh"
 from: "DanceDanceRevolution ULTRAMIX2"
 bpm: "140-320"
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

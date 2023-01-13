@@ -5,8 +5,14 @@ artist: "CLUB SPICE"
 from: "DanceDanceRevolution 3rdMIX CS"
 bpm: 126
 series:
-  - "3rd"
-  - "konamix"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

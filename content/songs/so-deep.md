@@ -5,8 +5,14 @@ artist: "SILVERTEAR"
 from: "The Best Of World Trance FantasiA"
 bpm: 140
 series:
-  - "max-jp"
-  - "max2-us"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

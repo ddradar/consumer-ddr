@@ -5,9 +5,18 @@ artist: "SDMS"
 from: "DanceDanceRevolution EXTREME CS"
 bpm: 140
 series:
-  - "ext-jp"
-  - "festival"
-  - "ext2"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

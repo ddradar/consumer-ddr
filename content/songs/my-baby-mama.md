@@ -5,7 +5,10 @@ artist: "ANQUETTE"
 from: "Dancemania BASS#3"
 bpm: 128
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

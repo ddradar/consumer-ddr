@@ -5,8 +5,14 @@ artist: "HOUSEBOYZ"
 from: "Dancemania SPORTS"
 bpm: 90
 series:
-  - "ext-jp"
-  - "party"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

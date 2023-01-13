@@ -5,10 +5,22 @@ artist: "NPD3"
 from: "DanceDanceRevolution 3rdMIX CS"
 bpm: 105
 series:
-  - "3rd"
-  - "best"
-  - "konamix"
-  - "ext-jp"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

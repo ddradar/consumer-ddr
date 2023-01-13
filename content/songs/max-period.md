@@ -5,7 +5,10 @@ artist: "2MB"
 from: "DanceDanceRevolution EXTREME CS"
 bpm: "150-600"
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

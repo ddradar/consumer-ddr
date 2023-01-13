@@ -5,9 +5,18 @@ artist: "BeForU"
 from: "DDRMAX -DanceDanceRevolution 6thMIX-"
 bpm: 150
 series:
-  - "max-jp"
-  - "ext-us"
-  - "festival"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

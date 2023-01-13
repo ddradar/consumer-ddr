@@ -5,7 +5,10 @@ artist: "a.s.a."
 from: "pop'n stage"
 bpm: 184
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

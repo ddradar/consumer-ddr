@@ -5,13 +5,34 @@ artist: "NM feat. SUNNY"
 from: "DanceDanceRevolution 4thMIX"
 bpm: 132
 series:
-  - "4th"
-  - "gb3"
-  - "disney-us"
-  - "konamix"
-  - "ext-jp"
-  - "party"
-  - "ext-us"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
+  "disney-us":
+    slug: "disney-us"
+    title: "Dance Dance Revolution Disney MIX"
+    color: "gold"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

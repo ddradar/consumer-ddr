@@ -5,7 +5,10 @@ artist: "VENTURA"
 from: "Dancemania presents J★PARADISE"
 bpm: 150
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

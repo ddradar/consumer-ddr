@@ -5,11 +5,26 @@ artist: "THE OLIVIA PROJECT"
 from: "Dancemania 10"
 bpm: 126
 series:
-  - "1st-jp"
-  - "2nd-dc"
-  - "gb"
-  - "best"
-  - "us"
+  "1st-jp":
+    slug: "1st-jp"
+    title: "Dance Dance Revolution"
+    color: "darkviolet"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "gb":
+    slug: "gb"
+    title: "Dance Dance Revolution GB"
+    color: "tomato"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "us":
+    slug: "us"
+    title: "Dance Dance Revolution"
+    color: "mediumvioletred"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

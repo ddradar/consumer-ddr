@@ -5,7 +5,10 @@ artist: "TOMOSUKE"
 from: "Dance Maniax 2ndMIX"
 bpm: 145
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

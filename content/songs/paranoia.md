@@ -5,17 +5,50 @@ artist: "180"
 from: "DanceDanceRevolution"
 bpm: 180
 series:
-  - "1st-jp"
-  - "2nd"
-  - "2nd-dc"
-  - "3rd"
-  - "gb"
-  - "best"
-  - "us"
-  - "konamix"
-  - "ext-jp"
-  - "party"
-  - "ext2"
+  "1st-jp":
+    slug: "1st-jp"
+    title: "Dance Dance Revolution"
+    color: "darkviolet"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb":
+    slug: "gb"
+    title: "Dance Dance Revolution GB"
+    color: "tomato"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "us":
+    slug: "us"
+    title: "Dance Dance Revolution"
+    color: "mediumvioletred"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "POPULA DEMAND feat. THE GET FRESH GIRLS"
 from: "Dancemania BASS#2"
 bpm: 124
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

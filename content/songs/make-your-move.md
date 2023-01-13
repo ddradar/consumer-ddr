@@ -5,8 +5,14 @@ artist: "good-cool feat. JP Miles"
 from: "beatmania IIDX 3rd style"
 bpm: 120
 series:
-  - "4th"
-  - "konamix"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

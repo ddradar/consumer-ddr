@@ -5,7 +5,10 @@ artist: "DREAMS COME TRUE"
 from: "The Swinging Star"
 bpm: 110
 series:
-  - "dct"
+  "dct":
+    slug: "dct"
+    title: "Dancing Stage featuring DREAMS COME TRUE"
+    color: "mediumvioletred"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "BUS STOP"
 from: "ZIPmania III"
 bpm: 133
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

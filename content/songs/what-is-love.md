@@ -5,7 +5,10 @@ artist: "TOMOSUKE"
 from: "beatmania 7thMIX -keepin' evolution-"
 bpm: 130
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

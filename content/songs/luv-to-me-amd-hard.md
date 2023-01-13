@@ -5,7 +5,10 @@ artist: "DJ KAZU feat. tiger YAMATO"
 from: "Dance Dance Revolution GB3"
 bpm: 210
 series:
-  - "gb3"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

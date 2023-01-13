@@ -5,9 +5,18 @@ artist: "RE-VENGE"
 from: "DanceDanceRevolution 4thMIX"
 bpm: 105
 series:
-  - "4th"
-  - "konamix"
-  - "party"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

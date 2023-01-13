@@ -5,11 +5,26 @@ artist: "King Kong & D. Jungle Girls"
 from: "Dancemania Super Classics 1"
 bpm: 135
 series:
-  - "2nd"
-  - "2nd-dc"
-  - "gb"
-  - "best"
-  - "us"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "gb":
+    slug: "gb"
+    title: "Dance Dance Revolution GB"
+    color: "tomato"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "us":
+    slug: "us"
+    title: "Dance Dance Revolution"
+    color: "mediumvioletred"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

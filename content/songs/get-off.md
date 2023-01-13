@@ -5,7 +5,10 @@ artist: "WIZZZARD"
 from: "Dancemania BASS#0"
 bpm: 137
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

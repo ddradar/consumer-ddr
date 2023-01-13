@@ -5,7 +5,10 @@ artist: "THE OLIVIA PROJECT"
 from: "Dancemania 3"
 bpm: 130
 series:
-  - "4th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

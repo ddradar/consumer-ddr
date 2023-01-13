@@ -5,10 +5,22 @@ artist: "NAOKI feat. PAULA TERRY"
 from: "DanceDanceRevolution 4thMIX"
 bpm: 150
 series:
-  - "4th"
-  - "gb3"
-  - "max-us"
-  - "festival"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

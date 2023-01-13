@@ -5,7 +5,10 @@ artist: "Asletics"
 from: "beatmania THE FINAL"
 bpm: 103
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "L.E.D."
 from: "beatmania IIDX 4th style CS -new songs collection-"
 bpm: 147
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

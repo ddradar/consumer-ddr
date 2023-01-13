@@ -5,9 +5,18 @@ artist: "dj nagureo"
 from: "beatmania 4thMIX -the beat goes on-"
 bpm: 126
 series:
-  - "club-2"
-  - "club-dc"
-  - "max-us"
+  "club-2":
+    slug: "club-2"
+    title: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2"
+    color: "fuchsia"
+  "club-dc":
+    slug: "club-dc"
+    title: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
+    color: "royalblue"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

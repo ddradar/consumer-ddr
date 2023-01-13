@@ -5,8 +5,14 @@ artist: "DJ-AC-DC"
 from: "Dancemania X9"
 bpm: 140
 series:
-  - "5th"
-  - "ext-us"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

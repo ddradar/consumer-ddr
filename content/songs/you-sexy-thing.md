@@ -5,7 +5,10 @@ artist: "Hot Chocolate"
 from: "You Sexy Thing Remix by Ben Liebrand"
 bpm: 106
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,8 +5,14 @@ artist: "RAVERS CHOICE"
 from: "Dancemania SPEED 2"
 bpm: 166
 series:
-  - "3rd"
-  - "gb2"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb2":
+    slug: "gb2"
+    title: "Dance Dance Revolution GB2"
+    color: "darkgreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "JT. 1Up"
 from: "DanceDanceRevolution ULTRAMIX2"
 bpm: "130-170"
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

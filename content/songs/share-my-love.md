@@ -5,10 +5,22 @@ artist: "Julie Frost"
 from: "DanceDanceRevolution 4thMIX CS"
 bpm: 125
 series:
-  - "4th"
-  - "disney-us"
-  - "max-jp"
-  - "max-us"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "disney-us":
+    slug: "disney-us"
+    title: "Dance Dance Revolution Disney MIX"
+    color: "gold"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "DANDY MINERO"
 from: "Dance Maniax"
 bpm: 130
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

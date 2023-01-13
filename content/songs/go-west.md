@@ -5,7 +5,10 @@ artist: "PET SHOP BOYS"
 from: "Very"
 bpm: 120
 series:
-  - "ext-us"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

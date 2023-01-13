@@ -5,9 +5,18 @@ artist: "D.J. Spugna"
 from: "beatmania IIDX 7th style"
 bpm: 130
 series:
-  - "max2-us"
-  - "ext-jp"
-  - "ext-us"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,9 +5,18 @@ artist: "jun"
 from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 180
 series:
-  - "max2-jp"
-  - "party"
-  - "ext2"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

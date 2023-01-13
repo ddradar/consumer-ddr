@@ -5,8 +5,14 @@ artist: "NAOKI feat. PAULA TERRY"
 from: "DanceDanceRevolution EXTREME2"
 bpm: "78-155"
 series:
-  - "ext2"
-  - "strike"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

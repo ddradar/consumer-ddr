@@ -5,8 +5,14 @@ artist: "KIM WILDE"
 from: "Kids In America"
 bpm: 159
 series:
-  - "ext-us"
-  - "festival"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

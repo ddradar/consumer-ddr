@@ -5,7 +5,10 @@ artist: "Darude"
 from: "Music"
 bpm: 138
 series:
-  - "ext-us"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

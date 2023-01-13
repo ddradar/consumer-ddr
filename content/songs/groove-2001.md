@@ -5,9 +5,18 @@ artist: "Sho-T feat. Brenda"
 from: "DanceDanceRevolution EXTRA MIX"
 bpm: 140
 series:
-  - "extra"
-  - "max-jp"
-  - "max-us"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

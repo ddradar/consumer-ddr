@@ -5,7 +5,10 @@ artist: "D.D.SOUND"
 from: "Dancemania Super Classics 3"
 bpm: 129
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,9 +5,18 @@ artist: "200"
 from: "DanceDanceRevolution Solo BASS MIX"
 bpm: 200
 series:
-  - "extra"
-  - "max-us"
-  - "ext-jp"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

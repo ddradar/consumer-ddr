@@ -5,8 +5,14 @@ artist: "Combined"
 from: "Forever Club Disney Super Dancin' Mania-The Perfect Best"
 bpm: 142
 series:
-  - "disney-jp"
-  - "disney-us"
+  "disney-jp":
+    slug: "disney-jp"
+    title: "Dance Dance Revolution Disney's RAVE"
+    color: "dimgray"
+  "disney-us":
+    slug: "disney-us"
+    title: "Dance Dance Revolution Disney MIX"
+    color: "gold"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

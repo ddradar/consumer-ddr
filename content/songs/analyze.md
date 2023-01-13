@@ -5,7 +5,10 @@ artist: "B. BANDJ"
 from: "beatmania CORE REMIX"
 bpm: 93
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

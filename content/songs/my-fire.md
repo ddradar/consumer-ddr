@@ -5,10 +5,22 @@ artist: "X-TREME"
 from: "Dancemania WINTERS"
 bpm: 130
 series:
-  - "1st-jp"
-  - "2nd-dc"
-  - "best"
-  - "us"
+  "1st-jp":
+    slug: "1st-jp"
+    title: "Dance Dance Revolution"
+    color: "darkviolet"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "us":
+    slug: "us"
+    title: "Dance Dance Revolution"
+    color: "mediumvioletred"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

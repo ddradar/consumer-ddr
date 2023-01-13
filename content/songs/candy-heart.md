@@ -5,9 +5,18 @@ artist: "小坂りゆ"
 from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 180
 series:
-  - "max2-jp"
-  - "festival"
-  - "ext2"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

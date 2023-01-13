@@ -5,7 +5,10 @@ artist: "BUS STOP featuring CARL DOUGLAS"
 from: "Dancemania BASS#3"
 bpm: 116
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

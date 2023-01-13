@@ -5,7 +5,10 @@ artist: "good-cool feat. Meg"
 from: "beatmania IIDX 7th style"
 bpm: 155
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

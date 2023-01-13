@@ -5,7 +5,10 @@ artist: "smile.dk"
 from: "Dancemania EURO☆MIX HAPPY PARADISE"
 bpm: 155
 series:
-  - "4th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

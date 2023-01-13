@@ -5,8 +5,14 @@ artist: "Kiyommy + Seiya"
 from: "KEYBOARDMANIA 3rdMIX"
 bpm: 146
 series:
-  - "ext-jp"
-  - "ext-us"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "Paul Oakenfold vs. Afrika Bambaata and the Soul Sonic Force"
 from: "Swordfish: The Album"
 bpm: 126
 series:
-  - "ext-us"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

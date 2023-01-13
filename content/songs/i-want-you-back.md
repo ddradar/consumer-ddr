@@ -5,8 +5,14 @@ artist: ""
 from: "Tokyo Disneyland: Club Disney Super Dancin' Mania -Disco Fever-"
 bpm: 98
 series:
-  - "disney-jp"
-  - "gb-disney"
+  "disney-jp":
+    slug: "disney-jp"
+    title: "Dance Dance Revolution Disney's RAVE"
+    color: "dimgray"
+  "gb-disney":
+    slug: "gb-disney"
+    title: "Dance Dance Revolution GB Disney mix"
+    color: "orchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

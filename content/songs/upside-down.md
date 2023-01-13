@@ -5,8 +5,14 @@ artist: "COO COO"
 from: "Dancemania Super Classics 1"
 bpm: 124
 series:
-  - "3rd"
-  - "gb3"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

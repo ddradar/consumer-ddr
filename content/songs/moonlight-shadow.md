@@ -5,8 +5,14 @@ artist: "MISSING HEART"
 from: "Dancemania X8"
 bpm: 140
 series:
-  - "5th"
-  - "party"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

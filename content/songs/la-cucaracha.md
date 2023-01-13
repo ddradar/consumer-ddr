@@ -5,7 +5,10 @@ artist: "Big Idea"
 from: "DanceDanceRevolution ULTRAMIX2"
 bpm: 165
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "wg feat. Indra J"
 from: "Dangerously in Love"
 bpm: 100
 series:
-  - "ext2"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

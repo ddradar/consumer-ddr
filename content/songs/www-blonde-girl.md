@@ -5,7 +5,10 @@ artist: "JENNY ROM"
 from: "Dancemania SPEED BEST 2001"
 bpm: 170
 series:
-  - "max-jp"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

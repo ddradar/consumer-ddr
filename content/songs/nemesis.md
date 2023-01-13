@@ -5,7 +5,10 @@ artist: "D.J. SETUP"
 from: "beatmania IIDX 6th style"
 bpm: 164
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

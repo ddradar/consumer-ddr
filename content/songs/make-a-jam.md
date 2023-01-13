@@ -5,12 +5,30 @@ artist: "U1"
 from: "Dance Dance Revolution (CS)"
 bpm: 124
 series:
-  - "1st-jp"
-  - "2nd"
-  - "2nd-dc"
-  - "3rd"
-  - "oha"
-  - "konamix"
+  "1st-jp":
+    slug: "1st-jp"
+    title: "Dance Dance Revolution"
+    color: "darkviolet"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "oha":
+    slug: "oha"
+    title: "おはスタ Dance Dance Revolution"
+    color: "dodgerblue"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

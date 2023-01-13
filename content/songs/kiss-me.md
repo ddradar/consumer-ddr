@@ -5,8 +5,14 @@ artist: "E-ROTIC"
 from: "Dancemania SPEED3"
 bpm: 170
 series:
-  - "gb3"
-  - "extra"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

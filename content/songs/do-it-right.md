@@ -5,10 +5,22 @@ artist: "SOTA feat. Ebony Fay"
 from: "DanceDanceRevolution 5thMIX CS"
 bpm: 135
 series:
-  - "5th"
-  - "konamix"
-  - "max-jp"
-  - "max2-us"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

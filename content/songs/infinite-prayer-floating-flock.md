@@ -5,7 +5,10 @@ artist: "L.E.D. feat. GORO"
 from: "beatmania APPEND ClubMIX"
 bpm: 120
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

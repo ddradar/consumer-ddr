@@ -5,7 +5,10 @@ artist: "TËЯRA"
 from: "DanceDanceRevolution Party Collection"
 bpm: 140
 series:
-  - "party"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

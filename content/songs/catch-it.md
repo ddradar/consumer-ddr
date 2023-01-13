@@ -5,7 +5,10 @@ artist: "TOTAL SCIENCE"
 from: "beatmania 6thMIX -THE UK UNDERGROUND MUSIC-"
 bpm: 174
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

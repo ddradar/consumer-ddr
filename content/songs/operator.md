@@ -5,8 +5,14 @@ artist: "PAPAYA"
 from: "Dancemania X3"
 bpm: 135
 series:
-  - "3rd"
-  - "gb2"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb2":
+    slug: "gb2"
+    title: "Dance Dance Revolution GB2"
+    color: "darkgreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

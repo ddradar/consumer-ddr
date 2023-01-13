@@ -5,8 +5,14 @@ artist: "TaQ"
 from: "beatmania IIDX 4th style"
 bpm: 148
 series:
-  - "5th"
-  - "konamix"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

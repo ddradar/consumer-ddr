@@ -5,8 +5,14 @@ artist: "KTz (remixed by U1)"
 from: "DanceDanceRevolution KONAMIX"
 bpm: 130
 series:
-  - "konamix"
-  - "max2-jp"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

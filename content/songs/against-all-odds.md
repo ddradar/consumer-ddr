@@ -5,8 +5,14 @@ artist: "Déjà Vu featuring Tasmin"
 from: "Dancemania X8"
 bpm: 139
 series:
-  - "5th"
-  - "ext2"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

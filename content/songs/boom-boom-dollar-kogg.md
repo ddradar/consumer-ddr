@@ -5,8 +5,14 @@ artist: "King Kong & D. Jungle Girls"
 from: "Dancemania SPEED 3"
 bpm: 170
 series:
-  - "3rd"
-  - "ext2"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: ".3k"
 from: "DanceDanceRevolution Party Collection"
 bpm: 300
 series:
-  - "party"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

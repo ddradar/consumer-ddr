@@ -5,10 +5,22 @@ artist: "NM feat.Julie"
 from: "beatmania IIDX 5th style / DanceDanceRevolution 5thMIX"
 bpm: 105
 series:
-  - "extra"
-  - "5th"
-  - "max-us"
-  - "party"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "DJ SPEEDO feat. ANGELICA"
 from: "Dancemania SPEED 8"
 bpm: 172
 series:
-  - "ext-us"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

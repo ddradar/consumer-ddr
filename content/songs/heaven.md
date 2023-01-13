@@ -5,7 +5,10 @@ artist: "DJ Sammy & Yanou featuring DO"
 from: "Heaven"
 bpm: 138
 series:
-  - "max2-us"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

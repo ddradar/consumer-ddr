@@ -5,7 +5,10 @@ artist: "Golden Gate"
 from: "Take It To The Morning Light"
 bpm: 129
 series:
-  - "max-us"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

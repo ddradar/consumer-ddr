@@ -5,7 +5,10 @@ artist: ""
 from: "Forever Club Disney Super Dancin' Mania-The Perfect Best"
 bpm: 173
 series:
-  - "disney-jp"
+  "disney-jp":
+    slug: "disney-jp"
+    title: "Dance Dance Revolution Disney's RAVE"
+    color: "dimgray"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

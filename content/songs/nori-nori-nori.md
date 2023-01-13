@@ -5,8 +5,14 @@ artist: "JUDY CRYSTAL"
 from: "Dancemania HAPPY PARADISE 2"
 bpm: 160
 series:
-  - "5th"
-  - "max-jp"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

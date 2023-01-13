@@ -5,7 +5,10 @@ artist: "KC & THE SUNSHINE BAND"
 from: "KC and the Sunshine Band"
 bpm: "106-120"
 series:
-  - "max2-us"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

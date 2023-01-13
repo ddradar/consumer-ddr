@@ -5,7 +5,10 @@ artist: "CAPTAIN JACK"
 from: "Dancemania BASS#4"
 bpm: 155
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

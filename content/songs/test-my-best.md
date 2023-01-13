@@ -5,7 +5,10 @@ artist: "E-ROTIC"
 from: "Dancemania X8"
 bpm: 147
 series:
-  - "5th"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

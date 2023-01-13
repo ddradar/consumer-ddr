@@ -5,7 +5,10 @@ artist: "L.E.D."
 from: "beatmania IIDX 5th style -new songs collection-"
 bpm: 150
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

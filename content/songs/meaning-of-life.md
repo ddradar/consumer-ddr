@@ -5,7 +5,10 @@ artist: "K. Wit feat. GARY"
 from: "Dance Maniax"
 bpm: 112
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

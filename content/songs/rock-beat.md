@@ -5,7 +5,10 @@ artist: "LOUD FORCE"
 from: "Dancemania X4"
 bpm: 150
 series:
-  - "3rd"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

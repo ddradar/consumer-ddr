@@ -5,7 +5,10 @@ artist: ""
 from: "Tokyo Disneyland: Club Disney Super Dancin' Mania -Mega Beat-"
 bpm: 145
 series:
-  - "disney-jp"
+  "disney-jp":
+    slug: "disney-jp"
+    title: "Dance Dance Revolution Disney's RAVE"
+    color: "dimgray"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

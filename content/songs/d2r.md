@@ -5,9 +5,18 @@ artist: "NAOKI"
 from: "beatmania IIDX 7th style / DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 160
 series:
-  - "max2-jp"
-  - "max2-us"
-  - "festival"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

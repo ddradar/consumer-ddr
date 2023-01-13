@@ -5,7 +5,10 @@ artist: "DDR ALL STARS"
 from: "DanceDanceRevolution EXTREME"
 bpm: "150"
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

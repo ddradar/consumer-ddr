@@ -5,8 +5,14 @@ artist: "CARTOONS"
 from: "TOONTASTIC!"
 bpm: 150
 series:
-  - "max-jp"
-  - "party"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

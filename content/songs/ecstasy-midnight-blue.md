@@ -5,8 +5,14 @@ artist: "d-complex"
 from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 145
 series:
-  - "max2-jp"
-  - "ext-us"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "TAVARES"
 from: "Dancemania Super Classics 1"
 bpm: 122
 series:
-  - "4th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

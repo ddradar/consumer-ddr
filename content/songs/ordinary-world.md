@@ -5,8 +5,14 @@ artist: "AURORA featuring NAIMEE COLEMAN"
 from: "The Best Of World Trance FantasiA"
 bpm: 139
 series:
-  - "max-jp"
-  - "max-us"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

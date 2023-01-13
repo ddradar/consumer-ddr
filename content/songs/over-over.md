@@ -5,7 +5,10 @@ artist: "TRUE KiSS DESTiNATiON"
 from: "OVER & OVER"
 bpm: 173
 series:
-  - "tkd"
+  "tkd":
+    slug: "tkd"
+    title: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "JUDY CRYSTAL"
 from: "BABY LOVE ME"
 bpm: 160
 series:
-  - "max2-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

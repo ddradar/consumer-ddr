@@ -5,7 +5,10 @@ artist: "tiger YAMATO"
 from: "ParaParaParadise"
 bpm: 152
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

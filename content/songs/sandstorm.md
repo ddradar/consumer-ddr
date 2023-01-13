@@ -5,7 +5,10 @@ artist: "Darude"
 from: "Sandstorm"
 bpm: 136
 series:
-  - "max-us"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

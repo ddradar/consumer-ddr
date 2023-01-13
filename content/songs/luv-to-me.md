@@ -5,9 +5,18 @@ artist: "tiger YAMATO"
 from: "beatmania IIDX"
 bpm: 154
 series:
-  - "club-1"
-  - "club-dc"
-  - "ext-jp"
+  "club-1":
+    slug: "club-1"
+    title: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1"
+    color: "deepskyblue"
+  "club-dc":
+    slug: "club-dc"
+    title: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
+    color: "royalblue"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

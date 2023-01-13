@@ -5,7 +5,10 @@ artist: "2 UNLIMITED"
 from: "Dancemania X8"
 bpm: 136
 series:
-  - "5th"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

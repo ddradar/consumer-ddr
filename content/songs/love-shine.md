@@ -5,8 +5,14 @@ artist: "小坂りゆ"
 from: "DanceDanceRevolution EXTREME"
 bpm: 177
 series:
-  - "max2-jp"
-  - "ext-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "Junior Senior"
 from: "D-D-Don't Don't Stop the Beat"
 bpm: 118
 series:
-  - "ext-us"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,9 +5,18 @@ artist: "N&S"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 190
 series:
-  - "3rd"
-  - "konamix"
-  - "max2-jp"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

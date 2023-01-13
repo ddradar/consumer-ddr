@@ -5,7 +5,10 @@ artist: "TIGGY"
 from: "Dancemania HAPPY PARADISE 2"
 bpm: 150
 series:
-  - "max-jp"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

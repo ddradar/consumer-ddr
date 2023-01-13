@@ -5,8 +5,14 @@ artist: "CHUMBAWAMBA"
 from: "Dancemania EXTRA"
 bpm: 104
 series:
-  - "2nd"
-  - "2nd-dc"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

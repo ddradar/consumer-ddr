@@ -5,8 +5,14 @@ artist: "E-ROTIC"
 from: "Dancemania X5"
 bpm: 148
 series:
-  - "3rd"
-  - "4th"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

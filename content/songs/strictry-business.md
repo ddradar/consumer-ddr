@@ -5,7 +5,10 @@ artist: "MANTRONIK vs EPMD"
 from: "Dancemania WINTERS"
 bpm: 125
 series:
-  - "1st-jp"
+  "1st-jp":
+    slug: "1st-jp"
+    title: "Dance Dance Revolution"
+    color: "darkviolet"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,8 +5,14 @@ artist: "ROSE"
 from: "Dancemania SPEED 9"
 bpm: 169
 series:
-  - "ext-jp"
-  - "ext2"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

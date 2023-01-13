@@ -5,7 +5,10 @@ artist: "L.E.D.-G vs GUHROOVY fw/ Asuka"
 from: "beatmania IIDX 5th style -new songs collection-"
 bpm: 178
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

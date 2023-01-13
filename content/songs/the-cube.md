@@ -5,8 +5,14 @@ artist: "DJ SUWAMI"
 from: "beatmania IIDX 5th style"
 bpm: 178
 series:
-  - "5th"
-  - "max-us"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

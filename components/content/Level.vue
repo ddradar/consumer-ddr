@@ -17,7 +17,7 @@ import type { Song } from '~~/src/content'
 const NuxtLink = resolveComponent('NuxtLink')
 
 interface LevelProps {
-  series: Song['series'][number]
+  series: Song['series'][string]
   level: number | '10+' | '?'
 }
 

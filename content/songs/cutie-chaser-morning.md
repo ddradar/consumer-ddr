@@ -5,9 +5,18 @@ artist: "CLUB SPICE"
 from: "おはスタ Dance Dance Revolution"
 bpm: 126
 series:
-  - "oha"
-  - "max-us"
-  - "max2-jp"
+  "oha":
+    slug: "oha"
+    title: "おはスタ Dance Dance Revolution"
+    color: "dodgerblue"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

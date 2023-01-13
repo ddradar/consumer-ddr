@@ -5,8 +5,14 @@ artist: "Mr. T"
 from: "beatmania IIDX 8th style"
 bpm: 158
 series:
-  - "max2-us"
-  - "ext-jp"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

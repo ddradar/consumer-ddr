@@ -5,9 +5,18 @@ artist: "S.F.M.P."
 from: "DDRMAX2 -DanceDanceRevolution-"
 bpm: 115
 series:
-  - "max2-us"
-  - "ext-jp"
-  - "party"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

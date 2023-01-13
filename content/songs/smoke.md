@@ -5,9 +5,18 @@ artist: "MR. ED JUMPS THE GUN"
 from: "Dancemania Winters"
 bpm: 135
 series:
-  - "2nd"
-  - "2nd-dc"
-  - "us"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "us":
+    slug: "us"
+    title: "Dance Dance Revolution"
+    color: "mediumvioletred"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

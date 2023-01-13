@@ -5,7 +5,10 @@ artist: "RE-VENGE"
 from: "Dance Maniax 2ndMIX"
 bpm: 180
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: "C.J. Crew feat. Sedge"
 from: "Dancemania SPEED 5"
 bpm: 170
 series:
-  - "4th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

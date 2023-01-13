@@ -5,7 +5,10 @@ artist: "E-ROTIC"
 from: "Dancemania X3"
 bpm: 142
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

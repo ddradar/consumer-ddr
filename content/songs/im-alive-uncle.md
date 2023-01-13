@@ -5,7 +5,10 @@ artist: "UNCLE 36 SEC. feat. MC TAIWAN"
 from: "Dancemania BASS#1"
 bpm: 140
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

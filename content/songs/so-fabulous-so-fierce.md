@@ -5,7 +5,10 @@ artist: "THUNDERPUSS feat. JOCELYN ENRIQUEZ"
 from: "Dancemania 20"
 bpm: 128
 series:
-  - "max2-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

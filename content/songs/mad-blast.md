@@ -5,7 +5,10 @@ artist: "THE INFECTION"
 from: "Dance Maniax"
 bpm: 180
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

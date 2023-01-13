@@ -5,9 +5,18 @@ artist: "NAOKI underground"
 from: "DanceDanceRevolution 5thMIX"
 bpm: "140-220"
 series:
-  - "5th"
-  - "max-us"
-  - "festival"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

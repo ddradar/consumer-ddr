@@ -5,7 +5,10 @@ artist: "KC & THE SUNSHINE BAND"
 from: "Dancemania Club Classics 2"
 bpm: 112
 series:
-  - "4th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

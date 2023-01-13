@@ -5,7 +5,10 @@ artist: "E-ROTIC"
 from: "Dancemania presents E-ROTIC MEGAMIX"
 bpm: 159
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

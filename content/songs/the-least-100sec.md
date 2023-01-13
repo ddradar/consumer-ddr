@@ -5,7 +5,10 @@ artist: "Hirofumi Sasaki"
 from: "GUITARFREAKS 5thMIX & drummania 4thMIX"
 bpm: "200-263"
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

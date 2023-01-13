@@ -5,7 +5,10 @@ artist: "Midihead"
 from: "DanceDanceRevolution ULTRAMIX2"
 bpm: 142
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

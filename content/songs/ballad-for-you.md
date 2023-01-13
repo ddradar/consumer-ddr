@@ -5,7 +5,10 @@ artist: "NM feat. Thomas Howard"
 from: "beatmania IIDX 6th style"
 bpm: 65
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

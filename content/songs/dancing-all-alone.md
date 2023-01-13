@@ -5,8 +5,14 @@ artist: "SMiLE.dk"
 from: "Dancemania X8"
 bpm: 140
 series:
-  - "4th"
-  - "5th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

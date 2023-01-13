@@ -5,7 +5,10 @@ artist: "(J-POP)"
 from: "ダイエットチャンネル"
 bpm: 175
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

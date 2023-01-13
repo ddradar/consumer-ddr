@@ -5,7 +5,10 @@ artist: "NI-NI"
 from: "Dancemania PRESENTS J★PARADISE"
 bpm: 142
 series:
-  - "5th"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

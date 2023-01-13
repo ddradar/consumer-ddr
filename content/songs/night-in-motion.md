@@ -5,7 +5,10 @@ artist: "CUBIC 22"
 from: "Dancemania CLUB THE EARTH DISCO CLASSICS"
 bpm: 131
 series:
-  - "4th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

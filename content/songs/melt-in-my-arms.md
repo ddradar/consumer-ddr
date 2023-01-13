@@ -5,8 +5,14 @@ artist: "Honey P feat. Asuka. M"
 from: "beatmania IIDX"
 bpm: 118
 series:
-  - "club-1"
-  - "club-dc"
+  "club-1":
+    slug: "club-1"
+    title: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1"
+    color: "deepskyblue"
+  "club-dc":
+    slug: "club-dc"
+    title: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
+    color: "royalblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

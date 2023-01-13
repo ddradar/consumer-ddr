@@ -5,8 +5,14 @@ artist: "BLUE DESTROYERS"
 from: "DanceDanceRevolution 4thMIX"
 bpm: 135
 series:
-  - "4th"
-  - "gb3"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

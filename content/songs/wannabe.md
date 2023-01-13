@@ -5,7 +5,10 @@ artist: "Spice Girls"
 from: "Wannabe"
 bpm: 110
 series:
-  - "party"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

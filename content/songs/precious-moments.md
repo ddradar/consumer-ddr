@@ -5,7 +5,10 @@ artist: "TRUE KiSS DESTiNATiON"
 from: "PRECiOUS MOMENTS -WHEN WILL I SEE YOU AGAIN-"
 bpm: 100
 series:
-  - "tkd"
+  "tkd":
+    slug: "tkd"
+    title: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

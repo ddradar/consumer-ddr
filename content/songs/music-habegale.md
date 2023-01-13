@@ -5,7 +5,10 @@ artist: "HABEGALE"
 from: "Dancemania X4"
 bpm: 140
 series:
-  - "4th"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

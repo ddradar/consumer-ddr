@@ -5,8 +5,14 @@ artist: "MR. DOG feat. DJ SWAN"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 160
 series:
-  - "3rd"
-  - "max-us"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

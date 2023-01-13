@@ -5,7 +5,10 @@ artist: "くにたけ みゆき"
 from: "GUITARFREAKS 7thMIX & drummania 6thMIX"
 bpm: 170
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

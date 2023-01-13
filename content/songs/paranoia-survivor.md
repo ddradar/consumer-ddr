@@ -5,9 +5,18 @@ artist: "270"
 from: "DanceDanceRevolution EXTREME"
 bpm: "135-270"
 series:
-  - "max2-jp"
-  - "ext-jp"
-  - "ext2"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

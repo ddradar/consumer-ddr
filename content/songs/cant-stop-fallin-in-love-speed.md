@@ -5,9 +5,18 @@ artist: "NAOKI"
 from: "DanceDanceRevolution 5thMIX"
 bpm: 170
 series:
-  - "5th"
-  - "ext-jp"
-  - "ext-us"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

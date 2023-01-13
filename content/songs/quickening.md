@@ -5,8 +5,14 @@ artist: "dj TAKA"
 from: "Dance Maniax 2ndMIX"
 bpm: 150
 series:
-  - "festival"
-  - "ext2"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

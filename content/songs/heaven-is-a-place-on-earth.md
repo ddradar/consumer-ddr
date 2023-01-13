@@ -5,7 +5,10 @@ artist: "JULIA"
 from: "Dancemania COVERS 01"
 bpm: 140
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

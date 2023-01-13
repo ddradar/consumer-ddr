@@ -5,19 +5,58 @@ artist: "NAOKI"
 from: "DanceDanceRevolution 2ndMIX"
 bpm: 150
 series:
-  - "2nd"
-  - "club-2"
-  - "2nd-dc"
-  - "club-dc"
-  - "3rd"
-  - "gb"
-  - "oha"
-  - "best"
-  - "us"
-  - "konamix"
-  - "ext-jp"
-  - "party"
-  - "ext2"
+  "2nd":
+    slug: "2nd"
+    title: "Dance Dance Revolution 2nd ReMIX"
+    color: "mediumblue"
+  "club-2":
+    slug: "club-2"
+    title: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2"
+    color: "fuchsia"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "club-dc":
+    slug: "club-dc"
+    title: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
+    color: "royalblue"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "gb":
+    slug: "gb"
+    title: "Dance Dance Revolution GB"
+    color: "tomato"
+  "oha":
+    slug: "oha"
+    title: "おはスタ Dance Dance Revolution"
+    color: "dodgerblue"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "us":
+    slug: "us"
+    title: "Dance Dance Revolution"
+    color: "mediumvioletred"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,8 +5,14 @@ artist: "Stone Bros."
 from: "DanceDanceRevolution Solo BASS MIX"
 bpm: 110
 series:
-  - "extra"
-  - "disney-us"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "disney-us":
+    slug: "disney-us"
+    title: "Dance Dance Revolution Disney MIX"
+    color: "gold"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

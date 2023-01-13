@@ -5,7 +5,10 @@ artist: "ROSE & JOHN"
 from: "Dancemania SPEED 8"
 bpm: 169
 series:
-  - "max2-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

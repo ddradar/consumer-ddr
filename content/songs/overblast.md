@@ -5,8 +5,14 @@ artist: "L.E.D. LIGHT"
 from: "beatmania APPEND 5thMIX -Time to get down-"
 bpm: 147
 series:
-  - "max-us"
-  - "max2-jp"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

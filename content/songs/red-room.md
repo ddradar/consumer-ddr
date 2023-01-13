@@ -5,7 +5,10 @@ artist: "Jesper Kyd"
 from: "DanceDanceRevolution ULTRAMIX2"
 bpm: 120
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

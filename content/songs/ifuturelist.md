@@ -5,7 +5,10 @@ artist: "AKIRA YAMAOKA"
 from: "DanceDanceRevolution STRIKE"
 bpm: 150
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

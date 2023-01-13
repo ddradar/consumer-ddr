@@ -5,9 +5,18 @@ artist: "X-TREME"
 from: "Dancemania SUMMERS 2"
 bpm: 128
 series:
-  - "3rd"
-  - "best"
-  - "ext-us"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

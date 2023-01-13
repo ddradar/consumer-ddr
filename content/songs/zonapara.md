@@ -5,8 +5,14 @@ artist: "ゾベッカ"
 from: "象南波羅～ゾナパラ～WHY!パラパラ・リミックス"
 bpm: 158
 series:
-  - "oha"
-  - "oha-gb"
+  "oha":
+    slug: "oha"
+    title: "おはスタ Dance Dance Revolution"
+    color: "dodgerblue"
+  "oha-gb":
+    slug: "oha-gb"
+    title: "おはスタ Dance Dance Revolution GB"
+    color: "darkgray"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

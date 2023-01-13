@@ -5,7 +5,10 @@ artist: "DIAMOND"
 from: "Dancemania BASS#5"
 bpm: 136
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

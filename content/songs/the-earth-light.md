@@ -5,9 +5,18 @@ artist: "L.E.D. LIGHT"
 from: "beatmania IIDX substream"
 bpm: 145
 series:
-  - "club-2"
-  - "club-dc"
-  - "konamix"
+  "club-2":
+    slug: "club-2"
+    title: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2"
+    color: "fuchsia"
+  "club-dc":
+    slug: "club-dc"
+    title: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
+    color: "royalblue"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,10 @@ artist: ""
 from: "Club Disney Super Dancin Mania -Disco Fever-"
 bpm: 100
 series:
-  - "disney-jp"
+  "disney-jp":
+    slug: "disney-jp"
+    title: "Dance Dance Revolution Disney's RAVE"
+    color: "dimgray"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

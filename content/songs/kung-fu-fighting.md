@@ -5,9 +5,18 @@ artist: "BUS STOP featuring CARL DOUGLAS"
 from: "Dancemania EXTRA"
 bpm: 116
 series:
-  - "1st-jp"
-  - "2nd-dc"
-  - "best"
+  "1st-jp":
+    slug: "1st-jp"
+    title: "Dance Dance Revolution"
+    color: "darkviolet"
+  "2nd-dc":
+    slug: "2nd-dc"
+    title: "Dance Dance Revolution 2nd MIX Dreamcast Edition"
+    color: "darkorange"
+  "best":
+    slug: "best"
+    title: "Dance Dance Revolution BEST HITS"
+    color: "goldenrod"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

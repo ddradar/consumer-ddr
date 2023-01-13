@@ -5,8 +5,14 @@ artist: "CAPTAIN JACK"
 from: "Dancemania BASS #6"
 bpm: 93
 series:
-  - "4th"
-  - "ext-us"
+  "4th":
+    slug: "4th"
+    title: "Dance Dance Revolution 4thMIX"
+    color: "midnightblue"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

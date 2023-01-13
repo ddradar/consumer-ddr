@@ -5,7 +5,10 @@ artist: "BRASS TRICKS"
 from: "Dance Maniax"
 bpm: 140
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

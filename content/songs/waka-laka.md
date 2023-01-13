@@ -5,7 +5,10 @@ artist: "JENNY ROM VS ZIPPERS"
 from: "Dancemania SPEED 8"
 bpm: 170
 series:
-  - "max2-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

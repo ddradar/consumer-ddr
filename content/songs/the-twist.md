@@ -5,7 +5,10 @@ artist: "LIBERTY ALL STAZ"
 from: "Dancemania BASS #10 SUPER BEST"
 bpm: 159
 series:
-  - "5th"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

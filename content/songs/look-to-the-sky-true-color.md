@@ -5,9 +5,18 @@ artist: "System S.F. feat. Anna"
 from: "DDRMAX -DanceDanceRevolution-"
 bpm: 140
 series:
-  - "max-us"
-  - "max2-jp"
-  - "ext2"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

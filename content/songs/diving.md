@@ -5,7 +5,10 @@ artist: "4 Strings"
 from: "Diving"
 bpm: 140
 series:
-  - "ext-us"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
