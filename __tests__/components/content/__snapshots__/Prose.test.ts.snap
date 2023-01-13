@@ -8,16 +8,6 @@ exports[`components/content/ > ProseA.vue > { href: "/songs" } renders <NuxtLink
 </a>
 `;
 
-exports[`components/content/ > ProseA.vue > { href: "https://example.com" } renders <a> 1`] = `
-<a
-  href="https://example.com"
->
-  
-  Link
-  
-</a>
-`;
-
 exports[`components/content/ > ProseH2.vue > { id: "Header2" } renders <h2> 1`] = `
 <h2
   class="title is-4"
