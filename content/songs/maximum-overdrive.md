@@ -5,7 +5,10 @@ artist: "2 UNLIMITED"
 from: "Dancemania 21"
 bpm: 140
 series:
-  - "max2-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,9 +25,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2}|63/3||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=4}|192/10||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|251/15||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=1}|80/10||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|191/2||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|245/7||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=2}|63/3||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=4}|192/10||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=8}|251/15||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=1}|80/10||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=5}|191/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=8}|245/7||

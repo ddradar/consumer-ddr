@@ -5,7 +5,10 @@ artist: "4 STRINGS"
 from: "Believe"
 bpm: 138
 series:
-  - "max2-us"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|105/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4}|149/27||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|210/37||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|250/35||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=2}|97/6||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=5}|152/11||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|219/25||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1}|105/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-us']" level=4}|149/27||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-us']" level=6}|210/37||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-us']" level=7}|250/35||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-us']" level=2}|97/6||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-us']" level=5}|152/11||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-us']" level=7}|219/25||

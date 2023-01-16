@@ -5,7 +5,10 @@ artist: "tiger YAMATO"
 from: "beatmania IIDX 4th style"
 bpm: 160
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|127/1||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|168/5||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|234/12||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|307/15||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|184/7||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=7}|286/9||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|362/12||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['strike']" level=1}|127/1||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=3}|168/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=6}|234/12||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=9}|307/15||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=4}|184/7||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=7}|286/9||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=9}|362/12||

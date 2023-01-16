@@ -5,8 +5,14 @@ artist: "Motorcycle"
 from: "Dancemania EX 7"
 bpm: 136
 series:
-  - "ext2"
-  - "strike"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,10 +29,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1} :level{slug="strike" level=1}|110/4||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=5} :level{slug="strike" level=5}|173/49||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=6} :level{slug="strike" level=6}|222/44||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=8} :level{slug="strike" level=8}|314/49||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=5} :level{slug="strike" level=5}|170/45||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=6} :level{slug="strike" level=6}|222/44||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7} :level{slug="strike" level=7}|303/50||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext2']" level=1} :level{:slug="series['strike']" level=1}|110/4||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=5} :level{:slug="series['strike']" level=5}|173/49||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=6} :level{:slug="series['strike']" level=6}|222/44||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=8} :level{:slug="series['strike']" level=8}|314/49||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=5} :level{:slug="series['strike']" level=5}|170/45||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=6} :level{:slug="series['strike']" level=6}|222/44||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=7} :level{:slug="series['strike']" level=7}|303/50||

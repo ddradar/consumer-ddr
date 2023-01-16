@@ -5,8 +5,14 @@ artist: "怪人ゾナー"
 from: "おはスタベスト OHA-STUDIO BEST ～vol.1～"
 bpm: 180
 series:
-  - "oha"
-  - "oha-gb"
+  "oha":
+    slug: "oha"
+    title: "おはスタ Dance Dance Revolution"
+    color: "dodgerblue"
+  "oha-gb":
+    slug: "oha-gb"
+    title: "おはスタ Dance Dance Revolution GB"
+    color: "darkgray"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,17 +29,17 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC (EASY)]{.tag.is-basic}|:level{slug="oha" level=4}|173/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="oha" level=6} :level{slug="oha-gb" level=6}|205/0||
-|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}|:level{slug="oha" level=4}|169/0||
-|SINGLE|[ANOTHER]{.tag.is-difficult}|:level{slug="oha" level=7} :level{slug="oha-gb" level=7}|210/0||
-|SINGLE|[MANIAC (EASY)]{.tag.is-expert}|:level{slug="oha" level=5}|192/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="oha" level=8} :level{slug="oha-gb" level=8}|266/0||
-|DOUBLE|[BASIC (EASY)]{.tag.is-basic}|:level{slug="oha" level=5}|169/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="oha" level=8}|207/0||
-|UNISON|[BASIC (EASY)]{.tag.is-basic}|:level{slug="oha" level=4}|||
-|UNISON|[BASIC]{.tag.is-basic}|:level{slug="oha" level=6}|||
-|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}|:level{slug="oha" level=4}|||
-|UNISON|[ANOTHER]{.tag.is-difficult}|:level{slug="oha" level=7}|||
-|UNISON|[MANIAC (EASY)]{.tag.is-expert}|:level{slug="oha" level=5}|||
-|UNISON|[MANIAC]{.tag.is-expert}|:level{slug="oha" level=8}|||
+|SINGLE|[BASIC (EASY)]{.tag.is-basic}|:level{:slug="series['oha']" level=4}|173/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['oha']" level=6} :level{:slug="series['oha-gb']" level=6}|205/0||
+|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}|:level{:slug="series['oha']" level=4}|169/0||
+|SINGLE|[ANOTHER]{.tag.is-difficult}|:level{:slug="series['oha']" level=7} :level{:slug="series['oha-gb']" level=7}|210/0||
+|SINGLE|[MANIAC (EASY)]{.tag.is-expert}|:level{:slug="series['oha']" level=5}|192/0||
+|SINGLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['oha']" level=8} :level{:slug="series['oha-gb']" level=8}|266/0||
+|DOUBLE|[BASIC (EASY)]{.tag.is-basic}|:level{:slug="series['oha']" level=5}|169/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['oha']" level=8}|207/0||
+|UNISON|[BASIC (EASY)]{.tag.is-basic}|:level{:slug="series['oha']" level=4}|||
+|UNISON|[BASIC]{.tag.is-basic}|:level{:slug="series['oha']" level=6}|||
+|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}|:level{:slug="series['oha']" level=4}|||
+|UNISON|[ANOTHER]{.tag.is-difficult}|:level{:slug="series['oha']" level=7}|||
+|UNISON|[MANIAC (EASY)]{.tag.is-expert}|:level{:slug="series['oha']" level=5}|||
+|UNISON|[MANIAC]{.tag.is-expert}|:level{:slug="series['oha']" level=8}|||

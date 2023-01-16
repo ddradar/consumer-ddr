@@ -5,7 +5,10 @@ artist: "Big Idea"
 from: "DanceDanceRevolution ULTRAMIX2"
 bpm: 180
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=2}|151/16||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|222/30||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|268/16||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=6}|322/17||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|223/22||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|258/12||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|260/18||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['strike']" level=2}|151/16||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=4}|222/30||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=5}|268/16||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=6}|322/17||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=4}|223/22||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=6}|258/12||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=7}|260/18||

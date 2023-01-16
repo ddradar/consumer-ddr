@@ -5,10 +5,22 @@ artist: "8 bit"
 from: "Dance Maniax"
 bpm: 200
 series:
-  - "extra"
-  - "5th"
-  - "konamix"
-  - "ext2"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
+  "5th":
+    slug: "5th"
+    title: "Dance Dance Revolution 5thMIX"
+    color: "orange"
+  "konamix":
+    slug: "konamix"
+    title: "Dance Dance Revolution KONAMIX"
+    color: "orange"
+  "ext2":
+    slug: "ext2"
+    title: "Dance Dance Revolution EXTREME 2"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,13 +37,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=2}|158/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=4} :level{slug="5th" level=4} :level{slug="konamix" level=4} :level{slug="ext2" level=4}|272/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=6} :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="ext2" level=6}|322/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=9} :level{slug="5th" level=9} :level{slug="konamix" level=9} :level{slug="ext2" level=9}|423/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=4} :level{slug="5th" level=4} :level{slug="konamix" level=4} :level{slug="ext2" level=4}|287/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=6} :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="ext2" level=6}|332/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=9} :level{slug="5th" level=9} :level{slug="konamix" level=9} :level{slug="ext2" level=9}|437/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext2']" level=2}|158/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=4} :level{:slug="series['5th']" level=4} :level{:slug="series['konamix']" level=4} :level{:slug="series['ext2']" level=4}|272/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=6} :level{:slug="series['5th']" level=6} :level{:slug="series['konamix']" level=6} :level{:slug="series['ext2']" level=6}|322/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=9} :level{:slug="series['5th']" level=9} :level{:slug="series['konamix']" level=9} :level{:slug="series['ext2']" level=9}|423/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=4} :level{:slug="series['5th']" level=4} :level{:slug="series['konamix']" level=4} :level{:slug="series['ext2']" level=4}|287/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=6} :level{:slug="series['5th']" level=6} :level{:slug="series['konamix']" level=6} :level{:slug="series['ext2']" level=6}|332/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=9} :level{:slug="series['5th']" level=9} :level{:slug="series['konamix']" level=9} :level{:slug="series['ext2']" level=9}|437/0||
 
 ## メモ
 

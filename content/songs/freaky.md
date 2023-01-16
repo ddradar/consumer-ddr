@@ -5,7 +5,10 @@ artist: "DE LITE & MC YOUNG"
 from: "Dancemania BASS#3"
 bpm: 160
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,12 +25,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=4}|0/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=5}|0/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=7}|0/0||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="extra" level=5}|0/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=6}|0/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=8}|0/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=4}|0/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=5}|0/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=7}|0/0||
+|6-PANELS|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=5}|0/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=6}|0/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=8}|0/0||
 
 ## メモ
 

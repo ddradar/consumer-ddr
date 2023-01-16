@@ -5,7 +5,10 @@ artist: "Thuggie D."
 from: "DanceDanceRevolution ULTRAMIX"
 bpm: 113
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,9 +25,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|122/19||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|166/26||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=6}|245/28||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=3}|123/21||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=5}|166/26||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=7}|245/28||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['festival']" level=3}|122/19||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['festival']" level=5}|166/26||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['festival']" level=6}|245/28||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['festival']" level=3}|123/21||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['festival']" level=5}|166/26||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['festival']" level=7}|245/28||

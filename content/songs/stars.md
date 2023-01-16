@@ -5,7 +5,10 @@ artist: "TËЯRA"
 from: "DanceDanceRevolution Party Collection"
 bpm: 140
 series:
-  - "party"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=1}|105/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=5}|184/14||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=6}|223/14||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level=7}|294/22||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=5}|188/17||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=7}|224/14||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level=8}|295/21||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['party']" level=1}|105/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['party']" level=5}|184/14||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['party']" level=6}|223/14||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['party']" level=7}|294/22||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['party']" level=5}|188/17||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['party']" level=7}|224/14||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['party']" level=8}|295/21||

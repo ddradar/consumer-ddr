@@ -23,5 +23,5 @@ export interface Song {
   name: string
   artist: string
   bpm: number | string
-  series: string[]
+  series: Record<string, Pick<Software, 'slug' | 'title' | 'color'>>
 }

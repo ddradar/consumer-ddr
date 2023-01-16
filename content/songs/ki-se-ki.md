@@ -5,7 +5,10 @@ artist: "Be For U"
 from: "DDR FESTIVAL -DanceDanceRevolution-"
 bpm: 155
 series:
-  - "festival"
+  "festival":
+    slug: "festival"
+    title: "DDR FESTIVAL Dance Dance Revolution"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|133/4||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=5}|193/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=7}|272/6||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|384/22||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="festival" level=4}|185/14||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="festival" level=7}|235/14||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="festival" level=8}|292/10||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['festival']" level=1}|133/4||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['festival']" level=5}|193/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['festival']" level=7}|272/6||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['festival']" level=8}|384/22||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['festival']" level=4}|185/14||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['festival']" level=7}|235/14||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['festival']" level=8}|292/10||

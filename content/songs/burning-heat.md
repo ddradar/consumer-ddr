@@ -5,8 +5,14 @@ artist: "Mr. T with Motoaki F."
 from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 166
 series:
-  - "max2-jp"
-  - "max2-us"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,10 +29,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|96/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|116/12||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}|200/29||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=9} :level{slug="max2-us" level=9}|413/5||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|109/23||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6} :level{slug="max2-us" level=6}|200/22||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=9} :level{slug="max2-us" level=9}|314/1||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1}|96/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=2} :level{:slug="series['max2-us']" level=2}|116/12||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=5} :level{:slug="series['max2-us']" level=5}|200/29||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=9} :level{:slug="series['max2-us']" level=9}|413/5||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=2} :level{:slug="series['max2-us']" level=2}|109/23||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=6} :level{:slug="series['max2-us']" level=6}|200/22||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=9} :level{:slug="series['max2-us']" level=9}|314/1||

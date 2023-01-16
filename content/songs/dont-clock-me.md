@@ -5,7 +5,10 @@ artist: "POPULA DEMAND feat. THE GET FRESH GIRLS"
 from: "Dancemania BASS#2"
 bpm: 124
 series:
-  - "extra"
+  "extra":
+    slug: "extra"
+    title: "Dance Dance Revolution EXTRA MIX"
+    color: "deeppink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,16 +25,16 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|96/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=2} :level{slug="ext-us" level=3}|110/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=4} :level{slug="ext-us" level=4}|149/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=6} :level{slug="ext-us" level=6}|206/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=2}|87/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=4}|160/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=4}|219/1||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="extra" level=2}|110/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=4}|149/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=7}|206/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-us']" level=1}|96/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=2} :level{:slug="series['ext-us']" level=3}|110/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=4} :level{:slug="series['ext-us']" level=4}|149/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=6} :level{:slug="series['ext-us']" level=6}|206/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-us']" level=2}|87/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-us']" level=4}|160/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-us']" level=4}|219/1||
+|6-PANELS|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=2}|110/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=4}|149/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=7}|206/0||
 
 ## メモ
 

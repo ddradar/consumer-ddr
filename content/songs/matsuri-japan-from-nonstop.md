@@ -5,7 +5,10 @@ artist: "RE-VENGE"
 from: "DanceDanceRevolution 5thMIX ORIGINAL SOUNDTRACK"
 bpm: 180
 series:
-  - "max2-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,5 +25,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7}|279/3||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7}|263/5||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=7}|279/3||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=7}|263/5||

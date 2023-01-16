@@ -5,7 +5,10 @@ artist: "DJ KAZU feat. tiger YAMATO"
 from: "Dance Dance Revolution GB3"
 bpm: 210
 series:
-  - "gb3"
+  "gb3":
+    slug: "gb3"
+    title: "Dance Dance Revolution GB3"
+    color: "goldenrod"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,9 +25,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="gb3" level=6}|203/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="gb3" level=8}|270/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="gb3" level=9}|353/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['gb3']" level=6}|203/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['gb3']" level=8}|270/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['gb3']" level=9}|353/0||
 
 ## メモ
 

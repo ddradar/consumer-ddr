@@ -5,7 +5,10 @@ artist: "Hot Chocolate"
 from: "You Sexy Thing Remix by Ben Liebrand"
 bpm: 106
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|81/1||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|115/9||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|177/5||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|241/15||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|127/9||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=5}|186/6||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|271/13||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['strike']" level=1}|81/1||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=3}|115/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=5}|177/5||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=7}|241/15||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=4}|127/9||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=5}|186/6||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=7}|271/13||

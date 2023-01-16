@@ -5,7 +5,10 @@ artist: "L.E.D.-G vs GUHROOVY fw/ Asuka"
 from: "beatmania IIDX 5th style -new songs collection-"
 bpm: 178
 series:
-  - "strike"
+  "strike":
+    slug: "strike"
+    title: "DanceDanceRevolution STRIKE"
+    color: "dodgerblue"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|134/8||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|180/9||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|318/21||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=9}|465/5||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|176/15||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|300/28||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|428/20||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['strike']" level=1}|134/8||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=3}|180/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=6}|318/21||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=9}|465/5||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=3}|176/15||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=6}|300/28||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=8}|428/20||

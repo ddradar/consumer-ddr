@@ -5,7 +5,10 @@ artist: "a.s.a."
 from: "pop'n stage"
 bpm: 184
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=2}|120/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|189/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|249/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|296/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|148/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|251/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|284/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-jp']" level=2}|120/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=4}|189/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=5}|249/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=8}|296/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=4}|148/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=5}|251/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=8}|284/0||

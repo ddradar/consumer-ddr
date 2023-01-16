@@ -5,8 +5,14 @@ artist: "MR. DOG feat. DJ SWAN"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 160
 series:
-  - "3rd"
-  - "max-us"
+  "3rd":
+    slug: "3rd"
+    title: "Dance Dance Revolution 3rd MIX"
+    color: "crimson"
+  "max-us":
+    slug: "max-us"
+    title: "DDRMAX Dance Dance Revolution"
+    color: "darkorchid"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,15 +29,15 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=5} :level{slug="max-us" level=5}|171/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=7} :level{slug="max-us" level=7}|234/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8} :level{slug="max-us" level=8}|293/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=5} :level{slug="max-us" level=5}|193/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=7} :level{slug="max-us" level=7}|241/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=9} :level{slug="max-us" level=9}|328/0||
-|UNISON|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=5}|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=7}|||
-|UNISON|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8}|||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['3rd']" level=5} :level{:slug="series['max-us']" level=5}|171/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['3rd']" level=7} :level{:slug="series['max-us']" level=7}|234/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['3rd']" level=8} :level{:slug="series['max-us']" level=8}|293/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['3rd']" level=5} :level{:slug="series['max-us']" level=5}|193/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['3rd']" level=7} :level{:slug="series['max-us']" level=7}|241/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['3rd']" level=9} :level{:slug="series['max-us']" level=9}|328/0||
+|UNISON|[BASIC]{.tag.is-basic}|:level{:slug="series['3rd']" level=5}|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['3rd']" level=7}|||
+|UNISON|[EXPERT]{.tag.is-expert}|:level{:slug="series['3rd']" level=8}|||
 
 ## メモ
 

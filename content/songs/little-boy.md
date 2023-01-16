@@ -5,7 +5,10 @@ artist: "CAPTAIN JACK"
 from: "CAPTAIN'S BEST - BEST HITS AND NEW SONGS -"
 bpm: 150
 series:
-  - "max2-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,12 +25,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|114/17||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|216/20||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|322/17||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|106/20||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=6}|219/16||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=9}|287/13||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=3}|114/17||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=6}|216/20||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=8}|322/17||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=3}|106/20||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=6}|219/16||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=9}|287/13||
 
 ## メモ
 

@@ -1,16 +1,8 @@
 // Vitest Snapshot v1
 
 exports[`components/content/ > ProseA.vue > { href: "/songs" } renders <NuxtLink> 1`] = `
-<a>
-  
-  Link
-  
-</a>
-`;
-
-exports[`components/content/ > ProseA.vue > { href: "https://example.com" } renders <a> 1`] = `
 <a
-  href="https://example.com"
+  external="false"
 >
   
   Link

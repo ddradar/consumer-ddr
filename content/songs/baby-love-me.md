@@ -5,7 +5,10 @@ artist: "JUDY CRYSTAL"
 from: "BABY LOVE ME"
 bpm: 160
 series:
-  - "max2-jp"
+  "max2-jp":
+    slug: "max2-jp"
+    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
+    color: "black"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,9 +25,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|113/17||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|216/32||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|380/9||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3}|123/11||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=5}|211/8||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=8}|276/20||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=3}|113/17||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=5}|216/32||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=8}|380/9||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=3}|123/11||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=5}|211/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=8}|276/20||

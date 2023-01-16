@@ -5,7 +5,10 @@ artist: "NAOKI feat.YUKI"
 from: "DanceDanceRevolution EXTREME"
 bpm: 145
 series:
-  - "ext-jp"
+  "ext-jp":
+    slug: "ext-jp"
+    title: "Dance Dance Revolution EXTREME"
+    color: "green"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|101/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|133/6||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|222/9||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|285/4||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|131/7||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|215/9||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=8}|283/4||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-jp']" level=1}|101/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=3}|133/6||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=5}|222/9||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=8}|285/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=3}|131/7||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=5}|215/9||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=8}|283/4||

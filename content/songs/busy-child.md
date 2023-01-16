@@ -5,7 +5,10 @@ artist: "The Crystal Method"
 from: "Vegas"
 bpm: 125
 series:
-  - "max2-us"
+  "max2-us":
+    slug: "max2-us"
+    title: "DDRMAX2 Dance Dance Revolution"
+    color: "orange"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|91/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=5}|163/33||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=7}|246/35||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=7}|269/49||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=3}|113/20||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6}|191/19||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=8}|280/26||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1}|91/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-us']" level=5}|163/33||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-us']" level=7}|246/35||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-us']" level=7}|269/49||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-us']" level=3}|113/20||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-us']" level=6}|191/19||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-us']" level=8}|280/26||

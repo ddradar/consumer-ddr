@@ -5,8 +5,14 @@ artist: "ST.JENNARO"
 from: ""
 bpm: 128
 series:
-  - "max-jp"
-  - "ext-us"
+  "max-jp":
+    slug: "max-jp"
+    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
+    color: "blue"
+  "ext-us":
+    slug: "ext-us"
+    title: "Dance Dance Revolution EXTREME"
+    color: "seagreen"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,10 +29,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1}|62/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=2}|74/2||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=5}|154/6||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=7}|212/12||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=2}|90/1||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=5}|167/9||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"} :level{slug="ext-us" level=8}|276/5||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-us']" level=1}|62/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max-jp']" level="?"} :level{:slug="series['ext-us']" level=2}|74/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max-jp']" level="?"} :level{:slug="series['ext-us']" level=5}|154/6||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max-jp']" level="?"} :level{:slug="series['ext-us']" level=7}|212/12||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max-jp']" level="?"} :level{:slug="series['ext-us']" level=2}|90/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max-jp']" level="?"} :level{:slug="series['ext-us']" level=5}|167/9||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max-jp']" level="?"} :level{:slug="series['ext-us']" level=8}|276/5||

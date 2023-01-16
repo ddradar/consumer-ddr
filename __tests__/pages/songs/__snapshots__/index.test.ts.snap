@@ -237,12 +237,12 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 class="buttons"
               >
                 
-                <series-stub
+                <a
                   class="button is-small"
-                  slug="2nd"
-                  tag="NuxtLink"
-                  to="/series/2nd/"
-                />
+                  style="color: rgb(255, 255, 255);"
+                >
+                  <span />
+                </a>
                 
               </div>
             </td>
@@ -296,18 +296,18 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 class="buttons"
               >
                 
-                <series-stub
+                <a
                   class="button is-small"
-                  slug="1st-jp"
-                  tag="NuxtLink"
-                  to="/series/1st-jp/"
-                />
-                <series-stub
+                  style="color: rgb(255, 255, 255);"
+                >
+                  <span />
+                </a>
+                <a
                   class="button is-small"
-                  slug="2nd"
-                  tag="NuxtLink"
-                  to="/series/2nd/"
-                />
+                  style="color: rgb(255, 255, 255);"
+                >
+                  <span />
+                </a>
                 
               </div>
             </td>

@@ -5,7 +5,10 @@ artist: ".3k"
 from: "DanceDanceRevolution Party Collection"
 bpm: 300
 series:
-  - "party"
+  "party":
+    slug: "party"
+    title: "Dance Dance Revolution Party Collection"
+    color: "hotpink"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=3}|95/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=6}|345/10||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=9}|413/26||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level="10+"}|555/18||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=6}|247/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=8}|396/13||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level="10+"}|524/13||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['party']" level=3}|95/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['party']" level=6}|345/10||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['party']" level=9}|413/26||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['party']" level="10+"}|555/18||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['party']" level=6}|247/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['party']" level=8}|396/13||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['party']" level="10+"}|524/13||
