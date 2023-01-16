@@ -13,7 +13,6 @@
 </template>
 
 <script lang="ts" setup>
-import useSoftwareData from '~~/composables/useSoftwareData'
 import type { Software } from '~~/src/content'
 
 interface Props {

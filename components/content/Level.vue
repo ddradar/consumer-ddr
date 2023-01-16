@@ -21,5 +21,5 @@ interface LevelProps {
   level: number | '10+' | '?'
 }
 
-const props = defineProps<LevelProps>()
+defineProps<LevelProps>()
 </script>

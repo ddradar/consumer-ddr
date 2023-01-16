@@ -40,7 +40,6 @@
 </template>
 
 <script lang="ts" setup>
-import Series from '~~/components/content/Series.vue'
 import useSongList from '~~/composables/useSongList'
 
 useHead({ title: 'Song List' })

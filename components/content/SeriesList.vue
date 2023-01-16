@@ -15,5 +15,5 @@ interface SeriesListProps {
   series: Song['series']
 }
 
-const _prop = defineProps<SeriesListProps>()
+defineProps<SeriesListProps>()
 </script>
