@@ -4,6 +4,7 @@ exports[`components/content/ > ProseA.vue > { href: "/songs" } renders <NuxtLink
 <a
   external="false"
 >
+  
   Link
   
 </a>
