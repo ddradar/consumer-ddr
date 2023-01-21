@@ -239,9 +239,13 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 
                 <a
                   class="button is-small"
-                  style="color: rgb(255, 255, 255);"
+                  style="background-color: mediumblue; color: rgb(255, 255, 255);"
                 >
-                  <span />
+                  <span
+                    title="Dance Dance Revolution 2nd ReMIX"
+                  >
+                    2nd
+                  </span>
                 </a>
                 
               </div>
@@ -298,15 +302,23 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 
                 <a
                   class="button is-small"
-                  style="color: rgb(255, 255, 255);"
+                  style="background-color: darkviolet; color: rgb(255, 255, 255);"
                 >
-                  <span />
+                  <span
+                    title="Dance Dance Revolution (JP)"
+                  >
+                    1st-jp
+                  </span>
                 </a>
                 <a
                   class="button is-small"
-                  style="color: rgb(255, 255, 255);"
+                  style="background-color: mediumblue; color: rgb(255, 255, 255);"
                 >
-                  <span />
+                  <span
+                    title="Dance Dance Revolution 2nd ReMIX"
+                  >
+                    2nd
+                  </span>
                 </a>
                 
               </div>
