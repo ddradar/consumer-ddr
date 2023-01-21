@@ -5,18 +5,9 @@ artist: "dj nagureo"
 from: "beatmania IIDX"
 bpm: 108
 series:
-  "club-2":
-    slug: "club-2"
-    title: "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2"
-    color: "fuchsia"
-  "club-dc":
-    slug: "club-dc"
-    title: "Dance Dance Revolution CLUB VERSION Dreamcast Edition"
-    color: "royalblue"
-  "konamix":
-    slug: "konamix"
-    title: "Dance Dance Revolution KONAMIX"
-    color: "orange"
+  - "club-2"
+  - "club-dc"
+  - "konamix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -33,11 +24,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['club-2']" level=4} :level{:slug="series['club-dc']" level=4} :level{:slug="series['konamix']" level=4}|127/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['club-2']" level=5} :level{:slug="series['club-dc']" level=5} :level{:slug="series['konamix']" level=5}|176/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['club-2']" level=6} :level{:slug="series['club-dc']" level=6} :level{:slug="series['konamix']" level=6}|205/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['club-2']" level=5} :level{:slug="series['club-dc']" level=5} :level{:slug="series['konamix']" level=5}|176/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['club-2']" level=7} :level{:slug="series['club-dc']" level=7} :level{:slug="series['konamix']" level=7}|196/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="club-2" level=4} :level{slug="club-dc" level=4} :level{slug="konamix" level=4}|127/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}|176/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}|205/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}|176/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-2" level=7} :level{slug="club-dc" level=7} :level{slug="konamix" level=7}|196/0||
 
 ## メモ
 

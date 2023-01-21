@@ -1,25 +1,29 @@
 <template>
   <div class="tags has-addons">
     <NuxtLink
-      :to="`/series/${series.slug}/`"
+      :to="`/series/${slug}/`"
       class="tag"
-      :style="{ backgroundColor: series.color, color: '#fff' }"
+      :style="{
+        backgroundColor: seriesList[slug].backgroundColor,
+        color: seriesList[slug].color
+      }"
     >
-      <span :title="series.title">{{ series.slug }}</span>
+      <span :title="series.title">{{ slug }}</span>
     </NuxtLink>
     <span class="tag">{{ level }}</span>
   </div>
 </template>
 
 <script lang="ts" setup>
-import type { Song } from '~~/src/content'
+import seriesList from '~~/content/series/.seriesList.json'
 
 const NuxtLink = resolveComponent('NuxtLink')
 
 interface LevelProps {
-  series: Song['series'][string]
+  slug: keyof typeof seriesList
   level: number | '10+' | '?'
 }
 
-defineProps<LevelProps>()
+const props = defineProps<LevelProps>()
+const series = seriesList[props.slug]
 </script>

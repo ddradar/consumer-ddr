@@ -1,6 +1,5 @@
 ---
 slug: "konamix"
-color: "orange"
 platform: "Play Station"
 region: "US"
 launched: "2002-04-23"

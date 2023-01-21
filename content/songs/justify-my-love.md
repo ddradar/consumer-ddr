@@ -5,10 +5,7 @@ artist: "TESS"
 from: "Dancemania X8"
 bpm: 140
 series:
-  "max-jp":
-    slug: "max-jp"
-    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
-    color: "blue"
+  - "max-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,9 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max-jp']" level="?"}|83/8||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max-jp']" level="?"}|166/5||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max-jp']" level="?"}|294/48||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max-jp']" level="?"}|86/7||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max-jp']" level="?"}|159/25||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max-jp']" level="?"}|275/50||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|83/8||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|166/5||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|294/48||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|86/7||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|159/25||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|275/50||

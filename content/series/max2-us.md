@@ -1,6 +1,5 @@
 ---
 slug: "max2-us"
-color: "orange"
 platform: "Play Station 2"
 region: "US"
 launched: "2003-09-23"

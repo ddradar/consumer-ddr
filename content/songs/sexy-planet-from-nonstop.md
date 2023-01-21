@@ -5,14 +5,8 @@ artist: "Crystal Aliens"
 from: "DanceDanceRevolution Solo 2000 ORIGINAL SOUNDTRACK"
 bpm: 180
 series:
-  "max2-jp":
-    slug: "max2-jp"
-    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
-    color: "black"
-  "ext2":
-    slug: "ext2"
-    title: "Dance Dance Revolution EXTREME 2"
-    color: "seagreen"
+  - "max2-jp"
+  - "ext2"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -29,5 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=7} :level{:slug="series['ext2']" level=7}|291/9||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=7} :level{:slug="series['ext2']" level=7}|243/11||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="ext2" level=7}|291/9||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="ext2" level=7}|243/11||

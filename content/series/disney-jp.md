@@ -1,6 +1,5 @@
 ---
 slug: "disney-jp"
-color: "dimgray"
 platform: "Play Station"
 region: "JP"
 launched: "2000-11-30"

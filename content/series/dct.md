@@ -1,6 +1,5 @@
 ---
 slug: "dct"
-color: "mediumvioletred"
 platform: "Play Station"
 region: "JP"
 launched: "2000-04-20"

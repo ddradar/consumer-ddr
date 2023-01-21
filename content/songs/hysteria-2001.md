@@ -5,14 +5,8 @@ artist: "NM"
 from: "beatmania 6thMIX -THE UK UNDERGROUND MUSIC-"
 bpm: 190
 series:
-  "max2-jp":
-    slug: "max2-jp"
-    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
-    color: "black"
-  "max2-us":
-    slug: "max2-us"
-    title: "DDRMAX2 Dance Dance Revolution"
-    color: "orange"
+  - "max2-jp"
+  - "max2-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -29,5 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=7} :level{:slug="series['max2-us']" level=7}|279/21||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=7} :level{:slug="series['max2-us']" level=7}|269/22||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|279/21||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|269/22||

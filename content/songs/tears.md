@@ -5,10 +5,7 @@ artist: "NAOKI underground feat.EK"
 from: "DanceDanceRevolution EXTREME"
 bpm: 143
 series:
-  "ext-jp":
-    slug: "ext-jp"
-    title: "Dance Dance Revolution EXTREME"
-    color: "green"
+  - "ext-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-jp']" level=1}|129/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=5}|177/9||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=7}|249/5||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=9}|360/6||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=4}|175/10||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=7}|252/5||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=9}|336/7||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|129/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=5}|177/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7}|249/5||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|360/6||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|175/10||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7}|252/5||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=9}|336/7||

@@ -1,6 +1,5 @@
 ---
 slug: "gb"
-color: "tomato"
 platform: "GAME BOY COLOR"
 region: "None"
 launched: "2000-08-03"

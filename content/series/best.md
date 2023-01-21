@@ -1,6 +1,5 @@
 ---
 slug: "best"
-color: "goldenrod"
 platform: "Play Station"
 region: "JP"
 launched: "2000-12-21"

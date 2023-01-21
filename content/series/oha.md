@@ -1,6 +1,5 @@
 ---
 slug: "oha"
-color: "dodgerblue"
 platform: "Play Station"
 region: "JP"
 launched: "2000-09-14"

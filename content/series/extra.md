@@ -1,6 +1,5 @@
 ---
 slug: "extra"
-color: "deeppink"
 platform: "Play Station"
 region: "JP"
 launched: "2001-06-07"

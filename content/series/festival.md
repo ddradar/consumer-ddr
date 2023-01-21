@@ -1,6 +1,5 @@
 ---
 slug: "festival"
-color: "seagreen"
 platform: "Play Station 2"
 region: "JP"
 launched: "2004-11-18"

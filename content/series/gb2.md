@@ -1,6 +1,5 @@
 ---
 slug: "gb2"
-color: "darkgreen"
 platform: "GAME BOY COLOR"
 region: "None"
 launched: "2000-11-16"

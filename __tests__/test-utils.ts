@@ -35,7 +35,6 @@ export const mountAsync = async <T extends DefineComponent<any, any, any, any>>(
 
 export const mockSoftware: SoftwareParsedContent = {
   slug: '1st-jp',
-  color: 'darkviolet',
   title: 'Dance Dance Revolution',
   platform: 'Play Station',
   region: 'JP',
@@ -53,7 +52,6 @@ export const mockSoftware: SoftwareParsedContent = {
 export const mockSoftwareList: SoftwareListData[] = [
   {
     slug: '1st-jp',
-    color: 'darkviolet',
     title: 'Dance Dance Revolution',
     platform: 'Play Station',
     region: 'JP',
@@ -61,7 +59,6 @@ export const mockSoftwareList: SoftwareListData[] = [
   },
   {
     slug: '2nd',
-    color: 'mediumblue',
     title: 'Dance Dance Revolution 2nd ReMIX',
     platform: 'Play Station',
     region: 'JP',

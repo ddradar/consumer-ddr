@@ -5,10 +5,7 @@ artist: "NAOKI"
 from: "Dancemania SPEED 8"
 bpm: "85-170"
 series:
-  "max2-jp":
-    slug: "max2-jp"
-    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
-    color: "black"
+  - "max2-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,5 +22,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=8}|357/2||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=8}|357/2||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|357/2||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8}|357/2||

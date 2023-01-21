@@ -1,6 +1,5 @@
 ---
 slug: "max-us"
-color: "darkorchid"
 platform: "Play Station 2"
 region: "US"
 launched: "2002-10-29"

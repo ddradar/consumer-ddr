@@ -17,13 +17,16 @@
       <OTableColumn v-slot="props" label="Series">
         <div class="buttons">
           <NuxtLink
-            v-for="v in props.row.series"
-            :key="v.slug"
+            v-for="slug in (props.row as Song).series"
+            :key="slug"
             class="button is-small"
-            :to="`/series/${v.slug}/`"
-            :style="{ backgroundColor: v.color, color: '#fff' }"
+            :to="`/series/${slug}/`"
+            :style="{
+              backgroundColor: seriesList[slug].backgroundColor,
+              color: seriesList[slug].color
+            }"
           >
-            <span :title="v.title">{{ v.slug }}</span>
+            <span :title="seriesList[slug].title">{{ slug }}</span>
           </NuxtLink>
         </div>
       </OTableColumn>
@@ -41,6 +44,8 @@
 
 <script lang="ts" setup>
 import useSongList from '~~/composables/useSongList'
+import seriesList from '~~/content/series/.seriesList.json'
+import type { Song } from '~~/src/content'
 
 useHead({ title: 'Song List' })
 

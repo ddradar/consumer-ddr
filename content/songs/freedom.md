@@ -5,10 +5,7 @@ artist: "Be For U"
 from: "DanceDanceRevolution Party Collection"
 bpm: 148
 series:
-  "party":
-    slug: "party"
-    title: "Dance Dance Revolution Party Collection"
-    color: "hotpink"
+  - "party"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['party']" level=1}|114/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['party']" level=4}|141/27||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['party']" level=5}|196/6||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['party']" level=7}|291/7||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['party']" level=3}|137/18||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['party']" level=6}|187/5||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['party']" level=7}|251/5||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=1}|114/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=4}|141/27||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=5}|196/6||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level=7}|291/7||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=3}|137/18||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=6}|187/5||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level=7}|251/5||

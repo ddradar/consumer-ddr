@@ -5,10 +5,7 @@ artist: ""
 from: "Forever Club Disney Super Dancin' Mania-The Perfect Best"
 bpm: 166
 series:
-  "disney-jp":
-    slug: "disney-jp"
-    title: "Dance Dance Revolution Disney's RAVE"
-    color: "dimgray"
+  - "disney-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,8 +22,8 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['disney-jp']" level=4}|240/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['disney-jp']" level=6}|278/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['disney-jp']" level=8}|326/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['disney-jp']" level=4}|229/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['disney-jp']" level=7}|253/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="disney-jp" level=4}|240/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="disney-jp" level=6}|278/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="disney-jp" level=8}|326/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="disney-jp" level=4}|229/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="disney-jp" level=7}|253/0||

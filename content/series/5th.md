@@ -1,6 +1,5 @@
 ---
 slug: "5th"
-color: "orange"
 platform: "Play Station"
 region: "JP"
 launched: "2001-09-20"

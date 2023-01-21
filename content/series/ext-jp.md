@@ -1,6 +1,5 @@
 ---
 slug: "ext-jp"
-color: "green"
 platform: "Play Station 2"
 region: "JP"
 launched: "2003-10-09"
