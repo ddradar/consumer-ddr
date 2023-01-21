@@ -5,19 +5,19 @@ import pkg from './package.json'
 
 /** Series slug */
 const series = readdirSync(join(__dirname, 'content', 'series'))
-  .filter(f => f[0] !== '.')
-  .map(f => basename(f, '.md'))
+  .filter((f) => f[0] !== '.')
+  .map((f) => basename(f, '.md'))
 /** Songs slug */
 const songs = readdirSync(join(__dirname, 'content', 'songs'))
-  .filter(f => f[0] !== '.')
-  .map(f => basename(f, '.md'))
+  .filter((f) => f[0] !== '.')
+  .map((f) => basename(f, '.md'))
 
 export default defineNuxtConfig({
   nitro: {
     prerender: {
       routes: [
-        ...series.map(s => `/series/${s}`),
-        ...songs.map(s => `/songs/${s}`)
+        ...series.map((s) => `/series/${s}`),
+        ...songs.map((s) => `/songs/${s}`)
       ]
     }
   },
@@ -67,5 +67,5 @@ export default defineNuxtConfig({
   modules: [
     // Doc: https://content.nuxtjs.org/
     '@nuxt/content'
-  ],
+  ]
 })
