@@ -5,22 +5,10 @@ artist: "2MB"
 from: "DanceDanceRevolution 5thMIX CS"
 bpm: "46-196"
 series:
-  "5th":
-    slug: "5th"
-    title: "Dance Dance Revolution 5thMIX"
-    color: "orange"
-  "max-jp":
-    slug: "max-jp"
-    title: "DDRMAX -DanceDanceRevolution 6thMIX-"
-    color: "blue"
-  "max-us":
-    slug: "max-us"
-    title: "DDRMAX Dance Dance Revolution"
-    color: "darkorchid"
-  "ext-jp":
-    slug: "ext-jp"
-    title: "Dance Dance Revolution EXTREME"
-    color: "green"
+  - "5th"
+  - "max-jp"
+  - "max-us"
+  - "ext-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -37,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-jp']" level=2}|153/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=5} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=5} :level{:slug="series['ext-jp']" level=5}|273/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=7} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=7} :level{:slug="series['ext-jp']" level=7}|377/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=9} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=9} :level{:slug="series['ext-jp']" level=9}|479/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=5} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=5} :level{:slug="series['ext-jp']" level=5}|272/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=7} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=7} :level{:slug="series['ext-jp']" level=7}|377/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=9} :level{:slug="series['max-jp']" level="?"} :level{:slug="series['max-us']" level=9} :level{:slug="series['ext-jp']" level=9}|471/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=2}|153/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5} :level{slug="ext-jp" level=5}|273/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=7} :level{slug="max-jp" level="?"} :level{slug="max-us" level=7} :level{slug="ext-jp" level=7}|377/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=9} :level{slug="max-jp" level="?"} :level{slug="max-us" level=9} :level{slug="ext-jp" level=9}|479/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5} :level{slug="ext-jp" level=5}|272/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=7} :level{slug="max-jp" level="?"} :level{slug="max-us" level=7} :level{slug="ext-jp" level=7}|377/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=9} :level{slug="max-jp" level="?"} :level{slug="max-us" level=9} :level{slug="ext-jp" level=9}|471/0||

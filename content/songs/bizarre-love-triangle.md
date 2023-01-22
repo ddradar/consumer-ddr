@@ -5,14 +5,8 @@ artist: "Jerry"
 from: "Brotherhood"
 bpm: 119
 series:
-  "ext-us":
-    slug: "ext-us"
-    title: "Dance Dance Revolution EXTREME"
-    color: "seagreen"
-  "festival":
-    slug: "festival"
-    title: "DDR FESTIVAL Dance Dance Revolution"
-    color: "seagreen"
+  - "ext-us"
+  - "festival"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -29,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-us']" level=1} :level{:slug="series['festival']" level=1}|98/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-us']" level=4} :level{:slug="series['festival']" level=4}|130/12||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-us']" level=5} :level{:slug="series['festival']" level=5}|198/10||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-us']" level=7} :level{:slug="series['festival']" level=7}|263/17||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-us']" level=3} :level{:slug="series['festival']" level=3}|121/8||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-us']" level=7} :level{:slug="series['festival']" level=7}|211/25||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-us']" level=7} :level{:slug="series['festival']" level=7}|258/17||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-us" level=1} :level{slug="festival" level=1}|98/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=4} :level{slug="festival" level=4}|130/12||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=5} :level{slug="festival" level=5}|198/10||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7} :level{slug="festival" level=7}|263/17||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-us" level=3} :level{slug="festival" level=3}|121/8||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-us" level=7} :level{slug="festival" level=7}|211/25||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-us" level=7} :level{slug="festival" level=7}|258/17||

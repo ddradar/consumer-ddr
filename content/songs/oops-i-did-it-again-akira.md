@@ -5,14 +5,8 @@ artist: "AKIRA feat. Susan Z"
 from: "DanceDanceRevolution EXTREME2"
 bpm: 96
 series:
-  "ext2":
-    slug: "ext2"
-    title: "Dance Dance Revolution EXTREME 2"
-    color: "seagreen"
-  "strike":
-    slug: "strike"
-    title: "DanceDanceRevolution STRIKE"
-    color: "dodgerblue"
+  - "ext2"
+  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -29,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext2']" level=1} :level{:slug="series['strike']" level=1}|62/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=3} :level{:slug="series['strike']" level=3}|86/2||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=4} :level{:slug="series['strike']" level=4}|156/1||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=6} :level{:slug="series['strike']" level=6}|200/3||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=3} :level{:slug="series['strike']" level=3}|98/2||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=4} :level{:slug="series['strike']" level=4}|160/1||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=6} :level{:slug="series['strike']" level=6}|201/4||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1} :level{slug="strike" level=1}|62/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3} :level{slug="strike" level=3}|86/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=4} :level{slug="strike" level=4}|156/1||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=6} :level{slug="strike" level=6}|200/3||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3} :level{slug="strike" level=3}|98/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=4} :level{slug="strike" level=4}|160/1||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=6} :level{slug="strike" level=6}|201/4||

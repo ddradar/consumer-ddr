@@ -5,10 +5,7 @@ artist: "M/A/R/R/S"
 from: "Pump Up The Volume"
 bpm: 114
 series:
-  "ext2":
-    slug: "ext2"
-    title: "Dance Dance Revolution EXTREME 2"
-    color: "seagreen"
+  - "ext2"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext2']" level=1}|72/1||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=3}|113/18||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=5}|172/12||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=7}|264/14||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext2']" level=3}|103/22||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext2']" level=5}|169/12||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext2']" level=7}|246/30||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|72/1||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|113/18||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|172/12||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|264/14||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext2" level=3}|103/22||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext2" level=5}|169/12||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext2" level=7}|246/30||

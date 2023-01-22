@@ -1,6 +1,5 @@
 ---
 slug: "party"
-color: "hotpink"
 platform: "Play Station 2"
 region: "JP"
 launched: "2003-12-11"

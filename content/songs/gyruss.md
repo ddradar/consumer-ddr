@@ -5,10 +5,7 @@ artist: "JT. 1Up"
 from: "DanceDanceRevolution ULTRAMIX2"
 bpm: "130-170"
 series:
-  "strike":
-    slug: "strike"
-    title: "DanceDanceRevolution STRIKE"
-    color: "dodgerblue"
+  - "strike"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['strike']" level=1}|105/9||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=3}|145/8||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=6}|195/25||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=8}|259/18||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['strike']" level=4}|128/13||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['strike']" level=6}|231/8||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['strike']" level=8}|281/8||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|105/9||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=3}|145/8||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|195/25||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|259/18||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|128/13||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|231/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|281/8||

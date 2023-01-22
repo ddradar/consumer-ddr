@@ -5,10 +5,7 @@ artist: "emi"
 from: "Dance Maniax 2ndMIX"
 bpm: 140
 series:
-  "ext-jp":
-    slug: "ext-jp"
-    title: "Dance Dance Revolution EXTREME"
-    color: "green"
+  - "ext-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['ext-jp']" level=1}|65/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=3}|111/2||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=6}|166/7||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=7}|209/5||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['ext-jp']" level=3}|102/1||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['ext-jp']" level=5}|155/8||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['ext-jp']" level=7}|204/2||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|65/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|111/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=6}|166/7||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|209/5||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=3}|102/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|155/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|204/2||

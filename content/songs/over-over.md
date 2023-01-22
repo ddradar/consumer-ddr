@@ -5,10 +5,7 @@ artist: "TRUE KiSS DESTiNATiON"
 from: "OVER & OVER"
 bpm: 173
 series:
-  "tkd":
-    slug: "tkd"
-    title: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
-    color: "midnightblue"
+  - "tkd"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,15 +22,15 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[FREE]{.tag.is-beginner}|:level{:slug="series['tkd']" level="?"}|74/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['tkd']" level=3.5}|149/0||
-|SINGLE|[TRICK]{.tag.is-difficult}|:level{:slug="series['tkd']" level=4.5}|221/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['tkd']" level=5}|204/0||
-|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{:slug="series['tkd']" level="?"}|264/0||
-|DOUBLE|[FREE]{.tag.is-beginner}|:level{:slug="series['tkd']" level="?"}|||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['tkd']" level=4.5}|197/0||
-|DOUBLE|[TRICK]{.tag.is-difficult}|:level{:slug="series['tkd']" level=5.5}|193/0||
-|DOUBLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['tkd']" level="?"}|228/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{:slug="series['tkd']" level=3.5}|||
-|COUPLE|[TRICK]{.tag.is-difficult}|:level{:slug="series['tkd']" level=4.5}|||
-|COUPLE|[MANIAC]{.tag.is-expert}|:level{:slug="series['tkd']" level=5}|||
+|SINGLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|74/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=3.5}|149/0||
+|SINGLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=4.5}|221/0||
+|SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=5}|204/0||
+|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{slug="tkd" level="?"}|264/0||
+|DOUBLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4.5}|197/0||
+|DOUBLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=5.5}|193/0||
+|DOUBLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level="?"}|228/0||
+|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=3.5}|||
+|COUPLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=4.5}|||
+|COUPLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=5}|||

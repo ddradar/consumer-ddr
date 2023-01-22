@@ -5,14 +5,8 @@ artist: "DJ ALIGATOR PROJECT"
 from: "Dancemania SUPER TRANCE BEST"
 bpm: 140
 series:
-  "max2-jp":
-    slug: "max2-jp"
-    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
-    color: "black"
-  "max2-us":
-    slug: "max2-us"
-    title: "DDRMAX2 Dance Dance Revolution"
-    color: "orange"
+  - "max2-jp"
+  - "max2-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -29,13 +23,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1}|94/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=3} :level{:slug="series['max2-us']" level=3}|122/2||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=4} :level{:slug="series['max2-us']" level=4}|199/3||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=7} :level{:slug="series['max2-us']" level=7}|308/1||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['max2-jp']" level=3} :level{:slug="series['max2-us']" level=3}|109/2||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['max2-jp']" level=4} :level{:slug="series['max2-us']" level=4}|192/3||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['max2-jp']" level=7} :level{:slug="series['max2-us']" level=7}|297/1||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|94/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3} :level{slug="max2-us" level=3}|122/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=4} :level{slug="max2-us" level=4}|199/3||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|308/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-jp" level=3} :level{slug="max2-us" level=3}|109/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-jp" level=4} :level{slug="max2-us" level=4}|192/3||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|297/1||
 
 ## メモ
 

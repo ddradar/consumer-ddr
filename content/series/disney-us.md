@@ -1,6 +1,5 @@
 ---
 slug: "disney-us"
-color: "gold"
 platform: "Play Station"
 region: "US"
 launched: "2001-09-18"

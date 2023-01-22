@@ -1,6 +1,26 @@
+import { readdirSync } from 'node:fs'
+import { basename, join } from 'node:path'
+
 import pkg from './package.json'
 
+/** Series slug */
+const series = readdirSync(join(__dirname, 'content', 'series'))
+  .filter((f) => f[0] !== '.')
+  .map((f) => basename(f, '.md'))
+/** Songs slug */
+const songs = readdirSync(join(__dirname, 'content', 'songs'))
+  .filter((f) => f[0] !== '.')
+  .map((f) => basename(f, '.md'))
+
 export default defineNuxtConfig({
+  nitro: {
+    prerender: {
+      routes: [
+        ...series.map((s) => `/series/${s}`),
+        ...songs.map((s) => `/songs/${s}`)
+      ]
+    }
+  },
   app: {
     head: {
       meta: [

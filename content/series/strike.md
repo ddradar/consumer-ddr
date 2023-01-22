@@ -1,6 +1,5 @@
 ---
 slug: "strike"
-color: "dodgerblue"
 platform: "Play Station 2"
 region: "JP"
 launched: "2006-02-16"

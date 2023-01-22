@@ -1,6 +1,5 @@
 ---
 slug: "ext-us"
-color: "seagreen"
 platform: "Play Station 2"
 region: "US"
 launched: "2004-09-21"

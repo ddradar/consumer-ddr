@@ -5,14 +5,8 @@ artist: "Cydney D"
 from: "Dancemania BASS #4"
 bpm: 132
 series:
-  "gb2":
-    slug: "gb2"
-    title: "Dance Dance Revolution GB2"
-    color: "darkgreen"
-  "extra":
-    slug: "extra"
-    title: "Dance Dance Revolution EXTRA MIX"
-    color: "deeppink"
+  - "gb2"
+  - "extra"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -29,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['gb2']" level=2} :level{:slug="series['extra']" level=2}|114/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['gb2']" level=4} :level{:slug="series['extra']" level=4}|188/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['gb2']" level=6} :level{:slug="series['extra']" level=6}|251/0||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=2}|114/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=4}|188/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=8}|251/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="gb2" level=2} :level{slug="extra" level=2}|114/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="gb2" level=4} :level{slug="extra" level=4}|188/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="gb2" level=6} :level{slug="extra" level=6}|251/0||
+|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="extra" level=2}|114/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=4}|188/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=8}|251/0||
 
 ## メモ
 

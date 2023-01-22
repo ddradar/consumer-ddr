@@ -5,26 +5,11 @@ artist: "NAOKI"
 from: "DanceDanceRevolution Solo 2000"
 bpm: 155
 series:
-  "gb2":
-    slug: "gb2"
-    title: "Dance Dance Revolution GB2"
-    color: "darkgreen"
-  "extra":
-    slug: "extra"
-    title: "Dance Dance Revolution EXTRA MIX"
-    color: "deeppink"
-  "konamix":
-    slug: "konamix"
-    title: "Dance Dance Revolution KONAMIX"
-    color: "orange"
-  "max2-us":
-    slug: "max2-us"
-    title: "DDRMAX2 Dance Dance Revolution"
-    color: "orange"
-  "party":
-    slug: "party"
-    title: "Dance Dance Revolution Party Collection"
-    color: "hotpink"
+  - "gb2"
+  - "extra"
+  - "konamix"
+  - "max2-us"
+  - "party"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -41,14 +26,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['max2-us']" level=1} :level{:slug="series['party']" level=1}|93/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['gb2']" level=3} :level{:slug="series['extra']" level=3} :level{:slug="series['konamix']" level=3} :level{:slug="series['max2-us']" level=3} :level{:slug="series['party']" level=3}|160/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['gb2']" level=5} :level{:slug="series['extra']" level=5} :level{:slug="series['konamix']" level=5} :level{:slug="series['max2-us']" level=5} :level{:slug="series['party']" level=5}|235/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['gb2']" level=8} :level{:slug="series['extra']" level=8} :level{:slug="series['konamix']" level=8} :level{:slug="series['max2-us']" level=8} :level{:slug="series['party']" level=8}|328/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=3} :level{:slug="series['konamix']" level=3} :level{:slug="series['max2-us']" level=3} :level{:slug="series['party']" level=3}|182/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=4} :level{:slug="series['konamix']" level=4} :level{:slug="series['max2-us']" level=4} :level{:slug="series['party']" level=4}|224/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=8} :level{:slug="series['konamix']" level=8} :level{:slug="series['max2-us']" level=8} :level{:slug="series['party']" level=8}|299/0||
-|BATTLE|[BATTLE]{.tag.is-basic}|:level{:slug="series['konamix']" level=8}|||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=3} :level{:slug="series['konamix']" level=3}|160/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=4} :level{:slug="series['konamix']" level=4}|235/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=8} :level{:slug="series['konamix']" level=8}|328/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1} :level{slug="party" level=1}|93/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="gb2" level=3} :level{slug="extra" level=3} :level{slug="konamix" level=3} :level{slug="max2-us" level=3} :level{slug="party" level=3}|160/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="gb2" level=5} :level{slug="extra" level=5} :level{slug="konamix" level=5} :level{slug="max2-us" level=5} :level{slug="party" level=5}|235/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="gb2" level=8} :level{slug="extra" level=8} :level{slug="konamix" level=8} :level{slug="max2-us" level=8} :level{slug="party" level=8}|328/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=3} :level{slug="konamix" level=3} :level{slug="max2-us" level=3} :level{slug="party" level=3}|182/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=4} :level{slug="konamix" level=4} :level{slug="max2-us" level=4} :level{slug="party" level=4}|224/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=8} :level{slug="konamix" level=8} :level{slug="max2-us" level=8} :level{slug="party" level=8}|299/0||
+|BATTLE|[BATTLE]{.tag.is-basic}|:level{slug="konamix" level=8}|||
+|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="extra" level=3} :level{slug="konamix" level=3}|160/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=4} :level{slug="konamix" level=4}|235/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=8} :level{slug="konamix" level=8}|328/0||

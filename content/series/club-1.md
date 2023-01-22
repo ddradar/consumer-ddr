@@ -1,6 +1,5 @@
 ---
 slug: "club-1"
-color: "deepskyblue"
 platform: "Play Station"
 region: "JP"
 launched: "1999-11-25"

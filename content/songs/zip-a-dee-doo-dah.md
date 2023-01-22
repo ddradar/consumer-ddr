@@ -5,18 +5,9 @@ artist: "Domino"
 from: "EUROBEAT DISNEY"
 bpm: 150
 series:
-  "disney-jp":
-    slug: "disney-jp"
-    title: "Dance Dance Revolution Disney's RAVE"
-    color: "dimgray"
-  "gb-disney":
-    slug: "gb-disney"
-    title: "Dance Dance Revolution GB Disney mix"
-    color: "orchid"
-  "disney-us":
-    slug: "disney-us"
-    title: "Dance Dance Revolution Disney MIX"
-    color: "gold"
+  - "disney-jp"
+  - "gb-disney"
+  - "disney-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -33,8 +24,8 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['disney-jp']" level=2} :level{:slug="series['gb-disney']" level=2} :level{:slug="series['disney-us']" level=2}|68/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['disney-jp']" level=4} :level{:slug="series['gb-disney']" level=4} :level{:slug="series['disney-us']" level=4}|144/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['disney-jp']" level=8} :level{:slug="series['disney-us']" level=8}|280/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['disney-jp']" level=2} :level{:slug="series['disney-us']" level=2}|84/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['disney-jp']" level=7} :level{:slug="series['disney-us']" level=7}|205/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="disney-jp" level=2} :level{slug="gb-disney" level=2} :level{slug="disney-us" level=2}|68/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="disney-jp" level=4} :level{slug="gb-disney" level=4} :level{slug="disney-us" level=4}|144/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="disney-jp" level=8} :level{slug="disney-us" level=8}|280/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="disney-jp" level=2} :level{slug="disney-us" level=2}|84/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="disney-jp" level=7} :level{slug="disney-us" level=7}|205/0||

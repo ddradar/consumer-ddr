@@ -5,18 +5,9 @@ artist: "TaQ"
 from: "beatmania IIDX 2nd style"
 bpm: 125
 series:
-  "5th":
-    slug: "5th"
-    title: "Dance Dance Revolution 5thMIX"
-    color: "orange"
-  "max-us":
-    slug: "max-us"
-    title: "DDRMAX Dance Dance Revolution"
-    color: "darkorchid"
-  "festival":
-    slug: "festival"
-    title: "DDR FESTIVAL Dance Dance Revolution"
-    color: "seagreen"
+  - "5th"
+  - "max-us"
+  - "festival"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -33,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{:slug="series['festival']" level=1}|101/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=5} :level{:slug="series['max-us']" level=5} :level{:slug="series['festival']" level=5}|179/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=6} :level{:slug="series['max-us']" level=6} :level{:slug="series['festival']" level=6}|268/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=9} :level{:slug="series['max-us']" level=9} :level{:slug="series['festival']" level=9}|349/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{:slug="series['5th']" level=4} :level{:slug="series['max-us']" level=4} :level{:slug="series['festival']" level=4}|168/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['5th']" level=6} :level{:slug="series['max-us']" level=6} :level{:slug="series['festival']" level=6}|248/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['5th']" level=8} :level{:slug="series['max-us']" level=8} :level{:slug="series['festival']" level=8}|305/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="festival" level=1}|101/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=5} :level{slug="max-us" level=5} :level{slug="festival" level=5}|179/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=6} :level{slug="max-us" level=6} :level{slug="festival" level=6}|268/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=9} :level{slug="max-us" level=9} :level{slug="festival" level=9}|349/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=4} :level{slug="max-us" level=4} :level{slug="festival" level=4}|168/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=6} :level{slug="max-us" level=6} :level{slug="festival" level=6}|248/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=8} :level{slug="max-us" level=8} :level{slug="festival" level=8}|305/0||

@@ -5,14 +5,8 @@ artist: "FACTOR-X"
 from: "DanceDanceRevolution Solo 2000 ORIGINAL SOUNDTRACK"
 bpm: 125
 series:
-  "max2-jp":
-    slug: "max2-jp"
-    title: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
-    color: "black"
-  "ext-us":
-    slug: "ext-us"
-    title: "Dance Dance Revolution EXTREME"
-    color: "seagreen"
+  - "max2-jp"
+  - "ext-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -29,5 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=7} :level{:slug="series['ext-us']" level=7}|207/15||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{:slug="series['max2-jp']" level=8} :level{:slug="series['ext-us']" level=8}|229/18||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=7} :level{slug="ext-us" level=7}|207/15||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=8} :level{slug="ext-us" level=8}|229/18||

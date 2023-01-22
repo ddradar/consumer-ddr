@@ -1,6 +1,5 @@
 ---
 slug: "us"
-color: "mediumvioletred"
 platform: "Play Station"
 region: "US"
 launched: "2001-03-06"

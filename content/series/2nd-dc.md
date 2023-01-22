@@ -1,6 +1,5 @@
 ---
 slug: "2nd-dc"
-color: "darkorange"
 platform: "Dreamcast"
 region: "JP"
 launched: "2000-02-17"

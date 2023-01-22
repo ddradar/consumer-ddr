@@ -1,0 +1,167 @@
+{
+  "1st-jp": {
+    "title": "Dance Dance Revolution (JP)",
+    "backgroundColor": "darkviolet",
+    "color": "#fff"
+  },
+  "2nd-dc": {
+    "title": "Dance Dance Revolution 2nd MIX Dreamcast Edition",
+    "backgroundColor": "darkorange",
+    "color": "#fff"
+  },
+  "2nd": {
+    "title": "Dance Dance Revolution 2nd ReMIX",
+    "backgroundColor": "mediumblue",
+    "color": "#fff"
+  },
+  "3rd": {
+    "title": "Dance Dance Revolution 3rd MIX",
+    "backgroundColor": "crimson",
+    "color": "#fff"
+  },
+  "4th": {
+    "title": "Dance Dance Revolution 4thMIX",
+    "backgroundColor": "midnightblue",
+    "color": "#fff"
+  },
+  "5th": {
+    "title": "Dance Dance Revolution 5thMIX",
+    "backgroundColor": "orange",
+    "color": "#fff"
+  },
+  "best": {
+    "title": "Dance Dance Revolution BEST HITS",
+    "backgroundColor": "goldenrod",
+    "color": "#fff"
+  },
+  "club-1": {
+    "title": "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1",
+    "backgroundColor": "deepskyblue",
+    "color": "#fff"
+  },
+  "club-2": {
+    "title": "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2",
+    "backgroundColor": "fuchsia",
+    "color": "#fff"
+  },
+  "club-dc": {
+    "title": "Dance Dance Revolution CLUB VERSION Dreamcast Edition",
+    "backgroundColor": "royalblue",
+    "color": "#fff"
+  },
+  "dct": {
+    "title": "Dancing Stage featuring DREAMS COME TRUE",
+    "backgroundColor": "mediumvioletred",
+    "color": "#fff"
+  },
+  "disney-jp": {
+    "title": "Dance Dance Revolution Disney's RAVE (JP)",
+    "backgroundColor": "dimgray",
+    "color": "#fff"
+  },
+  "disney-us": {
+    "title": "Dance Dance Revolution Disney MIX (US)",
+    "backgroundColor": "gold",
+    "color": "#fff"
+  },
+  "ext-jp": {
+    "title": "Dance Dance Revolution EXTREME (JP)",
+    "backgroundColor": "green",
+    "color": "#fff"
+  },
+  "ext-us": {
+    "title": "Dance Dance Revolution EXTREME (US)",
+    "backgroundColor": "seagreen",
+    "color": "#fff"
+  },
+  "ext2": {
+    "title": "Dance Dance Revolution EXTREME 2",
+    "backgroundColor": "seagreen",
+    "color": "#fff"
+  },
+  "extra": {
+    "title": "Dance Dance Revolution EXTRA MIX",
+    "backgroundColor": "deeppink",
+    "color": "#fff"
+  },
+  "festival": {
+    "title": "DDR FESTIVAL",
+    "backgroundColor": "seagreen",
+    "color": "#fff"
+  },
+  "gb-disney": {
+    "title": "Dance Dance Revolution GB Disney mix",
+    "backgroundColor": "orchid",
+    "color": "#fff"
+  },
+  "gb": {
+    "title": "Dance Dance Revolution GB",
+    "backgroundColor": "tomato",
+    "color": "#fff"
+  },
+  "gb2": {
+    "title": "Dance Dance Revolution GB2",
+    "backgroundColor": "darkgreen",
+    "color": "#fff"
+  },
+  "gb3": {
+    "title": "Dance Dance Revolution GB3",
+    "backgroundColor": "goldenrod",
+    "color": "#fff"
+  },
+  "konamix": {
+    "title": "Dance Dance Revolution KONAMIX",
+    "backgroundColor": "orange",
+    "color": "#fff"
+  },
+  "max-jp": {
+    "title": "DDRMAX -DanceDanceRevolution 6thMIX- (JP)",
+    "backgroundColor": "blue",
+    "color": "#fff"
+  },
+  "max-us": {
+    "title": "DDRMAX (US)",
+    "backgroundColor": "darkorchid",
+    "color": "#fff"
+  },
+  "max2-jp": {
+    "title": "DDRMAX2 -DanceDanceRevolution 7thMIX- (JP)",
+    "backgroundColor": "black",
+    "color": "#fff"
+  },
+  "max2-us": {
+    "title": "DDRMAX2 (US)",
+    "backgroundColor": "orange",
+    "color": "#fff"
+  },
+  "oha-gb": {
+    "title": "おはスタ Dance Dance Revolution GB",
+    "backgroundColor": "darkgray",
+    "color": "#fff"
+  },
+  "oha": {
+    "title": "おはスタ Dance Dance Revolution",
+    "backgroundColor": "dodgerblue",
+    "color": "#fff"
+  },
+  "party": {
+    "title": "Dance Dance Revolution Party Collection",
+    "backgroundColor": "hotpink",
+    "color": "#fff"
+  },
+  "strike": {
+    "title": "DanceDanceRevolution STRIKE",
+    "backgroundColor": "dodgerblue",
+    "color": "#fff"
+  },
+  "tkd": {
+    "title": "Dancing Stage featuring TRUE KiSS DESTiNATiON",
+    "backgroundColor": "midnightblue",
+    "color": "#fff"
+  },
+  "us": {
+    "title": "Dance Dance Revolution (US)",
+    "backgroundColor": "mediumvioletred",
+    "color": "#fff"
+  }
+}

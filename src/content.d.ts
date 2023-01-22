@@ -1,3 +1,5 @@
+import type seriesList from '~~/content/series/.seriesList.json'
+
 const regionList = ['JP', 'US', 'EU', 'None'] as const
 
 const platforms = [
@@ -9,9 +11,8 @@ const platforms = [
 ] as const
 
 export interface Software {
-  slug: string
+  slug: keyof typeof seriesList
   title: string
-  color?: string
   platform: typeof platforms[number]
   region: typeof regionList[number]
   launched: string
@@ -23,5 +24,5 @@ export interface Song {
   name: string
   artist: string
   bpm: number | string
-  series: Record<string, Pick<Software, 'slug' | 'title' | 'color'>>
+  series: (keyof typeof seriesList)[]
 }

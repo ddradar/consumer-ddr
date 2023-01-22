@@ -1,6 +1,5 @@
 ---
 slug: "ext2"
-color: "seagreen"
 platform: "Play Station 2"
 region: "US"
 launched: "2005-09-27"

@@ -1,6 +1,5 @@
 ---
 slug: "1st-jp"
-color: "darkviolet"
 platform: "Play Station"
 region: "JP"
 launched: "1999-04-10"

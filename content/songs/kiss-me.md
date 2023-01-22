@@ -5,14 +5,8 @@ artist: "E-ROTIC"
 from: "Dancemania SPEED3"
 bpm: 170
 series:
-  "gb3":
-    slug: "gb3"
-    title: "Dance Dance Revolution GB3"
-    color: "goldenrod"
-  "extra":
-    slug: "extra"
-    title: "Dance Dance Revolution EXTRA MIX"
-    color: "deeppink"
+  - "gb3"
+  - "extra"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -29,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{:slug="series['gb3']" level=2} :level{:slug="series['extra']" level=2}|117/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['gb3']" level=4} :level{:slug="series['extra']" level=4}|180/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{:slug="series['gb3']" level=7} :level{:slug="series['extra']" level=7}|243/0||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{:slug="series['extra']" level=3}|118/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{:slug="series['extra']" level=5}|180/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{:slug="series['extra']" level=6}|243/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="gb3" level=2} :level{slug="extra" level=2}|117/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="gb3" level=4} :level{slug="extra" level=4}|180/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="gb3" level=7} :level{slug="extra" level=7}|243/0||
+|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="extra" level=3}|118/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=5}|180/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=6}|243/0||
 
 ## メモ
 

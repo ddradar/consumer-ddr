@@ -1,6 +1,5 @@
 ---
 slug: "3rd"
-color: "crimson"
 platform: "Play Station"
 region: "JP"
 launched: "2000-06-01"
