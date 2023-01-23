@@ -1,6 +1,5 @@
 ---
 slug: "1st-jp"
-color: "darkviolet"
 platform: "Play Station"
 region: "JP"
 launched: "1999-04-10"
@@ -21,22 +20,22 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|COUPLE|
 |----|------|---|------|------|------|
-|[BOYS](/songs/boys-smiledk)|smile. dk|138|:charts{:slug="slug" levels="3,4,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,5" difficulties="1,2"}|:charts{:slug="slug" levels="3,4,7" difficulties="1,2,3"}|
-|[butterfly](/songs/butterfly)|smile. dk|135|:charts{:slug="slug" levels="3,3,4,6" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,6" difficulties="1,2"}|:charts{:slug="slug" levels="3,3,4,6" difficulties="0,1,2,3"}|
-|[HAVE YOU NEVER BEEN MELLOW](/songs/have-you-never-been-mellow)|THE OLIVIA PROJECT|126|:charts{:slug="slug" levels="1,2,5" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,4" difficulties="1,2"}|:charts{:slug="slug" levels="1,2,5" difficulties="1,2,3"}|
-|[I believe in miracles](/songs/i-believe-in-miracles)|HI-RISE|126|:charts{:slug="slug" levels="5,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="6,7" difficulties="1,2"}|:charts{:slug="slug" levels="5,6,8" difficulties="1,2,3"}|
-|[KUNG FU FIGHTING](/songs/kung-fu-fighting)|BUS STOP featuring CARL DOUGLAS|116|:charts{:slug="slug" levels="2,3,3,5" difficulties="0,1,2,3"}|:charts{:slug="slug" levels="4,5" difficulties="1,2"}|:charts{:slug="slug" levels="2,3,3,5" difficulties="0,1,2,3"}|
-|[LET'S GET DOWN](/songs/lets-get-down)|JT PLAYAZ|128|:charts{:slug="slug" levels="3,4,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,7" difficulties="1,2"}|:charts{:slug="slug" levels="3,4,7" difficulties="1,2,3"}|
-|[LITTLE BITCH](/songs/little-bitch)|THE SPECIALS|160|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,6" difficulties="1,2"}|:charts{:slug="slug" levels="4,6,7" difficulties="1,2,3"}|
-|[MAKE A JAM!](/songs/make-a-jam)|U1|124|:charts{:slug="slug" levels="2,4,5" difficulties="1,2,3"}|:charts{:slug="slug" levels="3,5" difficulties="1,2"}|:charts{:slug="slug" levels="2,4,5" difficulties="1,2,3"}|
-|[MAKE IT BETTER](/songs/make-it-better)|mitsu-O!|118|:charts{:slug="slug" levels="5,6,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,6" difficulties="1,2"}|:charts{:slug="slug" levels="5,6,8" difficulties="1,2,3"}|
-|[MY FIRE](/songs/my-fire)|X-TREME|130|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,6" difficulties="1,2"}|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
-|[PARANOiA](/songs/paranoia)|180|180|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="7,8" difficulties="1,2"}|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|
-|[PARANOiA KCET \~clean mix\~](/songs/paranoia-kcet)|2MB|180|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="7,8" difficulties="1,2"}|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|
-|[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)|190|190|:charts{:slug="slug" levels="6,8,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="7,8" difficulties="1,2"}|:charts{:slug="slug" levels="6,8,8" difficulties="1,2,3"}|
-|[STRICTRY BUSINESS](/songs/strictry-business)|MANTRONIK vs EPMD|125|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|:charts{:slug="slug" levels="5,6" difficulties="1,2"}|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
-|[THAT'S THE WAY (I LIKE IT)](/songs/thats-the-way)|KC & THE SUNSHINE BAND|110|:charts{:slug="slug" levels="2,3,5" difficulties="1,2,3"}|:charts{:slug="slug" levels="4,5" difficulties="1,2"}|:charts{:slug="slug" levels="2,3,5" difficulties="1,2,3"}|
-|[TRIP MACHINE](/songs/trip-machine)|DE-SIRE|160|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|:charts{:slug="slug" levels="7,8" difficulties="1,2"}|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|
+|[BOYS](/songs/boys-smiledk)|smile. dk|138|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5" charts="1,2"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
+|[butterfly](/songs/butterfly)|smile. dk|135|:charts{:difficulties="difficulties" levels="3,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|:charts{:difficulties="difficulties" levels="3,3,4,6" charts="0,1,2,3"}|
+|[HAVE YOU NEVER BEEN MELLOW](/songs/have-you-never-been-mellow)|THE OLIVIA PROJECT|126|:charts{:difficulties="difficulties" levels="1,2,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4" charts="1,2"}|:charts{:difficulties="difficulties" levels="1,2,5" charts="1,2,3"}|
+|[I believe in miracles](/songs/i-believe-in-miracles)|HI-RISE|126|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7" charts="1,2"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[KUNG FU FIGHTING](/songs/kung-fu-fighting)|BUS STOP featuring CARL DOUGLAS|116|:charts{:difficulties="difficulties" levels="2,3,3,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5" charts="1,2"}|:charts{:difficulties="difficulties" levels="2,3,3,5" charts="0,1,2,3"}|
+|[LET'S GET DOWN](/songs/lets-get-down)|JT PLAYAZ|128|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7" charts="1,2"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
+|[LITTLE BITCH](/songs/little-bitch)|THE SPECIALS|160|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6" charts="1,2"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[MAKE A JAM!](/songs/make-a-jam)|U1|124|:charts{:difficulties="difficulties" levels="2,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5" charts="1,2"}|:charts{:difficulties="difficulties" levels="2,4,5" charts="1,2,3"}|
+|[MAKE IT BETTER](/songs/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6" charts="1,2"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[MY FIRE](/songs/my-fire)|X-TREME|130|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6" charts="1,2"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
+|[PARANOiA](/songs/paranoia)|180|180|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[PARANOiA KCET \~clean mix\~](/songs/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|
+|[STRICTRY BUSINESS](/songs/strictry-business)|MANTRONIK vs EPMD|125|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6" charts="1,2"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
+|[THAT'S THE WAY (I LIKE IT)](/songs/thats-the-way)|KC & THE SUNSHINE BAND|110|:charts{:difficulties="difficulties" levels="2,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5" charts="1,2"}|:charts{:difficulties="difficulties" levels="2,3,5" charts="1,2,3"}|
+|[TRIP MACHINE](/songs/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 
 ## システム概要
 

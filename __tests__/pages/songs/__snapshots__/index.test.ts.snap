@@ -15,7 +15,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
     <div
       style="display: none;"
     >
-      
+
       <span
         data-id="1"
       >
@@ -36,7 +36,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
       >
         Series
       </span>
-      
+
     </div>
     <!--v-if-->
     <!--v-if-->
@@ -52,13 +52,13 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
           <tr>
             <!--v-if-->
             <!--v-if-->
-            
+
             <th
               class=""
               draggable="false"
             >
               <span>
-                Name 
+                Name
                 <span
                   class="th-wrap sort-icon"
                   style="display: none;"
@@ -78,7 +78,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
               draggable="false"
             >
               <span>
-                Artist 
+                Artist
                 <span
                   class="th-wrap sort-icon"
                   style="display: none;"
@@ -98,7 +98,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
               draggable="false"
             >
               <span>
-                BPM 
+                BPM
                 <span
                   class="th-wrap sort-icon"
                   style="display: none;"
@@ -118,7 +118,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
               draggable="false"
             >
               <span>
-                Series 
+                Series
                 <span
                   class="th-wrap sort-icon"
                   style="display: none;"
@@ -133,17 +133,17 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 </span>
               </span>
             </th>
-            
+
             <!--v-if-->
           </tr>
           <tr>
             <!--v-if-->
             <!--v-if-->
-            
+
             <th
               class=""
             >
-              
+
               <div
                 class="control"
               >
@@ -157,12 +157,12 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 <!--v-if-->
                 <!--v-if-->
               </div>
-              
+
             </th>
             <th
               class=""
             >
-              
+
               <div
                 class="control"
               >
@@ -176,7 +176,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                 <!--v-if-->
                 <!--v-if-->
               </div>
-              
+
             </th>
             <th
               class=""
@@ -188,25 +188,24 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             >
               <!--v-if-->
             </th>
-            
+
             <!--v-if-->
           </tr>
           <!--v-if-->
         </thead>
         <tbody>
-          
-          
+
+
           <tr
             class=""
             draggable="false"
           >
             <!--v-if-->
             <!--v-if-->
-            
+
             <td
               class=""
               data-label="Name"
-              scoped=""
             >
               <a
                 class="is-size-6-mobile"
@@ -217,7 +216,6 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="Artist"
-              scoped=""
             >
               <span
                 class="is-size-6-mobile"
@@ -228,48 +226,49 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="BPM"
-              scoped=""
             >
               130
             </td>
             <td
               class=""
               data-label="Series"
-              scoped=""
             >
               <div
                 class="buttons"
               >
-                
-                <series-stub
+
+                <a
                   class="button is-small"
-                  slug="2nd"
-                  tag="NuxtLink"
-                  to="/series/2nd/"
-                />
-                
+                  style="background-color: mediumblue; color: rgb(255, 255, 255);"
+                >
+                  <span
+                    title="Dance Dance Revolution 2nd ReMIX"
+                  >
+                    2nd
+                  </span>
+                </a>
+
               </div>
             </td>
-            
+
             <!--v-if-->
           </tr>
           <transition-stub>
             <!--v-if-->
           </transition-stub>
           <!--v-if-->
-          
-          
+
+
           <tr
             class=""
             draggable="false"
           >
             <!--v-if-->
             <!--v-if-->
-            
+
             <td
               class=""
               data-label="Name"
-              scoped=""
             >
               <a
                 class="is-size-6-mobile"
@@ -280,7 +279,6 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="Artist"
-              scoped=""
             >
               <span
                 class="is-size-6-mobile"
@@ -291,65 +289,71 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             <td
               class=""
               data-label="BPM"
-              scoped=""
             >
               180
             </td>
             <td
               class=""
               data-label="Series"
-              scoped=""
             >
               <div
                 class="buttons"
               >
-                
-                <series-stub
+
+                <a
                   class="button is-small"
-                  slug="1st-jp"
-                  tag="NuxtLink"
-                  to="/series/1st-jp/"
-                />
-                <series-stub
+                  style="background-color: darkviolet; color: rgb(255, 255, 255);"
+                >
+                  <span
+                    title="Dance Dance Revolution (JP)"
+                  >
+                    1st-jp
+                  </span>
+                </a>
+                <a
                   class="button is-small"
-                  slug="2nd"
-                  tag="NuxtLink"
-                  to="/series/2nd/"
-                />
-                
+                  style="background-color: mediumblue; color: rgb(255, 255, 255);"
+                >
+                  <span
+                    title="Dance Dance Revolution 2nd ReMIX"
+                  >
+                    2nd
+                  </span>
+                </a>
+
               </div>
             </td>
-            
+
             <!--v-if-->
           </tr>
           <transition-stub>
             <!--v-if-->
           </transition-stub>
           <!--v-if-->
-          
-          
+
+
           <!--v-if-->
         </tbody>
         <!--v-if-->
       </table>
-      
+
       <transition-stub>
         <!--v-if-->
       </transition-stub>
-      
+
     </div>
-    
+
     <div
       class="level"
     >
       <div>
-        
-        
+
+
       </div>
       <div>
         <div>
           <nav
-            class="pagination"
+            class="pagination is-right"
           >
             <a
               aria-current="false"
@@ -357,7 +361,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
               href="#"
               role="button"
             >
-              
+
               <span
                 aria-hidden="true"
                 class="icon"
@@ -366,7 +370,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                   class="mdi mdi-chevron-left mdi-24px"
                 />
               </span>
-              
+
             </a>
             <a
               aria-current="false"
@@ -374,7 +378,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
               href="#"
               role="button"
             >
-              
+
               <span
                 aria-hidden="true"
                 class="icon"
@@ -383,7 +387,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                   class="mdi mdi-chevron-right mdi-24px"
                 />
               </span>
-              
+
             </a>
             <ul
               class="pagination-list"
@@ -392,7 +396,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
               <!--v-if-->
               <!--v-if-->
               <!--Pages-->
-              
+
               <li>
                 <a
                   aria-current="true"
@@ -400,12 +404,12 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
                   href="#"
                   role="button"
                 >
-                  
+
                   1
-                  
+
                 </a>
               </li>
-              
+
               <!--Last-->
               <!--v-if-->
               <!--v-if-->
@@ -414,7 +418,7 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
         </div>
       </div>
     </div>
-    
+
   </div>
 </section>
 `;

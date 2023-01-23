@@ -1,32 +1,20 @@
 <template>
   <ul>
-    <li v-for="series in seriesList" :key="series.to">
-      <NuxtLink :to="series.to">{{ series.title }}</NuxtLink>
+    <li v-for="slug in series" :key="slug">
+      <NuxtLink :to="`/series/${slug}/`">{{ seriesList[slug].title }}</NuxtLink>
     </li>
   </ul>
 </template>
 
 <script lang="ts" setup>
-import useSoftwareList from '~~/composables/useSoftwareList'
+import seriesList from '~~/content/series/.seriesList.json'
+import type { Song } from '~~/src/content'
 
 const NuxtLink = resolveComponent('NuxtLink')
 
 interface SeriesListProps {
-  series: string[]
+  series: Song['series']
 }
 
-const prop = defineProps<SeriesListProps>()
-const { softwareList: _seriesList } = await useSoftwareList()
-
-const seriesList = computed(() =>
-  prop.series.map((s) => {
-    const series = _seriesList.value.find((d) => d.slug === s)
-    return {
-      title: `${series?.title}${
-        series?.region === 'None' ? '' : ` (${series?.region})`
-      }`,
-      to: `/series/${s}/`
-    }
-  })
-)
+defineProps<SeriesListProps>()
 </script>

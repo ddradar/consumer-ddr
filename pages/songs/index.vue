@@ -16,14 +16,18 @@
       </OTableColumn>
       <OTableColumn v-slot="props" label="Series">
         <div class="buttons">
-          <Series
-            v-for="s in props.row.series"
-            :key="s"
-            :slug="s"
-            tag="NuxtLink"
+          <NuxtLink
+            v-for="slug in (props.row as Song).series"
+            :key="slug"
             class="button is-small"
-            :to="`/series/${s}/`"
-          />
+            :to="`/series/${slug}/`"
+            :style="{
+              backgroundColor: seriesList[slug].backgroundColor,
+              color: seriesList[slug].color
+            }"
+          >
+            <span :title="seriesList[slug].title">{{ slug }}</span>
+          </NuxtLink>
         </div>
       </OTableColumn>
 
@@ -39,8 +43,9 @@
 </template>
 
 <script lang="ts" setup>
-import Series from '~~/components/content/Series.vue'
 import useSongList from '~~/composables/useSongList'
+import seriesList from '~~/content/series/.seriesList.json'
+import type { Song } from '~~/src/content'
 
 useHead({ title: 'Song List' })
 

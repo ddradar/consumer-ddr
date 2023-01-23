@@ -1,11 +1,11 @@
 <template>
-  <div class="tags has-addons" style="display: inline-block; margin: 0px">
+  <div class="tags has-addons">
     <span
       v-for="(level, i) in splitedLevels"
       :key="i"
       class="tag"
-      :class="software.difficulties[splitedDificulties[i]].class"
-      :title="software.difficulties[splitedDificulties[i]].name"
+      :class="difficulties[splitedCharts[i]].class"
+      :title="difficulties[splitedCharts[i]].name"
     >
       {{ level }}
     </span>
@@ -13,19 +13,17 @@
 </template>
 
 <script lang="ts" setup>
-import useSoftwareData from '~~/composables/useSoftwareData'
+import type { Software } from '~~/src/content'
 
 interface Props {
-  slug: string
+  difficulties: Software['difficulties']
   levels: string
-  difficulties: string
+  charts: string
 }
 
 const _prop = defineProps<Props>()
 const splitedLevels = computed(() => _prop.levels.split(','))
-const splitedDificulties = computed(() =>
-  _prop.difficulties.split(',').map((s) => parseInt(s, 10))
+const splitedCharts = computed(() =>
+  _prop.charts.split(',').map((s) => parseInt(s, 10))
 )
-
-const { software } = await useSoftwareData(_prop.slug)
 </script>

@@ -1,6 +1,5 @@
 ---
 slug: "oha-gb"
-color: "darkgray"
 platform: "GAME BOY COLOR"
 region: "None"
 launched: "2001-02-08"
@@ -20,15 +19,15 @@ difficulties:
 
 |Name|Artist|SINGLE|
 |----|------|------|
-|[HAPPY GO LUCKY](/songs/happy-go-lucky)|やまちゃん with ジムナスひかる|:charts{:slug="slug" levels="1,3,4" difficulties="1,2,3"}|
-|[サヨナラのかわりに](/songs/sayonara-no-kawari-ni)|おはぐみ|:charts{:slug="slug" levels="2,2,3" difficulties="1,2,3"}|
-|[O-HA! Mambo (a Shiny new Today)](/songs/o-ha-mambo)|わるじぇんぬ|:charts{:slug="slug" levels="2,4,5" difficulties="1,2,3"}|
-|[CANDY](/songs/candy-oha)|わるじぇんぬ|:charts{:slug="slug" levels="3,4,5" difficulties="1,2,3"}|
-|[OHA OHA スターター](/songs/oha-oha-starter)|やまちゃん&レイモンド|:charts{:slug="slug" levels="4,5,6" difficulties="1,2,3"}|
-|[OHA SKA!](/songs/oha-ska)|おはおはキッズ with イマクニ?|:charts{:slug="slug" levels="5,6,7" difficulties="1,2,3"}|
-|[WHY! \~THE ZONA'S SONG\~](/songs/why)|怪人ゾナー|:charts{:slug="slug" levels="6,7,8" difficulties="1,2,3"}|
-|[ゾナパラ (WHY! パラパラ・リミックス)](/songs/zonapara)|ゾベッカ|:charts{:slug="slug" levels="1,4,6" difficulties="1,2,3"}|
-|[HAPPY GO LUCKY (HARD)](/songs/happy-go-lucky)|やまちゃん with ジムナスひかる|:charts{:slug="slug" levels="3,5,7" difficulties="1,2,3"}|
+|[HAPPY GO LUCKY](/songs/happy-go-lucky)|やまちゃん with ジムナスひかる|:charts{:difficulties="difficulties" levels="1,3,4" charts="1,2,3"}|
+|[サヨナラのかわりに](/songs/sayonara-no-kawari-ni)|おはぐみ|:charts{:difficulties="difficulties" levels="2,2,3" charts="1,2,3"}|
+|[O-HA! Mambo (a Shiny new Today)](/songs/o-ha-mambo)|わるじぇんぬ|:charts{:difficulties="difficulties" levels="2,4,5" charts="1,2,3"}|
+|[CANDY](/songs/candy-oha)|わるじぇんぬ|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|
+|[OHA OHA スターター](/songs/oha-oha-starter)|やまちゃん&レイモンド|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
+|[OHA SKA!](/songs/oha-ska)|おはおはキッズ with イマクニ?|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
+|[WHY! \~THE ZONA'S SONG\~](/songs/why)|怪人ゾナー|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[ゾナパラ (WHY! パラパラ・リミックス)](/songs/zonapara)|ゾベッカ|:charts{:difficulties="difficulties" levels="1,4,6" charts="1,2,3"}|
+|[HAPPY GO LUCKY (HARD)](/songs/happy-go-lucky)|やまちゃん with ジムナスひかる|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 
 ## 隠し要素
 

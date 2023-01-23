@@ -50,3 +50,7 @@ series:
 |6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="konamix" level=3}|120/0||
 |6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="konamix" level=6}|170/0||
 |6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="konamix" level=7}|257/0||
+
+## メモ
+
+- [Dance Dance Revolution KONAMIX](/series/konamix)のBATTLE譜面は[SINGLE/BASIC]{.tag.is-basic}譜面(=すべて1P/2Pが両方踏む緑色の矢印)と同一。

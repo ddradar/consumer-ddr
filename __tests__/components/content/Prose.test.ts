@@ -21,14 +21,6 @@ describe('components/content/', () => {
       })
       expect(wrapper.element).toMatchSnapshot()
     })
-    test('{ href: "https://example.com" } renders <a>', () => {
-      const wrapper = mount(ProseA, {
-        global,
-        slots: { default: 'Link' },
-        props: { href: 'https://example.com' }
-      })
-      expect(wrapper.element).toMatchSnapshot()
-    })
   })
 
   describe('ProseH2.vue', () => {

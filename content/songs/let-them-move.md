@@ -5,7 +5,11 @@ artist: "N.M.R."
 from: "DanceDanceRevolution 2ndMIX"
 bpm: 115
 series:
-  - ""
+  - "2nd"
+  - "2nd-dc"
+  - "3rd"
+  - "us"
+  - "konamix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
