@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="" level=1}|75/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="" level=4}|112/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="" level=5}|199/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="" level=6}|207/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="" level=4}|102/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="" level=5}|172/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="" level=7}|232/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|75/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|112/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=5}|199/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=6}|207/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|102/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=5}|172/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=7}|232/0||
