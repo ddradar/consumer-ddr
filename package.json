@@ -35,7 +35,7 @@
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-nuxt": "^4.0.0",
-    "eslint-plugin-simple-import-sort": "^8.0.0",
+    "eslint-plugin-simple-import-sort": "^9.0.0",
     "flush-promises": "^1.0.2",
     "jsdom": "^20.0.3",
     "npm-run-all2": "^6.0.4",
