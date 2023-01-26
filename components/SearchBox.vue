@@ -32,7 +32,7 @@ const filtered = computed(() =>
 )
 
 const router = useRouter()
-const onSelected = (song: typeof songs['value'][number]) => {
+const onSelected = (song: (typeof songs)['value'][number]) => {
   term.value = song.name
   router.push(`/songs/${song.slug}`)
 }
