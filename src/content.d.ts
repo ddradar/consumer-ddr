@@ -13,8 +13,8 @@ const platforms = [
 export interface Software {
   slug: keyof typeof seriesList
   title: string
-  platform: typeof platforms[number]
-  region: typeof regionList[number]
+  platform: (typeof platforms)[number]
+  region: (typeof regionList)[number]
   launched: string
   difficulties: { [key in number]: { name: string; class: string } }
 }

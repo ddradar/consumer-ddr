@@ -7,5 +7,5 @@ export default async function (key: string, ...keys: (keyof Song)[]) {
     queryContent<Song>('songs').sort({ name: 1 }).only(keys).find()
   )
 
-  return { songs: data as Ref<Pick<Song, typeof keys[number]>[]> }
+  return { songs: data as Ref<Pick<Song, (typeof keys)[number]>[]> }
 }
