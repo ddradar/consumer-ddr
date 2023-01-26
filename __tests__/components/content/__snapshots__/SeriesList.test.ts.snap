@@ -1,0 +1,23 @@
+// Vitest Snapshot v1
+
+exports[`components/content/SeriesList.vue > renders series link 1`] = `
+<ul>
+  
+  <li>
+    <a>
+      Dance Dance Revolution (JP)
+    </a>
+  </li>
+  <li>
+    <a>
+      Dance Dance Revolution GB
+    </a>
+  </li>
+  <li>
+    <a>
+      Dance Dance Revolution (US)
+    </a>
+  </li>
+  
+</ul>
+`;
