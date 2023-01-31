@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.2.0
       - name: Setup Node.js ${{ env.NODE_VERSION }}
-        uses: actions/setup-node@v3.5.1
+        uses: actions/setup-node@v3.6.0
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: yarn
@@ -33,7 +33,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.2.0
       - name: Setup Node.js ${{ env.NODE_VERSION }}
-        uses: actions/setup-node@v3.5.1
+        uses: actions/setup-node@v3.6.0
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: yarn
@@ -56,7 +56,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.2.0
       - name: Setup Node.js ${{ env.NODE_VERSION }}
-        uses: actions/setup-node@v3.5.1
+        uses: actions/setup-node@v3.6.0
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: yarn
