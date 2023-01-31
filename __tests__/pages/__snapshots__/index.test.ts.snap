@@ -149,7 +149,12 @@ exports[`pages/index.vue > renders correctly 1`] = `
             
             <!--v-if-->
           </tr>
-          <transition-stub>
+          <transition-stub
+            appear="false"
+            css="true"
+            name=""
+            persisted="false"
+          >
             <!--v-if-->
           </transition-stub>
           <!--v-if-->
@@ -187,7 +192,12 @@ exports[`pages/index.vue > renders correctly 1`] = `
             
             <!--v-if-->
           </tr>
-          <transition-stub>
+          <transition-stub
+            appear="false"
+            css="true"
+            name=""
+            persisted="false"
+          >
             <!--v-if-->
           </transition-stub>
           <!--v-if-->
@@ -198,7 +208,12 @@ exports[`pages/index.vue > renders correctly 1`] = `
         <!--v-if-->
       </table>
       
-      <transition-stub>
+      <transition-stub
+        appear="false"
+        css="true"
+        name="fade"
+        persisted="false"
+      >
         <!--v-if-->
       </transition-stub>
       

@@ -4,23 +4,13 @@
     "browser": true,
     "node": true
   },
-  "extends": [
-    "@nuxtjs/eslint-config-typescript",
-    "plugin:nuxt/recommended",
-    "plugin:vue/vue3-recommended",
-    "prettier"
-  ],
+  "extends": ["@nuxt/eslint-config", "plugin:nuxt/recommended", "prettier"],
   "plugins": ["simple-import-sort"],
   "rules": {
     "no-process-env": "error",
     "sort-imports": "off",
     "import/order": "off",
     "simple-import-sort/imports": "error",
-    "vue/multi-word-component-names": "off",
-    "vue/component-name-in-template-casing": [
-      "error",
-      "PascalCase",
-      { "registeredComponentsOnly": false }
-    ]
+    "vue/multi-word-component-names": "off"
   }
 }
