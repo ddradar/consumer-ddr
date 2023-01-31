@@ -253,7 +253,12 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             
             <!--v-if-->
           </tr>
-          <transition-stub>
+          <transition-stub
+            appear="false"
+            css="true"
+            name=""
+            persisted="false"
+          >
             <!--v-if-->
           </transition-stub>
           <!--v-if-->
@@ -326,7 +331,12 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
             
             <!--v-if-->
           </tr>
-          <transition-stub>
+          <transition-stub
+            appear="false"
+            css="true"
+            name=""
+            persisted="false"
+          >
             <!--v-if-->
           </transition-stub>
           <!--v-if-->
@@ -337,7 +347,12 @@ exports[`pages/songs/index.vue > snapshot test > renders song info 1`] = `
         <!--v-if-->
       </table>
       
-      <transition-stub>
+      <transition-stub
+        appear="false"
+        css="true"
+        name="fade"
+        persisted="false"
+      >
         <!--v-if-->
       </transition-stub>
       

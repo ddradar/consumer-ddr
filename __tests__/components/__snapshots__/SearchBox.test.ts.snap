@@ -25,7 +25,12 @@ exports[`components/SearchBox.vue > snapshot test > { term: "" } renders input w
       <!--v-if-->
       <!--v-if-->
     </div>
-    <transition-stub>
+    <transition-stub
+      appear="false"
+      css="true"
+      name="fade"
+      persisted="false"
+    >
       <div
         class="dropdown-menu dropdown-content is-opened-bottom"
         is="div"
