@@ -39,6 +39,27 @@ difficulties:
 |[TOXIC (FT company Edit)](/songs/toxic)|HELEN|143|:charts{:difficulties="difficulties" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" difficulties="1,2,3"}|
 |[WHAT A WONDERFUL WORLD](/songs/what-a-wonderful-world)|BEATROCK vs DJ MIKO|142|:charts{:difficulties="difficulties" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" difficulties="1,2,3"}|
 |[WOOKIE WOOKIE](/songs/wookie-wookie)|MACHOMAN|137|:charts{:difficulties="difficulties" levels="1,3,5,8" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" difficulties="1,2,3"}|
+|[Baby's Tears](/songs/babys-tears)|MIKI ROBERTS|180|:charts{:difficulties="difficulties" levels="2,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[Baby's Tears (スカイガールズ・オープニングテーマ)](/songs/babys-tears-op)|小坂りゆ|170|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[Feelings Won't Fade(Extend Trance Mix)](/songs/feelings-wont-fade)|SySF.|144|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[Flow](/songs/flow)|Scotty D. revisits U1|140|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[Flow (Jammin' Ragga Mix)](/songs/flow-jammin)|Scotty D. revisits U1|70-140|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[Flow (True Style)](/songs/flow-true-style)|Scotty D. revisits U1|140-280|:charts{:difficulties="difficulties" levels="3,4,6,8,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,8,8" charts="1,2,3,4"}|
+|[Fly away](/songs/fly-away)|ChiyoTia|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[Fly away -mix del matador-](/songs/fly-away-matador)|Shawn the Horny Master feat. ChiyoTia|130|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[華爛漫 -Flowers-](/songs/flowers)|TЁЯRA|160|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[HONEY♂PUNCH](/songs/honey-punch)|小坂りゆ|175|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
+|[INNOCENCE OF SILENCE](/songs/innocence-of-silence)|nc ft NRG Factory|142|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[MOONSTER](/songs/moonster)|kobo uniting Marsha & D.|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[Morning Glory](/songs/morning-glory)|BeForU|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
+|[My Only Shining Star](/songs/my-only-shining-star)|NAOKI feat. Becky Lucinda|155|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
+|[PEACE (^^)v](/songs/peace-beforu)|BeForU|142|:charts{:difficulties="difficulties" levels="1,2,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
+|[SEDUCTION(Vocal Remix)](/songs/seduction-vocal)|NC feat. NRG Factory|190|:charts{:difficulties="difficulties" levels="2,4,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[Silver Platform - I wanna get your heart -](/songs/silver-platform)|U1 Reincarnates w/Leah|140|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[SOUL CRASH](/songs/soul-crash)|nc ft HARDCORE NATION|142|:charts{:difficulties="difficulties" levels="1,4,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
+|[Star Gate Heaven](/songs/star-gate-heaven)|SySF. feat. Donna Burke|145|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[Star Gate Heaven (FUTURE LOVE Mix)](/songs/star-gate-heaven-future-love)|SySF. feat. Donna Burke|147|:charts{:difficulties="difficulties" levels="1,4,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[TRUE♥LOVE](/songs/true-love)|jun feat. Schanita|188|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 
 ## システム概要
 
