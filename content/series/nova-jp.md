@@ -60,6 +60,35 @@ difficulties:
 |[Star Gate Heaven](/songs/star-gate-heaven)|SySF. feat. Donna Burke|145|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Star Gate Heaven (FUTURE LOVE Mix)](/songs/star-gate-heaven-future-love)|SySF. feat. Donna Burke|147|:charts{:difficulties="difficulties" levels="1,4,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[TRUE♥LOVE](/songs/true-love)|jun feat. Schanita|188|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
+|[AA](/songs/aa)|D.J.Amuro|154|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
+|[cachaca](/songs/cachaca)|Mokky de Yah Yah's|128|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[CAN'T STOP FALLIN' IN LOVE (super euro version)](/songs/cant-stop-fallin-in-love-super-euro)|NAOKI with Y&Co.|155|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
+|[CENTAUR](/songs/centaur)|Jimmy Weckl|140|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[チカラ](/songs/chikara)|BeForU|185|:charts{:difficulties="difficulties" levels="2,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[CURUS](/songs/curus)|D-crew|184-188|:charts{:difficulties="difficulties" levels="2,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|
+|[男々道](/songs/dandando)|Des-ROW・組|156-160|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[Dragon Blade](/songs/dragon-blade)|Kozo Nakamura|240|:charts{:difficulties="difficulties" levels="2,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[Drivin'](/songs/drivin)|NAOKI feat. Paula Terry|155|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,9" charts="1,2,3"}|
+|[DYNAMITE RAVE (super euro version)](/songs/dynamite-rave-super-euro)|NAOKI with Y&Co.|150|:charts{:difficulties="difficulties" levels="1,4,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[月光蝶](/songs/gekkou-chou)|あさき|218|:charts{:difficulties="difficulties" levels="2,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,9" charts="1,2,3"}|
+|[HAPPY☆ANGEL](/songs/happy-angel)|jun with TAHIRIH|180|:charts{:difficulties="difficulties" levels="2,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[Hunting for you](/songs/hunting-for-you)|Togo Project feat. Megu & Scotty D.|105|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
+|[怒れる大きな白い馬](/songs/tinos-white-horse)|Morning Blue Dragon|110-148|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[カゲロウ](/songs/kagerow)|Des-ROW・組スペシアルr|164|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
+|[この子の七つのお祝いに](/songs/konoko-no-nanatsu-no-oiwaini)|あさき|161|:charts{:difficulties="difficulties" levels="1,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[MONDO STREET](/songs/mondo-street)|Orange Lounge|180|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[MOON](/songs/moon)|dj TAKA feat. Erika|156|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[夢幻ノ光](/songs/mugen)|TЁЯRA|171|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[murmur twins](/songs/murmur-twins)|yu_tokiwa.djw|174|:charts{:difficulties="difficulties" levels="1,2,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
+|[虹色](/songs/nijiiro)|DJ YOSHITAKA feat G.S.C license|160|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[No.13](/songs/no-13)|TAKA respect for J.S.B.|172|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[Quick Master](/songs/quick-master)|act deft|147|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[rainbow rainbow](/songs/rainbow-rainbow)|Ryu☆|177|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[RED ZONE](/songs/red-zone)|Tatsh&NAOKI|165|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[Ska Ska No.3](/songs/ska-ska-no-3)|亜熱帯マジ-SKA爆弾|138|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[TIERRA BUENA](/songs/tierra-buena)|WILMA DE OLIVEIRA|115|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[Under the Sky](/songs/under-the-sky)|南さやか(BeForU) with platoniX|170|:charts{:difficulties="difficulties" levels="1,1,3,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
+|[Xepher](/songs/xepher)|Tatsh|170|:charts{:difficulties="difficulties" levels="1,5,7,9,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,9,10" charts="1,2,3,4"}|
 
 ## システム概要
 
