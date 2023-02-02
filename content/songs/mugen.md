@@ -5,6 +5,7 @@ artist: "TЁЯRA"
 from: "pop'n music 12 いろは"
 bpm: 171
 series:
+  - "nova-us"
   - "nova-jp"
 ---
 
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|115/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=3}|119/12||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6}|241/31||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=8}|331/25||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=3}|119/13||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6}|234/30||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=8}|329/23||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-us" level=1} :level{slug="nova-jp" level=1}|115/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=3} :level{slug="nova-jp" level=3}|119/12||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}|241/31||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}|331/25||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=3} :level{slug="nova-jp" level=3}|119/13||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}|234/30||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}|329/23||
