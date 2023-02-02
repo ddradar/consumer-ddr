@@ -5,6 +5,7 @@ artist: "act deft"
 from: "pop'n music"
 bpm: 147
 series:
+  - "nova-us"
   - "nova-jp"
 ---
 
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|87/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|139/22||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6}|219/10||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=7}|273/11||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|133/21||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6}|217/8||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=7}|262/1||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-us" level=1} :level{slug="nova-jp" level=1}|87/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}|139/22||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}|219/10||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=7} :level{slug="nova-jp" level=7}|273/11||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}|133/21||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}|217/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=7} :level{slug="nova-jp" level=7}|262/1||

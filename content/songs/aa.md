@@ -5,6 +5,7 @@ artist: "D.J.Amuro"
 from: "beatmania IIDX 11 IIDX RED"
 bpm: 154
 series:
+  - "nova-us"
   - "nova-jp"
 ---
 
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|108/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|186/2||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=7}|274/2||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=9}|386/2||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|186/2||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=7}|273/2||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=9}|366/2||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-us" level=1} :level{slug="nova-jp" level=1}|108/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}|186/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=7} :level{slug="nova-jp" level=7}|274/2||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=9} :level{slug="nova-jp" level=9}|386/2||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}|186/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=7} :level{slug="nova-jp" level=7}|273/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=9} :level{slug="nova-jp" level=9}|366/2||

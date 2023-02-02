@@ -6,6 +6,7 @@ from: "DISCO VIKING"
 bpm: 114
 series:
   - "strike"
+  - "nova-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|78/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|120/8||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|195/23||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7}|242/7||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=8}|289/13||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|120/8||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|195/23||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|244/11||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=8}|288/8||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1} :level{slug="nova-us" level=1}|78/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4} :level{slug="nova-us" level=4}|120/8||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6} :level{slug="nova-us" level=6}|195/23||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=7} :level{slug="nova-us" level=7}|242/7||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=8} :level{slug="nova-us" level=8}|289/13||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4} :level{slug="nova-us" level=4}|120/8||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6} :level{slug="nova-us" level=6}|195/23||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8} :level{slug="nova-us" level=8}|244/11||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level=8} :level{slug="nova-us" level=8}|288/8||
