@@ -1,8 +1,8 @@
 import type seriesList from '~~/content/series/.seriesList.json'
 
-const regionList = ['JP', 'US', 'EU', 'None'] as const
+export const regionList = ['JP', 'US', 'EU', 'None'] as const
 
-const platforms = [
+export const platforms = [
   'Play Station',
   'Play Station 2',
   'Dreamcast',
