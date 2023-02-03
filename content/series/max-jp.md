@@ -61,8 +61,8 @@ difficulties:
 |[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[MAX 300](/songs/max-300)|Ω|300|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[true... (Trance Sunrise Mix)](/songs/true-trance)|小坂りゆ|140|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
-|[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,6"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
-|[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
+|[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
+|[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 
 ## システム概要
 

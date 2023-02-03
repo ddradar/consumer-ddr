@@ -65,7 +65,7 @@ difficulties:
 |[MOBO★MOGA](/songs/mobo-moga)|Orange Lounge|172|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Move Your Feet](/songs/move-your-feet)|Junior Senior|118|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Music (Bostik Radio Edit)](/songs/music-bostik)|Darude|138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
-|[NEVER ENDING STORY (Power Club Vocal Mix)](/songs/never-ending-story)|DJ-AC-DC|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
+|[NEVER ENDING STORY (Power Club Vocal Mix)](/songs/never-ending-story)|DJ-AC-DC|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
 |[ON THE JAZZ](/songs/on-the-jazz)|Jonny Dynamite!|130|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[ONLY YOU](/songs/only-you)|CAPTAIN JACK|93|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[PARANOiA ETERNAL](/songs/paranoia-eternal)|STM 200|200|:charts{:difficulties="difficulties" levels="2,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|

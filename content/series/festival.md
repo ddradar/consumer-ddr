@@ -64,23 +64,23 @@ difficulties:
 |[BATTLE BREAKS](/songs/battle-breaks)|DJ TAKAWO|112|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[FIRE DUB](/songs/fire-dub)|ASLETICS|85|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[GET IT ALL](/songs/get-it-all)|BRASS TRICKS|140|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
-|[GORGEOUS 2012](/songs/gorgeous-2012)|THE SURRENDERS|135|:charts{:difficulties="difficulties" levels="3,6,7" charts="6,7,8"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="6,7,8"}|
+|[GORGEOUS 2012](/songs/gorgeous-2012)|THE SURRENDERS|135|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[I Need You -True Platinum Mix](/songs/i-need-you-true-platinum)|Sho-T|130|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[In My Eyes](/songs/in-my-eyes)|riewo|142|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
-|[INFINITE PRAYER](/songs/infinite-prayer)|L.E.D. LIGHT feat. Goro|137|:charts{:difficulties="difficulties" levels="2,6,9" charts="1,2,9"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
+|[INFINITE PRAYER](/songs/infinite-prayer)|L.E.D. LIGHT feat. Goro|137|:charts{:difficulties="difficulties" levels="2,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
 |[INFINITE PRAYER -floating flock style-](/songs/infinite-prayer-floating-flock)|L.E.D. feat. GORO|120|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
-|[INSERTiON (Machine Gun Kelly Mix)](/songs/insertion-machine-gun-kelly)|Thuggie D.|69-139|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="6,7,8"}|
-|[KEEP ON MOVIN' (DMX Mix)](/songs/keep-on-movin-dmx)|N.M.R.-typeG|132|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="6,7,8"}|
+|[INSERTiON (Machine Gun Kelly Mix)](/songs/insertion-machine-gun-kelly)|Thuggie D.|69-139|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[KEEP ON MOVIN' (DMX Mix)](/songs/keep-on-movin-dmx)|N.M.R.-typeG|132|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[Keep Ya Body Movin'](/songs/keep-ya-body-movin)|Thuggie D.|95|:charts{:difficulties="difficulties" levels="2,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[MAD BLAST](/songs/mad-blast)|THE INFECTION|180|:charts{:difficulties="difficulties" levels="4,6,10" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
-|[MATSURI (J-SUMMER MIX)](/songs/matsuri-j-summer)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="6,7,8"}|
+|[MATSURI (J-SUMMER MIX)](/songs/matsuri-j-summer)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[MEANING OF LIFE](/songs/meaning-of-life)|K. Wit feat. GARY|112|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[MGS2 mission R](/songs/mgs2-mission-r)|L.E.D.|150|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Mind Parasite](/songs/mind-parasite)|TOMOSUKE|145|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[NEMESIS](/songs/nemesis)|D.J. SETUP|164|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[PUT YOUR FAITH IN ME (SATURDAY NIGHT MIX)](/songs/put-your-faith-in-me-saturday-night)|UZI-LAY|120|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="6,7,8"}|
-|[Quickening](/songs/quickening)|dj TAKA|150|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,9"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[SANA MOLLETE NE ENTE (B.L.T. STYLE)](/songs/sana-mollete-ne-ente-blt)|Togo Project feat. Sana|90-180|:charts{:difficulties="difficulties" levels="2,7,8" charts="1,2,9"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[PUT YOUR FAITH IN ME (SATURDAY NIGHT MIX)](/songs/put-your-faith-in-me-saturday-night)|UZI-LAY|120|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
+|[Quickening](/songs/quickening)|dj TAKA|150|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[SANA MOLLETE NE ENTE (B.L.T. STYLE)](/songs/sana-mollete-ne-ente-blt)|Togo Project feat. Sana|90-180|:charts{:difficulties="difficulties" levels="2,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[SOMETHING WONDERFUL](/songs/something-wonderful)|L.E.D.|150|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[There 4 You](/songs/there-4-you)|Thuggie D.|113|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[What is Love?](/songs/what-is-love)|TOMOSUKE|130|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|

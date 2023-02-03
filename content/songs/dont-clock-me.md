@@ -6,6 +6,7 @@ from: "Dancemania BASS#2"
 bpm: 124
 series:
   - "extra"
+  - "ext-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

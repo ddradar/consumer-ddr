@@ -31,7 +31,7 @@ difficulties:
 |[GET UP'N MOVE](/songs/get-up-n-move)|S&K|132|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,7" charts="1,2,3"}|
 |[I believe in miracles](/songs/i-believe-in-miracles)|HI-RISE|126|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[IF YOU WERE HERE](/songs/if-you-were-here)|JENNIFER|146|:charts{:difficulties="difficulties" levels="1,5,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,7" charts="1,2,3"}|
-|[LET'S GET DOWN](/songs/lets-get-down)|JT PLAYAZ|128|:charts{:difficulties="difficulties" levels="1,3,4,5,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,4,7,7" charts="1,2,3"}|
+|[LET'S GET DOWN](/songs/lets-get-down)|JT PLAYAZ|128|:charts{:difficulties="difficulties" levels="1,3,4,5,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,4,7,7" charts="1,2,3,4"}|
 |[MOONLIGHT SHADOW (New Vocal Version)](/songs/moonlight-shadow)|MISSING HEART|140|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[RHYTHM AND POLICE (K.O.G G3 Mix)](/songs/rhythm-and-police)|CJ CREW feat. CHRISTIAN D|170|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
 |[SKY HIGH](/songs/sky-high-miko)|DJ MIKO|136|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
