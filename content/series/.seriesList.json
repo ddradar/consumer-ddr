@@ -144,6 +144,11 @@
     "backgroundColor": "crimson",
     "color": "#fff"
   },
+  "nova2-us": {
+    "title": "Dance Dance Revolution SuperNOVA2 (US)",
+    "backgroundColor": "royalblue",
+    "color": "#fff"
+  },
   "oha-gb": {
     "title": "おはスタ Dance Dance Revolution GB",
     "backgroundColor": "darkgray",
