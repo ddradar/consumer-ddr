@@ -28,8 +28,8 @@ series:
 |SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=4}|182/0||
 |SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{slug="tkd" level="?"}|210/0||
 |DOUBLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=}|127/0||
-|DOUBLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=}|154/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=2.5}|127/0||
+|DOUBLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=3.5}|154/0||
 |DOUBLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level="?"}|187/0||
 |COUPLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=1.5}|||
 |COUPLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=2}|||

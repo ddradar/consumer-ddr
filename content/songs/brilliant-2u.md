@@ -72,8 +72,8 @@ series:
 ## メモ
 
 - 以下のシリーズには、CLUB音源で収録されている。
-  - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/series/club-2/)
-  - [Dance Dance Revolution CLUB VERSION Dreamcast Edition](/series/club-dc/)
-- [Dance Dance Revolution KONAMIX](/series/konamix/)の[SINGLE/EXPERT]{.tag.is-expert}は後のシリーズで登場した[SINGLE/CHALLENGE]{.tag.is-challenge}と同一。
+  - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/series/club-2)
+  - [Dance Dance Revolution CLUB VERSION Dreamcast Edition](/series/club-dc)
+- [Dance Dance Revolution KONAMIX](/series/konamix)の[SINGLE/EXPERT]{.tag.is-expert}は後のシリーズで登場した[SINGLE/CHALLENGE]{.tag.is-challenge}と同一。
   - 譜面一覧では[SINGLE/CHALLENGE]{.tag.is-challenge}に掲載。
 - ["STREAM" Special]{.tag.is-challenge}は「BRILLIANT 2U ("STREAM" Special)」という別楽曲として収録。

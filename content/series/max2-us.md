@@ -76,7 +76,7 @@ difficulties:
 |[PUT YOUR FAITH IN ME](/songs/put-your-faith-in-me)|UZI-LAY|119|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[Radical Faith](/songs/radical-faith)|TaQ|114|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[SP-TRIP MACHINE (JUNGLE MIX)](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
-|[think ya better D](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[think ya better D](/songs/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
 |[Tomorrow Perfume](/songs/tomorrow-perfume)|dj TAKA|144|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Try 2 Luv. U](/songs/try-2-luv-u)|S.F.M.P.|115|:charts{:difficulties="difficulties" levels="1,3,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
 |[VANITY ANGEL](/songs/vanity-angel)|FIXX|140|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|

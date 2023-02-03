@@ -32,4 +32,4 @@ series:
 |BATTLE|[BATTLE]{.tag.is-basic}|:level{slug="4th" level=7}|||
 |6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="4th" level=4}|179/0||
 |6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=6}|222/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=}8|288/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=8}|288/0||

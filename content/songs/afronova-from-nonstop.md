@@ -5,7 +5,7 @@ artist: "RE-VENGE"
 from: "DanceDanceRevolution 3rdMIX ORIGINAL SOUNDTRACK"
 bpm: 200
 series:
-  - "max-jp"
+  - "max2-jp"
   - "ext2"
 ---
 

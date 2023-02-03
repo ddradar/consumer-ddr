@@ -35,5 +35,5 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution EXTREME 2](/series/ext)の[SINGLE/CHALLENGE]{.tag.is-expert}譜面は後のシリーズで登場した[SINGLE/EXPERT]{.tag.is-challenge}と同一。
+- [Dance Dance Revolution EXTREME 2](/series/ext2)の[SINGLE/CHALLENGE]{.tag.is-expert}譜面は後のシリーズで登場した[SINGLE/EXPERT]{.tag.is-challenge}と同一。
   - 譜面一覧では[SINGLE/EXPERT]{.tag.is-challenge}に掲載。

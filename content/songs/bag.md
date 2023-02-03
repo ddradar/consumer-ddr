@@ -32,4 +32,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution EXTREME](/series/ext-jp/)のEXPERT譜面は現行のCHALLENGE譜面相当。
+- [Dance Dance Revolution EXTREME](/series/ext-jp)のEXPERT譜面は現行のCHALLENGE譜面相当。

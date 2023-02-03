@@ -42,4 +42,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution GB2](/series/gb2/)の譜面は三連符がなくなっている。(CUT2相当)
+- [Dance Dance Revolution GB2](/series/gb2)の譜面は三連符がなくなっている。(CUT2相当)

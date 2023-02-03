@@ -2,6 +2,7 @@
 slug: "butterfly"
 name: "butterfly"
 artist: "smile. dk"
+from: "butterfly"
 bpm: 135
 series:
   - "1st-jp"
@@ -46,4 +47,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution GB](/series/gb/)では、HARDモードの譜面が「BUTTERFLY (HARD)」と別曲扱いになっている。
+- [Dance Dance Revolution GB](/series/gb)では、HARDモードの譜面が「BUTTERFLY (HARD)」と別曲扱いになっている。
