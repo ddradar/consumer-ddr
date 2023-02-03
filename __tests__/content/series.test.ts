@@ -21,7 +21,7 @@ describe('content/series/', async () => {
       markdownString.match(/^-{3}(.+)-{3}$/ms)![1]
     ) as Software
 
-    test('has valid MDC syntax', () => {
+    test('has valid syntax', () => {
       expect(mdcContent).toBeDefined()
 
       expect(mdcContent).toHaveProperty('slug', slug)
@@ -54,6 +54,23 @@ describe('content/series/', async () => {
 
     test('.seriesList.json has property', () => {
       expect(Object.keys(seriesList)).toContain(slug)
+    })
+
+    test('uses Chart component correctly', () => {
+      const chartComponents = markdownString.matchAll(
+        /:charts\{:difficulties="difficulties" levels="(.+?)" charts="(.+?)"\}/g
+      )
+      for (const component of chartComponents) {
+        const testName = `Match[${component.index}] (${component[0]})`
+        const levels = component[1].split(',')
+        const charts = component[2].split(',')
+        expect(charts, testName).toHaveLength(levels.length)
+        for (const chart of charts) {
+          expect(Object.keys(mdcContent.difficulties), testName).toContain(
+            chart
+          )
+        }
+      }
     })
   })
 })
