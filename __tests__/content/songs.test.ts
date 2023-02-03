@@ -20,7 +20,7 @@ describe('content/songs/', async () => {
       markdownString.match(/^-{3}(.+)-{3}$/ms)![1]
     ) as Song
 
-    test('has valid MDC syntax', () => {
+    test('has valid syntax', () => {
       expect(mdcContent).toBeDefined()
 
       expect(mdcContent).toHaveProperty('slug', basename(fileName, '.md'))
@@ -37,6 +37,17 @@ describe('content/songs/', async () => {
       expect(mdcContent).toHaveProperty('series')
       for (const s of mdcContent.series) {
         expect(Object.keys(seriesList)).toContain(s)
+      }
+    })
+
+    test('uses Level component correctly', () => {
+      const levelComponents = markdownString.matchAll(
+        /:level\{slug="(.+?)" level="?(.+?)"?\}/g
+      )
+      for (const component of levelComponents) {
+        const testName = `Match[${component.index}] (${component[0]})`
+        expect(mdcContent.series, testName).toContain(component[1])
+        expect(component[2], testName).toMatch(/^\d+(\.5)?|\?|10\+$/)
       }
     })
   })
