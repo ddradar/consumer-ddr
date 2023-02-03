@@ -40,5 +40,5 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution GB3](/series/gb3/)にはBPMが210に上がった「LUV TO ME (AMD MIX) (HARD)」という楽曲も存在する。
+- [Dance Dance Revolution GB3](/series/gb3)にはBPMが210に上がった「LUV TO ME (AMD MIX) (HARD)」という楽曲も存在する。
   - 譜面は同一。BPMが異なるため[別ページ](/songs/luv-to-me-amd-hard)にて紹介

@@ -165,4 +165,4 @@ difficulties:
 
 ### このソフトの隠し要素を解禁できるソフト
 
-- [ance Dance Revolution 5thMIX](/series/5TH)
+- [Dance Dance Revolution 5thMIX](/series/5th)
