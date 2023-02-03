@@ -44,4 +44,4 @@ series:
 ## メモ
 
 - [Dance Dance Revolution EXTRA MIX](/series/extra)にも同一楽曲があるが、尺が異なるため[別ページ](/songs/get-up-n-move-solo)に分割している。
-- [Dance Dance Revolution (US)](/series/us/)の[DOUBLE/EXPERT]{.tag.is-expert}は[DOUBLE/DIFFICULT]{.tag.is-difficult}と同一譜面。
+- [Dance Dance Revolution (US)](/series/us)の[DOUBLE/EXPERT]{.tag.is-expert}は[DOUBLE/DIFFICULT]{.tag.is-difficult}と同一譜面。

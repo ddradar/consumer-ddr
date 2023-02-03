@@ -54,4 +54,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc/)の[BASIC]{.tag.is-basic}, [DIFFICULT]{.tag.is-difficult}, [EXPERT]{.tag.is-expert}譜面は、BONUS TRACKモードでのみ遊べる。
+- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc)の[BASIC]{.tag.is-basic}, [DIFFICULT]{.tag.is-difficult}, [EXPERT]{.tag.is-expert}譜面は、BONUS TRACKモードでのみ遊べる。

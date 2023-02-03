@@ -35,4 +35,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution 3rd MIX (JP)](/series/3rd/)では「gentle stress (AMD SEXUAL MIX)」という曲名で収録。
+- [Dance Dance Revolution 3rd MIX (JP)](/series/3rd)では「gentle stress (AMD SEXUAL MIX)」という曲名で収録。

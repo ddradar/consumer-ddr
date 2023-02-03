@@ -42,4 +42,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution GB](/series/gb/)はFREE MODEでのみ選曲可能。
+- [Dance Dance Revolution GB](/series/gb)はFREE MODEでのみ選曲可能。

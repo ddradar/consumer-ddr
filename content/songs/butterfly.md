@@ -47,4 +47,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution GB](/series/gb/)では、HARDモードの譜面が「BUTTERFLY (HARD)」と別曲扱いになっている。
+- [Dance Dance Revolution GB](/series/gb)では、HARDモードの譜面が「BUTTERFLY (HARD)」と別曲扱いになっている。

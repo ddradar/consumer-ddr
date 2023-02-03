@@ -36,4 +36,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution 3rd MIX](/series/3rd/)は、「BONUS TRACK」からのみ選曲可能。
+- [Dance Dance Revolution 3rd MIX](/series/3rd)は、「BONUS TRACK」からのみ選曲可能。

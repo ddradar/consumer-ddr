@@ -49,5 +49,5 @@ series:
 
 ## メモ
 
-- [Dreamcast Edition](/series/2nd-dc/)において、BONUS TRACKでは3rd以降の譜面になる。
+- [Dreamcast Edition](/series/2nd-dc)において、BONUS TRACKでは3rd以降の譜面になる。
   - 譜面一覧では両方の譜面を掲載。

@@ -67,6 +67,6 @@ series:
 ## メモ
 
 - 以下のシリーズには、CLUB音源で収録されている。
-  - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/series/club-2/)
-  - [Dance Dance Revolution CLUB VERSION Dreamcast Edition](/series/club-dc/)
-- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc/)の[BASIC]{.tag.is-basic}, [DIFFICULT]{.tag.is-difficult}, [EXPERT]{.tag.is-expert}譜面は、BONUS TRACKモードでのみ遊べる。
+  - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/series/club-2)
+  - [Dance Dance Revolution CLUB VERSION Dreamcast Edition](/series/club-dc)
+- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc)の[BASIC]{.tag.is-basic}, [DIFFICULT]{.tag.is-difficult}, [EXPERT]{.tag.is-expert}譜面は、BONUS TRACKモードでのみ遊べる。

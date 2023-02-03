@@ -77,7 +77,7 @@ difficulties:
 |[The Least 100sec](/songs/the-least-100sec)|Hirofumi Sasaki|200-263|:charts{:difficulties="difficulties" levels="3,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,3"}|
 |[桜](/songs/sakura)|RevenG|14-300|:charts{:difficulties="difficulties" levels="3,5,8,10,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,10,9" charts="1,2,3,4"}|
 |[AFTER THE GAME OF LOVE](/songs/after-the-game-of-love)|NPD3|105|:charts{:difficulties="difficulties" levels="1,1,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
-|[think ya better D](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[think ya better D](/songs/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="1,3,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[SEXY PLANET](/songs/sexy-planet)|Crystal Aliens|180|:charts{:difficulties="difficulties" levels="2,5,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[WILD RUSH](/songs/wild-rush)|FACTOR-X|80-180|:charts{:difficulties="difficulties" levels="2,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|

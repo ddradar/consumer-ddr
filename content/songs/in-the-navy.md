@@ -41,5 +41,5 @@ series:
 ## メモ
 
 - 下記のシリーズでは、「BONUS TRACK」からのみ選曲可能。
-  - [Dance Dance Revolution 2nd ReMIX](/series/2nd/)
-  - [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc/)
+  - [Dance Dance Revolution 2nd ReMIX](/series/2nd)
+  - [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc)

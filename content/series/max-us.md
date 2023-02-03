@@ -86,7 +86,7 @@ difficulties:
 |[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[RHYTHM AND POLICE (K.O.G G3 Mix)](/songs/rhythm-and-police)|CJ CREW feat. CHRISTIAN D|170|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[Electro Tuned (the SubS mix)](/songs/electro-tuned)|TaQ|125|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[gentle stress (SENSUAL MIX)](/songs/)|||:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[gentle stress (SENSUAL MIX)](/songs/gentle-stress-sensual)|MR. DOG feat. DJ SWAN|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[PARANOiA MAX (DIRTY MIX) -CLUB ANOTHER ver.2-](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,9" charts="1,2,5"}|

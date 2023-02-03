@@ -43,5 +43,5 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution KONAMIX](/series/konamix/)ではインスト曲となっている。
+- [Dance Dance Revolution KONAMIX](/series/konamix)ではインスト曲となっている。
   - 曲名も「AFTER THE GAME」に変更。
