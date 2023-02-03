@@ -21,24 +21,24 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
-|[A LOVE LIKE THIS](/songs/a-love-like-this)|PANDORA|127|:charts{:difficulties="difficulties" levels="1,4,5,6" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" difficulties="1,2,3"}|
-|[CENTERFOLD (130BPM move it remix)](/songs/centerfold)|CAPTAIN JACK|130|:charts{:difficulties="difficulties" levels="1,3,6,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" difficulties="1,2,3"}|
-|[DA CAPO](/songs/da-capo)|ACE OF BASE|138|:charts{:difficulties="difficulties" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" difficulties="1,2,3"}|
-|[FEELS JUST LIKE IT SHOULD](/songs/feels-just-like-it-should)|LH MUSIC CREATION|87|:charts{:difficulties="difficulties" levels="1,3,5,6" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" difficulties="1,2,3"}|
-|[GIRL IN A DAYDREAM](/songs/girl-in-a-daydream)|PANDORA|126|:charts{:difficulties="difficulties" levels="1,3,5,6" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" difficulties="1,2,3"}|
-|[GIVE ME UP](/songs/give-me-up)|LH MUSIC CREATION|130|:charts{:difficulties="difficulties" levels="1,4,5,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" difficulties="1,2,3"}|
-|[GOLDEN SKY](/songs/golden-sky)|SMiLE.dk|135|:charts{:difficulties="difficulties" levels="1,3,5,6" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" difficulties="1,2,3"}|
-|[I'll Make Love To You](/songs/i-ll-make-love-to-you)|LH MUSIC CREATION|50|:charts{:difficulties="difficulties" levels="1,5,6,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" difficulties="1,2,3"}|
-|[JERK IT OUT](/songs/jerk-it-out)|CAESARS|134|:charts{:difficulties="difficulties" levels="1,5,6,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" difficulties="1,2,3"}|
-|[La Bamba](/songs/la-bamba-lh)|LH MUSIC CREATION|156|:charts{:difficulties="difficulties" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" difficulties="1,2,3"}|
-|[LONG TRAIN RUNNIN'](/songs/long-train-runnin-x-treme)|X-TREME|34-138|:charts{:difficulties="difficulties" levels="1,4,6,8" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" difficulties="1,2,3"}|
-|[LOVE AT FIRSTSIGHT (TwinMasterplan Mix)](/songs/love-at-firstsight)|KYLE MINOGUE|130|:charts{:difficulties="difficulties" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" difficulties="1,2,3"}|
-|[MODERN GIRL](/songs/modern-girl)|SHEENA EASTON|120|:charts{:difficulties="difficulties" levels="1,3,4,6" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" difficulties="1,2,3"}|
-|[MR.DABADA (Groove Wonder Remix)](/songs/mr-dabada)|CARLOS JEAN|128|:charts{:difficulties="difficulties" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" difficulties="1,2,3"}|
-|[SURRENDER (YOUR LOVE)](/songs/surrender)|JAVINE|103|:charts{:difficulties="difficulties" levels="1,4,6,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" difficulties="1,2,3"}|
-|[TOXIC (FT company Edit)](/songs/toxic)|HELEN|143|:charts{:difficulties="difficulties" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" difficulties="1,2,3"}|
-|[WHAT A WONDERFUL WORLD](/songs/what-a-wonderful-world)|BEATROCK vs DJ MIKO|142|:charts{:difficulties="difficulties" levels="1,3,5,7" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" difficulties="1,2,3"}|
-|[WOOKIE WOOKIE](/songs/wookie-wookie)|MACHOMAN|137|:charts{:difficulties="difficulties" levels="1,3,5,8" difficulties="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" difficulties="1,2,3"}|
+|[A LOVE LIKE THIS](/songs/a-love-like-this)|PANDORA|127|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[CENTERFOLD (130BPM move it remix)](/songs/centerfold)|CAPTAIN JACK|130|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[DA CAPO](/songs/da-capo)|ACE OF BASE|138|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[FEELS JUST LIKE IT SHOULD](/songs/feels-just-like-it-should)|LH MUSIC CREATION|87|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
+|[GIRL IN A DAYDREAM](/songs/girl-in-a-daydream)|PANDORA|126|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[GIVE ME UP](/songs/give-me-up)|LH MUSIC CREATION|130|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[GOLDEN SKY](/songs/golden-sky)|SMiLE.dk|135|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
+|[I'll Make Love To You](/songs/i-ll-make-love-to-you)|LH MUSIC CREATION|50|:charts{:difficulties="difficulties" levels="1,5,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
+|[JERK IT OUT](/songs/jerk-it-out)|CAESARS|134|:charts{:difficulties="difficulties" levels="1,5,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[La Bamba](/songs/la-bamba-lh)|LH MUSIC CREATION|156|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[LONG TRAIN RUNNIN'](/songs/long-train-runnin-x-treme)|X-TREME|34-138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[LOVE AT FIRSTSIGHT (TwinMasterplan Mix)](/songs/love-at-firstsight)|KYLE MINOGUE|130|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
+|[MODERN GIRL](/songs/modern-girl)|SHEENA EASTON|120|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
+|[MR.DABADA (Groove Wonder Remix)](/songs/mr-dabada)|CARLOS JEAN|128|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[SURRENDER (YOUR LOVE)](/songs/surrender)|JAVINE|103|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[TOXIC (FT company Edit)](/songs/toxic)|HELEN|143|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[WHAT A WONDERFUL WORLD](/songs/what-a-wonderful-world)|BEATROCK vs DJ MIKO|142|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[WOOKIE WOOKIE](/songs/wookie-wookie)|MACHOMAN|137|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Baby's Tears](/songs/babys-tears)|MIKI ROBERTS|180|:charts{:difficulties="difficulties" levels="2,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Baby's Tears (スカイガールズ・オープニングテーマ)](/songs/babys-tears-op)|小坂りゆ|170|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Feelings Won't Fade(Extend Trance Mix)](/songs/feelings-wont-fade)|SySF.|144|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|

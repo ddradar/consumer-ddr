@@ -24,7 +24,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="" level=}|115/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}||115/0||
 |SINGLE|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=5} :level{slug="konamix" level=5} :level{slug="max2-jp" level=5}|216/0||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=7} :level{slug="konamix" level=7} :level{slug="max2-jp" level=7}|337/0||
 |SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=9} :level{slug="konamix" level=9} :level{slug="max2-jp" level=9}|410/0||
