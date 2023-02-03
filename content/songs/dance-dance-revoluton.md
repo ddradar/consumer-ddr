@@ -3,7 +3,7 @@ slug: "dance-dance-revoluton"
 name: "Dance Dance Revoluton"
 artist: "DDR ALL STARS"
 from: "DanceDanceRevolution EXTREME"
-bpm: "150"
+bpm: 150
 series:
   - "ext-jp"
 ---

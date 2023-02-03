@@ -2,6 +2,7 @@
 slug: "butterfly"
 name: "butterfly"
 artist: "smile. dk"
+from: "butterfly"
 bpm: 135
 series:
   - "1st-jp"

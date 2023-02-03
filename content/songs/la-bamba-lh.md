@@ -6,7 +6,6 @@ from: "DanceDanceRevolution SuperNOVA"
 bpm: 156
 series:
   - "nova-jp"
-  - "nova-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1} :level{slug="nova-us" level=1}|110/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4} :level{slug="nova-us" level=4}|155/1||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6} :level{slug="nova-us" level=6}|247/1||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=7} :level{slug="nova-us" level=7}|328/1||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4} :level{slug="nova-us" level=4}|155/1||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6} :level{slug="nova-us" level=6}|247/1||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=8} :level{slug="nova-us" level=8}|328/1||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|110/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|155/1||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6}|247/1||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=7}|328/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|155/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6}|247/1||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=8}|328/1||
