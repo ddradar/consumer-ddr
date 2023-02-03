@@ -6,6 +6,7 @@ from: "DanceDanceRevolution ULTRAMIX2"
 bpm: "140-320"
 series:
   - "strike"
+  - "nova-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=3}|203/6||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=6}|345/30||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=8}|409/34||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level="10+"}|586/60||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level="10+"}|610/62||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=6}|359/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=9}|394/9||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level="10+"}|543/48||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level="10+"}|562/188||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=3} :level{slug="nova-us" level=3}|203/6||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=6} :level{slug="nova-us" level=6}|345/30||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=8} :level{slug="nova-us" level=8}|409/34||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level="10+"} :level{slug="nova-us" level=10}|586/60||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level="10+"} :level{slug="nova-us" level=10}|610/62||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=6} :level{slug="nova-us" level=6}|359/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=9} :level{slug="nova-us" level=9}|394/9||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level="10+"} :level{slug="nova-us" level=10}|543/48||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="strike" level="10+"} :level{slug="nova-us" level=10}|562/188||

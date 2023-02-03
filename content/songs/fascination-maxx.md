@@ -5,6 +5,7 @@ artist: "100-200-400"
 from: "DanceDanceRevolution SuperNOVA"
 bpm: "100-400"
 series:
+  - "nova-us"
   - "nova-jp"
 ---
 
@@ -22,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=4}|101/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=9}|272/9||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=9}|397/7||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=10}|640/4||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="nova-jp" level=10}|670/16||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=8}|264/12||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=9}|380/3||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=10}|628/3||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="nova-jp" level=10}|654/3||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}|101/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=9} :level{slug="nova-jp" level=9}|272/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=9} :level{slug="nova-jp" level=9}|397/7||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=10} :level{slug="nova-jp" level=10}|640/4||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="nova-us" level=10} :level{slug="nova-jp" level=10}|670/16||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}|264/12||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=9} :level{slug="nova-jp" level=9}|380/3||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=10} :level{slug="nova-jp" level=10}|628/3||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="nova-us" level=10} :level{slug="nova-jp" level=10}|654/3||

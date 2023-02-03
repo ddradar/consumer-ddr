@@ -5,6 +5,7 @@ artist: "NAOKI feat. Becky Lucinda"
 from: "DanceDanceRevolution SuperNOVA"
 bpm: 155
 series:
+  - "nova-us"
   - "nova-jp"
 ---
 
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|75/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=3}|83/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=4}|150/4||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=6}|261/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=3}|102/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=4}|157/2||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=7}|328/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-us" level=1} :level{slug="nova-jp" level=1}|75/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=3} :level{slug="nova-jp" level=3}|83/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}|150/4||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}|261/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=3} :level{slug="nova-jp" level=3}|102/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}|157/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=7} :level{slug="nova-jp" level=7}|328/0||

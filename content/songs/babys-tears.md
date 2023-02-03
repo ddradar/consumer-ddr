@@ -5,6 +5,7 @@ artist: "MIKI ROBERTS"
 from: "DanceDanceRevolution SuperNOVA"
 bpm: 180
 series:
+  - "nova-us"
   - "nova-jp"
 ---
 
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=2}|97/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=3}|99/2||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=5}|183/8||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=7}|280/1||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=3}|109/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=5}|211/5||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=7}|303/1||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-us" level=2} :level{slug="nova-jp" level=2}|97/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=3} :level{slug="nova-jp" level=3}|99/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=5} :level{slug="nova-jp" level=5}|183/8||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=7} :level{slug="nova-jp" level=7}|280/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=3} :level{slug="nova-jp" level=3}|109/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=5} :level{slug="nova-jp" level=5}|211/5||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=7} :level{slug="nova-jp" level=7}|303/1||

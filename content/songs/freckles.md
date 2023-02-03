@@ -6,6 +6,7 @@ from: "Dancemania HAPPY PARADISE 2"
 bpm: 150
 series:
   - "max-jp"
+  - "nova-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,9 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|147/7||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|200/9||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|314/11||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"}|148/7||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"}|204/16||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"}|371/6||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-us" level=1}|79/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"} :level{slug="nova-us" level=3}|147/7||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"} :level{slug="nova-us" level=5}|200/9||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"} :level{slug="nova-us" level=7}|314/11||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-jp" level="?"} :level{slug="nova-us" level=4}|148/7||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-jp" level="?"} :level{slug="nova-us" level=5}|204/16||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-jp" level="?"} :level{slug="nova-us" level=8}|371/6||

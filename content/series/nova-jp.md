@@ -100,11 +100,11 @@ difficulties:
 |[祭 (J-SUMMER MIX)](/songs/matsuri-j-summer)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="2,4,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[PUT YOUR FAITH IN ME (SATURDAY NIGHT MIX)](/songs/put-your-faith-in-me-saturday-night)|UZI-LAY|120|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[rainbow flyer](/songs/rainbow-flyer)|dj TAKA|148|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[Trim](/songs/trim)|kobo|85-340|:charts{:difficulties="difficulties" levels="3,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
-|[Healing-D-Vision](/songs/healing-d-vision)|DE-STRAD|180-360|:charts{:difficulties="difficulties" levels="3,7,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,10,10" charts="1,2,3,4"}|
-|[Fascination MAXX](/songs/fascination-maxx)|100-200-400|100-400|:charts{:difficulties="difficulties" levels="4,9,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,9,10,10" charts="1,2,3,4"}|
-|[Fascination -eternal love mix-](/songs/fascination-eternal-love)|2MB|100-400|:charts{:difficulties="difficulties" levels="4,9,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,9,10,10" charts="1,2,3,4"}|
-|[CHAOS](/songs/chaos)|DE-SIRE retunes|170|:charts{:difficulties="difficulties" levels="4,9,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,9,10,10" charts="1,2,3,4"}|
+|[Trim](/songs/trim)|kobo|???|:charts{:difficulties="difficulties" levels="3,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[Healing-D-Vision](/songs/healing-d-vision)|DE-STRAD|???|:charts{:difficulties="difficulties" levels="3,7,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,10,10" charts="1,2,3,4"}|
+|[Fascination MAXX](/songs/fascination-maxx)|100-200-400|???|:charts{:difficulties="difficulties" levels="4,9,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,9,10,10" charts="1,2,3,4"}|
+|[Fascination -eternal love mix-](/songs/fascination-eternal-love)|2MB|???|:charts{:difficulties="difficulties" levels="4,9,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,9,10,10" charts="1,2,3,4"}|
+|[CHAOS](/songs/chaos)|DE-SIRE retunes|???|:charts{:difficulties="difficulties" levels="4,9,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,9,10,10" charts="1,2,3,4"}|
 
 ## システム概要
 

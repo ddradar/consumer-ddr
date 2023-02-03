@@ -6,6 +6,7 @@ from: "DanceDanceRevolution EXTREME"
 bpm: 125
 series:
   - "ext-jp"
+  - "nova-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|90/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=2}|110/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|192/11||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|274/1||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=2}|116/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5}|181/10||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7}|245/5||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1} :level{slug="nova-us" level=1}|90/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=2} :level{slug="nova-us" level=2}|110/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5} :level{slug="nova-us" level=5}|192/11||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7} :level{slug="nova-us" level=7}|274/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=2} :level{slug="nova-us" level=2}|116/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=5} :level{slug="nova-us" level=5}|181/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="ext-jp" level=7} :level{slug="nova-us" level=7}|245/5||
