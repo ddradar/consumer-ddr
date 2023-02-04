@@ -183,5 +183,10 @@
     "title": "Dance Dance Revolution (US)",
     "backgroundColor": "mediumvioletred",
     "color": "#fff"
+  },
+  "x-us": {
+    "title": "Dance Dance Revolution X (US)",
+    "backgroundColor": "gold",
+    "color": "#000"
   }
 }
