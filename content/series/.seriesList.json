@@ -144,6 +144,11 @@
     "backgroundColor": "crimson",
     "color": "#fff"
   },
+  "nova2-jp": {
+    "title": "Dance Dance Revolution SuperNOVA2 (JP)",
+    "backgroundColor": "royalblue",
+    "color": "#fff"
+  },
   "nova2-us": {
     "title": "Dance Dance Revolution SuperNOVA2 (US)",
     "backgroundColor": "royalblue",
