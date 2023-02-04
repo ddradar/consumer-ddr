@@ -6,6 +6,7 @@ from: "pop'n music 9"
 bpm: "156-160"
 series:
   - "nova-jp"
+  - "nova2-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|123/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|159/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6}|221/4||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=8}|365/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4}|145/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6}|269/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=8}|363/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1} :level{slug="nova2-us" level=1}|123/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4} :level{slug="nova2-us" level=4}|159/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6} :level{slug="nova2-us" level=6}|221/4||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=8} :level{slug="nova2-us" level=8}|365/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=4} :level{slug="nova2-us" level=4}|145/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=6} :level{slug="nova2-us" level=6}|269/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=8} :level{slug="nova2-us" level=8}|363/0||

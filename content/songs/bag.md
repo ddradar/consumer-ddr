@@ -6,6 +6,7 @@ from: "DanceDanceRevolution EXTREME"
 bpm: 65
 series:
   - "ext-jp"
+  - "nova2-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,14 +23,16 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1}|45/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|149/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7}|208/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=10}|382/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4}|148/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8}|217/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=10}|360/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1} :level{slug="nova2-us" level=1}|45/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4} :level{slug="nova2-us" level=4}|149/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=7} :level{slug="nova2-us" level=7}|208/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=10} :level{slug="nova2-us" level=10}|382/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="ext-jp" level=4} :level{slug="nova2-us" level=4}|148/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="ext-jp" level=8} :level{slug="nova2-us" level=8}|217/0||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext-jp" level=10} :level{slug="nova2-us" level=10}|360/0||
 
 ## メモ
 
-- [Dance Dance Revolution EXTREME](/series/ext-jp)のEXPERT譜面は現行のCHALLENGE譜面相当。
+- 下記シリーズの[EXPERT]{.tag.is-expert}譜面は現行の[CHALLENGE]{.tag.is-challenge}譜面相当。(譜面一覧では[CHALLENGE]{.tag.is-challenge}譜面として掲載)
+  - [Dance Dance Revolution EXTREME (JP)](/series/ext-jp)
+  - [Dance Dance Revolution SuperNOVA2 (US)](/series/nova2-us)
