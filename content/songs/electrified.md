@@ -6,6 +6,7 @@ from: "DanceDanceRevolution SuperNOVA2"
 bpm: 140
 series:
   - "nova2-us"
+  - "nova2-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=1}</div>|104/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=3}</div>|147/2||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=5}</div>|209/1||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=7}</div>|273/9||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=3}</div>|178/1||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=5}</div>|206/1||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=8}</div>|286/3||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=1} :level{slug="nova2-jp" level=1}</div>|104/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=3} :level{slug="nova2-jp" level=3}</div>|147/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=5} :level{slug="nova2-jp" level=5}</div>|209/1||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=7} :level{slug="nova2-jp" level=7}</div>|273/9||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=3} :level{slug="nova2-jp" level=3}</div>|178/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=5} :level{slug="nova2-jp" level=5}</div>|206/1||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=8} :level{slug="nova2-jp" level=8}</div>|286/3||

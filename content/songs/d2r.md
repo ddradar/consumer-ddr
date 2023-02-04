@@ -8,6 +8,7 @@ series:
   - "max2-jp"
   - "max2-us"
   - "festival"
+  - "nova2-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -24,10 +25,16 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=1} :level{slug="festival" level=1}</div>|124/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=3} :level{slug="max2-us" level=3} :level{slug="festival" level=3}</div>|147/5||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5} :level{slug="festival" level=5}</div>|236/29||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7} :level{slug="festival" level=7}</div>|327/7||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=3} :level{slug="max2-us" level=3} :level{slug="festival" level=3}</div>|138/4||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5} :level{slug="festival" level=5}</div>|238/10||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7} :level{slug="festival" level=7}</div>|332/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=1} :level{slug="festival" level=1} :level{slug="nova2-jp" level=1}</div>|124/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=3} :level{slug="max2-us" level=3} :level{slug="festival" level=3} :level{slug="nova2-jp" level=3}</div>|147/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5} :level{slug="festival" level=5} :level{slug="nova2-jp" level=5}</div>|236/29||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7} :level{slug="festival" level=7} :level{slug="nova2-jp" level=7}</div>|327/7||
+|SINGLE|["FREEZE" Special]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=8}</div>|||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=3} :level{slug="max2-us" level=3} :level{slug="festival" level=3} :level{slug="nova2-jp" level=3}</div>|138/4||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5} :level{slug="festival" level=5} :level{slug="nova2-jp" level=5}</div>|238/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7} :level{slug="festival" level=7} :level{slug="nova2-jp" level=7}</div>|332/0||
+|DOUBLE|["FREEZE" Special]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=9}</div>|||
+
+## メモ
+
+- ["FREEZE" Special]{.tag.is-challenge}は「D2R("FREEZE" Special)」という別楽曲として収録。
