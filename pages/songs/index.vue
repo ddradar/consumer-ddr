@@ -20,7 +20,7 @@
             v-for="slug in (props.row as Song).series"
             :key="slug"
             class="button is-small"
-            :to="`/series/${slug}/`"
+            :to="`/series/${slug}`"
             :style="{
               backgroundColor: seriesList[slug].backgroundColor,
               color: seriesList[slug].color

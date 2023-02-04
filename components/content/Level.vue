@@ -1,7 +1,7 @@
 <template>
   <div class="tags has-addons">
     <NuxtLink
-      :to="`/series/${slug}/`"
+      :to="`/series/${slug}`"
       class="tag"
       :style="{
         backgroundColor: seriesList[slug].backgroundColor,
@@ -16,8 +16,6 @@
 
 <script lang="ts" setup>
 import seriesList from '~~/content/series/.seriesList.json'
-
-const NuxtLink = resolveComponent('NuxtLink')
 
 interface LevelProps {
   slug: keyof typeof seriesList

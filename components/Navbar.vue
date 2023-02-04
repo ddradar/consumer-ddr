@@ -24,7 +24,7 @@
 
     <div id="navbarMenu" class="navbar-menu" :class="{ 'is-active': isActive }">
       <div class="navbar-start">
-        <NuxtLink class="navbar-item" to="/songs/">Songs</NuxtLink>
+        <NuxtLink class="navbar-item" to="/songs">Songs</NuxtLink>
       </div>
     </div>
   </nav>
