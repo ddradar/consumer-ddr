@@ -24,11 +24,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}</div>|180/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}</div>|205/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}</div>|256/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}</div>|209/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}</div>|247/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}</div>|180/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}</div>|205/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}</div>|256/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}</div>|209/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}</div>|247/0||
 
 ## メモ
 

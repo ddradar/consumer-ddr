@@ -25,25 +25,25 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level="?"}</div>|74/0||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="ext-jp" level=2} :level{slug="ext2" level=2}</div>|75/0||
-|SINGLE|[BASIC (TKD)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=5.5}</div>|219/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=5} :level{slug="ext-jp" level=5} :level{slug="ext2" level=5}</div>|201/0||
-|SINGLE|[TRICK (TKD)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=6}</div>|229/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=6} :level{slug="ext-jp" level=6} :level{slug="ext2" level=6}</div>|221/0||
-|SINGLE|[MANIAC (TKD)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=8}</div>|239/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=7} :level{slug="ext-jp" level=7} :level{slug="ext2" level=7}</div>|262/0||
-|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level="?"}</div>|267/0||
-|DOUBLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level="?"}</div>|||
-|DOUBLE|[BASIC (TKD)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=6.5}</div>|211/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=4} :level{slug="ext-jp" level=4} :level{slug="ext2" level=4}</div>|175/0||
-|DOUBLE|[TRICK (TKD)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=9}</div>|217/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=5} :level{slug="ext-jp" level=5} :level{slug="ext2" level=5}</div>|207/0||
-|DOUBLE|[MANIAC (TKD)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level="?"}</div>|242/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=7} :level{slug="ext-jp" level=7} :level{slug="ext2" level=7}</div>|236/0||
-|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=5.5}</div>|||
-|COUPLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=6}</div>|||
-|COUPLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=8}</div>|||
-|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=4}</div>|198/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=6}</div>|237/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=7}</div>|270/0||
+|SINGLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|74/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=2} :level{slug="ext2" level=2}</div>|75/0||
+|SINGLE|[BASIC (TKD)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=5.5}</div>|219/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=5} :level{slug="ext-jp" level=5} :level{slug="ext2" level=5}</div>|201/0||
+|SINGLE|[TRICK (TKD)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=6}</div>|229/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="ext-jp" level=6} :level{slug="ext2" level=6}</div>|221/0||
+|SINGLE|[MANIAC (TKD)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=8}</div>|239/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7} :level{slug="ext-jp" level=7} :level{slug="ext2" level=7}</div>|262/0||
+|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|267/0||
+|DOUBLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|||
+|DOUBLE|[BASIC (TKD)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=6.5}</div>|211/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=4} :level{slug="ext-jp" level=4} :level{slug="ext2" level=4}</div>|175/0||
+|DOUBLE|[TRICK (TKD)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=9}</div>|217/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=5} :level{slug="ext-jp" level=5} :level{slug="ext2" level=5}</div>|207/0||
+|DOUBLE|[MANIAC (TKD)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|242/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7} :level{slug="ext-jp" level=7} :level{slug="ext2" level=7}</div>|236/0||
+|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=5.5}</div>|||
+|COUPLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=6}</div>|||
+|COUPLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=8}</div>|||
+|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=4}</div>|198/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6}</div>|237/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7}</div>|270/0||
