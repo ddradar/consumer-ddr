@@ -26,20 +26,20 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER (old)]{.tag.is-beginner}|:level{slug="best" level=1} :level{slug="us" level=1}|57/0||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=1}|68/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="best" level=5} :level{slug="us" level=5} :level{slug="party" level=5}|175/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="best" level=7} :level{slug="us" level=7} :level{slug="party" level=7}|183/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="best" level=8} :level{slug="us" level=8} :level{slug="party" level=8}|256/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="best" level=6} :level{slug="us" level=6} :level{slug="party" level=6}|163/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="best" level=7} :level{slug="us" level=7} :level{slug="party" level=7}|183/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="best" level=7} :level{slug="party" level=7}|229/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5}|168/0||
-|COUPLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd" level=7} :level{slug="2nd-dc" level=7}|1P:167/0 2P:170/0||
-|COUPLE|[EXPERT]{.tag.is-expert}|:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}|256/0||
-|UNISON|[BASIC]{.tag.is-basic}|:level{slug="best" level=5} :level{slug="us" level=5}|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|:level{slug="best" level=7} :level{slug="us" level=7}|||
-|UNISON|[EXPERT]{.tag.is-expert}|:level{slug="best" level=8} :level{slug="us" level=8}|||
+|SINGLE|[BEGINNER (old)]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="best" level=1} :level{slug="us" level=1}</div>|57/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="party" level=1}</div>|68/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="best" level=5} :level{slug="us" level=5} :level{slug="party" level=5}</div>|175/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="best" level=7} :level{slug="us" level=7} :level{slug="party" level=7}</div>|183/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="best" level=8} :level{slug="us" level=8} :level{slug="party" level=8}</div>|256/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="best" level=6} :level{slug="us" level=6} :level{slug="party" level=6}</div>|163/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="best" level=7} :level{slug="us" level=7} :level{slug="party" level=7}</div>|183/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="best" level=7} :level{slug="party" level=7}</div>|229/0||
+|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5}</div>|168/0||
+|COUPLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=7} :level{slug="2nd-dc" level=7}</div>|1P:167/0 2P:170/0||
+|COUPLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}</div>|256/0||
+|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="best" level=5} :level{slug="us" level=5}</div>|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="best" level=7} :level{slug="us" level=7}</div>|||
+|UNISON|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="best" level=8} :level{slug="us" level=8}</div>|||
 
 ## メモ
 

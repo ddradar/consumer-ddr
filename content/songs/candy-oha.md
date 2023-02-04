@@ -23,14 +23,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="oha" level=2} :level{slug="oha" level=3} :level{slug="oha-gb" level=3}|107/0||
-|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}|:level{slug="oha" level=3}|126/0||
-|SINGLE|[ANOTHER]{.tag.is-difficult}|:level{slug="oha" level=4} :level{slug="oha-gb" level=4}|140/0||
-|SINGLE|[MANIAC (EASY)]{.tag.is-expert}|:level{slug="oha" level=3}|133/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="oha" level=5} :level{slug="oha-gb" level=5}|173/0||
-|DOUBLE|[BASIC (EASY/NORMAL)]{.tag.is-basic}|:level{slug="oha" level=3} :level{slug="oha" level=5}|109/0||
-|UNISON|[BASIC]{.tag.is-basic}|:level{slug="oha" level=2} :level{slug="oha" level=3}|||
-|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}|:level{slug="oha" level=3}|||
-|UNISON|[ANOTHER]{.tag.is-difficult}|:level{slug="oha" level=4}|||
-|UNISON|[MANIAC (EASY)]{.tag.is-expert}|:level{slug="oha" level=3}|||
-|UNISON|[MANIAC]{.tag.is-expert}|:level{slug="oha" level=5}|||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=2} :level{slug="oha" level=3} :level{slug="oha-gb" level=3}</div>|107/0||
+|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=3}</div>|126/0||
+|SINGLE|[ANOTHER]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=4} :level{slug="oha-gb" level=4}</div>|140/0||
+|SINGLE|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=3}</div>|133/0||
+|SINGLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=5} :level{slug="oha-gb" level=5}</div>|173/0||
+|DOUBLE|[BASIC (EASY/NORMAL)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=3} :level{slug="oha" level=5}</div>|109/0||
+|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=2} :level{slug="oha" level=3}</div>|||
+|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=3}</div>|||
+|UNISON|[ANOTHER]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=4}</div>|||
+|UNISON|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=3}</div>|||
+|UNISON|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=5}</div>|||

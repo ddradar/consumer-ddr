@@ -22,15 +22,15 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|99/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4}|200/0||
-|SINGLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=4.5}|233/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=5}|244/0||
-|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{slug="tkd" level="?"}|274/0||
-|DOUBLE|[FREE]{.tag.is-beginner}|:level{slug="tkd" level="?"}|||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4.5}|167/0||
-|DOUBLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=6.5}|203/0||
-|DOUBLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level="?"}|252/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="tkd" level=4}|||
-|COUPLE|[TRICK]{.tag.is-difficult}|:level{slug="tkd" level=4.5}|||
-|COUPLE|[MANIAC]{.tag.is-expert}|:level{slug="tkd" level=5}|||
+|SINGLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level="?"}</div>|99/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=4}</div>|200/0||
+|SINGLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=4.5}</div>|233/0||
+|SINGLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=5}</div>|244/0||
+|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level="?"}</div>|274/0||
+|DOUBLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level="?"}</div>|||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=4.5}</div>|167/0||
+|DOUBLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=6.5}</div>|203/0||
+|DOUBLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level="?"}</div>|252/0||
+|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=4}</div>|||
+|COUPLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=4.5}</div>|||
+|COUPLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="tkd" level=5}</div>|||

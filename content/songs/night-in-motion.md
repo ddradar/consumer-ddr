@@ -22,13 +22,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="4th" level=3}|173/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=6}|225/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=7}|276/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="4th" level=4}|163/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=6}|215/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=7}|271/0||
-|BATTLE|[BATTLE]{.tag.is-basic}|:level{slug="4th" level=6}|||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="4th" level=3}|148/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="4th" level=6}|241/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="4th" level=7}|270/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=3}</div>|173/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=6}</div>|225/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=7}</div>|276/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=4}</div>|163/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=6}</div>|215/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=7}</div>|271/0||
+|BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=6}</div>|||
+|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=3}</div>|148/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=6}</div>|241/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="4th" level=7}</div>|270/0||

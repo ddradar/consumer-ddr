@@ -23,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-us" level=3} :level{slug="nova-jp" level=3}|111/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}|161/17||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}|236/7||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}|311/2||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}|364/1||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}|171/17||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}|237/9||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}|307/2||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}|360/1||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=3} :level{slug="nova-jp" level=3}</div>|111/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}</div>|161/17||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}</div>|236/7||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}</div>|311/2||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}</div>|364/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}</div>|171/17||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}</div>|237/9||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}</div>|307/2||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=8} :level{slug="nova-jp" level=8}</div>|360/1||

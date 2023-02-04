@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=1} :level{slug="ext-us" level=1}|133/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=4} :level{slug="ext-jp" level=4} :level{slug="ext-us" level=4}|238/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=6} :level{slug="ext-jp" level=6} :level{slug="ext-us" level=6}|321/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=9} :level{slug="ext-jp" level=9} :level{slug="ext-us" level=9}|443/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="5th" level=4} :level{slug="ext-jp" level=4} :level{slug="ext-us" level=4}|241/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="5th" level=6} :level{slug="ext-jp" level=6} :level{slug="ext-us" level=6}|323/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="5th" level=9} :level{slug="ext-jp" level=9} :level{slug="ext-us" level=9}|432/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="ext-jp" level=1} :level{slug="ext-us" level=1}</div>|133/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="5th" level=4} :level{slug="ext-jp" level=4} :level{slug="ext-us" level=4}</div>|238/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="5th" level=6} :level{slug="ext-jp" level=6} :level{slug="ext-us" level=6}</div>|321/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="5th" level=9} :level{slug="ext-jp" level=9} :level{slug="ext-us" level=9}</div>|443/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="5th" level=4} :level{slug="ext-jp" level=4} :level{slug="ext-us" level=4}</div>|241/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="5th" level=6} :level{slug="ext-jp" level=6} :level{slug="ext-us" level=6}</div>|323/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="5th" level=9} :level{slug="ext-jp" level=9} :level{slug="ext-us" level=9}</div>|432/0||

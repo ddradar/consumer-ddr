@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="strike" level=1}|142/7||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|195/16||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=6}|275/29||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|360/18||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="strike" level=4}|213/14||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="strike" level=7}|280/28||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="strike" level=8}|337/6||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="strike" level=1}</div>|142/7||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="strike" level=4}</div>|195/16||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="strike" level=6}</div>|275/29||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="strike" level=8}</div>|360/18||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="strike" level=4}</div>|213/14||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="strike" level=7}</div>|280/28||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="strike" level=8}</div>|337/6||

@@ -22,11 +22,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=4}|167/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="1st-jp" level=5}|177/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="1st-jp" level=6}|192/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=5}|165/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="1st-jp" level=6}|185/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=4}||
-|COUPLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="1st-jp" level=5}||
-|COUPLE|[EXPERT]{.tag.is-expert}|:level{slug="1st-jp" level=6}||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=4}</div>|167/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=5}</div>|177/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=6}</div>|192/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=5}</div>|165/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=6}</div>|185/0||
+|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=4}</div>|||
+|COUPLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=5}</div>|||
+|COUPLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=6}</div>|||

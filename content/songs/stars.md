@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="party" level=1}|105/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=5}|184/14||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=6}|223/14||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level=7}|294/22||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="party" level=5}|188/17||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="party" level=7}|224/14||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="party" level=8}|295/21||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="party" level=1}</div>|105/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="party" level=5}</div>|184/14||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="party" level=6}</div>|223/14||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="party" level=7}</div>|294/22||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="party" level=5}</div>|188/17||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="party" level=7}</div>|224/14||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="party" level=8}</div>|295/21||

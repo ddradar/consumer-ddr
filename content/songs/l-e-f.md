@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-us" level=1}|72/2||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=3}|149/24||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=5}|236/15||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=8}|288/18||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-us" level=3}|138/27||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-us" level=5}|222/26||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-us" level=8}|291/3||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=1}</div>|72/2||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=3}</div>|149/24||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=5}</div>|236/15||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=8}</div>|288/18||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=3}</div>|138/27||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=5}</div>|222/26||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-us" level=8}</div>|291/3||

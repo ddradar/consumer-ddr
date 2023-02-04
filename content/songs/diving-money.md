@@ -24,11 +24,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="club-1" level=4} :level{slug="club-dc" level=4} :level{slug="konamix" level=4}|156/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-1" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}|170/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="club-1" level=7} :level{slug="club-dc" level=7} :level{slug="konamix" level=7}|215/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="club-1" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}|170/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="club-1" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}|215/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-1" level=4} :level{slug="club-dc" level=4} :level{slug="konamix" level=4}</div>|156/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-1" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}</div>|170/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-1" level=7} :level{slug="club-dc" level=7} :level{slug="konamix" level=7}</div>|215/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-1" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}</div>|170/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-1" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}</div>|215/0||
 
 ## メモ
 

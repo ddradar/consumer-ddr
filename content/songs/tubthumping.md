@@ -23,11 +23,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4}|110/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5}|129/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}|153/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4}|116/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}|148/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4}|97/0||
-|COUPLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5}|121/0||
-|COUPLE|[EXPERT]{.tag.is-expert}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}|153/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4}</div>|110/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5}</div>|129/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}</div>|153/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4}</div>|116/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}</div>|148/0||
+|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=4} :level{slug="2nd-dc" level=4}</div>|97/0||
+|COUPLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=5} :level{slug="2nd-dc" level=5}</div>|121/0||
+|COUPLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}</div>|153/0||

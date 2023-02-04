@@ -2,22 +2,26 @@
 
 exports[`components/content/Level.vue > renders series link 1`] = `
 <div
-  class="tags has-addons"
+  class="control"
 >
-  <a
-    class="tag"
-    style="background-color: darkviolet; color: rgb(255, 255, 255);"
+  <div
+    class="tags has-addons"
   >
-    <span
-      title="Dance Dance Revolution (JP)"
+    <a
+      class="tag"
+      style="background-color: darkviolet; color: rgb(255, 255, 255);"
     >
-      1st-jp
+      <span
+        title="Dance Dance Revolution (JP)"
+      >
+        1st-jp
+      </span>
+    </a>
+    <span
+      class="tag"
+    >
+      5
     </span>
-  </a>
-  <span
-    class="tag"
-  >
-    5
-  </span>
+  </div>
 </div>
 `;
