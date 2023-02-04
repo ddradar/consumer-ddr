@@ -45,7 +45,7 @@ difficulties:
 |[air](/songs/air)|DJ SIMON|130|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[I'm gonna get you!](/songs/im-gonna-get-you)|Kelly Cosmo|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[JANEJANA](/songs/janejana)|T.E.M.P.O. feat. Mohammed&Emi|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[三毛猫ロック](/songs/calicocat-rock)|亜熱帯マジ-SKA爆弾|246|:charts{:difficulties="difficulties" levels="2,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[三毛猫ロック](/songs/calico-cat-rock)|亜熱帯マジ-SKA爆弾|246|:charts{:difficulties="difficulties" levels="2,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Pink Rose](/songs/pink-rose)|Kiyommy + Seiya|146|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[♥ LOVE² シュガ→ ♥](/songs/love-love-sugar)|dj TAKA feat.のりあ|155|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[STAY (Organic house Version)](/songs/stay-organic-house)|emi|125|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|

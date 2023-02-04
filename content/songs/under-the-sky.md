@@ -6,6 +6,7 @@ from: "beatmania IIDX 12 HAPPY SKY"
 bpm: 170
 series:
   - "nova-jp"
+  - "nova2-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|64/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=1}|64/2||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=3}|117/9||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=6}|197/21||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=2}|93/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=5}|177/8||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=6}|213/5||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1} :level{slug="nova2-us" level=1}|64/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=1} :level{slug="nova2-us" level=1}|64/2||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=3} :level{slug="nova2-us" level=3}|117/9||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=6} :level{slug="nova2-us" level=6}|197/21||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=2} :level{slug="nova2-us" level=2}|93/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=5} :level{slug="nova2-us" level=5}|177/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=6} :level{slug="nova2-us" level=6}|213/5||

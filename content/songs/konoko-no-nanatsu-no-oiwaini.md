@@ -6,6 +6,7 @@ from: "GUITARFREAKS 10thMIX & drummania 9thMIX"
 bpm: 161
 series:
   - "nova-jp"
+  - "nova2-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|97/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=5}|209/22||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=7}|316/8||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=9}|458/4||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=5}|195/9||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=7}|304/12||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=9}|452/4||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1} :level{slug="nova2-us" level=1}|97/0||
+|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=5} :level{slug="nova2-us" level=5}|209/22||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=7} :level{slug="nova2-us" level=7}|316/8||
+|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=9} :level{slug="nova2-us" level=9}|458/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=5} :level{slug="nova2-us" level=5}|195/9||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=7} :level{slug="nova2-us" level=7}|304/12||
+|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=9} :level{slug="nova2-us" level=9}|452/4||
