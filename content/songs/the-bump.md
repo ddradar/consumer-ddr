@@ -22,8 +22,8 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="disney-jp" level=2}|57/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="disney-jp" level=3}|123/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="disney-jp" level=6}|219/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="disney-jp" level=3}|125/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="disney-jp" level=6}|173/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="disney-jp" level=2}</div>|57/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="disney-jp" level=3}</div>|123/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="disney-jp" level=6}</div>|219/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="disney-jp" level=3}</div>|125/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="disney-jp" level=6}</div>|173/0||

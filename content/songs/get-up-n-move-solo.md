@@ -22,12 +22,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=3}|147/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=5}|199/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=7}|243/0||
-|6-PANELS|[BASIC]{.tag.is-basic}|:level{slug="extra" level=3}|147/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=5}|199/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=7}|243/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=3}</div>|147/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=5}</div>|199/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=7}</div>|243/0||
+|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=3}</div>|147/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=5}</div>|199/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=7}</div>|243/0||
 
 ## メモ
 

@@ -23,5 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=9} :level{slug="ext-us" level=9}|281/4||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="max2-jp" level=9} :level{slug="ext-us" level=9}|277/4||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-jp" level=9} :level{slug="ext-us" level=9}</div>|281/4||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-jp" level=9} :level{slug="ext-us" level=9}</div>|277/4||

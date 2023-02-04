@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1}|71/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2} :level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|94/1||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5} :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}|146/3||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7} :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|237/12||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max-us" level=2} :level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}|101/1||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max-us" level=5} :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}|148/2||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max-us" level=7} :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}|256/8||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-us" level=1}</div>|71/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="max-us" level=2} :level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}</div>|94/1||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="max-us" level=5} :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}</div>|146/3||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="max-us" level=7} :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}</div>|237/12||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="max-us" level=2} :level{slug="max2-jp" level=2} :level{slug="max2-us" level=2}</div>|101/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="max-us" level=5} :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5}</div>|148/2||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="max-us" level=7} :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7}</div>|256/8||

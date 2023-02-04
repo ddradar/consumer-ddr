@@ -33,38 +33,38 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER (old)]{.tag.is-beginner}|:level{slug="best" level=1} :level{slug="us" level=1}|100/0||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=2} :level{slug="ext-us" level=2}|142/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=6} :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="gb" level=6} :level{slug="best" level=6} :level{slug="us" level=6} :level{slug="ext-jp" level=6} :level{slug="ext-us" level=6}|268/0||
-|SINGLE|[BASIC (in roulette)]{.tag.is-basic}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}|264/0||
-|SINGLE|[BASIC (CLUB)]{.tag.is-basic}|:level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="max-us" level=6}|275/0||
-|SINGLE|[BASIC (CLUB ANOTHER)]{.tag.is-basic}|:level{slug="club-2" level=6} :level{slug="club-dc" level=6}|249/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="gb" level=8} :level{slug="best" level=8} :level{slug="us" level=8} :level{slug="ext-jp" level=8} :level{slug="ext-us" level=8}|288/0||
-|SINGLE|[DIFFICULT (in roulette)]{.tag.is-difficult}|:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}|275/0||
-|SINGLE|[DIFFICULT (CLUB)]{.tag.is-difficult}|:level{slug="club-2" level=7} :level{slug="club-dc" level=7} :level{slug="max-us" level=7}|291/0||
-|SINGLE|[DIFFICULT (CLUB ANOTHER)]{.tag.is-difficult}|:level{slug="club-2" level=7} :level{slug="club-dc" level=7}|269/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="gb" level=8} :level{slug="best" level=8} :level{slug="us" level=8} :level{slug="ext-jp" level=8} :level{slug="ext-us" level=8}|340/0||
-|SINGLE|[EXPERT (in roulette)]{.tag.is-expert}|:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}|319/0||
-|SINGLE|[EXPERT (CLUB)]{.tag.is-expert}|:level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="max-us" level=8}|320/0||
-|SINGLE|[EXPERT (CLUB ANOTHER)]{.tag.is-expert}|:level{slug="club-2" level=8} :level{slug="club-dc" level=8}|324/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=7} :level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="3rd" level=7} :level{slug="best" level=7} :level{slug="us" level=7} :level{slug="ext-jp" level=7} :level{slug="ext-us" level=7}|274/0||
-|DOUBLE|[BASIC (in roulette)]{.tag.is-basic}|:level{slug="2nd" level=7} :level{slug="2nd-dc" level=7}|254/0||
-|DOUBLE|[BASIC (CLUB)]{.tag.is-basic}|:level{slug="club-2" level=7} :level{slug="club-dc" level=7} :level{slug="max-us" level=7}|285/0||
-|DOUBLE|[BASIC (CLUB ANOTHER)]{.tag.is-basic}|:level{slug="club-2" level=7} :level{slug="club-dc" level=7}|277/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="best" level=8} :level{slug="us" level=8} :level{slug="ext-jp" level=8} :level{slug="ext-us" level=8}|311/0||
-|DOUBLE|[DIFFICULT (in roulette)]{.tag.is-difficult}|:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}|309/0||
-|DOUBLE|[DIFFICULT (CLUB)]{.tag.is-difficult}|:level{slug="club-2" level=9} :level{slug="club-dc" level=9} :level{slug="max-us" level=9}|285/0||
-|DOUBLE|[DIFFICULT (CLUB ANOTHER)]{.tag.is-difficult}|:level{slug="club-2" level=9} :level{slug="club-dc" level=9}|278/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="best" level=9} :level{slug="us" level=9} :level{slug="ext-jp" level=9} :level{slug="ext-us" level=9}|363/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=6} :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="gb" level=6}|236/0||
-|COUPLE|[BASIC (in roulette)]{.tag.is-basic}|:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}|228/0||
-|COUPLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="gb" level=8}|256/0||
-|COUPLE|[DIFFICULT (in roulette)]{.tag.is-difficult}|:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}|239/0||
-|COUPLE|[EXPERT]{.tag.is-expert}|:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="gb" level=8}|304/0||
-|COUPLE|[EXPERT (in roulette)]{.tag.is-expert}|:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}|1P:275/0 2P:274/0||
-|UNISON|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=6} :level{slug="best" level=6} :level{slug="us" level=6}|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=8} :level{slug="best" level=8} :level{slug="us" level=8}|||
-|UNISON|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8} :level{slug="best" level=8} :level{slug="us" level=8}|||
+|SINGLE|[BEGINNER (old)]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="best" level=1} :level{slug="us" level=1}</div>|100/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="ext-jp" level=2} :level{slug="ext-us" level=2}</div>|142/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=6} :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="gb" level=6} :level{slug="best" level=6} :level{slug="us" level=6} :level{slug="ext-jp" level=6} :level{slug="ext-us" level=6}</div>|268/0||
+|SINGLE|[BASIC (in roulette)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}</div>|264/0||
+|SINGLE|[BASIC (CLUB)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="max-us" level=6}</div>|275/0||
+|SINGLE|[BASIC (CLUB ANOTHER)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=6} :level{slug="club-dc" level=6}</div>|249/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="gb" level=8} :level{slug="best" level=8} :level{slug="us" level=8} :level{slug="ext-jp" level=8} :level{slug="ext-us" level=8}</div>|288/0||
+|SINGLE|[DIFFICULT (in roulette)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}</div>|275/0||
+|SINGLE|[DIFFICULT (CLUB)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=7} :level{slug="club-dc" level=7} :level{slug="max-us" level=7}</div>|291/0||
+|SINGLE|[DIFFICULT (CLUB ANOTHER)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=7} :level{slug="club-dc" level=7}</div>|269/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="gb" level=8} :level{slug="best" level=8} :level{slug="us" level=8} :level{slug="ext-jp" level=8} :level{slug="ext-us" level=8}</div>|340/0||
+|SINGLE|[EXPERT (in roulette)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}</div>|319/0||
+|SINGLE|[EXPERT (CLUB)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="max-us" level=8}</div>|320/0||
+|SINGLE|[EXPERT (CLUB ANOTHER)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=8} :level{slug="club-dc" level=8}</div>|324/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=7} :level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="3rd" level=7} :level{slug="best" level=7} :level{slug="us" level=7} :level{slug="ext-jp" level=7} :level{slug="ext-us" level=7}</div>|274/0||
+|DOUBLE|[BASIC (in roulette)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=7} :level{slug="2nd-dc" level=7}</div>|254/0||
+|DOUBLE|[BASIC (CLUB)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=7} :level{slug="club-dc" level=7} :level{slug="max-us" level=7}</div>|285/0||
+|DOUBLE|[BASIC (CLUB ANOTHER)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=7} :level{slug="club-dc" level=7}</div>|277/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="best" level=8} :level{slug="us" level=8} :level{slug="ext-jp" level=8} :level{slug="ext-us" level=8}</div>|311/0||
+|DOUBLE|[DIFFICULT (in roulette)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}</div>|309/0||
+|DOUBLE|[DIFFICULT (CLUB)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=9} :level{slug="club-dc" level=9} :level{slug="max-us" level=9}</div>|285/0||
+|DOUBLE|[DIFFICULT (CLUB ANOTHER)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="club-2" level=9} :level{slug="club-dc" level=9}</div>|278/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="best" level=9} :level{slug="us" level=9} :level{slug="ext-jp" level=9} :level{slug="ext-us" level=9}</div>|363/0||
+|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=6} :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="gb" level=6}</div>|236/0||
+|COUPLE|[BASIC (in roulette)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}</div>|228/0||
+|COUPLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="gb" level=8}</div>|256/0||
+|COUPLE|[DIFFICULT (in roulette)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}</div>|239/0||
+|COUPLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="1st-jp" level=8} :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="gb" level=8}</div>|304/0||
+|COUPLE|[EXPERT (in roulette)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}</div>|1P:275/0 2P:274/0||
+|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=6} :level{slug="best" level=6} :level{slug="us" level=6}</div>|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=8} :level{slug="best" level=8} :level{slug="us" level=8}</div>|||
+|UNISON|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=8} :level{slug="best" level=8} :level{slug="us" level=8}</div>|||
 
 ## メモ
 

@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="nova-jp" level=1}|62/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=3}|110/1||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=5}|157/1||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=6}|201/4||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="nova-jp" level=3}|96/1||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="nova-jp" level=5}|137/1||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="nova-jp" level=6}|175/1||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-jp" level=1}</div>|62/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-jp" level=3}</div>|110/1||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-jp" level=5}</div>|157/1||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-jp" level=6}</div>|201/4||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-jp" level=3}</div>|96/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-jp" level=5}</div>|137/1||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="nova-jp" level=6}</div>|175/1||

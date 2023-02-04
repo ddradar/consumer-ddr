@@ -25,13 +25,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=2}|158/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=4} :level{slug="5th" level=4} :level{slug="konamix" level=4} :level{slug="ext2" level=4}|272/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=6} :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="ext2" level=6}|322/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=9} :level{slug="5th" level=9} :level{slug="konamix" level=9} :level{slug="ext2" level=9}|423/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="extra" level=4} :level{slug="5th" level=4} :level{slug="konamix" level=4} :level{slug="ext2" level=4}|287/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="extra" level=6} :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="ext2" level=6}|332/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="extra" level=9} :level{slug="5th" level=9} :level{slug="konamix" level=9} :level{slug="ext2" level=9}|437/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="ext2" level=2}</div>|158/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=4} :level{slug="5th" level=4} :level{slug="konamix" level=4} :level{slug="ext2" level=4}</div>|272/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=6} :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="ext2" level=6}</div>|322/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=9} :level{slug="5th" level=9} :level{slug="konamix" level=9} :level{slug="ext2" level=9}</div>|423/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=4} :level{slug="5th" level=4} :level{slug="konamix" level=4} :level{slug="ext2" level=4}</div>|287/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=6} :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="ext2" level=6}</div>|332/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="extra" level=9} :level{slug="5th" level=9} :level{slug="konamix" level=9} :level{slug="ext2" level=9}</div>|437/0||
 
 ## メモ
 

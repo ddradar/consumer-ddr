@@ -22,13 +22,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="dct" level=3.5}|149/0||
-|SINGLE|[TRICK]{.tag.is-difficult}|:level{slug="dct" level=5}|200/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="dct" level=6}|245/0||
-|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|:level{slug="dct" level="?"}|294/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="dct" level=4}|175/0||
-|DOUBLE|[TRICK]{.tag.is-difficult}|:level{slug="dct" level=8}|232/0||
-|DOUBLE|[MANIAC]{.tag.is-expert}|:level{slug="dct" level="?"}|250/0||
-|COUPLE|[BASIC]{.tag.is-basic}|:level{slug="dct" level=3.5}|||
-|COUPLE|[TRICK]{.tag.is-difficult}|:level{slug="dct" level=5}|||
-|COUPLE|[MANIAC]{.tag.is-expert}|:level{slug="dct" level=6}|||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level=3.5}</div>|149/0||
+|SINGLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level=5}</div>|200/0||
+|SINGLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level=6}</div>|245/0||
+|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level="?"}</div>|294/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level=4}</div>|175/0||
+|DOUBLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level=8}</div>|232/0||
+|DOUBLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level="?"}</div>|250/0||
+|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level=3.5}</div>|||
+|COUPLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level=5}</div>|||
+|COUPLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="dct" level=6}</div>|||

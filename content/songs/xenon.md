@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="max2-us" level=1} :level{slug="ext-jp" level=1}|121/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=4} :level{slug="ext-jp" level=4}|160/12||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}|271/12||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=9} :level{slug="ext-jp" level=9}|375/11||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="max2-us" level=5} :level{slug="ext-jp" level=5}|177/12||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}|251/11||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="max2-us" level=9} :level{slug="ext-jp" level=9}|363/12||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-us" level=1} :level{slug="ext-jp" level=1}</div>|121/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-us" level=4} :level{slug="ext-jp" level=4}</div>|160/12||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}</div>|271/12||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-us" level=9} :level{slug="ext-jp" level=9}</div>|375/11||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-us" level=5} :level{slug="ext-jp" level=5}</div>|177/12||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}</div>|251/11||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="max2-us" level=9} :level{slug="ext-jp" level=9}</div>|363/12||

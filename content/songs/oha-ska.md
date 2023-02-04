@@ -23,17 +23,17 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC (EASY)]{.tag.is-basic}|:level{slug="oha" level=3}|128/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="oha" level=5} :level{slug="oha-gb" level=5}|146/0||
-|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}|:level{slug="oha" level=4}|151/0||
-|SINGLE|[ANOTHER]{.tag.is-difficult}|:level{slug="oha" level=6} :level{slug="oha-gb" level=6}|188/0||
-|SINGLE|[MANIAC (EASY)]{.tag.is-expert}|:level{slug="oha" level=4}|146/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|:level{slug="oha" level=7} :level{slug="oha-gb" level=7}|193/0||
-|DOUBLE|[BASIC (EASY)]{.tag.is-basic}|:level{slug="oha" level=4}|144/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="oha" level=7}|160/0||
-|UNISON|[BASIC (EASY)]{.tag.is-basic}|:level{slug="oha" level=3}|||
-|UNISON|[BASIC]{.tag.is-basic}|:level{slug="oha" level=5}|||
-|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}|:level{slug="oha" level=4}|||
-|UNISON|[ANOTHER]{.tag.is-difficult}|:level{slug="oha" level=6}|||
-|UNISON|[MANIAC (EASY)]{.tag.is-expert}|:level{slug="oha" level=4}|||
-|UNISON|[MANIAC]{.tag.is-expert}|:level{slug="oha" level=7}|||
+|SINGLE|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=3}</div>|128/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=5} :level{slug="oha-gb" level=5}</div>|146/0||
+|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=4}</div>|151/0||
+|SINGLE|[ANOTHER]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=6} :level{slug="oha-gb" level=6}</div>|188/0||
+|SINGLE|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=4}</div>|146/0||
+|SINGLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=7} :level{slug="oha-gb" level=7}</div>|193/0||
+|DOUBLE|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=4}</div>|144/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=7}</div>|160/0||
+|UNISON|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=3}</div>|||
+|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=5}</div>|||
+|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=4}</div>|||
+|UNISON|[ANOTHER]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=6}</div>|||
+|UNISON|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=4}</div>|||
+|UNISON|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="oha" level=7}</div>|||

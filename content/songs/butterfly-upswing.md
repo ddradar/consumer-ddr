@@ -23,15 +23,15 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext2" level=1}|127/0||
-|SINGLE|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=4} :level{slug="ext2" level=4}|201/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=6} :level{slug="ext2" level=6}|271/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8} :level{slug="ext2" level=8}|322/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext2" level=9}|388/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=5} :level{slug="ext2" level=5}|216/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=7} :level{slug="ext2" level=7}|285/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8} :level{slug="ext2" level=8}|323/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|:level{slug="ext2" level=9}|406/0||
-|UNISON|[BASIC]{.tag.is-basic}|:level{slug="3rd" level=4}|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|:level{slug="3rd" level=6}|||
-|UNISON|[EXPERT]{.tag.is-expert}|:level{slug="3rd" level=8}|||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline">:level{slug="ext2" level=1}</div>|127/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=4} :level{slug="ext2" level=4}</div>|201/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=6} :level{slug="ext2" level=6}</div>|271/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=8} :level{slug="ext2" level=8}</div>|322/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline">:level{slug="ext2" level=9}</div>|388/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=5} :level{slug="ext2" level=5}</div>|216/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=7} :level{slug="ext2" level=7}</div>|285/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=8} :level{slug="ext2" level=8}</div>|323/0||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline">:level{slug="ext2" level=9}</div>|406/0||
+|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=4}</div>|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=6}</div>|||
+|UNISON|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline">:level{slug="3rd" level=8}</div>|||
