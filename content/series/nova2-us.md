@@ -59,7 +59,7 @@ difficulties:
 |[Malacca](/songs/malacca)|nc ft NRG factory|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Music In The Rhythm](/songs/music-in-the-rhythm)|nc ft. Electric Touch|155|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Raspberry♥Heart (English version)](/songs/raspberry-heart)|jun feat. PAULA TERRY|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[STARS☆☆☆（Re-tuned by HΛL） - DDR EDITION -](/songs/stars-hal)|TЁЯRA|145|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[STARS☆☆☆ (Re-tuned by HΛL) -DDR EDITION-](/songs/stars-hal)|TЁЯRA|145|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Vem brincar](/songs/vem-brincar)|Caldeira feat.Téka Penteriche|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Baby's Tears (SKY GIRLS opening theme)](/songs/babys-tears-op)|RIYU KOSAKA|170|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[bag](/songs/bag)|RevenG|65|:charts{:difficulties="difficulties" levels="1,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
