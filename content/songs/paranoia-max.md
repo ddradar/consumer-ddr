@@ -31,8 +31,8 @@ series:
 
 ## 譜面一覧
 
-|PlayStyle|Difficulty|Levels|Movie|
-|---------|----------|------|-----|
+|PlayStyle|Difficulty|Levels|Notes|Movie|
+|---------|----------|------|-----|-----|
 |SINGLE|[BEGINNER (old)]{.tag.is-beginner}|:level{slug="best" level=1} :level{slug="us" level=1}|100/0||
 |SINGLE|[BEGINNER]{.tag.is-beginner}|:level{slug="ext-jp" level=2} :level{slug="ext-us" level=2}|142/0||
 |SINGLE|[BASIC]{.tag.is-basic}|:level{slug="1st-jp" level=6} :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="gb" level=6} :level{slug="best" level=6} :level{slug="us" level=6} :level{slug="ext-jp" level=6} :level{slug="ext-us" level=6}|268/0||
