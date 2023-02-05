@@ -6,6 +6,7 @@ from: "DanceDanceRevolution SuperNOVA2"
 bpm: 185
 series:
   - "nova2-jp"
+  - "x-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,14 +23,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=2}</div>|137/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=4}</div>|195/5||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=5}</div>|234/3||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=7}</div>|422/14||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=2} :level{slug="x-us" level=3}</div>|137/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=4} :level{slug="x-us" level=5}</div>|195/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=5} :level{slug="x-us" level=7}</div>|234/3||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=7} :level{slug="x-us" level=12}</div>|422/14||
 |SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level="?"}</div>|348/14||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=3}</div>|133/2||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=5}</div>|233/7||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=7}</div>|325/18||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=3} :level{slug="x-us" level=4}</div>|133/2||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=5} :level{slug="x-us" level=7}</div>|233/7||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=7} :level{slug="x-us" level=10}</div>|325/18||
 |DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level="?"}</div>|356/4||
 
 ## メモ
@@ -38,6 +39,10 @@ series:
   - [Dance Dance Revolution SuperNOVA2 (JP)](/series/nova2-jp)
     1. 名前順ソートに変更する
     1. 「K」「I」「S」の順にフォルダを開く
+    1. 「S」フォルダから、この楽曲を選曲する
+  - [Dance Dance Revolution X (US)](/series/x-us)
+    1. 名前順ソートに変更する
+    1. 「D」「R」「O」「P」「S」の順にフォルダを開く
     1. 「S」フォルダから、この楽曲を選曲する
 - [Dance Dance Revolution SuperNOVA2 (JP)](/series/nova2-jp)の[CHALLENGE]{.tag.is-challenge}譜面は、HYPER MASTER MODEで下記の条件を満たした場合のみ遊べる。
   - EXPERTモジュールとPRIZEモジュールを装備する

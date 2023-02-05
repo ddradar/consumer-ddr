@@ -76,7 +76,6 @@ difficulties:
 |[AM-3P](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[B4U](/songs/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,5,6,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
-
 |[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
 |[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[D2R](/songs/d2r)|NAOKI|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
