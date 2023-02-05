@@ -184,6 +184,11 @@
     "backgroundColor": "mediumvioletred",
     "color": "#fff"
   },
+  "x-jp": {
+    "title": "Dance Dance Revolution X (JP)",
+    "backgroundColor": "gold",
+    "color": "#000"
+  },
   "x-us": {
     "title": "Dance Dance Revolution X (US)",
     "backgroundColor": "gold",

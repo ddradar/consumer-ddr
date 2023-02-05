@@ -6,6 +6,7 @@ from: "DanceDanceRevolution X"
 bpm: "100-400"
 series:
   - "x-us"
+  - "x-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=3}</div>|105/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=9}</div>|256/6||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=12}</div>|377/11||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=16}</div>|490/28||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=18}</div>|579/46||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=7}</div>|206/5||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11}</div>|364/10||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=16}</div>|486/31||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=18}</div>|538/39||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=3} :level{slug="x-jp" level=5}</div>|105/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=9} :level{slug="x-jp" level=9}</div>|256/6||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=12} :level{slug="x-jp" level=12}</div>|377/11||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=16} :level{slug="x-jp" level=16}</div>|490/28||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=18} :level{slug="x-jp" level=18}</div>|579/46||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=7} :level{slug="x-jp" level=7}</div>|206/5||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11} :level{slug="x-jp" level=11}</div>|364/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=16} :level{slug="x-jp" level=16}</div>|486/31||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=18} :level{slug="x-jp" level=18}</div>|538/39||
