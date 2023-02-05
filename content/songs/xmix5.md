@@ -1,5 +1,5 @@
 ---
-slug: "xmix5--overcrush-"
+slug: "xmix5"
 name: "Xmix5 (Overcrush)"
 artist: "DJ Inhabit"
 from: "DanceDanceRevolution X"
