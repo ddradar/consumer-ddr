@@ -109,6 +109,11 @@
     "backgroundColor": "goldenrod",
     "color": "#fff"
   },
+  "hottest-jp": {
+    "title": "Dance Dance Revolution HOTTEST PARTY (JP)",
+    "backgroundColor": "coral",
+    "color": "#000"
+  },
   "konamix": {
     "title": "Dance Dance Revolution KONAMIX",
     "backgroundColor": "orange",
