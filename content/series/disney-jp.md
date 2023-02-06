@@ -30,7 +30,7 @@ difficulties:
 |[Fire](/songs/fire-combined)|Combined|142|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8" charts="1,2"}|
 |[Twilight Zone](/songs/twilight-zone)|Zodiac|129|:charts{:difficulties="difficulties" levels="3,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,10" charts="1,2"}|
 |[Night of Fire](/songs/night-of-fire)|NIKO|155|:charts{:difficulties="difficulties" levels="3,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,9" charts="1,2"}|
-|[Disco inferno](/songs/disco-inferno)||129|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5" charts="1,2"}|
+|[Disco inferno](/songs/disco-inferno-disney)||129|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5" charts="1,2"}|
 |[(Are You Ready) Do The Bus Stop](/songs/do-the-bus-stop)||109|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|
 |[Johnny B. Goode](/songs/johnny-b-goode)||173|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|
 |[Surfin' U.S.A.](/songs/surfin-usa)||166|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7" charts="1,2"}|

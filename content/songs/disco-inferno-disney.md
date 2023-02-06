@@ -1,5 +1,5 @@
 ---
-slug: "disco-inferno"
+slug: "disco-inferno-disney"
 name: "Disco inferno"
 artist: ""
 from: "Tokyo Disneyland: Club Disney Super Dancin' Mania -Mega Beat-"
