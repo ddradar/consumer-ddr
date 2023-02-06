@@ -1,5 +1,5 @@
 ---
-slug: "disco-inferno"
+slug: "disco-inferno-ok"
 name: "Disco Inferno"
 artist: "OK･OK･OK"
 from: "Disco Inferno"
