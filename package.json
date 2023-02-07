@@ -31,7 +31,7 @@
     "@nuxt/eslint-config": "^0.1.1",
     "@types/js-yaml": "^4.0.5",
     "@vitest/coverage-c8": "^0.28.4",
-    "@vue/test-utils": "^2.2.8",
+    "@vue/test-utils": "^2.2.10",
     "eslint": "^8.33.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-nuxt": "^4.0.0",
