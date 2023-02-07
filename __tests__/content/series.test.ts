@@ -79,7 +79,7 @@ describe('content/series/', async () => {
       for (const link of markdownLinks) {
         const testName = `Match[${link.index}] (${link[0]})`
         const linkPath = link[1]
-        expect(existsSync(`./content/${linkPath}.md`)).toBeTruthy()
+        expect(existsSync(`./content/${linkPath}.md`), testName).toBeTruthy()
       }
     })
   })

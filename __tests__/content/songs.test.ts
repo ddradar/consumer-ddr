@@ -50,5 +50,14 @@ describe('content/songs/', async () => {
         expect(component[2], testName).toMatch(/^\d+(\.5)?|\?|10\+$/)
       }
     })
+
+    test('has valid hyperlink', () => {
+      const markdownLinks = markdownString.matchAll(/\[.+\]\(\/(.+?)\)/g)
+      for (const link of markdownLinks) {
+        const testName = `Match[${link.index}] (${link[0]})`
+        const linkPath = link[1]
+        expect(existsSync(`./content/${linkPath}.md`), testName).toBeTruthy()
+      }
+    })
   })
 })

@@ -29,7 +29,7 @@ difficulties:
 |[Butterfly (2008 X-edit)](/songs/butterfly-2008)|SMiLE.dk|135|:charts{:difficulties="difficulties" levels="2,5,8,11,5" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,5" charts="1,2,3,4"}|
 |[DUB-I-DUB (2008 X-edit)](/songs/dub-i-dub-2008)|ME&MY|136|:charts{:difficulties="difficulties" levels="2,7,9,11,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,13,8" charts="1,2,3,4"}|
 |[Feel](/songs/feel)|Neuropa|140|:charts{:difficulties="difficulties" levels="3,5,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
-|[GET UP'N MOVE (2008 X-edit)](/songs/get-up-n-move--2008-x-edit-)|S&K|132|:charts{:difficulties="difficulties" levels="3,6,7,11,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,11,8" charts="1,2,3,4"}|
+|[GET UP'N MOVE (2008 X-edit)](/songs/get-up-n-move-2008)|S&K|132|:charts{:difficulties="difficulties" levels="3,6,7,11,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,11,8" charts="1,2,3,4"}|
 |[Ghetto Blasta Deluxe](/songs/ghetto-blasta-deluxe)|Audio Magnetics|131|:charts{:difficulties="difficulties" levels="2,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
 |[Happy](/songs/happy)|Fischerspooner|138|:charts{:difficulties="difficulties" levels="2,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
 |[Here It Goes Again](/songs/here-it-goes-again)|OK Go|146|:charts{:difficulties="difficulties" levels="3,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,10" charts="1,2,3"}|
