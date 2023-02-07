@@ -1,15 +1,20 @@
 import type { Ref } from 'vue'
 
-import type { Software } from '~~/src/content'
+import type { Software } from '~~/composables/useSoftwareData'
 
-const keys = ['slug', 'title', 'platform', 'region', 'launched'] as const
-export type SoftwareListData = Pick<Software, (typeof keys)[number]>
+export type SoftwareListData = Omit<Software, 'difficulties'>
 
 export default async function () {
   const { data } = await useAsyncData('/software', () =>
     queryContent<Software>('series')
       .sort({ launched: 1 })
-      .only([...keys])
+      .only<(keyof Software)[]>([
+        'slug',
+        'title',
+        'platform',
+        'region',
+        'launched'
+      ])
       .find()
   )
 

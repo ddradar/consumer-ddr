@@ -7,8 +7,8 @@
 </template>
 
 <script lang="ts" setup>
+import type { Song } from '~~/composables/useSongData'
 import seriesList from '~~/content/series/.seriesList.json'
-import type { Song } from '~~/src/content'
 
 interface SeriesListProps {
   series: Song['series']

@@ -5,8 +5,8 @@ import { basename } from 'node:path'
 import { load } from 'js-yaml'
 import { describe, expect, test } from 'vitest'
 
+import type { Song } from '~~/composables/useSongData'
 import seriesList from '~~/content/series/.seriesList.json'
-import { Song } from '~~/src/content'
 
 const dirpath = './content/songs'
 

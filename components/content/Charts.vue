@@ -13,7 +13,7 @@
 </template>
 
 <script lang="ts" setup>
-import type { Software } from '~~/src/content'
+import type { Software } from '~~/composables/useSoftwareData'
 
 interface Props {
   difficulties: Software['difficulties']
