@@ -1,3 +1,4 @@
+import { existsSync } from 'node:fs'
 import { readdir, readFile } from 'node:fs/promises'
 import { basename } from 'node:path'
 

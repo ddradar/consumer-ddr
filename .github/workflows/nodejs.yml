@@ -29,6 +29,7 @@ jobs:
 
   build:
     name: Build
+    if: github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3.3.0
@@ -45,7 +46,6 @@ jobs:
         run: yarn build
 
       - name: Upload Production Artifact
-        if: github.event_name == 'push'
         uses: actions/upload-pages-artifact@v1.0.7
         with:
           path: dist
