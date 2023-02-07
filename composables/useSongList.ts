@@ -1,11 +1,14 @@
 import type { Ref } from 'vue'
 
-import type { Song } from '~~/src/content'
+import type { Song } from '~~/composables/useSongData'
 
-export default async function (key: string, ...keys: (keyof Song)[]) {
+export default async function <T extends keyof Song>(
+  key: string,
+  ...keys: T[]
+) {
   const { data } = await useAsyncData(key, () =>
     queryContent<Song>('songs').sort({ name: 1 }).only(keys).find()
   )
 
-  return { songs: data as Ref<Pick<Song, (typeof keys)[number]>[]> }
+  return { songs: data as Ref<Pick<Song, T>[]> }
 }

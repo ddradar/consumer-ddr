@@ -5,8 +5,9 @@ import { basename } from 'node:path'
 import { load } from 'js-yaml'
 import { describe, expect, test } from 'vitest'
 
+import type { Software } from '~~/composables/useSoftwareData'
+import { platforms, regionList } from '~~/composables/useSoftwareData'
 import seriesList from '~~/content/series/.seriesList.json'
-import { platforms, regionList, Software } from '~~/src/content'
 
 const dirpath = './content/series'
 

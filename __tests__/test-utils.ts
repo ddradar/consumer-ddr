@@ -1,17 +1,14 @@
 import Oruga from '@oruga-ui/oruga-next'
 import { bulmaConfig } from '@oruga-ui/theme-bulma'
-import { mount } from '@vue/test-utils'
-import flushPromises from 'flush-promises'
+import { flushPromises, mount } from '@vue/test-utils'
 import type { DefineComponent, Plugin } from 'vue'
 import { defineComponent, h, Suspense } from 'vue'
 
-import type { SoftwareParsedContent } from '~~/composables/useSoftwareData'
-import type { SoftwareListData } from '~~/composables/useSoftwareList'
-import type { SongParsedContent } from '~~/composables/useSongData'
+export const plugins: (Plugin | [Plugin, ...unknown[]])[] = [
+  [Oruga, bulmaConfig]
+]
 
-export const plugins: (Plugin | [Plugin, ...any[]])[] = [[Oruga, bulmaConfig]]
-
-export const mountAsync = async <T extends DefineComponent<any, any, any, any>>(
+export const mountAsync = async <T extends DefineComponent<{}, {}, {}, any>>(
   component: T,
   options: Parameters<typeof mount<T>>[1]
 ) => {
@@ -33,7 +30,9 @@ export const mountAsync = async <T extends DefineComponent<any, any, any, any>>(
   return wrapper
 }
 
-export const mockSoftware: SoftwareParsedContent = {
+export const mockSoftware: Awaited<
+  ReturnType<typeof useSoftwareData>
+>['software']['value'] = {
   slug: '1st-jp',
   title: 'Dance Dance Revolution',
   platform: 'Play Station',
@@ -49,7 +48,9 @@ export const mockSoftware: SoftwareParsedContent = {
   _id: 'content:series:1st-jp.md'
 }
 
-export const mockSoftwareList: SoftwareListData[] = [
+export const mockSoftwareList: Awaited<
+  ReturnType<typeof useSoftwareList>
+>['softwareList']['value'] = [
   {
     slug: '1st-jp',
     title: 'Dance Dance Revolution',
@@ -66,7 +67,9 @@ export const mockSoftwareList: SoftwareListData[] = [
   }
 ]
 
-export const mockSong: SongParsedContent = {
+export const mockSong: Awaited<
+  ReturnType<typeof useSongData>
+>['song']['value'] = {
   slug: 'butterfly',
   name: 'butterfly',
   artist: 'smile. dk',

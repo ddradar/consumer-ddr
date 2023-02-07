@@ -17,7 +17,7 @@
       <OTableColumn v-slot="props" label="Series">
         <div class="buttons">
           <NuxtLink
-            v-for="slug in (props.row as Song).series"
+            v-for="slug in (props.row as (typeof songs[number])).series"
             :key="slug"
             class="button is-small"
             :to="`/series/${slug}`"
@@ -45,7 +45,6 @@
 <script lang="ts" setup>
 import useSongList from '~~/composables/useSongList'
 import seriesList from '~~/content/series/.seriesList.json'
-import type { Song } from '~~/src/content'
 
 useHead({ title: 'Song List' })
 

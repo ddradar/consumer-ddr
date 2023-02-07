@@ -25,7 +25,7 @@ describe('pages/songs/index.vue', () => {
       bpm: 180,
       series: ['1st-jp', '2nd']
     }
-  ]
+  ] as Awaited<ReturnType<typeof useSongList>>['songs']['value']
   const global = { plugins, stubs: { NuxtLink: RouterLinkStub, Series: true } }
 
   beforeEach(() => {
