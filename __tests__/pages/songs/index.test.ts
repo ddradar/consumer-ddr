@@ -4,6 +4,7 @@ import { ref } from 'vue'
 
 import useSongList from '~~/composables/useSongList'
 import SongList from '~~/pages/songs/index.vue'
+import { Song } from '~~/src/content'
 
 import { mountAsync, plugins } from '../../test-utils'
 
@@ -25,7 +26,7 @@ describe('pages/songs/index.vue', () => {
       bpm: 180,
       series: ['1st-jp', '2nd']
     }
-  ]
+  ] as Song[]
   const global = { plugins, stubs: { NuxtLink: RouterLinkStub, Series: true } }
 
   beforeEach(() => {

@@ -1,6 +1,6 @@
 import Oruga from '@oruga-ui/oruga-next'
 import { bulmaConfig } from '@oruga-ui/theme-bulma'
-import { mount, flushPromises } from '@vue/test-utils'
+import { flushPromises, mount } from '@vue/test-utils'
 import type { DefineComponent, Plugin } from 'vue'
 import { defineComponent, h, Suspense } from 'vue'
 
@@ -8,9 +8,11 @@ import type { SoftwareParsedContent } from '~~/composables/useSoftwareData'
 import type { SoftwareListData } from '~~/composables/useSoftwareList'
 import type { SongParsedContent } from '~~/composables/useSongData'
 
-export const plugins: (Plugin | [Plugin, ...any[]])[] = [[Oruga, bulmaConfig]]
+export const plugins: (Plugin | [Plugin, ...unknown[]])[] = [
+  [Oruga, bulmaConfig]
+]
 
-export const mountAsync = async <T extends DefineComponent<any, any, any, any>>(
+export const mountAsync = async <T extends DefineComponent<{}, {}, {}, any>>(
   component: T,
   options: Parameters<typeof mount<T>>[1]
 ) => {
