@@ -1,3 +1,4 @@
+import { existsSync } from 'node:fs'
 import { readdir, readFile } from 'node:fs/promises'
 import { basename } from 'node:path'
 
@@ -70,6 +71,15 @@ describe('content/series/', async () => {
             chart
           )
         }
+      }
+    })
+
+    test('has valid hyperlink', () => {
+      const markdownLinks = markdownString.matchAll(/\[.+\]\(\/(.+?)\)/g)
+      for (const link of markdownLinks) {
+        const testName = `Match[${link.index}] (${link[0]})`
+        const linkPath = link[1]
+        expect(existsSync(`./content/${linkPath}.md`), testName).toBeTruthy()
       }
     })
   })
