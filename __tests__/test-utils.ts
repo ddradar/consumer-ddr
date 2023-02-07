@@ -1,7 +1,6 @@
 import Oruga from '@oruga-ui/oruga-next'
 import { bulmaConfig } from '@oruga-ui/theme-bulma'
-import { mount } from '@vue/test-utils'
-import flushPromises from 'flush-promises'
+import { mount, flushPromises } from '@vue/test-utils'
 import type { DefineComponent, Plugin } from 'vue'
 import { defineComponent, h, Suspense } from 'vue'
 
