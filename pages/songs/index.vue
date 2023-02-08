@@ -23,7 +23,7 @@
             :to="`/series/${slug}`"
             :style="{
               backgroundColor: seriesList[slug].backgroundColor,
-              color: seriesList[slug].color
+              color: seriesList[slug].color,
             }"
           >
             <span :title="seriesList[slug].title">{{ slug }}</span>

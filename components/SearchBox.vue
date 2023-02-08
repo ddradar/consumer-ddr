@@ -24,7 +24,7 @@ const { songs } = await useSongList('/searchbox', 'slug', 'name', 'artist')
 const filtered = computed(() =>
   term.value
     ? songs.value.filter(
-        (s) =>
+        s =>
           s.name.toLowerCase().includes(term.value.toLowerCase()) ||
           s.artist.toLowerCase().includes(term.value.toLowerCase())
       )
@@ -32,7 +32,7 @@ const filtered = computed(() =>
 )
 
 const router = useRouter()
-const onSelected = (song: (typeof songs)['value'][number]) => {
+const onSelected = (song: typeof songs['value'][number]) => {
   term.value = song.name
   router.push(`/songs/${song.slug}`)
 }

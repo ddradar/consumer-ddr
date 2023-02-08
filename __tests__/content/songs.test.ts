@@ -11,11 +11,11 @@ import seriesList from '~~/content/series/.seriesList.json'
 const dirpath = './content/songs'
 
 describe('content/songs/', async () => {
-  const fileNames = (await readdir(dirpath)).filter((s) => s[0] !== '.')
+  const fileNames = (await readdir(dirpath)).filter(s => s[0] !== '.')
 
-  describe.each(fileNames)('%s', async (fileName) => {
+  describe.each(fileNames)('%s', async fileName => {
     const markdownString = await readFile(`${dirpath}/${fileName}`, {
-      encoding: 'utf8'
+      encoding: 'utf8',
     })
     const mdcContent = load(
       markdownString.match(/^-{3}(.+)-{3}$/ms)![1]

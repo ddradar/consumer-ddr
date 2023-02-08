@@ -35,8 +35,8 @@ export default defineConfig({
         '**/*.d.ts',
         '**/__tests__/**',
         '.nuxt/**',
-        'plugins/**'
-      ]
-    }
-  }
+        'plugins/**',
+      ],
+    },
+  },
 })

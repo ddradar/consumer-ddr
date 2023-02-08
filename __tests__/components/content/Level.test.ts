@@ -7,7 +7,7 @@ describe('components/content/Level.vue', () => {
   test('renders series link', () => {
     const wrapper = mount(Level, {
       global: { stubs: { NuxtLink: RouterLinkStub } },
-      props: { slug: '1st-jp', level: 5 }
+      props: { slug: '1st-jp', level: 5 },
     })
     expect(wrapper.element).toMatchSnapshot()
   })

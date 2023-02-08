@@ -13,7 +13,7 @@ describe('components/SearchBox.vue', () => {
     { slug: 'boys-smiledk', name: 'BOYS', artist: 'smile. dk' },
     { slug: 'butterfly', name: 'butterfly', artist: 'smile. dk' },
     { slug: 'little-bitch', name: 'LITTLE BITCH', artist: 'THE SPECIALS' },
-    { slug: 'my-fire', name: 'MY FIRE', artist: 'X-TREME' }
+    { slug: 'my-fire', name: 'MY FIRE', artist: 'X-TREME' },
   ]
   beforeEach(() => {
     vi.mocked(useSongList).mockResolvedValue({ songs: ref(songs) } as any)

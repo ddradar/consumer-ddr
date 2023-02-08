@@ -14,7 +14,7 @@ describe('pages/songs/[id].vue', () => {
 
   beforeAll(() => {
     vi.mocked(useRoute).mockReturnValue({
-      params: { id: mockSong.slug }
+      params: { id: mockSong.slug },
     } as any)
   })
 
