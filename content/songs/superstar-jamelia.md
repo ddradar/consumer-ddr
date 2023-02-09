@@ -1,5 +1,5 @@
 ---
-slug: "superstar"
+slug: "superstar-jamelia"
 name: "Superstar"
 artist: "Jamelia"
 from: "Thank You"
