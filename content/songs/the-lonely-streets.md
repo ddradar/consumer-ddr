@@ -1,7 +1,7 @@
 ---
 slug: "the-lonely-streets"
 name: "The Lonely Streets"
-artist: "DJ Yoshitaka feat.Robert "RAab" Stevenson"
+artist: "DJ Yoshitaka feat.Robert \"RAab\" Stevenson"
 from: "DanceDanceRevolution HOTTEST PARTY2"
 bpm: 115
 series:
