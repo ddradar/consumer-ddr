@@ -6,6 +6,7 @@ from: "DanceDanceRevolution HOTTEST PARTY2"
 bpm: 125
 series:
   - "furufuru"
+  - "music-fit"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,5 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=2}</div>|54/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=2} :level{slug="music-fit" level=2}</div>|54/0||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=2}</div>|54/8||
