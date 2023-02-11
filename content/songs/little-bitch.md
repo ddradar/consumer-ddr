@@ -34,6 +34,6 @@ series:
 |COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="1st-jp" level=4} :level{slug="2nd-dc" level=4}</div>|||
 |COUPLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="1st-jp" level=6} :level{slug="2nd-dc" level=5}</div>|||
 |COUPLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="1st-jp" level=7} :level{slug="2nd-dc" level=6}</div>|||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=4}</div>|||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=5}</div>|||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=6}</div>|||
+|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=4}</div>|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=5}</div>|||
+|UNISON|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=6}</div>|||

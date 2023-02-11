@@ -35,7 +35,7 @@ series:
 |SINGLE|[MANIAC (TKD)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=8}</div>|239/0||
 |SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7} :level{slug="ext-jp" level=7} :level{slug="ext2" level=7} :level{slug="x-jp" level=11}</div>|262/0||
 |SINGLE|[SUPER MANIAC]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|267/0||
-|DOUBLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|||
+|DOUBLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|77/0||
 |DOUBLE|[BASIC (TKD)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=6.5}</div>|211/0||
 |DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=4} :level{slug="ext-jp" level=4} :level{slug="ext2" level=4} :level{slug="x-jp" level=5}</div>|175/0||
 |DOUBLE|[TRICK (TKD)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=9}</div>|217/0||
