@@ -144,6 +144,11 @@
     "backgroundColor": "orange",
     "color": "#fff"
   },
+  "music-fit": {
+    "title": "DanceDanceRevolution MUSIC FIT",
+    "backgroundColor": "whitesmoke",
+    "color": "#000"
+  },
   "nova-jp": {
     "title": "Dance Dance Revolution SuperNOVA (JP)",
     "backgroundColor": "crimson",
