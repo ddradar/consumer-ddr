@@ -17,7 +17,7 @@ describe('components/content/', () => {
       const wrapper = mount(ProseA, {
         global,
         slots: { default: 'Link' },
-        props: { href: '/songs' }
+        props: { href: '/songs' },
       })
       expect(wrapper.element).toMatchSnapshot()
     })
@@ -28,7 +28,7 @@ describe('components/content/', () => {
       const wrapper = mount(ProseH2, {
         global,
         slots: { default: 'Header2' },
-        props: { id: 'Header2' }
+        props: { id: 'Header2' },
       })
       expect(wrapper.element).toMatchSnapshot()
     })
@@ -39,7 +39,7 @@ describe('components/content/', () => {
       const wrapper = mount(ProseH3, {
         global,
         slots: { default: 'Header3' },
-        props: { id: 'Header3' }
+        props: { id: 'Header3' },
       })
       expect(wrapper.element).toMatchSnapshot()
     })
@@ -56,7 +56,7 @@ describe('components/content/', () => {
     test('renders <table>', () => {
       const wrapper = mount(ProseTable, {
         global,
-        slots: { default: 'Content' }
+        slots: { default: 'Content' },
       })
       expect(wrapper.element).toMatchSnapshot()
     })

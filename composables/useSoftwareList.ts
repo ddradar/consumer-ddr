@@ -13,7 +13,7 @@ export default async function () {
         'title',
         'platform',
         'region',
-        'launched'
+        'launched',
       ])
       .find()
   )

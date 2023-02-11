@@ -6,7 +6,7 @@
         class="tag"
         :style="{
           backgroundColor: series.backgroundColor,
-          color: series.color
+          color: series.color,
         }"
       >
         <span :title="series.title">{{ slug }}</span>

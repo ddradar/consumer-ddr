@@ -10,7 +10,7 @@ export const platforms = [
   'Play Station 2',
   'Dreamcast',
   'GAME BOY COLOR',
-  'Wii'
+  'Wii',
 ] as const
 
 export interface Software {

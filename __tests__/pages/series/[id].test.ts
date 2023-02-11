@@ -14,7 +14,7 @@ describe('pages/series/[id].vue', () => {
 
   beforeAll(() => {
     vi.mocked(useRoute).mockReturnValue({
-      params: { id: mockSoftware.slug }
+      params: { id: mockSoftware.slug },
     } as any)
   })
 
@@ -22,7 +22,7 @@ describe('pages/series/[id].vue', () => {
     test('renders correctly', async () => {
       // Arrange
       vi.mocked(useSoftwareData).mockResolvedValue({
-        software: ref(mockSoftware)
+        software: ref(mockSoftware),
       })
 
       // Act
