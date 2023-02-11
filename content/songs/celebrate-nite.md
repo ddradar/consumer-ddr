@@ -37,13 +37,13 @@ series:
 |SINGLE|[MANIAC (GB3)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="gb3" level=7}</div>|242/0||
 |SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7} :level{slug="konamix" level=7} :level{slug="max2-us" level=7} :level{slug="party" level=7}</div>|277/0||
 |SINGLE|[SUPER MANIAC]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|278/0||
-|DOUBLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|||
+|DOUBLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|76/0||
 |DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=3.5} :level{slug="extra" level=4} :level{slug="konamix" level=4} :level{slug="max2-us" level=4} :level{slug="party" level=4}</div>|178/0||
 |DOUBLE|[TRICK (TKD)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=8.5}</div>|189/0||
 |DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="konamix" level=6} :level{slug="max2-us" level=6} :level{slug="party" level=6}</div>|208/0||
 |DOUBLE|[MANIAC (TKD)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|233/0||
 |DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7} :level{slug="konamix" level=7} :level{slug="max2-us" level=7} :level{slug="party" level=7}</div>|238/0||
-|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4.5}</div>|||
+|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4.5}</div>|171/0||
 |COUPLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=5}</div>|||
 |COUPLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=7}</div>|||
 |BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=5}</div>|||
