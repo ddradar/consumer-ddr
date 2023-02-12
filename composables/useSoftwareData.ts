@@ -10,6 +10,7 @@ export const platforms = [
   'Play Station 2',
   'Dreamcast',
   'GAME BOY COLOR',
+  'GAME CUBE',
   'Wii',
 ] as const
 

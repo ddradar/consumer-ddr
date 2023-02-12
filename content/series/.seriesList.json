@@ -124,6 +124,11 @@
     "backgroundColor": "orange",
     "color": "#fff"
   },
+  "mario-jp": {
+    "title": "DanceDanceRevolution with MARIO (JP)",
+    "backgroundColor": "darkblue",
+    "color": "#fff"
+  },
   "max-jp": {
     "title": "DDRMAX -DanceDanceRevolution 6thMIX- (JP)",
     "backgroundColor": "blue",
