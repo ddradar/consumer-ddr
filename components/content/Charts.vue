@@ -24,6 +24,6 @@ interface Props {
 const _prop = defineProps<Props>()
 const splitedLevels = computed(() => _prop.levels.split(','))
 const splitedCharts = computed(() =>
-  _prop.charts.split(',').map((s) => parseInt(s, 10))
+  _prop.charts.split(',').map(s => parseInt(s, 10))
 )
 </script>

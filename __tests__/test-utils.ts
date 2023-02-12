@@ -5,7 +5,7 @@ import type { DefineComponent, Plugin } from 'vue'
 import { defineComponent, h, Suspense } from 'vue'
 
 export const plugins: (Plugin | [Plugin, ...unknown[]])[] = [
-  [Oruga, bulmaConfig]
+  [Oruga, bulmaConfig],
 ]
 
 export const mountAsync = async <T extends DefineComponent<{}, {}, {}, any>>(
@@ -19,9 +19,9 @@ export const mountAsync = async <T extends DefineComponent<{}, {}, {}, any>>(
       render() {
         return h(Suspense, null, {
           default: h(component, options?.props),
-          fallback: h('div', 'fallback')
+          fallback: h('div', 'fallback'),
         })
-      }
+      },
     }),
     mountOptions
   )
@@ -42,10 +42,10 @@ export const mockSoftware: Awaited<
     0: { name: 'NORMAL', class: 'is-basic' },
     1: { name: 'BASIC', class: 'is-basic' },
     2: { name: 'ANOTHER', class: 'is-difficult' },
-    3: { name: 'MANIAC', class: 'is-expert' }
+    3: { name: 'MANIAC', class: 'is-expert' },
   },
   body: '',
-  _id: 'content:series:1st-jp.md'
+  _id: 'content:series:1st-jp.md',
 }
 
 export const mockSoftwareList: Awaited<
@@ -56,15 +56,15 @@ export const mockSoftwareList: Awaited<
     title: 'Dance Dance Revolution',
     platform: 'Play Station',
     region: 'JP',
-    launched: '1999-04-10'
+    launched: '1999-04-10',
   },
   {
     slug: '2nd',
     title: 'Dance Dance Revolution 2nd ReMIX',
     platform: 'Play Station',
     region: 'JP',
-    launched: '1999-08-26'
-  }
+    launched: '1999-08-26',
+  },
 ]
 
 export const mockSong: Awaited<
@@ -76,5 +76,5 @@ export const mockSong: Awaited<
   bpm: 135,
   series: ['1st-jp'],
   body: '',
-  _id: 'content:series:1st-jp.md'
+  _id: 'content:series:1st-jp.md',
 }

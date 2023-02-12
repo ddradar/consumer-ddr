@@ -12,12 +12,12 @@ import seriesList from '~~/content/series/.seriesList.json'
 const dirpath = './content/series'
 
 describe('content/series/', async () => {
-  const fileNames = (await readdir(dirpath)).filter((s) => s[0] !== '.')
+  const fileNames = (await readdir(dirpath)).filter(s => s[0] !== '.')
 
-  describe.each(fileNames)('%s', async (fileName) => {
+  describe.each(fileNames)('%s', async fileName => {
     const slug = basename(fileName, '.md')
     const markdownString = await readFile(`${dirpath}/${fileName}`, {
-      encoding: 'utf8'
+      encoding: 'utf8',
     })
     const mdcContent = load(
       markdownString.match(/^-{3}(.+)-{3}$/ms)![1]
@@ -49,7 +49,7 @@ describe('content/series/', async () => {
           'is-difficult',
           'is-expert',
           'is-challenge',
-          'is-unknown'
+          'is-unknown',
         ]).toContain(element.class)
       }
     })

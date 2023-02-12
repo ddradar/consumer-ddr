@@ -8,7 +8,7 @@ import { plugins } from '../test-utils'
 describe('components/Navbar.vue', () => {
   const global = {
     plugins,
-    stubs: { NuxtLink: RouterLinkStub, SearchBox: true }
+    stubs: { NuxtLink: RouterLinkStub, SearchBox: true },
   }
 
   test('renders correctly', () => {

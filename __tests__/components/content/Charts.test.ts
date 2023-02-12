@@ -11,8 +11,8 @@ describe('components/content/Charts.vue', () => {
       props: {
         difficulties: mockSoftware.difficulties,
         charts: '0,1,2,3',
-        levels: '1,2,3,4'
-      }
+        levels: '1,2,3,4',
+      },
     })
     expect(wrapper.element).toMatchSnapshot()
   })

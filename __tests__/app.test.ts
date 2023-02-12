@@ -7,7 +7,7 @@ describe('app.vue', () => {
   test('renders correctly', () => {
     // Arrange - Act
     const wrapper = mount(App, {
-      global: { stubs: { Navbar: true, NuxtPage: true } }
+      global: { stubs: { Navbar: true, NuxtPage: true } },
     })
 
     // Assert

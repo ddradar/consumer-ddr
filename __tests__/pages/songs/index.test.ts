@@ -16,15 +16,15 @@ describe('pages/songs/index.vue', () => {
       name: 'AM-3P',
       artist: 'KTz',
       bpm: 130,
-      series: ['2nd']
+      series: ['2nd'],
     },
     {
       slug: 'paranoia',
       name: 'PARANOiA',
       artist: '180',
       bpm: 180,
-      series: ['1st-jp', '2nd']
-    }
+      series: ['1st-jp', '2nd'],
+    },
   ] as Awaited<ReturnType<typeof useSongList>>['songs']['value']
   const global = { plugins, stubs: { NuxtLink: RouterLinkStub, Series: true } }
 
