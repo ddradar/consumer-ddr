@@ -32,7 +32,7 @@
     "@types/js-yaml": "^4.0.5",
     "@vitest/coverage-c8": "^0.28.4",
     "@vue/test-utils": "^2.2.10",
-    "eslint": "^8.33.0",
+    "eslint": "^8.34.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-simple-import-sort": "^10.0.0",
