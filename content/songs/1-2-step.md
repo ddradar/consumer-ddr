@@ -5,6 +5,7 @@ artist: "LADY-S"
 from: "Goodies"
 bpm: 113
 series:
+  - "hottest-us"
   - "hottest-jp"
 ---
 
@@ -22,7 +23,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-jp" level=1}</div>|19/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-jp" level=2}</div>|83/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-jp" level=4}</div>|167/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-jp" level=6}</div>|264/9||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=1} :level{slug="hottest-jp" level=1}</div>|19/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=2} :level{slug="hottest-jp" level=2}</div>|83/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=4} :level{slug="hottest-jp" level=4}</div>|167/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=6} :level{slug="hottest-jp" level=6}</div>|264/9||
