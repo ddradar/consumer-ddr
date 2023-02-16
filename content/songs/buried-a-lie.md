@@ -5,8 +5,8 @@ artist: "COOLS K"
 from: "Let It Enfold You"
 bpm: 164
 series:
-  - "hottest-jp"
   - "hottest-us"
+  - "hottest-jp"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
