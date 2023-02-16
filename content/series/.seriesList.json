@@ -114,6 +114,11 @@
     "backgroundColor": "goldenrod",
     "color": "#fff"
   },
+  "grand-prix": {
+    "title": "DanceDanceRevolution GRAND PRIX (グランプリプレー)",
+    "backgroundColor": "darkslategray",
+    "color": "#fff"
+  },
   "hottest-jp": {
     "title": "Dance Dance Revolution HOTTEST PARTY (JP)",
     "backgroundColor": "coral",

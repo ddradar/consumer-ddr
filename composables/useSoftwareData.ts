@@ -12,6 +12,7 @@ export const platforms = [
   'GAME BOY COLOR',
   'GAME CUBE',
   'Wii',
+  'Windows',
 ] as const
 
 export interface Software {
