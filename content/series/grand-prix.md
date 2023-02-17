@@ -22,6 +22,10 @@ difficulties:
 ここではグランプリプレーで遊べる楽曲(楽曲パック含む)のみ記載する。
 他のモードで遊べる楽曲については、公式サイトを参照。
 
+### 楽曲パック
+
+- [グランプリ楽曲パック vol.1](/series/grand-prix-vol1)
+
 ### グランプリプレー
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
