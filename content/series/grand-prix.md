@@ -30,9 +30,23 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[AFRONOVA](/songs/afronova)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="5,7,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,13" charts="1,2,3"}|
+|[AFTER THE GAME OF LOVE](/songs/after-the-game-of-love)|NPD3|105|:charts{:difficulties="difficulties" levels="1,2,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[CUTIE CHASER](/songs/cutie-chaser)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[DEAD END](/songs/dead-end)|N & S|190|:charts{:difficulties="difficulties" levels="4,7,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,13" charts="1,2,3"}|
+|[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
+|[DYNAMITE RAVE](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="3,6,10,12,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,11,12" charts="1,2,3,4"}|
+|[GRADIUSIC CYBER \~AMD G5 MIX\~](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="3,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,13" charts="1,2,3"}|
+|[La Señorita](/songs/la-senorita)|CAPTAIN.T|182|:charts{:difficulties="difficulties" levels="4,6,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[La Señorita Virtual](/songs/la-senorita-virtual)|2MB|182|:charts{:difficulties="difficulties" levels="4,8,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,12" charts="1,2,3"}|
+|[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang ma|95-190|:charts{:difficulties="difficulties" levels="4,9,10,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,11,12" charts="1,2,3"}|
+|[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="4,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,13" charts="1,2,3"}|
+|[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="3,4,9,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[think ya better D](/songs/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="3,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,10" charts="1,2,3"}|
+|[TRIP MACHINE \~luv mix\~](/songs/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="3,9,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,11" charts="1,2,3"}|
 |[AM-3P](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="3,7,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,10" charts="1,2,3"}|
 |[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="3,6,6,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,9,10" charts="1,2,3,4"}|
-|[BRILLIANT 2U(Orchestra Groove)](/songs/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,6,8,9,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,9,12" charts="1,2,3,4"}|
+|[BRILLIANT 2U (Orchestra Groove)](/songs/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,6,8,9,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,9,12" charts="1,2,3,4"}|
 |[e-motion](/songs/e-motion)|e.o.s|145|:charts{:difficulties="difficulties" levels="2,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
 |[GENOM SCREAMS](/songs/genom-screams)|L.E.D.LIGHT|150|:charts{:difficulties="difficulties" levels="3,6,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,12" charts="1,2,3"}|
 |[KEEP ON MOVIN'](/songs/keep-on-movin)|N.M.R|132|:charts{:difficulties="difficulties" levels="4,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,10" charts="1,2,3"}|
