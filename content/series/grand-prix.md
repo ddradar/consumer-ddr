@@ -26,6 +26,7 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|
 |----|------|---|------|
+|[革命](/songs/kakumei)|dj TAKA with NAOKI|83-148|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[exotic ethnic](/songs/exotic-ethnic)|RevenG|190|:charts{:difficulties="difficulties" levels="4" charts="0"}|
 |[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat. PAULA TERRY|160|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[HIGHER](/songs/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="3" charts="0"}|
@@ -34,6 +35,33 @@ difficulties:
 |[MAKE IT BETTER](/songs/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 
 ### グランプリプレー
+
+#### DDRMAX2
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[革命](/songs/kakumei)|dj TAKA with NAOKI|83-148|:charts{:difficulties="difficulties" levels="3,5,9,12,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,8,11,11" charts="1,2,3,4"}|
+|[AM-3P(AM EAST mix)](/songs/am-3p-am-east)|KTz|140|:charts{:difficulties="difficulties" levels="10" charts="4"}|:charts{:difficulties="difficulties" levels="11" charts="4"}|
+|[BRE∀K DOWN！](/songs/break-down)|BeForU|190|:charts{:difficulties="difficulties" levels="3,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
+|[BURNING HEAT！（3 Option MIX）](/songs/burning-heat)|Mr.T with Motoaki. F|166|:charts{:difficulties="difficulties" levels="3,4,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,12" charts="1,2,3"}|
+|[BURNIN' THE FLOOR(BLUE FIRE mix)](/songs/burnin-the-floor-blue-fire)|NAOKI|155|:charts{:difficulties="difficulties" levels="10" charts="4"}|:charts{:difficulties="difficulties" levels="10" charts="4"}|
+|[CANDY♡](/songs/candy-heart)|小坂りゆ|180|:charts{:difficulties="difficulties" levels="4,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,10" charts="1,2,3"}|
+|[CELEBRATE NITE(EURO TRANCE STYLE)](/songs/celebrate-nite-euro-trance)|N.M.R|144|:charts{:difficulties="difficulties" levels="11" charts="4"}|:charts{:difficulties="difficulties" levels="10" charts="4"}|
+|[DESTINY](/songs/destiny)|NAOKI feat. PAULA TERRY|155|:charts{:difficulties="difficulties" levels="3,3,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,11" charts="1,2,3"}|
+|[DIVE TO THE NIGHT](/songs/dive-to-the-night)|小坂りゆ|155|:charts{:difficulties="difficulties" levels="3,4,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[D2R](/songs/d2r)|NAOKI|160|:charts{:difficulties="difficulties" levels="3,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,11" charts="1,2,3"}|
+|[ECSTASY (midnight blue mix)](/songs/ecstasy-midnight-blue)|d-complex|145|:charts{:difficulties="difficulties" levels="11" charts="4"}|:charts{:difficulties="difficulties" levels="11" charts="4"}|
+|[HIGHER(next morning mix)](/songs/higher-next-morning)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="11" charts="4"}|:charts{:difficulties="difficulties" levels="11" charts="4"}|
+|[HYSTERIA 2001](/songs/hysteria-2001)|NM|190|:charts{:difficulties="difficulties" levels="10" charts="4"}|:charts{:difficulties="difficulties" levels="11" charts="4"}|
+|[i feel ...](/songs/i-feel)|AKIRA YAMAOKA|141|:charts{:difficulties="difficulties" levels="3,4,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,12" charts="1,2,3"}|
+|[MAXX UNLIMITED](/songs/maxx-unlimited)|Z|140-320|:charts{:difficulties="difficulties" levels="5,10,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,15" charts="1,2,3"}|
+|[MY SUMMER LOVE(TOMMY'S SMILE MIX)](/songs/my-summer-love-tommys-smile)|MITSU-O! with GEILA|100|:charts{:difficulties="difficulties" levels="12" charts="4"}|:charts{:difficulties="difficulties" levels="11" charts="4"}|
+|[rain of sorrow](/songs/rain-of-sorrow)|NM feat. EBONY FAY|140|:charts{:difficulties="difficulties" levels="3,3,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,12" charts="1,2,3"}|
+|[Secret Rendez-vous](/songs/secret-rendez-vous)|DIVAS|98|:charts{:difficulties="difficulties" levels="3,4,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,12" charts="1,2,3"}|
+|[Silent Hill (3rd christmas mix)](/songs/silent-hill-3rd-christmas)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="10" charts="4"}|:charts{:difficulties="difficulties" levels="11" charts="4"}|
+|[Sweet Sweet ♥ Magic](/songs/sweet-sweet-love-magic)|jun|180|:charts{:difficulties="difficulties" levels="4,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[TSUGARU](/songs/tsugaru)|RevenG vs DE-SIRE|165|:charts{:difficulties="difficulties" levels="3,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[TSUGARU (APPLE MIX)](/songs/tsugaru-apple)|RevenG vs DE-SIRE|165|:charts{:difficulties="difficulties" levels="11" charts="4"}|:charts{:difficulties="difficulties" levels="11" charts="4"}|
 
 #### DDRMAX
 

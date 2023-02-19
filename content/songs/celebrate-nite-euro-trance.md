@@ -7,6 +7,7 @@ bpm: 144
 series:
   - "max2-jp"
   - "max2-us"
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,5 +24,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=8} :level{slug="max2-us" level=8}</div>|288/2||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=8} :level{slug="max2-us" level=8}</div>|288/2||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=8} :level{slug="max2-us" level=8} :level{slug="grand-prix" level=11}</div>|288/2||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=8} :level{slug="max2-us" level=8} :level{slug="grand-prix" level=10}</div>|288/2||
