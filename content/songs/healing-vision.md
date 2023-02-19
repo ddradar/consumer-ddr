@@ -9,6 +9,7 @@ series:
   - "konamix"
   - "max-us"
   - "ext-jp"
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,13 +26,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=2}</div>|107/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3} :level{slug="konamix" level=3} :level{slug="max-us" level=3} :level{slug="ext-jp" level=3}</div>|128/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="max-us" level=6} :level{slug="ext-jp" level=6}</div>|272/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=8} :level{slug="konamix" level=8} :level{slug="max-us" level=8} :level{slug="ext-jp" level=8}</div>|353/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3} :level{slug="konamix" level=3} :level{slug="max-us" level=3} :level{slug="ext-jp" level=3}</div>|136/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="max-us" level=6} :level{slug="ext-jp" level=6}</div>|275/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=9} :level{slug="konamix" level=9} :level{slug="max-us" level=9} :level{slug="ext-jp" level=9}</div>|358/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=2} :level{slug="grand-prix" level=4}</div>|107/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3} :level{slug="konamix" level=3} :level{slug="max-us" level=3} :level{slug="ext-jp" level=3} :level{slug="grand-prix" level=5}</div>|128/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="max-us" level=6} :level{slug="ext-jp" level=6} :level{slug="grand-prix" level=7}</div>|272/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=8} :level{slug="konamix" level=8} :level{slug="max-us" level=8} :level{slug="ext-jp" level=8} :level{slug="grand-prix" level=11}</div>|353/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3} :level{slug="konamix" level=3} :level{slug="max-us" level=3} :level{slug="ext-jp" level=3} :level{slug="grand-prix" level=4}</div>|136/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :level{slug="konamix" level=6} :level{slug="max-us" level=6} :level{slug="ext-jp" level=6} :level{slug="grand-prix" level=8}</div>|275/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=9} :level{slug="konamix" level=9} :level{slug="max-us" level=9} :level{slug="ext-jp" level=9} :level{slug="grand-prix" level=13}</div>|358/0||
 
 ## メモ
 

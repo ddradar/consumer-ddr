@@ -14,6 +14,7 @@ series:
   - "us"
   - "ext-jp"
   - "ext-us"
+  - "grand-prix-free"
   - "grand-prix"
 ---
 
@@ -31,7 +32,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="us" level=1} :level{slug="ext-jp" level=1} :level{slug="ext-us" level=1} :level{slug="grand-prix" level=4}</div>|51/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="us" level=1} :level{slug="ext-jp" level=1} :level{slug="ext-us" level=1} :level{slug="grand-prix-free" level=4} :level{slug="grand-prix" level=4}</div>|51/0||
 |SINGLE|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=3}</div>|79/0||
 |SINGLE|[BASIC (old)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=3} :level{slug="2nd-dc" level=3} :level{slug="oha" level=4}</div>|89/0||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=4} :level{slug="2nd-dc" level=4} :level{slug="club-dc" level=4} :level{slug="3rd" level=4} :level{slug="us" level=4} :level{slug="ext-jp" level=4} :level{slug="ext-us" level=4} :level{slug="grand-prix" level=5}</div>|110/0||

@@ -26,6 +26,7 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|
 |----|------|---|------|
+|[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat. PAULA TERRY|160|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[HIGHER](/songs/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[KEEP ON MOVIN'](/songs/keep-on-movin)|N.M.R|132|:charts{:difficulties="difficulties" levels="4" charts="0"}|
@@ -35,6 +36,16 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[サナ・モレッテ・ネ・エンテ](/songs/sana-mollete-ne-ente)|Togo Project feat. Sana|90|:charts{:difficulties="difficulties" levels="3,4,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[ABSOLUTE](/songs/absolute)|dj TAKA|144|:charts{:difficulties="difficulties" levels="3,4,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[Abyss](/songs/abyss)|dj TAKA|142|:charts{:difficulties="difficulties" levels="3,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[AFRONOVA PRIMEVAL](/songs/afronova-primeval)|8 bit|200|:charts{:difficulties="difficulties" levels="4,7,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,13" charts="1,2,3"}|
+|[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat. PAULA TERRY|160|:charts{:difficulties="difficulties" levels="3,5,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="4,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
+|[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:difficulties="difficulties" levels="4,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,13" charts="1,2,3"}|
+|[INSERTiON](/songs/insertion)|NAOKI underground|110-225|:charts{:difficulties="difficulties" levels="4,6,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[PARANOiA ETERNAL](/songs/paranoia-eternal)|STM 200|200|:charts{:difficulties="difficulties" levels="4,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,13" charts="1,2,3"}|
+|[STILL IN MY HEART](/songs/still-in-my-heart)|NAOKI|150|:charts{:difficulties="difficulties" levels="3,6,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
 |[BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love)|DIVAS|96|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[BURNIN' THE FLOOR](/songs/burnin-the-floor)|NAOKI|155|:charts{:difficulties="difficulties" levels="3,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
 |[B4U](/songs/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
@@ -45,9 +56,9 @@ difficulties:
 |[HIGHER](/songs/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="3,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
 |[HYSTERIA](/songs/hysteria)|NAOKI 190|190|:charts{:difficulties="difficulties" levels="5,6,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
 |[LEADING CYBER](/songs/leading-cyber)|dj TAKA|150|:charts{:difficulties="difficulties" levels="3,8,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
-|[LOVE AGAIN TONIGHT \~For Melissa MIX\~](/songs/love-again-tonight-for-melissa-mix-)|NAOKI feat. PAULA TERRY|150|:charts{:difficulties="difficulties" levels="4,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[LOVE AGAIN TONIGHT \~For Melissa MIX\~](/songs/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:difficulties="difficulties" levels="4,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
 |[MY SUMMER LOVE](/songs/my-summer-love)|MITSU-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,4,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
-|[ORION.78 (AMeuro-MIX)](/songs/orion-78-ameuro-mix-)|RE-VENGE|105|:charts{:difficulties="difficulties" levels="3,4,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
+|[ORION.78 (AMeuro-MIX)](/songs/orion-78-ameuro)|RE-VENGE|105|:charts{:difficulties="difficulties" levels="3,4,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[PARANOIA EVOLUTION](/songs/paranoia-evolution)|200|200|:charts{:difficulties="difficulties" levels="5,9,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
 |[SEXY PLANET](/songs/sexy-planet)|Crystal Aliens|180|:charts{:difficulties="difficulties" levels="3,7,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
 |[SUPER STAR](/songs/super-star)|D.J.RICH feat. TAILBROS.|128|:charts{:difficulties="difficulties" levels="3,7,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,11" charts="1,2,3"}|

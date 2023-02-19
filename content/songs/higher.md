@@ -12,6 +12,7 @@ series:
   - "ext-jp"
   - "party"
   - "ext-us"
+  - "grand-prix-free"
   - "grand-prix"
 ---
 
@@ -29,7 +30,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=1} :level{slug="party" level=1} :level{slug="ext-us" level=1} :level{slug="grand-prix" level=3}</div>|106/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=1} :level{slug="party" level=1} :level{slug="ext-us" level=1} :level{slug="grand-prix-free" level=3} :level{slug="grand-prix" level=3}</div>|106/0||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=3} :level{slug="gb3" level=3} :level{slug="disney-us" level=3} :level{slug="konamix" level=3} :level{slug="ext-jp" level=3} :level{slug="party" level=3} :level{slug="ext-us" level=3} :level{slug="grand-prix" level=4}</div>|140/0||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=5} :level{slug="gb3" level=5} :level{slug="disney-us" level=5} :level{slug="konamix" level=5} :level{slug="ext-jp" level=5} :level{slug="party" level=5} :level{slug="ext-us" level=5} :level{slug="grand-prix" level=7}</div>|214/0||
 |SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=6} :level{slug="gb3" level=6} :level{slug="disney-us" level=6} :level{slug="konamix" level=6} :level{slug="ext-jp" level=6} :level{slug="party" level=6} :level{slug="ext-us" level=6} :level{slug="grand-prix" level=9}</div>|246/0||
