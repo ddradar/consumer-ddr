@@ -6,6 +6,7 @@ from: "Dance Maniax 2ndMIX"
 bpm: 155
 series:
   - "ext-jp"
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -22,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=1}</div>|106/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=3}</div>|116/4||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=5}</div>|193/13||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=8}</div>|316/10||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=3}</div>|130/6||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=5}</div>|197/13||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=8}</div>|291/15||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=1} :level{slug="grand-prix" level=3}</div>|106/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=3} :level{slug="grand-prix" level=3}</div>|116/4||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=5} :level{slug="grand-prix" level=6}</div>|193/13||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=8} :level{slug="grand-prix" level=10}</div>|316/10||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=3} :level{slug="grand-prix" level=3}</div>|130/6||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=5} :level{slug="grand-prix" level=6}</div>|197/13||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=8} :level{slug="grand-prix" level=11}</div>|291/15||

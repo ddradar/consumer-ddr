@@ -44,7 +44,7 @@ difficulties:
 |[White Lovers](/songs/white-lovers)|新谷さなえ|125|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[air](/songs/air)|DJ SIMON|130|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[I'm gonna get you!](/songs/im-gonna-get-you)|Kelly Cosmo|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[JANEJANA](/songs/janejana)|T.E.M.P.O. feat. Mohammed&Emi|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[JANEJANA](/songs/jane-jana)|T.E.M.P.O. feat. Mohammed&Emi|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[三毛猫ロック](/songs/calico-cat-rock)|亜熱帯マジ-SKA爆弾|246|:charts{:difficulties="difficulties" levels="2,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Pink Rose](/songs/pink-rose)|Kiyommy + Seiya|146|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[♥ LOVE² シュガ→ ♥](/songs/love-love-sugar)|dj TAKA feat.のりあ|155|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -126,7 +126,7 @@ difficulties:
 |[I Need You](/songs/i-need-you)|Supa Fova feat. Jenny F.|114|:charts{:difficulties="difficulties" levels="1,3,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[Try 2 Luv. U](/songs/try-2-luv-u)|S.F.M.P.|115|:charts{:difficulties="difficulties" levels="1,3,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
 |[un deux trois](/songs/un-deux-trois)|SDMS|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
-|[Dance Dance Revoluton](/songs/dance-dance-revoluton)|DDR ALL STARS|???|:charts{:difficulties="difficulties" levels="3,4,7,9,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,9,9" charts="1,2,3,4"}|
+|[Dance Dance Revolution](/songs/dance-dance-revolution)|DDR ALL STARS|???|:charts{:difficulties="difficulties" levels="3,4,7,9,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,9,9" charts="1,2,3,4"}|
 |[TRIP MACHINE survivor](/songs/trip-machine-survivor)|DE-SIRE|170|:charts{:difficulties="difficulties" levels="1,5,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[PARANOIA survivor](/songs/paranoia-survivor)|270|135-270|:charts{:difficulties="difficulties" levels="3,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
 |[PARANOIA survivor MAX](/songs/paranoia-survivor-max)|290|145-290|:charts{:difficulties="difficulties" levels="3,5,8,10+,10+" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,10+,10+" charts="1,2,3,4"}|

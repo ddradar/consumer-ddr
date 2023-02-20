@@ -26,6 +26,7 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|
 |----|------|---|------|
+|[xenon](/songs/xenon)|Mr.T|158|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[革命](/songs/kakumei)|dj TAKA with NAOKI|83-148|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[exotic ethnic](/songs/exotic-ethnic)|RevenG|190|:charts{:difficulties="difficulties" levels="4" charts="0"}|
 |[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat. PAULA TERRY|160|:charts{:difficulties="difficulties" levels="3" charts="0"}|
@@ -35,6 +36,56 @@ difficulties:
 |[MAKE IT BETTER](/songs/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 
 ### グランプリプレー
+
+#### DDR EXTREME
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[蒼い衝動 ～for EXTREME～](/songs/blue-impulse)|NAOKI feat.YUKI|145|:charts{:difficulties="difficulties" levels="2,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,11" charts="1,2,3"}|
+|[桜](/songs/sakura)|Reven-G|20-320|:charts{:difficulties="difficulties" levels="5,7,11,13,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,13,11" charts="1,2,3,4"}|
+|[大見解](/songs/daikenkai)|Des-ROW feat. TSUBOI for ALPHA|143-172|:charts{:difficulties="difficulties" levels="4,4,8,12,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,13,14" charts="1,2,3,4"}|
+|[三毛猫ロック](/songs/calico-cat-rock)|亜熱帯マジ-SKA爆弾|246|:charts{:difficulties="difficulties" levels="4,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[A](/songs/a)|D.J.Amuro|93-191|:charts{:difficulties="difficulties" levels="4,5,8,11,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,13" charts="1,2,3,4"}|
+|[Across the nightmare](/songs/across-the-nightmare)|Jimmy Weckl|300|:charts{:difficulties="difficulties" levels="7,8,10,12,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,13,13" charts="1,2,3,4"}|
+|[air](/songs/air)|DJ SIMON|130|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[AM-3P -303 BASS MIX-](/songs/am-3p-303-bass)|KTz(remixed by U1)|130|:charts{:difficulties="difficulties" levels="4,4,9,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[bag](/songs/bag)|RevenG|65|:charts{:difficulties="difficulties" levels="2,7,11,13,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,13,13" charts="1,2,3,4"}|
+|[BE LOVIN](/songs/be-lovin)|D-Crew|185|:charts{:difficulties="difficulties" levels="4,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,12" charts="1,2,3"}|
+|[CUTIE CHASER(MORNING MIX)](/songs/cutie-chaser-morning)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="3,3,4,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[Dance Dance Revolution](/songs/dance-dance-revolution)|DDR ALL STARS|150|:charts{:difficulties="difficulties" levels="5,6,8,12,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,11" charts="1,2,3,4"}|
+|[Destiny lovers](/songs/destiny-lovers)|くにたけ みゆき|170|:charts{:difficulties="difficulties" levels="3,4,7,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,12" charts="1,2,3"}|
+|[DROP THE BOMB(SyS.F. Mix)](/songs/drop-the-bomb-sysf)|Scotty D.|150|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,10" charts="1,2,3"}|
+|[Frozen Ray \~for EXTREME\~](/songs/frozen-ray)|dj TAKA|156|:charts{:difficulties="difficulties" levels="4,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,11" charts="1,2,3"}|
+|[Gamelan de Couple](/songs/gamelan-de-couple)|TOMOSUKE|150|:charts{:difficulties="difficulties" levels="3,4,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,13" charts="1,2,3"}|
+|[GRADUATION ～それぞれの明日～](/songs/graduation)|BeForU|125|:charts{:difficulties="difficulties" levels="2,3,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,9" charts="1,2,3"}|
+|[Happy Wedding](/songs/happy-wedding)|ASKA|126|:charts{:difficulties="difficulties" levels="3,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
+|[HYPER EUROBEAT](/songs/hyper-eurobeat)|NAOKI feat. DDR ALL STARS|152|:charts{:difficulties="difficulties" levels="3,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
+|[I'm gonna get you!](/songs/im-gonna-get-you)|Kelly Cosmo|160|:charts{:difficulties="difficulties" levels="3,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[jane jana](/songs/jane-jana)|T.E.M.P.O. feat.Mohammed & Emi|125|:charts{:difficulties="difficulties" levels="3,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,11" charts="1,2,3"}|
+|[JET WORLD](/songs/jet-world)|Mutsuhiko Izumi|138|:charts{:difficulties="difficulties" levels="3,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[KISS KISS KISS](/songs/kiss-kiss-kiss)|NAOKI feat. SHANTI|150|:charts{:difficulties="difficulties" levels="4,5,6,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
+|[Kiss me all night long](/songs/kiss-me-all-night-long)|NAOKI J-STYLE feat.MIU|155|:charts{:difficulties="difficulties" levels="3,3,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,11" charts="1,2,3"}|
+|[L'amour et la liberté(DDR Ver.)](/songs/l-amour-et-la-liberte)|NAOKI underground|(140-)145|:charts{:difficulties="difficulties" levels="3,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[LA BAMBA](/songs/la-bamba)|メキシコ民謡|179|:charts{:difficulties="difficulties" levels="3,4,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
+|[♥Love²シュガ→♥](/songs/love-love-sugar)|dj TAKA feat.のりあ|155|:charts{:difficulties="difficulties" levels="3,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
+|[LOVE♥SHINE](/songs/love-shine)|小坂りゆ|177|:charts{:difficulties="difficulties" levels="3,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[Miracle Moon ～L.E.D.LIGHT STYLE MIX～](/songs/miracle-moon)|Togo Project feat. Sana|138|:charts{:difficulties="difficulties" levels="3,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,10" charts="1,2,3"}|
+|[PARANOIA survivor](/songs/paranoia-survivor)|270|135-270|:charts{:difficulties="difficulties" levels="4,9,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,15" charts="1,2,3"}|
+|[PARANOIA survivor MAX](/songs/paranoia-survivor-max)|290|145-290|:charts{:difficulties="difficulties" levels="5,9,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,11,15,16" charts="1,2,3,4"}|
+|[Pink Rose](/songs/pink-rose)|Kiyommy+Seiya|146|:charts{:difficulties="difficulties" levels="3,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
+|[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="3,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
+|[STAY (Organic house Version)](/songs/stay-organic-house)|emi|125|:charts{:difficulties="difficulties" levels="3,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[stoic (EXTREME version)](/songs/stoic)|TaQ|(118-)155|:charts{:difficulties="difficulties" levels="3,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,10,12" charts="1,2,3"}|
+|[TEARS](/songs/tears)|NAOKI underground feat.EK|143|:charts{:difficulties="difficulties" levels="3,6,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,12" charts="1,2,3"}|
+|[The Least 100sec](/songs/the-least-100sec)|Hirofumi Sasaki|200-263|:charts{:difficulties="difficulties" levels="5,7,11,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
+|[The legend of MAX](/songs/the-legend-of-max)|ZZ|83-333|:charts{:difficulties="difficulties" levels="7,8,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[TRIP MACHINE survivor](/songs/trip-machine-survivor)|DE-SIRE|(42.5-)170|:charts{:difficulties="difficulties" levels="4,5,11,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,12" charts="1,2,3"}|
+|[Twin Bee -Generation X-](/songs/twinbee)|FinalOffset|169|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[V \~for EXTREME\~](/songs/v)|TAKA|150|:charts{:difficulties="difficulties" levels="3,5,8,12,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,13" charts="1,2,3,4"}|
+|[VANITY ANGEL](/songs/vanity-angel)|FIXX|140|:charts{:difficulties="difficulties" levels="3,4,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[xenon](/songs/xenon)|Mr.T|158|:charts{:difficulties="difficulties" levels="3,5,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[1998](/songs/1998)|NAOKI|150|:charts{:difficulties="difficulties" levels="3,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
+|[321STARS](/songs/321-stars)|DJ SIMON|192|:charts{:difficulties="difficulties" levels="4,5,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
 
 #### DDRMAX2
 

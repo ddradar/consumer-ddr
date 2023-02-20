@@ -37,7 +37,7 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE|[BEGINNER (old)]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=1} :level{slug="us" level=1}</div>|81/0||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=1} :level{slug="party" level=1} :level{slug="ext2" level=1} :level{slug="nova2-jp" level=1}</div>|95/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=1} :level{slug="party" level=1} :level{slug="ext2" level=1} :level{slug="nova2-jp" level=1} :level{slug="grand-prix" level=3}</div>|95/0||
 |SINGLE|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=3}</div>|133/0||
 |SINGLE|[BASIC (Club)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5}</div>|154/0||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="3rd" level=4} :level{slug="gb" level=4} :level{slug="oha" level=5} :level{slug="best" level=4} :level{slug="us" level=4} :level{slug="konamix" level=4} :level{slug="ext-jp" level=4} :level{slug="party" level=4} :level{slug="ext2" level=4} :level{slug="nova2-jp" level=4} :level{slug="grand-prix" level=6}</div>|162/0||
