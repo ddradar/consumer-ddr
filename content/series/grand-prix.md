@@ -37,6 +37,83 @@ difficulties:
 
 ### グランプリプレー
 
+#### DDR SuperNOVA
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[怒れる大きな白い馬](/songs/tinos-white-horse)|Morning Blue Dragon|110-148|:charts{:difficulties="difficulties" levels="4,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,11" charts="1,2,3"}|
+|[カゲロウ](/songs/kagerow)|Des-ROW・組スペシアルr|164|:charts{:difficulties="difficulties" levels="3,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[月光蝶](/songs/gekkou-chou)|あさき|218|:charts{:difficulties="difficulties" levels="4,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,11" charts="1,2,3"}|
+|[この子の七つのお祝いに](/songs/konoko-no-nanatsu-no-oiwaini)|あさき|161|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
+|[男々道](/songs/dandando)|Des-ROW・組|156-160|:charts{:difficulties="difficulties" levels="3,4,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
+|[チカラ](/songs/chikara)|BeForU|185|:charts{:difficulties="difficulties" levels="4,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,13" charts="1,2,3"}|
+|[虹色](/songs/nijiiro)|DJ YOSHITAKA feat G.S.C license|160|:charts{:difficulties="difficulties" levels="3,4,8,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,13,13" charts="1,2,3,4"}|
+|[華爛漫 -Flowers-](/songs/flowers)|TЁЯRA|160|:charts{:difficulties="difficulties" levels="3,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[ヒマワリ](/songs/himawari)|RIYU from BeForU|185|:charts{:difficulties="difficulties" levels="3,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,13" charts="1,2,3"}|
+|[夢幻ノ光](/songs/mugen)|TЁЯRA|171|:charts{:difficulties="difficulties" levels="4,4,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,11" charts="1,2,3"}|
+|[A Stupid Barber](/songs/a-stupid-barber)|Sho-T|132|:charts{:difficulties="difficulties" levels="3,4,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,9" charts="1,2,3"}|
+|[AA](/songs/aa)|D.J.Amuro|154|:charts{:difficulties="difficulties" levels="3,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,13" charts="1,2,3"}|
+|[Bad Routine](/songs/bad-routine)|D.J. Spugna|130|:charts{:difficulties="difficulties" levels="3,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,9" charts="1,2,3"}|
+|[BALLAD FOR YOU～想いの雨～](/songs/ballad-for-you)|NM feat. Thomas Howard|65|:charts{:difficulties="difficulties" levels="2,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
+|[Brazilian Anthem](/songs/brazilian-anthem)|Berimbau '66|130|:charts{:difficulties="difficulties" levels="3,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[cachaca](/songs/cachaca)|Mokky de Yah Yah's|128|:charts{:difficulties="difficulties" levels="1,3,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,11" charts="1,2,3"}|
+|[Can Be Real](/songs/can-be-real)|Vision F|132|:charts{:difficulties="difficulties" levels="3,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,10" charts="1,2,3"}|
+|[CAN'T STOP FALLIN' IN LOVE -super euro version-](/songs/cant-stop-fallin-in-love-super-euro)|NAOKI with Y&Co.|155|:charts{:difficulties="difficulties" levels="3,4,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[CENTAUR](/songs/centaur)|Jimmy Weckl|140|:charts{:difficulties="difficulties" levels="4,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[CHAOS](/songs/chaos)|DE-SIRE retunes|170|:charts{:difficulties="difficulties" levels="6,8,12,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,12,14,15" charts="1,2,3,4"}|
+|[CURUS](/songs/curus)|D-crew|184-188|:charts{:difficulties="difficulties" levels="2,3,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,12" charts="1,2,3"}|
+|[DoLL](/songs/doll)|TЁЯRA|170|:charts{:difficulties="difficulties" levels="4,5,8,12,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,12,14" charts="1,2,3,4"}|
+|[Dragon Blade](/songs/dragon-blade)|Kozo Nakamura|240|:charts{:difficulties="difficulties" levels="5,9,10,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,11" charts="1,2,3"}|
+|[Fascination ～eternal love mix～](/songs/fascination-eternal-love)|2MB|100-400|:charts{:difficulties="difficulties" levels="9,11,13,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="10,13,17,17" charts="1,2,3,4"}|
+|[Fascination MAXX](/songs/fascination-maxx)|100-200-400|100-400|:charts{:difficulties="difficulties" levels="6,11,13,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="10,13,17,18" charts="1,2,3,4"}|
+|[Flow](/songs/flow)|Scotty D. revisits U1|140|:charts{:difficulties="difficulties" levels="4,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
+|[Flow (True Style)](/songs/flow-true-style)|Scotty D. revisits U1|140-280|:charts{:difficulties="difficulties" levels="4,6,9,12,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,14" charts="1,2,3,4"}|
+|[Fly away](/songs/fly-away)|ChiyoTia|125|:charts{:difficulties="difficulties" levels="3,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,11" charts="1,2,3"}|
+|[Forever Sunshine](/songs/forever-sunshine)|Chel Y.|128|:charts{:difficulties="difficulties" levels="3,4,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[Freedom](/songs/freedom)|BeForU|148|:charts{:difficulties="difficulties" levels="3,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[Funk Boogie](/songs/funk-boogie)|Funk Kid feat. KOOL BOYS|127|:charts{:difficulties="difficulties" levels="4,5,4,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[GORGEOUS 2012](/songs/gorgeous-2012)|THE SURRENDERS|135|:charts{:difficulties="difficulties" levels="4,3,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[HAPPY☆ANGEL](/songs/happy-angel)|jun with TAHIRIH|180|:charts{:difficulties="difficulties" levels="4,4,8,12,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,8,11,16" charts="1,2,3,4"}|
+|[Healing-D-Vision](/songs/healing-d-vision)|DE-STRAD|180-360|:charts{:difficulties="difficulties" levels="6,9,12,14,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,13,15,18" charts="1,2,3,4"}|
+|[I Need You](/songs/i-need-you)|Supa Fova feat. Jenny F.|114|:charts{:difficulties="difficulties" levels="3,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[iFUTURELIST(DDR VERSION)](/songs/ifuturelist)|AKIRA YAMAOKA|150|:charts{:difficulties="difficulties" levels="3,5,7,12,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,13" charts="1,2,3,4"}|
+|[INNOCENCE OF SILENCE](/songs/innocence-of-silence)|nc ft NRG Factory|71-142|:charts{:difficulties="difficulties" levels="3,5,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[INSIDE YOUR HEART](/songs/inside-your-heart)|AKIRA YAMAOKA|107|:charts{:difficulties="difficulties" levels="3,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
+|[Jam & Marmalade](/songs/jam-marmalade)|FinalOffset|145|:charts{:difficulties="difficulties" levels="3,4,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[KEEP ON MOVIN' ～DMX MIX～](/songs/keep-on-movin-dmx)|N.M.R-typeG|132|:charts{:difficulties="difficulties" levels="3,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,12" charts="1,2,3"}|
+|[La Bamba](/songs/la-bamba-lh)|LH MUSIC CREATION|156|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,12" charts="1,2,3"}|
+|[LOGICAL DASH](/songs/logical-dash)|DJ TAKA|144|:charts{:difficulties="difficulties" levels="3,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,10" charts="1,2,3"}|
+|[LOVE IS ORANGE](/songs/love-is-orange)|Orange Lounge|180|:charts{:difficulties="difficulties" levels="3,5,7,9,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,8,12" charts="1,2,3,4"}|
+|[Make A Difference](/songs/make-a-difference)|Lala Moore with CoCoRo*Co|130|:charts{:difficulties="difficulties" levels="3,5,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
+|[MAXIMIZER](/songs/maximizer)|CLI-MAX S.|190|:charts{:difficulties="difficulties" levels="5,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
+|[MIDNIGHT SPECIAL](/songs/midnight-special)|Love machineguns|182|:charts{:difficulties="difficulties" levels="3,7,9,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,12" charts="1,2,3"}|
+|[Mind Parasite](/songs/mind-parasite)|TOMOSUKE|145|:charts{:difficulties="difficulties" levels="3,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[MOON](/songs/moon)|dj TAKA feat.Erika|156|:charts{:difficulties="difficulties" levels="3,3,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,10" charts="1,2,3"}|
+|[murmur twins](/songs/murmur-twins)|yu_tokiwa.djw|174|:charts{:difficulties="difficulties" levels="3,4,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,11" charts="1,2,3"}|
+|[My Only Shining Star](/songs/my-only-shining-star)|NAOKI feat. Becky Lucinda|155|:charts{:difficulties="difficulties" levels="3,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,11" charts="1,2,3"}|
+|[No.13](/songs/no-13)|TAKA respect for J.S.B.|172|:charts{:difficulties="difficulties" levels="4,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[PARANOiA-Respect-](/songs/paranoia-respect)|.3k|300|:charts{:difficulties="difficulties" levels="5,11,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,15" charts="1,2,3"}|
+|[PASSION OF LOVE](/songs/passion-of-love)|NAOKI feat. PAULA TERRY|78-155|:charts{:difficulties="difficulties" levels="4,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
+|[PUT YOUR FAITH IN ME ～SATURDAY NIGHT MIX～](/songs/put-your-faith-in-me-saturday-night)|UZI-LAY|120|:charts{:difficulties="difficulties" levels="3,5,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,12" charts="1,2,3"}|
+|[Quickening](/songs/quickening)|dj TAKA|150|:charts{:difficulties="difficulties" levels="3,6,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[Quick Master](/songs/quick-master)|act deft|147|:charts{:difficulties="difficulties" levels="4,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[rainbow flyer](/songs/rainbow-flyer)|dj TAKA|148|:charts{:difficulties="difficulties" levels="3,4,6,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,11" charts="1,2,3"}|
+|[rainbow rainbow](/songs/rainbow-rainbow)|Ryu☆|177|:charts{:difficulties="difficulties" levels="4,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[RED ZONE](/songs/red-zone)|Tatsh&NAOKI|165|:charts{:difficulties="difficulties" levels="4,6,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
+|[Saturday Night Love](/songs/saturday-night-love)|Sota feat. Brenda V.|128|:charts{:difficulties="difficulties" levels="3,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[Scorching Moon](/songs/scorching-moon)|Shawn the Horny Master|125|:charts{:difficulties="difficulties" levels="3,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[SEDUCTION(Vocal Remix)](/songs/seduction-vocal)|NC feat. NRG Factory|190|:charts{:difficulties="difficulties" levels="3,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,12" charts="1,2,3"}|
+|[Ska Ska No.3](/songs/ska-ska-no-3)|亜熱帯マジ-SKA爆弾|138|:charts{:difficulties="difficulties" levels="3,3,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
+|[STARS☆☆☆(2nd NAOKI's style)](/songs/stars)|TËЯRA|140|:charts{:difficulties="difficulties" levels="3,6,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
+|[THE SHINING POLARIS](/songs/the-shining-polaris)|L.E.D. feat. Sana|147|:charts{:difficulties="difficulties" levels="4,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
+|[TOMORROW](/songs/tomorrow)|nc ft. Dreamscanner|140|:charts{:difficulties="difficulties" levels="3,4,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[Tomorrow Perfume](/songs/tomorrow-perfume)|dj TAKA|144|:charts{:difficulties="difficulties" levels="3,4,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
+|[TRUE♥LOVE](/songs/true-love)|jun feat. Schanita|188|:charts{:difficulties="difficulties" levels="4,4,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
+|[Try 2 Luv. U](/songs/try-2-luv-u)|S.F.M.P.|115|:charts{:difficulties="difficulties" levels="3,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[un deux trois](/songs/un-deux-trois)|SDMS|70-140|:charts{:difficulties="difficulties" levels="3,4,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[Under the Sky](/songs/under-the-sky)|南さやか（BeForU）with platoniX|170|:charts{:difficulties="difficulties" levels="2,2,5,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[Xepher](/songs/xepher)|Tatsh|170|:charts{:difficulties="difficulties" levels="4,7,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,10,13,15" charts="1,2,3,4"}|
+
 #### DDR EXTREME
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
