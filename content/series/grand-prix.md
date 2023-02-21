@@ -37,6 +37,58 @@ difficulties:
 
 ### グランプリプレー
 
+#### DDR SuperNOVA2
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[A thing called LOVE](/songs/a-thing-called-love)|D-crew 2 US|160|:charts{:difficulties="difficulties" levels="3,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,11" charts="1,2,3"}|
+|[AM-3P ("CHAOS" Special)](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="14" charts="4"}|:charts{:difficulties="difficulties" levels="13" charts="4"}|
+|[Arrabbiata](/songs/arrabbiata)|Reven-G改|225|:charts{:difficulties="difficulties" levels="5,11,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="12,14,16" charts="1,2,3"}|
+|[Blind Justice ～Torn souls, Hurt Faiths ～](/songs/blind-justice)|Zektbach|137-165|:charts{:difficulties="difficulties" levels="3,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
+|[Bloody Tears(IIDX EDITION)](/songs/bloody-tears)|DJ YOSHITAKA|170|:charts{:difficulties="difficulties" levels="4,5,6,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[BRILLIANT 2U ("STREAM" Special)](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="13" charts="4"}|:charts{:difficulties="difficulties" levels="13" charts="4"}|
+|[B4U ("VOLTAGE" Special)](/songs/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="14" charts="4"}|:charts{:difficulties="difficulties" levels="15" charts="4"}|
+|[CaptivAte～誓い～](/songs/captivate)|DJ YOSHITAKA feat.A/I|160|:charts{:difficulties="difficulties" levels="4,5,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
+|[DEAD END ("GROOVE RADAR" Special)](/songs/dead-end)|N & S|95-380|:charts{:difficulties="difficulties" levels="18" charts="4"}|:charts{:difficulties="difficulties" levels="18" charts="4"}|
+|[dream of love](/songs/dream-of-love)|Kaori Nishina|114|:charts{:difficulties="difficulties" levels="3,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
+|[DYNAMITE RAVE ("AIR" Special)](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
+|[D2R ("FREEZE" Special)](/songs/d2r)|NAOKI|160|:charts{:difficulties="difficulties" levels="12" charts="4"}|:charts{:difficulties="difficulties" levels="12" charts="4"}|
+|[Electrified](/songs/electrified)|SySF.|140|:charts{:difficulties="difficulties" levels="3,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,11" charts="1,2,3"}|
+|[Every Day, Every Night(NM STYLE)](/songs/every-day-every-night)|LEA DROP feat. Ant Johnston|90|:charts{:difficulties="difficulties" levels="3,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
+|[Feelings Won't Fade(Extend Trance Mix)](/songs/feelings-wont-fade)|SySF.|144|:charts{:difficulties="difficulties" levels="4,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[FIRE](/songs/fire)|泉 陸奥彦|184|:charts{:difficulties="difficulties" levels="4,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,12" charts="1,2,3"}|
+|[Flow (Jammin' Ragga Mix)](/songs/flow-jammin)|Scotty D. revisits U1|70-140|:charts{:difficulties="difficulties" levels="4,5,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,13" charts="1,2,3"}|
+|[Fly away -mix del matador-](/songs/fly-away-matador)|Shawn the Horny Master feat. ChiyoTia|130|:charts{:difficulties="difficulties" levels="3,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[Freeway Shuffle](/songs/freeway-shuffle)|dj TAKA|145|:charts{:difficulties="difficulties" levels="3,4,8,10,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,9,12" charts="1,2,3,4"}|
+|[GIRIGILI門前雀羅](/songs/girigili-burning-24h)|Cheki-ROWS|148|:charts{:difficulties="difficulties" levels="4,5,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
+|[L'amour et la liberté(Darwin & DJ Silver remix)](/songs/l-amour-et-la-liberte-darwin-dj-silver)|NAOKI in the MERCURE|70-140|:charts{:difficulties="difficulties" levels="3,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,12" charts="1,2,3"}|
+|[MARS WAR 3](/songs/mars-war-3)|JET GIRL SPIN|200|:charts{:difficulties="difficulties" levels="3,4,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,10,13" charts="1,2,3"}|
+|[MOONSTER](/songs/moonster)|kobo uniting Marsha & D.|140|:charts{:difficulties="difficulties" levels="4,5,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
+|[Music In The Rhythm](/songs/music-in-the-rhythm)|nc ft. 触電|155|:charts{:difficulties="difficulties" levels="4,7,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[NGO](/songs/ngo)|鍋嶋圭一|68-274|:charts{:difficulties="difficulties" levels="6,10,12,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="10,11,16,17" charts="1,2,3,4"}|
+|[PARANOiA ～HADES～](/songs/paranoia-hades)|αTYPE-300|75-300|:charts{:difficulties="difficulties" levels="7,11,15,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="12,15,17,18" charts="1,2,3,4"}|
+|[Pluto](/songs/pluto)|Black∞Hole|50-220|:charts{:difficulties="difficulties" levels="6,9,12,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,13,14,17" charts="1,2,3,4"}|
+|[Pluto Relinquish](/songs/pluto-relinquish)|2MB|100-800|:charts{:difficulties="difficulties" levels="5,12,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="12,14,18,18" charts="1,2,3,4"}|
+|[Poseidon](/songs/poseidon)|NAOKI underground|75-300|:charts{:difficulties="difficulties" levels="3,5,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
+|[Raspberry♡Heart(English version)](/songs/raspberry-heart)|jun feat. PAULA TERRY|160|:charts{:difficulties="difficulties" levels="3,5,6,9,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,9,12" charts="1,2,3,4"}|
+|[Saturn](/songs/saturn)|Mr.Saturn|78-155|:charts{:difficulties="difficulties" levels="3,7,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[Shades of Grey](/songs/shades-of-grey)|Fracus|170|:charts{:difficulties="difficulties" levels="3,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[Silver Platform - I wanna get your heart -](/songs/silver-platform)|U1 Reincarnates w/ Leah|140|:charts{:difficulties="difficulties" levels="4,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,11" charts="1,2,3"}|
+|[SOUL CRASH](/songs/soul-crash)|nc ft HARDCORE NATION|142|:charts{:difficulties="difficulties" levels="3,6,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[STARS☆☆☆ (Re-tuned by HΛL) -DDR EDITION-](/songs/stars-hal)|TЁЯRA|145|:charts{:difficulties="difficulties" levels="3,5,10,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,10" charts="1,2,3"}|
+|[stealth](/songs/stealth)|DAISUKE ASAKURA|160|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[SUNKiSS♥DROP](/songs/sunkiss-drop)|jun with Alison|185|:charts{:difficulties="difficulties" levels="3,5,8,12,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,11,12" charts="1,2,3,4"}|
+|[switch](/songs/switch)|DAISUKE ASAKURA ex.TЁЯRA|152|:charts{:difficulties="difficulties" levels="3,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[Trim](/songs/trim)|kobo|85-340|:charts{:difficulties="difficulties" levels="5,6,10,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,15" charts="1,2,3"}|
+|[TRIP MACHINE PhoeniX](/songs/trip-machine-phoenix)|DE-SIRE改|(80-)160|:charts{:difficulties="difficulties" levels="3,8,12,15,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,12,16,16" charts="1,2,3,4"}|
+|[Unreal](/songs/unreal)|Black Rose Garden|90-180|:charts{:difficulties="difficulties" levels="4,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,14" charts="1,2,3"}|
+|[Uranus](/songs/uranus)|Tatsh SN 2 Style|81-162|:charts{:difficulties="difficulties" levels="3,6,9,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,11,13" charts="1,2,3,4"}|
+|[Vem brincar](/songs/vem-brincar)|Caldeira feat.Téka Penteriche|135|:charts{:difficulties="difficulties" levels="2,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[Venus](/songs/venus)|Tatsh+RayZY|195|:charts{:difficulties="difficulties" levels="3,4,7,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,10,13" charts="1,2,3,4"}|
+|[volcano](/songs/volcano)|Yasuhiro Abe|240|:charts{:difficulties="difficulties" levels="4,5,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
+|[Votum stellarum -forest #25 DDR RMX-](/songs/votum-stellarum)|iconoclasm|140|:charts{:difficulties="difficulties" levels="1,4,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,12" charts="1,2,3"}|
+|[Why not](/songs/why-not)|Darwin|175|:charts{:difficulties="difficulties" levels="4,6,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,11" charts="1,2,3"}|
+
 #### DDR SuperNOVA
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
