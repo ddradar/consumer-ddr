@@ -8,6 +8,7 @@ series:
   - "club-2"
   - "club-dc"
   - "konamix"
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -24,11 +25,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}</div>|169/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}</div>|205/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}</div>|238/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}</div>|195/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8}</div>|225/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=3}</div>|84/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5} :level{slug="grand-prix" level=6}</div>|169/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6} :level{slug="grand-prix" level=8}</div>|205/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8} :level{slug="grand-prix" level=11}</div>|238/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6} :level{slug="grand-prix" level=9}</div>|195/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8} :level{slug="grand-prix" level=11}</div>|225/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=12}</div>|272/7||
 
 ## メモ
 

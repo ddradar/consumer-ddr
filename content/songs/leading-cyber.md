@@ -7,6 +7,7 @@ bpm: 150
 series:
   - "4th"
   - "konamix"
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,12 +24,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=5} :level{slug="konamix" level=5}</div>|193/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7} :level{slug="konamix" level=7}</div>|258/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=9} :level{slug="konamix" level=9}</div>|359/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=4} :level{slug="konamix" level=4}</div>|185/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7} :level{slug="konamix" level=7}</div>|258/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=9} :level{slug="konamix" level=9}</div>|357/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=3}</div>|94/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=5} :level{slug="konamix" level=5} :level{slug="grand-prix" level=8}</div>|193/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7} :level{slug="konamix" level=7} :level{slug="grand-prix" level=9}</div>|258/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=9} :level{slug="konamix" level=9} :level{slug="grand-prix" level=13}</div>|359/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=4} :level{slug="konamix" level=4} :level{slug="grand-prix" level=7}</div>|185/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7} :level{slug="konamix" level=7} :level{slug="grand-prix" level=10}</div>|258/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=9} :level{slug="konamix" level=9} :level{slug="grand-prix" level=13}</div>|357/0||
 |BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=8} :level{slug="konamix" level=8}</div>|||
 |6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=5} :level{slug="konamix" level=5}</div>|202/0||
 |6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7} :level{slug="konamix" level=7}</div>|258/0||

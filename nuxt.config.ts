@@ -13,13 +13,14 @@ const songs = readdirSync(join(__dirname, 'content', 'songs'))
   .map(f => basename(f, '.md'))
 
 export default defineNuxtConfig({
-  nitro: {
-    prerender: {
-      routes: [
-        ...series.map(s => `/series/${s}`),
-        ...songs.map(s => `/songs/${s}`),
-      ],
-    },
+  generate: {
+    routes: [
+      ...series.map(s => `/series/${s}`),
+      ...songs.map(s => `/songs/${s}`),
+    ],
+  },
+  routeRules: {
+    '/series/grand-prix-free': { redirect: '/series/grand-prix#フリープレー' },
   },
   app: {
     head: {

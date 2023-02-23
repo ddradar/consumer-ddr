@@ -7,6 +7,7 @@ bpm: 130
 series:
   - "konamix"
   - "max2-jp"
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,12 +24,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=3} :level{slug="max2-jp" level=3}</div>|128/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=5} :level{slug="max2-jp" level=6}</div>|217/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7} :level{slug="max2-jp" level=7}</div>|242/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=4} :level{slug="max2-jp" level=5}</div>|123/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6} :level{slug="max2-jp" level=6}</div>|204/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7} :level{slug="max2-jp" level=7}</div>|233/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=4}</div>|101/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=3} :level{slug="max2-jp" level=3} :level{slug="grand-prix" level=4}</div>|128/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=5} :level{slug="max2-jp" level=6} :level{slug="grand-prix" level=9}</div>|217/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7} :level{slug="max2-jp" level=7} :level{slug="grand-prix" level=10}</div>|242/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=4} :level{slug="max2-jp" level=5} :level{slug="grand-prix" level=5}</div>|123/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6} :level{slug="max2-jp" level=6} :level{slug="grand-prix" level=8}</div>|204/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7} :level{slug="max2-jp" level=7} :level{slug="grand-prix" level=10}</div>|233/0||
 
 ## メモ
 
