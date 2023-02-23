@@ -20,12 +20,48 @@ difficulties:
 ## 収録曲リスト
 
 ここではグランプリプレーで遊べる楽曲(楽曲パック含む)のみ記載する。
-他のモードで遊べる楽曲については、公式サイトを参照。
+他のモードで遊べる楽曲については、[公式サイト](https://p.eagate.573.jp/game/eacddr/konaddr/info/mlist.html)を参照。
 
 ### フリープレー
 
 |Name|Artist|BPM|SINGLE|
 |----|------|---|------|
+|[愛のために。](/songs/ai-no-tame-ni)||187|:charts{:difficulties="difficulties" levels="3" charts="0"}|
+|[一途](/songs/ichizu)||160|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[おどるポンポコリン](/songs/odoru-ponpokorin-musicfit)||140|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[オリオンをなぞる](/songs/orion-wo-nazoru)||182|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[廻廻奇譚](/songs/kaikaikitan)||185|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[怪物](/songs/kaibutsu)||170|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[紅蓮華](/songs/gurenge)||135|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[群青](/songs/gunjou)||135|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[コネクト](/songs/connect)||175|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[さくらんぼ](/songs/sakuranbo)||170|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[じょいふる](/songs/joyful)||159|:charts{:difficulties="difficulties" levels="3" charts="0"}|
+|[ジョジョ～その血の運命～](/songs/jojo)||146|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[創聖のアクエリオン](/songs/sousei-no-aquarion)||61-151|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[つけまつける](/songs/tsukema-tsukeru)||145|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[ドライフラワー](/songs/dry-flower)||148|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[夏祭り](/songs/natsu-matsuri)||142-143|:charts{:difficulties="difficulties" levels="3" charts="0"}|
+|[秒針を噛む](/songs/byousin-wo-kamu)||130|:charts{:difficulties="difficulties" levels="3" charts="0"}|
+|[ヘビーローテーション](/songs/heavy-rotation)||155-178|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[星が泳ぐ](/songs/hoshi-ga-oyogu)||95|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[ポリリズム](/songs/polyrhythm)|Pink Lemonade|128|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[マジLOVE1000%](/songs/maji-love-1000-percent)||129|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[ミックスナッツ](/songs/mix-nuts)||150|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[夜に駆ける](/songs/yoru-ni-kakeru)||130|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[ラムのラブソング](/songs/lum-no-love-song)|kaco|180|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[ルカルカ★ナイトフィーバー](/songs/luka-luka-night-fever)||160|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[恋愛レボリューション21](/songs/love-revolution-21)||133|:charts{:difficulties="difficulties" levels="3" charts="0"}|
+|[勿忘](/songs/wasurena)||158|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[BRIGHT STREAM](/songs/bright-stream)||158|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[Lemon](/songs/lemon)||87|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[LOVE & JOY -Risk Junk MIX-](/songs/love-joy-risk-junk)|Risk Junk|180|:charts{:difficulties="difficulties" levels="3" charts="0"}|
+|[only my railgun](/songs/only-my-railgun)||143|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[Pretender](/songs/pretender)||92|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[POP STAR](/songs/pop-star)||140|:charts{:difficulties="difficulties" levels="1" charts="0"}|
+|[resonance](/songs/resonance)|NAOKI-EX|165|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[Trickster](/songs/trickster-cover)||174|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[10年桜](/songs/10nen-zakura)||173|:charts{:difficulties="difficulties" levels="2" charts="0"}|
 |[xenon](/songs/xenon)|Mr.T|158|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[革命](/songs/kakumei)|dj TAKA with NAOKI|83-148|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[exotic ethnic](/songs/exotic-ethnic)|RevenG|190|:charts{:difficulties="difficulties" levels="4" charts="0"}|
@@ -380,15 +416,3 @@ difficulties:
 ### 楽曲パック
 
 - [グランプリ楽曲パック vol.1](/series/grand-prix-vol1)
-
-## システム概要
-
-(WIP)
-
-## 隠し要素
-
-(WIP)
-
-## 他ソフトとの連動
-
-(WIP)
