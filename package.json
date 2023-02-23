@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@oruga-ui/oruga-next": "^0.5.10",
-    "@oruga-ui/theme-bulma": "^0.2.8"
+    "@oruga-ui/theme-bulma": "^0.2.9"
   },
   "devDependencies": {
     "@nuxt/content": "^2.4.3",
