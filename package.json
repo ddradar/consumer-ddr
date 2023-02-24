@@ -47,7 +47,7 @@
     "vue-tsc": "^1.1.7"
   },
   "resolutions": {
-    "@nuxt/kit": "^3.0.0",
+    "@nuxt/kit": "^3.2.0",
     "@types/node": "16.x"
   }
 }
