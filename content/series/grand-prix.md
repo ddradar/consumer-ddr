@@ -416,3 +416,4 @@ difficulties:
 ### 楽曲パック
 
 - [グランプリ楽曲パック vol.1](/series/grand-prix-vol1)
+- [グランプリ楽曲パック vol.2](/series/grand-prix-vol2)
