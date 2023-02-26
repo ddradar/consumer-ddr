@@ -9,6 +9,7 @@ series:
   - "konamix"
   - "max-jp"
   - "max-us"
+  - "x2"
   - "grand-prix"
 ---
 
@@ -26,13 +27,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=3}</div>|65/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=3} :level{slug="konamix" level=3} :level{slug="max-jp" level="?"} :level{slug="max-us" level=3} :level{slug="grand-prix" level=6}</div>|133/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=5} :level{slug="konamix" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5} :level{slug="grand-prix" level=7}</div>|172/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="konamix" level=6} :level{slug="max-jp" level="?"} :level{slug="max-us" level=6} :level{slug="grand-prix" level=10}</div>|192/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=3} :level{slug="konamix" level=3} :level{slug="max-jp" level="?"} :level{slug="max-us" level=3} :level{slug="grand-prix" level=6}</div>|134/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=5} :level{slug="konamix" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5} :level{slug="grand-prix" level=7}</div>|172/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="konamix" level=6} :level{slug="max-jp" level="?"} :level{slug="max-us" level=6} :level{slug="grand-prix" level=10}</div>|190/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=3} :level{slug="grand-prix" level=3}</div>|65/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=3} :level{slug="konamix" level=3} :level{slug="max-jp" level="?"} :level{slug="max-us" level=3} :level{slug="x2" level=6} :level{slug="grand-prix" level=6}</div>|133/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=5} :level{slug="konamix" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5} :level{slug="x2" level=7} :level{slug="grand-prix" level=7}</div>|172/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="konamix" level=6} :level{slug="max-jp" level="?"} :level{slug="max-us" level=6} :level{slug="x2" level=10} :level{slug="grand-prix" level=10}</div>|192/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=3} :level{slug="konamix" level=3} :level{slug="max-jp" level="?"} :level{slug="max-us" level=3} :level{slug="x2" level=6} :level{slug="grand-prix" level=6}</div>|134/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=5} :level{slug="konamix" level=5} :level{slug="max-jp" level="?"} :level{slug="max-us" level=5} :level{slug="x2" level=7} :level{slug="grand-prix" level=7}</div>|172/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="konamix" level=6} :level{slug="max-jp" level="?"} :level{slug="max-us" level=6} :level{slug="x2" level=10} :level{slug="grand-prix" level=10}</div>|190/0||
 |6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=3} :level{slug="konamix" level=3}</div>|133/0||
 |6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=5} :level{slug="konamix" level=5}</div>|172/0||
 |6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="konamix" level=6}</div>|189/0||
