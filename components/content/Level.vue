@@ -2,7 +2,7 @@
   <div class="control">
     <div class="tags has-addons">
       <NuxtLink
-        :to="`/series/${slug}`"
+        :to="link"
         class="tag"
         :style="{
           backgroundColor: series.backgroundColor,
@@ -26,4 +26,6 @@ interface LevelProps {
 
 const props = defineProps<LevelProps>()
 const series = seriesList[props.slug]
+const link =
+  (series as { redirect?: string }).redirect ?? `/series/${props.slug}`
 </script>
