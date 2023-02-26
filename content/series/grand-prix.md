@@ -400,6 +400,12 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[ナナホシ](/songs/nanahoshi)|S-C-U|166|:charts{:difficulties="difficulties" levels="2,6,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,15" charts="1,2,3"}|
+|[glacia](/songs/glacia)|DJ TOTTO|186|:charts{:difficulties="difficulties" levels="4,9,14,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,14,16" charts="1,2,3"}|
+|[Megalara Garuda](/songs/megalara-garuda)|SYUNN|90-180|:charts{:difficulties="difficulties" levels="5,9,16,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,16,17,18" charts="1,2,3,4"}|
+|[Wowie Zowie!](/songs/wowie-zowie)|Hommarju|128|:charts{:difficulties="difficulties" levels="2,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
+
+- [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)と同時購入で、[Megalara Garuda](/songs/megalara-garuda)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 #### スペシャル楽曲パック feat.jubeat vol.2
 
@@ -408,3 +414,9 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[量子の海のリントヴルム](/songs/ryoushi-no-umi-no-lindwurm)|黒猫ダンジョン|280|:charts{:difficulties="difficulties" levels="4,10,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,13,17,18" charts="1,2,3,4"}|
+|[ALBIDA](/songs/albida)|DJ YOSHITAKA|185|:charts{:difficulties="difficulties" levels="3,9,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,13,16" charts="1,2,3"}|
+|[Glitter Flatter Scatter](/songs/glitter-flatter-scatter)|Project B-|98-197|:charts{:difficulties="difficulties" levels="6,9,14,17" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,14,17" charts="1,2,3"}|
+|[Too Late Snow](/songs/too-late-snow)|movies (moimoi × Xceon × Dai.)|138|:charts{:difficulties="difficulties" levels="2,5,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,13" charts="1,2,3"}|
+
+- [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)と同時購入で、[量子の海のリントヴルム](/songs/ryoushi-no-umi-no-lindwurm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
