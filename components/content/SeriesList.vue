@@ -1,7 +1,7 @@
 <template>
   <ul>
     <li v-for="slug in series" :key="slug">
-      <NuxtLink :to="`/series/${slug}`">{{ seriesList[slug].title }}</NuxtLink>
+      <NuxtLink :to="getLinks(slug)">{{ seriesList[slug].title }}</NuxtLink>
     </li>
   </ul>
 </template>
@@ -15,4 +15,7 @@ interface SeriesListProps {
 }
 
 defineProps<SeriesListProps>()
+
+const getLinks = (slug: keyof typeof seriesList) =>
+  (seriesList[slug] as { redirect?: string }).redirect ?? `/series/${slug}`
 </script>

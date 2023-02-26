@@ -121,6 +121,7 @@
   },
   "grand-prix-free": {
     "title": "DanceDanceRevolution GRAND PRIX (フリープレー)",
+    "redirect": "/series/grand-prix#フリープレー",
     "backgroundColor": "darkslategray",
     "color": "#fff"
   },

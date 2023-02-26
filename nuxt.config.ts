@@ -19,9 +19,6 @@ export default defineNuxtConfig({
       ...songs.map(s => `/songs/${s}`),
     ],
   },
-  routeRules: {
-    '/series/grand-prix-free': { redirect: '/series/grand-prix#フリープレー' },
-  },
   app: {
     head: {
       meta: [
