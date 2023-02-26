@@ -36,6 +36,18 @@ difficulties:
 
 ### グランプリプレー
 
+- [DDR GRAND PRIX](#ddr-grand-prix)
+- [DDR SuperNOVA2](#ddr-supernova2)
+- [DDR SuperNOVA](#ddr-supernova)
+- [DDR EXTREME](#ddr-extreme)
+- [DDRMAX2](#ddrmax2)
+- [DDRMAX](#ddrmax)
+- [DDR 5thMIX](#ddr-5thmix)
+- [DDR 4thMIX](#ddr-4thmix)
+- [DDR 3rdMIX](#ddr-3rdmix)
+- [DDR 2ndMIX](#ddr-2ndmix)
+- [DDR 1st](#ddr-1st)
+
 #### DDR GRAND PRIX
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
@@ -380,3 +392,19 @@ difficulties:
 
 - [グランプリ楽曲パック vol.1](/series/grand-prix-vol1)
 - [グランプリ楽曲パック vol.2](/series/grand-prix-vol2)
+
+#### スペシャル楽曲パック feat.jubeat vol.1
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
+- 発売日: 2022-06-24
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
+#### スペシャル楽曲パック feat.jubeat vol.2
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=686)
+- 発売日: 2022-06-24
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|

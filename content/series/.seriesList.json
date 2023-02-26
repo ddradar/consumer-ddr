@@ -145,6 +145,18 @@
     "backgroundColor": "coral",
     "color": "#000"
   },
+  "jubeat-vol1": {
+    "title": "DDR GRAND PRIX スペシャル楽曲パック feat.jubeat vol.1",
+    "redirect": "/series/grand-prix#スペシャル楽曲パック-featjubeat-vol1",
+    "backgroundColor": "lightgoldenrodyellow",
+    "color": "#000"
+  },
+  "jubeat-vol2": {
+    "title": "DDR GRAND PRIX スペシャル楽曲パック feat.jubeat vol.2",
+    "redirect": "/series/grand-prix#スペシャル楽曲パック-featjubeat-vol2",
+    "backgroundColor": "lightgoldenrodyellow",
+    "color": "#000"
+  },
   "konamix": {
     "title": "Dance Dance Revolution KONAMIX",
     "backgroundColor": "orange",
