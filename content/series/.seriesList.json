@@ -127,11 +127,13 @@
   },
   "grand-prix-vol1": {
     "title": "DDR GRAND PRIX グランプリ楽曲パック vol.1",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol1",
     "backgroundColor": "yellow",
     "color": "#000"
   },
   "grand-prix-vol2": {
     "title": "DDR GRAND PRIX グランプリ楽曲パック vol.2",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol2",
     "backgroundColor": "violet",
     "color": "#000"
   },
