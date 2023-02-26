@@ -6,6 +6,7 @@ from: "DANCE 86.4 FUNKY RADIO STATION"
 bpm: "99-139"
 series:
   - "music-fit"
+  - "grand-prix-free"
   - "grand-prix"
 ---
 
@@ -24,7 +25,7 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE|[BEGINNER (Wii)]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="music-fit" level=1}</div>|71/0||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=1}</div>|44/3||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-free" level=1} :level{slug="grand-prix" level=1}</div>|44/3||
 |SINGLE|[BASIC (Wii)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="music-fit" level=3}</div>|91/23||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=3}</div>|66/4||
 |SINGLE|[DIFFICULT (Wii)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="music-fit" level=4}</div>|168/23||

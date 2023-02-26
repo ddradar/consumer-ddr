@@ -5,6 +5,7 @@ artist: ""
 from: "(つけまつける)"
 bpm: 145
 series:
+  - "grand-prix-free"
   - "grand-prix"
 ---
 
@@ -22,7 +23,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=2}</div>|97/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-free" level=2} :level{slug="grand-prix" level=2}</div>|97/0||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=4}</div>|153/9||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=7}</div>|235/7||
 |SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=10}</div>|300/19||

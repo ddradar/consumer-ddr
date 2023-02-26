@@ -5,6 +5,7 @@ artist: ""
 from: "(コネクト)"
 bpm: 175
 series:
+  - "grand-prix-free"
   - "grand-prix"
 ---
 
@@ -22,7 +23,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=2}</div>|55/6||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-free" level=2} :level{slug="grand-prix" level=2}</div>|55/6||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=4}</div>|103/12||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=8}</div>|173/21||
 |SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=12}</div>|296/21||

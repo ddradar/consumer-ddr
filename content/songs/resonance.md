@@ -6,6 +6,7 @@ from: "resonance"
 bpm: 165
 series:
   - "furufuru"
+  - "grand-prix-free"
   - "grand-prix"
 ---
 
@@ -23,7 +24,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=1} :level{slug="grand-prix" level=2}</div>|79/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=1} :level{slug="grand-prix-free" level=2} :level{slug="grand-prix" level=2}</div>|79/0||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=3} :level{slug="grand-prix" level=4}</div>|121/4||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=6} :level{slug="grand-prix" level=8}</div>|247/20||
 |SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=8} :level{slug="grand-prix" level=11}</div>|340/20||

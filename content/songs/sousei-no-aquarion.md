@@ -6,6 +6,7 @@ from: "創聖のアクエリオン"
 bpm: "61-151"
 series:
   - "music-fit"
+  - "grand-prix-free"
   - "grand-prix"
 ---
 
@@ -24,7 +25,7 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE|[BEGINNER (Wii)]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="music-fit" level=2}</div>|71/0||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=1}</div>|43/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-free" level=1} :level{slug="grand-prix" level=1}</div>|43/0||
 |SINGLE|[BASIC (Wii)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="music-fit" level=3}</div>|104/12||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=4}</div>|77/14||
 |SINGLE|[DIFFICULT (Wii)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="music-fit" level=5}</div>|180/7||

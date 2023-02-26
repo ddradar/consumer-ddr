@@ -6,6 +6,7 @@ from: "ポリリズム"
 bpm: 128
 series:
   - "x-jp"
+  - "grand-prix-free"
   - "grand-prix"
 ---
 
@@ -23,7 +24,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=1} :level{slug="grand-prix" level=1}</div>|77/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=1} :level{slug="grand-prix-free" level=1} :level{slug="grand-prix" level=1}</div>|77/0||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=4} :level{slug="grand-prix" level=4}</div>|116/11||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=8} :level{slug="grand-prix" level=8}</div>|236/23||
 |SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=10} :level{slug="grand-prix" level=10}</div>|323/12||
