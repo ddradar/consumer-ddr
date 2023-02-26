@@ -76,7 +76,7 @@ describe('content/series/', async () => {
     })
 
     test('has valid hyperlink', () => {
-      const markdownLinks = markdownString.matchAll(/\[.+\]\(\/(.+?)\)/g)
+      const markdownLinks = markdownString.matchAll(/\[.+\]\(\/(.+?(#.+)?)\)/g)
       for (const link of markdownLinks) {
         const testName = `Match[${link.index}] (${link[0]})`
         const linkPath = link[1]
