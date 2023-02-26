@@ -5,6 +5,7 @@ artist: "TAG underground"
 from: "DanceDanceRevolution HOTTEST PARTY3 / DanceDanceRevolution X2 CS"
 bpm: 170
 series:
+  - "x2"
   - "music-fit"
 ---
 
