@@ -6,6 +6,7 @@ from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 100
 series:
   - "max2-jp"
+  - "x2"
   - "grand-prix"
 ---
 
@@ -23,5 +24,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="grand-prix" level=12}</div>|295/11||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="grand-prix" level=11}</div>|283/5||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="x2" level=12} :level{slug="grand-prix" level=12}</div>|295/11||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="x2" level=11} :level{slug="grand-prix" level=11}</div>|283/5||

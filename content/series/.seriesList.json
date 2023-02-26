@@ -238,5 +238,10 @@
     "title": "Dance Dance Revolution X (US)",
     "backgroundColor": "gold",
     "color": "#000"
+  },
+  "x2": {
+    "title": "Dance Dance Revolution X2 (US)",
+    "backgroundColor": "navy",
+    "color": "lemonchiffon"
   }
 }
