@@ -513,3 +513,41 @@ difficulties:
 |[Too Late Snow](/songs/too-late-snow)|movies (moimoi × Xceon × Dai.)|138|:charts{:difficulties="difficulties" levels="2,5,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,13" charts="1,2,3"}|
 
 - [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)と同時購入で、[量子の海のリントヴルム](/songs/ryoushi-no-umi-no-lindwurm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+#### スペシャル楽曲パック feat.東方Project vol.1
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=758)
+- 発売日: 2022-11-01
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [B4U (The Acolyte mix)](/songs/b4u-the-acolyte)
+  - [I'm Flying Away](/songs/im-flying-away)
+  - [We Can Win The Fight](/songs/we-can-win-the-fight)
+  - [1998 (Sparky 2006)](/songs/1998-sparky)
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[ウサテイ](/songs/usatei)|ビートまりお(COOL&CREATE)|190|:charts{:difficulties="difficulties" levels="3,7,11,14,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,14,17" charts="1,2,3,4"}|
+|[最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)|ビートまりお(COOL&CREATE)|160|:charts{:difficulties="difficulties" levels="4,7,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,16,18" charts="1,2,3,4"}|
+|[リスペク風神](/songs/respec-fujin)|ビートまりお(COOL&CREATE)|135|:charts{:difficulties="difficulties" levels="2,5,10,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,15" charts="1,2,3"}|
+|[ナイト・オブ・ナイツ](/songs/night-of-knights)|ビートまりお(COOL&CREATE)|180|:charts{:difficulties="difficulties" levels="1,7,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,17" charts="1,2,3,4"}|
+
+- [スペシャル楽曲パック feat.東方Project vol.2](#スペシャル楽曲パック-feat東方project-vol2)と同時購入で、[最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+#### スペシャル楽曲パック feat.東方Project vol.2
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=759)
+- 発売日: 2022-11-01
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [B4U (The Acolyte mix)](/songs/b4u-the-acolyte)
+  - [I'm Flying Away](/songs/im-flying-away)
+  - [We Can Win The Fight](/songs/we-can-win-the-fight)
+  - [1998 (Sparky 2006)](/songs/1998-sparky)
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[患部で止まってすぐ溶ける～狂気の優曇華院](/songs/kanbu-de-tomatte-sugu-tokeru)|ARM(IOSYS)|100-200|:charts{:difficulties="difficulties" levels="3,8,11,14,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,18" charts="1,2,3,4"}|
+|[恋の氷結おてんば湯けむりチルノ温泉](/songs/koi-no-hyoketsu-otenba-yukemuri-cirno-onsen)|uno & 夕野ヨシミ feat. miko|57-188|:charts{:difficulties="difficulties" levels="2,7,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,15" charts="1,2,3"}|
+|[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)|七条レタスグループ|160|:charts{:difficulties="difficulties" levels="3,7,11,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,18" charts="1,2,3,4"}|
+|[チルノのパーフェクトさんすう教室](/songs/cirno-no-perfect-sansuu-kyoushitsu)|ARM+夕野ヨシミ feat.miko|175|:charts{:difficulties="difficulties" levels="3,6,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,13,15" charts="1,2,3,4"}|
+
+- [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)と同時購入で、[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。

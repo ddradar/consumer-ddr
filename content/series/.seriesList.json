@@ -245,6 +245,18 @@
     "backgroundColor": "midnightblue",
     "color": "#fff"
   },
+  "touhou-vol1": {
+    "title": "DDR GRAND PRIX スペシャル楽曲パック feat.東方Project vol.1",
+    "redirect": "/series/grand-prix#スペシャル楽曲パック-feat東方project-vol1",
+    "backgroundColor": "crimson",
+    "color": "#fff"
+  },
+  "touhou-vol2": {
+    "title": "DDR GRAND PRIX スペシャル楽曲パック feat.東方Project vol.2",
+    "redirect": "/series/grand-prix#スペシャル楽曲パック-feat東方project-vol2",
+    "backgroundColor": "crimson",
+    "color": "#fff"
+  },
   "universe3": {
     "title": "DanceDanceRevolution UNIVERSE3 (US)",
     "backgroundColor": "khaki",
