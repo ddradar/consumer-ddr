@@ -12,6 +12,7 @@ export const platforms = [
   'GAME BOY COLOR',
   'GAME CUBE',
   'Wii',
+  'Xbox 360',
   'Windows',
 ] as const
 

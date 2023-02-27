@@ -58,7 +58,7 @@ difficulties:
 |[Flight of the Phoenix](/songs/flight-of-the-phoenix)|Jena Rose|145|:charts{:difficulties="difficulties" levels="2,5,7,9,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,9,6" charts="1,2,3,4"}|
 |[Flourish](/songs/flourish)|sonic-coll. feat. frances maya|152|:charts{:difficulties="difficulties" levels="3,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
 |[in love wit you](/songs/in-love-wit-you)|Kotaro feat. Aya|148|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
-|[Inspiration](/songs/inspiration)|DKC Crew|147|:charts{:difficulties="difficulties" levels="3,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
+|[Inspiration](/songs/inspiration-dkc)|DKC Crew|147|:charts{:difficulties="difficulties" levels="3,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
 |[Lift You Up](/songs/lift-you-up)|wolli|123|:charts{:difficulties="difficulties" levels="3,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
 |[Party Lights](/songs/party-lights)|Tommie Sunshine|130|:charts{:difficulties="difficulties" levels="2,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[Playa (Original Mix)](/songs/playa)|Hamel and St. Croix feat. Jules Mari|125|:charts{:difficulties="difficulties" levels="3,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|

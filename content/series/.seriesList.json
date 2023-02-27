@@ -239,6 +239,11 @@
     "backgroundColor": "midnightblue",
     "color": "#fff"
   },
+  "universe3": {
+    "title": "DanceDanceRevolution UNIVERSE3 (US)",
+    "backgroundColor": "khaki",
+    "color": "#000"
+  },
   "us": {
     "title": "Dance Dance Revolution (US)",
     "backgroundColor": "mediumvioletred",
