@@ -137,6 +137,12 @@
     "backgroundColor": "violet",
     "color": "#000"
   },
+  "grand-prix-vol3": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.3",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol3",
+    "backgroundColor": "deeppink",
+    "color": "#000"
+  },
   "hottest-jp": {
     "title": "Dance Dance Revolution HOTTEST PARTY (JP)",
     "backgroundColor": "coral",

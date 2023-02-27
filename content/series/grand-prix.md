@@ -456,6 +456,14 @@ difficulties:
 |[SUPER SAMURAI](/songs/super-samurai)|jun|170|:charts{:difficulties="difficulties" levels="4,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
 |[will](/songs/will)|NAOKI|145|:charts{:difficulties="difficulties" levels="1,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
 
+#### グランプリ楽曲パック vol.3
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=655)
+- 発売日: 2022-03-01
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
