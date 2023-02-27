@@ -459,7 +459,7 @@ difficulties:
 #### グランプリ楽曲パック vol.3
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=655)
-- 発売日: 2022-03-01
+- 発売日: 2022-02-28
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
