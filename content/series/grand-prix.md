@@ -463,6 +463,26 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[ÆTHER](/songs/aether)|TAG underground|192-384|:charts{:difficulties="difficulties" levels="6,9,14,17" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,14,17" charts="1,2,3"}|
+|[Do The Evolution](/songs/do-the-evolution)|TAG feat. ERi|148|:charts{:difficulties="difficulties" levels="1,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[esrev:eR](/songs/esrever)|TAG meets “eimy”|155|:charts{:difficulties="difficulties" levels="2,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[Romancing Layer](/songs/romancing-layer)|TAG|150|:charts{:difficulties="difficulties" levels="2,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[SABER WING (satellite silhouette remix)](/songs/saber-wing-satellite-silhouette)|TAG|138|:charts{:difficulties="difficulties" levels="2,4,9,12,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,14" charts="1,2,3,4"}|
+|[お米の美味しい炊き方、そしてお米を食べることによるその効果。](/songs/okome-no-oishii-takikata)|大日本鉄倶楽部【あさき＆96】|190|:charts{:difficulties="difficulties" levels="4,8,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[晴天Bon Voyage](/songs/seiten-bon-voyage)|TOMOSUKE × seiya-murai feat. ALT|230|:charts{:difficulties="difficulties" levels="4,7,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,11" charts="1,2,3"}|
+|[創世ノート](/songs/sousei-note)|PON+wac|200|:charts{:difficulties="difficulties" levels="2,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,14" charts="1,2,3"}|
+|[虹色の花](/songs/nijiiro-no-hana)|Akhuta y OJ|170|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[ラキラキ](/songs/lucky-lucky)|Mutsuhiko Izumi & S-C-U|165|:charts{:difficulties="difficulties" levels="2,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
+|[Another Phase](/songs/another-phase)|TAG|160|:charts{:difficulties="difficulties" levels="4,7,11,15,16 (SA)" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,15 (SA)" charts="1,2,3,4"}|
+|[Back In Your Arms](/songs/back-in-your-arms)|jun feat. DJ Silver vs Milo ft. Becca Hossany|132|:charts{:difficulties="difficulties" levels="2,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[Bombay Bomb](/songs/bombay-bomb)|Jena Rose|145|:charts{:difficulties="difficulties" levels="2,6,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
+|[Elemental Creation](/songs/elemental-creation)|dj TAKA meets DJ YOSHITAKA|106-424|:charts{:difficulties="difficulties" levels="8,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,14,17,18" charts="1,2,3,4"}|
+|[Empathetic](/songs/empathetic)|Sota÷Des|180|:charts{:difficulties="difficulties" levels="4,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,14" charts="1,2,3"}|
+|[GAIA](/songs/gaia)|猫叉L.E.D.Master+|90-180|:charts{:difficulties="difficulties" levels="3,10,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,13,16" charts="1,2,3"}|
+|[Hoping To Be Good](/songs/hoping-to-be-good)|Bill Hamel & Derek James feat. James Rowand|120|:charts{:difficulties="difficulties" levels="2,5,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[Monkey Business](/songs/monkey-business)|kors k|80-160|:charts{:difficulties="difficulties" levels="3,6,9,13,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,10,13,16" charts="1,2,3,4"}|
+|[STULTI](/songs/stulti)|MAX MAXIMIZER VS DJ TOTTO|90-182|:charts{:difficulties="difficulties" levels="4,9,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,12,16" charts="1,2,3"}|
+|[Synergy For Angels](/songs/synergy-for-angels)|TAG×U1-ASAMi|160|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
 
 #### スペシャル楽曲パック feat.jubeat vol.1
 
