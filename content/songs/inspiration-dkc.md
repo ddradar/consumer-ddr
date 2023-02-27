@@ -1,5 +1,5 @@
 ---
-slug: "inspiration"
+slug: "inspiration-dkc"
 name: "Inspiration"
 artist: "DKC Crew"
 from: "DanceDanceRevolution X"
