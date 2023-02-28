@@ -456,6 +456,34 @@ difficulties:
 |[SUPER SAMURAI](/songs/super-samurai)|jun|170|:charts{:difficulties="difficulties" levels="4,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
 |[will](/songs/will)|NAOKI|145|:charts{:difficulties="difficulties" levels="1,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
 
+#### グランプリ楽曲パック vol.3
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=655)
+- 発売日: 2022-02-28
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[ÆTHER](/songs/aether)|TAG underground|192-384|:charts{:difficulties="difficulties" levels="6,9,14,17" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,14,17" charts="1,2,3"}|
+|[Do The Evolution](/songs/do-the-evolution)|TAG feat. ERi|148|:charts{:difficulties="difficulties" levels="1,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[esrev:eR](/songs/esrever)|TAG meets “eimy”|155|:charts{:difficulties="difficulties" levels="2,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[Romancing Layer](/songs/romancing-layer)|TAG|150|:charts{:difficulties="difficulties" levels="2,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[SABER WING (satellite silhouette remix)](/songs/saber-wing-satellite-silhouette)|TAG|138|:charts{:difficulties="difficulties" levels="2,4,9,12,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,14" charts="1,2,3,4"}|
+|[お米の美味しい炊き方、そしてお米を食べることによるその効果。](/songs/okome-no-oishii-takikata)|大日本鉄倶楽部【あさき＆96】|190|:charts{:difficulties="difficulties" levels="4,8,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[晴天Bon Voyage](/songs/seiten-bon-voyage)|TOMOSUKE × seiya-murai feat. ALT|230|:charts{:difficulties="difficulties" levels="4,7,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,11" charts="1,2,3"}|
+|[創世ノート](/songs/sousei-note)|PON+wac|200|:charts{:difficulties="difficulties" levels="2,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,14" charts="1,2,3"}|
+|[虹色の花](/songs/nijiiro-no-hana)|Akhuta y OJ|170|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[ラキラキ](/songs/lucky-lucky)|Mutsuhiko Izumi & S-C-U|165|:charts{:difficulties="difficulties" levels="2,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
+|[Another Phase](/songs/another-phase)|TAG|160|:charts{:difficulties="difficulties" levels="4,7,11,15,16 (SA)" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,15 (SA)" charts="1,2,3,4"}|
+|[Back In Your Arms](/songs/back-in-your-arms)|jun feat. DJ Silver vs Milo ft. Becca Hossany|132|:charts{:difficulties="difficulties" levels="2,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[Bombay Bomb](/songs/bombay-bomb)|Jena Rose|145|:charts{:difficulties="difficulties" levels="2,6,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
+|[Elemental Creation](/songs/elemental-creation)|dj TAKA meets DJ YOSHITAKA|106-424|:charts{:difficulties="difficulties" levels="8,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,14,17,18" charts="1,2,3,4"}|
+|[Empathetic](/songs/empathetic)|Sota÷Des|180|:charts{:difficulties="difficulties" levels="4,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,14" charts="1,2,3"}|
+|[GAIA](/songs/gaia)|猫叉L.E.D.Master+|90-180|:charts{:difficulties="difficulties" levels="3,10,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,13,16" charts="1,2,3"}|
+|[Hoping To Be Good](/songs/hoping-to-be-good)|Bill Hamel & Derek James feat. James Rowand|120|:charts{:difficulties="difficulties" levels="2,5,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[Monkey Business](/songs/monkey-business)|kors k|80-160|:charts{:difficulties="difficulties" levels="3,6,9,13,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,10,13,16" charts="1,2,3,4"}|
+|[STULTI](/songs/stulti)|MAX MAXIMIZER VS DJ TOTTO|90-182|:charts{:difficulties="difficulties" levels="4,9,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,12,16" charts="1,2,3"}|
+|[Synergy For Angels](/songs/synergy-for-angels)|TAG×U1-ASAMi|160|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
+
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
@@ -485,3 +513,41 @@ difficulties:
 |[Too Late Snow](/songs/too-late-snow)|movies (moimoi × Xceon × Dai.)|138|:charts{:difficulties="difficulties" levels="2,5,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,13" charts="1,2,3"}|
 
 - [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)と同時購入で、[量子の海のリントヴルム](/songs/ryoushi-no-umi-no-lindwurm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+#### スペシャル楽曲パック feat.東方Project vol.1
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=758)
+- 発売日: 2022-11-01
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [B4U (The Acolyte mix)](/songs/b4u-the-acolyte)
+  - [I'm Flying Away](/songs/im-flying-away)
+  - [We Can Win The Fight](/songs/we-can-win-the-fight)
+  - [1998 (Sparky 2006)](/songs/1998-sparky)
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[ウサテイ](/songs/usatei)|ビートまりお(COOL&CREATE)|190|:charts{:difficulties="difficulties" levels="3,7,11,14,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,14,17" charts="1,2,3,4"}|
+|[最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)|ビートまりお(COOL&CREATE)|160|:charts{:difficulties="difficulties" levels="4,7,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,16,18" charts="1,2,3,4"}|
+|[リスペク風神](/songs/respec-fujin)|ビートまりお(COOL&CREATE)|135|:charts{:difficulties="difficulties" levels="2,5,10,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,15" charts="1,2,3"}|
+|[ナイト・オブ・ナイツ](/songs/night-of-knights)|ビートまりお(COOL&CREATE)|180|:charts{:difficulties="difficulties" levels="1,7,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,17" charts="1,2,3,4"}|
+
+- [スペシャル楽曲パック feat.東方Project vol.2](#スペシャル楽曲パック-feat東方project-vol2)と同時購入で、[最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+#### スペシャル楽曲パック feat.東方Project vol.2
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=759)
+- 発売日: 2022-11-01
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [B4U (The Acolyte mix)](/songs/b4u-the-acolyte)
+  - [I'm Flying Away](/songs/im-flying-away)
+  - [We Can Win The Fight](/songs/we-can-win-the-fight)
+  - [1998 (Sparky 2006)](/songs/1998-sparky)
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[患部で止まってすぐ溶ける～狂気の優曇華院](/songs/kanbu-de-tomatte-sugu-tokeru)|ARM(IOSYS)|100-200|:charts{:difficulties="difficulties" levels="3,8,11,14,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,18" charts="1,2,3,4"}|
+|[恋の氷結おてんば湯けむりチルノ温泉](/songs/koi-no-hyoketsu-otenba-yukemuri-cirno-onsen)|uno & 夕野ヨシミ feat. miko|57-188|:charts{:difficulties="difficulties" levels="2,7,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,15" charts="1,2,3"}|
+|[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)|七条レタスグループ|160|:charts{:difficulties="difficulties" levels="3,7,11,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,18" charts="1,2,3,4"}|
+|[チルノのパーフェクトさんすう教室](/songs/cirno-no-perfect-sansuu-kyoushitsu)|ARM+夕野ヨシミ feat.miko|175|:charts{:difficulties="difficulties" levels="3,6,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,13,15" charts="1,2,3,4"}|
+
+- [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)と同時購入で、[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。

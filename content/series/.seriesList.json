@@ -137,6 +137,12 @@
     "backgroundColor": "violet",
     "color": "#000"
   },
+  "grand-prix-vol3": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.3",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol3",
+    "backgroundColor": "deeppink",
+    "color": "#000"
+  },
   "hottest-jp": {
     "title": "Dance Dance Revolution HOTTEST PARTY (JP)",
     "backgroundColor": "coral",
@@ -237,6 +243,18 @@
   "tkd": {
     "title": "Dancing Stage featuring TRUE KiSS DESTiNATiON",
     "backgroundColor": "midnightblue",
+    "color": "#fff"
+  },
+  "touhou-vol1": {
+    "title": "DDR GRAND PRIX スペシャル楽曲パック feat.東方Project vol.1",
+    "redirect": "/series/grand-prix#スペシャル楽曲パック-feat東方project-vol1",
+    "backgroundColor": "crimson",
+    "color": "#fff"
+  },
+  "touhou-vol2": {
+    "title": "DDR GRAND PRIX スペシャル楽曲パック feat.東方Project vol.2",
+    "redirect": "/series/grand-prix#スペシャル楽曲パック-feat東方project-vol2",
+    "backgroundColor": "crimson",
     "color": "#fff"
   },
   "universe3": {
