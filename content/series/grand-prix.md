@@ -484,6 +484,14 @@ difficulties:
 |[STULTI](/songs/stulti)|MAX MAXIMIZER VS DJ TOTTO|90-182|:charts{:difficulties="difficulties" levels="4,9,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,12,16" charts="1,2,3"}|
 |[Synergy For Angels](/songs/synergy-for-angels)|TAG×U1-ASAMi|160|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
 
+#### グランプリ楽曲パック vol.4
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=663)
+- 発売日: 2022-03-22
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
