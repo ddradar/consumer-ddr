@@ -119,6 +119,12 @@
     "backgroundColor": "darkslategray",
     "color": "#fff"
   },
+  "grand-prix-controller": {
+    "title": "DDR GRAND PRIX コントローラ購入者特典楽曲パック",
+    "redirect": "/series/grand-prix#コントローラ購入者特典楽曲パック",
+    "backgroundColor": "orange",
+    "color": "#000"
+  },
   "grand-prix-free": {
     "title": "DanceDanceRevolution GRAND PRIX (フリープレー)",
     "redirect": "/series/grand-prix#フリープレー",
@@ -140,6 +146,12 @@
   "grand-prix-vol3": {
     "title": "DDR GRAND PRIX グランプリ楽曲パック vol.3",
     "redirect": "/series/grand-prix#グランプリ楽曲パック-vol3",
+    "backgroundColor": "deeppink",
+    "color": "#000"
+  },
+  "grand-prix-vol4": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.4",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol4",
     "backgroundColor": "deeppink",
     "color": "#000"
   },

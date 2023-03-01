@@ -484,6 +484,34 @@ difficulties:
 |[STULTI](/songs/stulti)|MAX MAXIMIZER VS DJ TOTTO|90-182|:charts{:difficulties="difficulties" levels="4,9,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,12,16" charts="1,2,3"}|
 |[Synergy For Angels](/songs/synergy-for-angels)|TAG×U1-ASAMi|160|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
 
+#### グランプリ楽曲パック vol.4
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=663)
+- 発売日: 2022-03-22
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[Dance Celebration](/songs/dance-celebration)|Bill Hamel feat. Kevens|130|:charts{:difficulties="difficulties" levels="2,5,8,11,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,11,12" charts="1,2,3,4"}|
+|[on the bounce](/songs/on-the-bounce)|neuras|150|:charts{:difficulties="difficulties" levels="3,7,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,14,15" charts="1,2,3,4"}|
+|[Party Lights](/songs/party-lights)|Tommie Sunshine|130|:charts{:difficulties="difficulties" levels="2,4,6,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,10" charts="1,2,3"}|
+|[Slip Out](/songs/slip-out)|Harmony Machine|95|:charts{:difficulties="difficulties" levels="1,3,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
+|[Taj He Spitz](/songs/taj-he-spitz)|DKC Crew|107|:charts{:difficulties="difficulties" levels="2,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[Trigger](/songs/trigger)|sonic-coll.|100-400|:charts{:difficulties="difficulties" levels="5,9,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,16,18" charts="1,2,3,4"}|
+|[不沈艦CANDY](/songs/yellow-candy)|Risk Junk|94-188|:charts{:difficulties="difficulties" levels="2,6,9,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,14" charts="1,2,3"}|
+|[All My Love](/songs/all-my-love)|kors k feat.ЯIRE|158|:charts{:difficulties="difficulties" levels="2,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,11" charts="1,2,3"}|
+|[CG Project](/songs/cg-project)|Latenighters|200|:charts{:difficulties="difficulties" levels="3,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[Dazzlin' Darlin](/songs/dazzlin-darlin)|HHH|149|:charts{:difficulties="difficulties" levels="2,6,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
+|[oarfish](/songs/oarfish)|kors k|140|:charts{:difficulties="difficulties" levels="1,2,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,9,11" charts="1,2,3"}|
+|[sakura storm](/songs/sakura-storm)|Ryu☆|184|:charts{:difficulties="difficulties" levels="2,4,7,10,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,11,14" charts="1,2,3,4"}|
+|[Sky Is The Limit](/songs/sky-is-the-limit)|Sota F. feat.Anna|150|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,11" charts="1,2,3"}|
+|[888](/songs/888)|DJ TECHNORCH|111-888|:charts{:difficulties="difficulties" levels="3,6,13,14,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,15,18" charts="1,2,3,4"}|
+|[Amalgamation](/songs/amalgamation)|Mystic Moon|166|:charts{:difficulties="difficulties" levels="3,7,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,10,13,15" charts="1,2,3,4"}|
+|[Chronos](/songs/chronos)|TAG|128|:charts{:difficulties="difficulties" levels="1,4,8,12,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,8,12,15" charts="1,2,3,4"}|
+|[HEART BEAT FORMULA](/songs/heart-beat-formula)|TAG|230|:charts{:difficulties="difficulties" levels="4,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
+|[I/O](/songs/i-o)|Ryu☆|151|:charts{:difficulties="difficulties" levels="2,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,12" charts="1,2,3"}|
+|[NEPHILIM DELTA](/songs/nephilim-delta)|L.E.D.-G|220|:charts{:difficulties="difficulties" levels="4,8,12,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,14" charts="1,2,3"}|
+|[Resurrection](/songs/resurrection)|Dormir|140|:charts{:difficulties="difficulties" levels="2,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
@@ -519,10 +547,8 @@ difficulties:
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=758)
 - 発売日: 2022-11-01
 - 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
-  - [B4U (The Acolyte mix)](/songs/b4u-the-acolyte)
-  - [I'm Flying Away](/songs/im-flying-away)
-  - [We Can Win The Fight](/songs/we-can-win-the-fight)
-  - [1998 (Sparky 2006)](/songs/1998-sparky)
+  - [最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)
+  - [リスペク風神](/songs/respec-fujin)
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -538,10 +564,8 @@ difficulties:
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=759)
 - 発売日: 2022-11-01
 - 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
-  - [B4U (The Acolyte mix)](/songs/b4u-the-acolyte)
-  - [I'm Flying Away](/songs/im-flying-away)
-  - [We Can Win The Fight](/songs/we-can-win-the-fight)
-  - [1998 (Sparky 2006)](/songs/1998-sparky)
+  - [恋の氷結おてんば湯けむりチルノ温泉](/songs/koi-no-hyoketsu-otenba-yukemuri-cirno-onsen)
+  - [スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -551,3 +575,24 @@ difficulties:
 |[チルノのパーフェクトさんすう教室](/songs/cirno-no-perfect-sansuu-kyoushitsu)|ARM+夕野ヨシミ feat.miko|175|:charts{:difficulties="difficulties" levels="3,6,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,13,15" charts="1,2,3,4"}|
 
 - [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)と同時購入で、[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+#### コントローラ購入者特典楽曲パック
+
+- [DanceDanceRevolution 専用コントローラ](https://www.konamistyle.jp/products/detail.php?product_id=110013)の購入者特典。
+- 他の楽曲パックと異なり、フリープレーでも選曲可能。
+- 購入することで、全楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[サヨナラ・ヘヴン](/songs/sayonara-heaven)|猫叉Master|111|:charts{:difficulties="difficulties" levels="1,3,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,9,13" charts="1,2,3"}|
+|[ヤサイマシ☆ニンニクアブラオオメ](/songs/yasaimashi-ninniku-abura-oome)|azuma feat. ななひら|180|:charts{:difficulties="difficulties" levels="2,6,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,12,14" charts="1,2,3"}|
+|[Are U Ready](/songs/are-u-ready)|Shouya Namai|155|:charts{:difficulties="difficulties" levels="3,7,11,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
+|[Concertino in Blue](/songs/concertino-in-blue)|佐々木博史|103-155|:charts{:difficulties="difficulties" levels="3,5,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,12,16" charts="1,2,3"}|
+|[concon](/songs/concon)|S-C-U|190|:charts{:difficulties="difficulties" levels="3,7,12,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,14" charts="1,2,3"}|
+|[Get Your Wish](/songs/get-your-wish)|WATARU|160|:charts{:difficulties="difficulties" levels="3,6,9,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,14" charts="1,2,3"}|
+|[Last Summer](/songs/last-summer)|BEMANI Sound Team "Monolith vs. Nautilus"|132|:charts{:difficulties="difficulties" levels="2,5,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,12" charts="1,2,3"}|
+|[perditus†paradisus](/songs/perditus-paradisus)|iconoclasm|172|:charts{:difficulties="difficulties" levels="4,8,14,17" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,14,17" charts="1,2,3"}|
+|[Settin' the Scene](/songs/settin-the-scene)|U1 night style|110|:charts{:difficulties="difficulties" levels="1,4,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,11" charts="1,2,3"}|
+|[Unity](/songs/unity)|The Remembers|120|:charts{:difficulties="difficulties" levels="2,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,11" charts="1,2,3"}|
+|[VALLIS-NERIA](/songs/vallis-neria)|DJ YOSHITAKA|185|:charts{:difficulties="difficulties" levels="5,9,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,13,16" charts="1,2,3"}|
+|[Wuv U](/songs/wuv-u)|kors k|173|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
