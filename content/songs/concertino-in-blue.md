@@ -24,7 +24,7 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE|[BEGINNER (XBOX360)]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="universe3" level="?"}</div>|76/7||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level="3"}</div>|71/5||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=3}</div>|71/5||
 |SINGLE|[BASIC (XBOX360)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="universe3" level=4}</div>|115/2||
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=5}</div>|121/4||
 |SINGLE|[DIFFICULT (XBOX360)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="universe3" level=8}</div>|333/10||
