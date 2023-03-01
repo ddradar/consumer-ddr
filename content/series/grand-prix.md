@@ -491,6 +491,26 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[Dance Celebration](/songs/dance-celebration)|Bill Hamel feat. Kevens|130|:charts{:difficulties="difficulties" levels="2,5,8,11,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,11,12" charts="1,2,3,4"}|
+|[on the bounce](/songs/on-the-bounce)|neuras|150|:charts{:difficulties="difficulties" levels="3,7,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,14,15" charts="1,2,3,4"}|
+|[Party Lights](/songs/party-lights)|Tommie Sunshine|130|:charts{:difficulties="difficulties" levels="2,4,6,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,10" charts="1,2,3"}|
+|[Slip Out](/songs/slip-out)|Harmony Machine|95|:charts{:difficulties="difficulties" levels="1,3,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
+|[Taj He Spitz](/songs/taj-he-spitz)|DKC Crew|107|:charts{:difficulties="difficulties" levels="2,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[Trigger](/songs/trigger)|sonic-coll.|100-400|:charts{:difficulties="difficulties" levels="5,9,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,16,18" charts="1,2,3,4"}|
+|[不沈艦CANDY](/songs/yellow-candy)|Risk Junk|94-188|:charts{:difficulties="difficulties" levels="2,6,9,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,14" charts="1,2,3"}|
+|[All My Love](/songs/all-my-love)|kors k feat.ЯIRE|158|:charts{:difficulties="difficulties" levels="2,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,11" charts="1,2,3"}|
+|[CG Project](/songs/cg-project)|Latenighters|200|:charts{:difficulties="difficulties" levels="3,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[Dazzlin' Darlin](/songs/dazzlin-darlin)|HHH|149|:charts{:difficulties="difficulties" levels="2,6,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
+|[oarfish](/songs/oarfish)|kors k|140|:charts{:difficulties="difficulties" levels="1,2,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,9,11" charts="1,2,3"}|
+|[sakura storm](/songs/sakura-storm)|Ryu☆|184|:charts{:difficulties="difficulties" levels="2,4,7,10,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,11,14" charts="1,2,3,4"}|
+|[Sky Is The Limit](/songs/sky-is-the-limit)|Sota F. feat.Anna|150|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,11" charts="1,2,3"}|
+|[888](/songs/888)|DJ TECHNORCH|111-888|:charts{:difficulties="difficulties" levels="3,6,13,14,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,15,18" charts="1,2,3,4"}|
+|[Amalgamation](/songs/amalgamation)|Mystic Moon|166|:charts{:difficulties="difficulties" levels="3,7,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,10,13,15" charts="1,2,3,4"}|
+|[Chronos](/songs/chronos)|TAG|128|:charts{:difficulties="difficulties" levels="1,4,8,12,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,8,12,15" charts="1,2,3,4"}|
+|[HEART BEAT FORMULA](/songs/heart-beat-formula)|TAG|230|:charts{:difficulties="difficulties" levels="4,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
+|[I/O](/songs/i-o)|Ryu☆|151|:charts{:difficulties="difficulties" levels="2,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,12" charts="1,2,3"}|
+|[NEPHILIM DELTA](/songs/nephilim-delta)|L.E.D.-G|220|:charts{:difficulties="difficulties" levels="4,8,12,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,14" charts="1,2,3"}|
+|[Resurrection](/songs/resurrection)|Dormir|140|:charts{:difficulties="difficulties" levels="2,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
 
 #### スペシャル楽曲パック feat.jubeat vol.1
 
