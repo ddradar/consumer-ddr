@@ -20,7 +20,7 @@
             v-for="slug in (props.row as (typeof songs[number])).series"
             :key="slug"
             class="button is-small"
-            :to="`/series/${slug}`"
+            :to="getLinks(slug)"
             :style="{
               backgroundColor: seriesList[slug].backgroundColor,
               color: seriesList[slug].color,
@@ -56,4 +56,7 @@ const { songs } = await useSongList(
   'artist',
   'bpm'
 )
+
+const getLinks = (slug: keyof typeof seriesList) =>
+  (seriesList[slug] as { redirect?: string }).redirect ?? `/series/${slug}`
 </script>
