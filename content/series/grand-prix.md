@@ -512,6 +512,34 @@ difficulties:
 |[NEPHILIM DELTA](/songs/nephilim-delta)|L.E.D.-G|220|:charts{:difficulties="difficulties" levels="4,8,12,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,14" charts="1,2,3"}|
 |[Resurrection](/songs/resurrection)|Dormir|140|:charts{:difficulties="difficulties" levels="2,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
 
+#### グランプリ楽曲パック vol.5
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=665)
+- 発売日: 2022-04-25
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[からふるぱすてる](/songs/colorful-pastel)|ki☆ki|186|:charts{:difficulties="difficulties" levels="2,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[ちくわパフェだよ☆CKP](/songs/chikuwa-parfait-dayo-ckp)|日向美ビタースイーツ♪|205|:charts{:difficulties="difficulties" levels="4,7,9,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,12,14" charts="1,2,3,4"}|
+|[†渚の小悪魔ラヴリィ～レイディオ†](/songs/nagisa-no-koakuma-lovely-radio)|夏色ビキニのPrim|190|:charts{:difficulties="difficulties" levels="2,6,11,16,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,12,16,9" charts="1,2,3,4"}|
+|[フー・フローツ](/songs/who-floats)|Nanako|190|:charts{:difficulties="difficulties" levels="3,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[凛として咲く花の如く ～ひなビタ♪ edition～](/songs/rin-to-shite-saku-hana-no-gotoku-hinabita)|日向美ビタースイーツ♪|163|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
+|[Air Heroes](/songs/air-heroes)|Darwin|175|:charts{:difficulties="difficulties" levels="3,9,11,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,11,15,17" charts="1,2,3,4"}|
+|[Beautiful Dream](/songs/beautiful-dream)|REDALiCE feat. anporin|182|:charts{:difficulties="difficulties" levels="3,7,9,12,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,12,15" charts="1,2,3,4"}|
+|[Chinese Snowy Dance](/songs/chinese-snowy-dance)|Mutsuhiko Izumi|175|:charts{:difficulties="difficulties" levels="4,7,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,16" charts="1,2,3"}|
+|[Find The Way](/songs/find-the-way)|nc ft SAK.|165|:charts{:difficulties="difficulties" levels="3,7,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
+|[Magnetic](/songs/magnetic)|Sota Fujimori|40-160|:charts{:difficulties="difficulties" levels="3,7,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,17" charts="1,2,3,4"}|
+|[PRANA](/songs/prana)|TAG|188|:charts{:difficulties="difficulties" levels="4,8,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,16" charts="1,2,3,4"}|
+|[RЁVOLUTIФN](/songs/revolution)|TЁЯRA|202|:charts{:difficulties="difficulties" levels="3,7,11,14,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,14,17" charts="1,2,3,4"}|
+|[Right on time (Ryu☆Remix)](/songs/right-on-time)|Ryu☆|149|:charts{:difficulties="difficulties" levels="2,6,9,14,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,14,13" charts="1,2,3,4"}|
+|[sola](/songs/sola)|小野秀幸|135|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[Spanish Snowy Dance](/songs/spanish-snowy-dance)|Mutsuhiko Izumi|180|:charts{:difficulties="difficulties" levels="3,7,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,16,18" charts="1,2,3,4"}|
+|[Straight Oath](/songs/straight-oath)|矢鴇つかさ feat. 三澤秋|182|:charts{:difficulties="difficulties" levels="3,8,11,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,16" charts="1,2,3,4"}|
+|[The Wind of Gold](/songs/the-wind-of-gold)|kors k|170|:charts{:difficulties="difficulties" levels="3,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
+|[Triple Journey -TAG EDITION-](/songs/triple-journey)|Triumvirate|96-192|:charts{:difficulties="difficulties" levels="4,8,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,12,17,18" charts="1,2,3,4"}|
+|[WILD SIDE](/songs/wild-side)|Tatsh|165|:charts{:difficulties="difficulties" levels="3,6,9,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,11,13" charts="1,2,3,4"}|
+|[You](/songs/you)|NM feat. Anjanette Mickelsen|72|:charts{:difficulties="difficulties" levels="1,3,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,10" charts="1,2,3"}|
+
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
