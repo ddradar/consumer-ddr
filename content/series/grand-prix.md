@@ -41,6 +41,7 @@ difficulties:
   - [グランプリ楽曲パック vol.4](#グランプリ楽曲パック-vol4)
   - [グランプリ楽曲パック vol.5](#グランプリ楽曲パック-vol5)
   - [グランプリ楽曲パック vol.6](#グランプリ楽曲パック-vol6)
+  - [グランプリ楽曲パック vol.7](#グランプリ楽曲パック-vol7)
   - [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)
   - [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)
   - [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)
@@ -575,6 +576,41 @@ difficulties:
 |[この青空の下で](/songs/kono-aozora-no-shita-de)|TAG meets “eimy”|165|:charts{:difficulties="difficulties" levels="3,6,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
 |[bass 2 bass](/songs/bass-2-bass)|Ryu☆|140|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,12" charts="1,2,3"}|
 |[Poochie](/songs/poochie)|kors k|110-220|:charts{:difficulties="difficulties" levels="5,8,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,15" charts="1,2,3"}|
+
+#### グランプリ楽曲パック vol.7
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=684)
+- 発売日: 2022-06-24
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [鏡花水月楼 (DDR EDITION)](/songs/kyoka-suigetsu-row)
+  - [Closer to my Heart (jun remix)](/songs/closer-to-my-heart)
+  - [DOUBLE TORNARD](/songs/double-tornard)
+  - [I WANT YOUR LOVE (Darwin remix)](/songs/i-want-your-love)
+  - [Mess With My Emotions](/songs/mess-with-my-emotions)
+  - [TRUE♥LOVE (Clubstar's True Club Mix)](/songs/true-love-clubstars)
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[鏡花水月楼 (DDR EDITION)](/songs/kyoka-suigetsu-row)|TЁЯRA feat.宇宙戦隊NOIZ|175|:charts{:difficulties="difficulties" levels="1,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,15" charts="1,2,3"}|
+|[Closer to my Heart (jun remix)](/songs/closer-to-my-heart)|NM feat.Heather Elmer|145|:charts{:difficulties="difficulties" levels="2,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,14" charts="1,2,3"}|
+|[DOUBLE TORNARD](/songs/double-tornard)|evo-X|153|:charts{:difficulties="difficulties" levels="4,7,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,15" charts="1,2,3"}|
+|[I WANT YOUR LOVE (Darwin remix)](/songs/i-want-your-love)|GAV|170|:charts{:difficulties="difficulties" levels="2,4,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,13" charts="1,2,3"}|
+|[Mess With My Emotions](/songs/mess-with-my-emotions)|Latenighter|130|:charts{:difficulties="difficulties" levels="1,3,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,9,12" charts="1,2,3"}|
+|[TRUE♥LOVE (Clubstar's True Club Mix)](/songs/true-love-clubstars)|jun feat. Schanita|135|:charts{:difficulties="difficulties" levels="1,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,13" charts="1,2,3"}|
+|[Confession](/songs/confession)|trance star|150|:charts{:difficulties="difficulties" levels="2,4,7,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,12,14" charts="1,2,3,4"}|
+|[Desert Journey](/songs/desert-journey)|dj TAKA|150|:charts{:difficulties="difficulties" levels="3,5,8,12,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,12,15" charts="1,2,3,4"}|
+|[Diamond Night](/songs/diamond-night)|TOMOSUKE feat. Alexa Slaymaker|135|:charts{:difficulties="difficulties" levels="3,5,8,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,11,14" charts="1,2,3,4"}|
+|[escape](/songs/escape)|U1 & Krystal B|140|:charts{:difficulties="difficulties" levels="3,5,8,10,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,10,14" charts="1,2,3,4"}|
+|[SILVER☆DREAM](/songs/silver-dream)|jun|96-192|:charts{:difficulties="difficulties" levels="4,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,12,15" charts="1,2,3"}|
+|[Somehow You Found Me](/songs/somehow-you-found-me)|DIGI-SEQ-BAND2000|180|:charts{:difficulties="difficulties" levels="3,6,10,13,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,13,16" charts="1,2,3,4"}|
+|[Tell me what to do](/songs/tell-me-what-to-do)|atomsoak ft. cerol|145|:charts{:difficulties="difficulties" levels="2,5,9,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,9,11,14" charts="1,2,3,4"}|
+|[The Island Song](/songs/the-island-song)|TAG feat. Eric Anthony|85|:charts{:difficulties="difficulties" levels="1,3,7,9,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,9,13" charts="1,2,3,4"}|
+|[Let's Get Away](/songs/lets-get-away)|NAOKI feat. Brenda Burch|150|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[osaka EVOLVED -毎度、おおきに！- (TYPE 1)](/songs/osaka-evolved-type1)|NAOKI underground|50-300|:charts{:difficulties="difficulties" levels="9,11,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,15" charts="1,2,3"}|
+|[osaka EVOLVED -毎度、おおきに！- (TYPE 2)](/songs/osaka-evolved-type2)|NAOKI underground|50-300|:charts{:difficulties="difficulties" levels="9,11,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,15" charts="1,2,3"}|
+|[osaka EVOLVED -毎度、おおきに！- (TYPE 3)](/songs/osaka-evolved-type3)|NAOKI underground|50-300|:charts{:difficulties="difficulties" levels="9,11,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,15" charts="1,2,3"}|
+|[Heatstroke](/songs/heatstroke)|TAG feat. Angie Lee|140|:charts{:difficulties="difficulties" levels="2,6,8,10,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,10,8" charts="1,2,3,4"}|
+|[Sacred Oath](/songs/sacred-oath)|TЁЯRA|170|:charts{:difficulties="difficulties" levels="2,4,7,11,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,11,13" charts="1,2,3,4"}|
 
 #### スペシャル楽曲パック feat.jubeat vol.1
 
