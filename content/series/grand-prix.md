@@ -22,6 +22,31 @@ difficulties:
 ここではグランプリプレーで遊べる楽曲(楽曲パック含む)のみ記載する。
 他のモードで遊べる楽曲については、[公式サイト](https://p.eagate.573.jp/game/eacddr/konaddr/info/mlist.html)を参照。
 
+- グランプリプレー
+  - [DDR GRAND PRIX](#ddr-grand-prix)
+  - [DDR SuperNOVA2](#ddr-supernova2)
+  - [DDR SuperNOVA](#ddr-supernova)
+  - [DDR EXTREME](#ddr-extreme)
+  - [DDRMAX2](#ddrmax2)
+  - [DDRMAX](#ddrmax)
+  - [DDR 5thMIX](#ddr-5thmix)
+  - [DDR 4thMIX](#ddr-4thmix)
+  - [DDR 3rdMIX](#ddr-3rdmix)
+  - [DDR 2ndMIX](#ddr-2ndmix)
+  - [DDR 1st](#ddr-1st)
+- 楽曲パック
+  - [グランプリ楽曲パック vol.1](#グランプリ楽曲パック-vol1)
+  - [グランプリ楽曲パック vol.2](#グランプリ楽曲パック-vol2)
+  - [グランプリ楽曲パック vol.3](#グランプリ楽曲パック-vol3)
+  - [グランプリ楽曲パック vol.4](#グランプリ楽曲パック-vol4)
+  - [グランプリ楽曲パック vol.5](#グランプリ楽曲パック-vol5)
+  - [グランプリ楽曲パック vol.6](#グランプリ楽曲パック-vol6)
+  - [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)
+  - [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)
+  - [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)
+  - [スペシャル楽曲パック feat.東方Project vol.2](#スペシャル楽曲パック-feat東方project-vol2)
+  - [コントローラ購入者特典楽曲パック](#コントローラ購入者特典楽曲パック)
+
 ### フリープレー
 
 - [DDR GRAND PRIX](#ddr-grand-prix)フォルダ内および下記楽曲の[SINGLE/BEGINNER]{.tag.is-beginner}譜面が選曲可能。
@@ -35,18 +60,6 @@ difficulties:
   - [MAKE IT BETTER](/songs/make-it-better)
 
 ### グランプリプレー
-
-- [DDR GRAND PRIX](#ddr-grand-prix)
-- [DDR SuperNOVA2](#ddr-supernova2)
-- [DDR SuperNOVA](#ddr-supernova)
-- [DDR EXTREME](#ddr-extreme)
-- [DDRMAX2](#ddrmax2)
-- [DDRMAX](#ddrmax)
-- [DDR 5thMIX](#ddr-5thmix)
-- [DDR 4thMIX](#ddr-4thmix)
-- [DDR 3rdMIX](#ddr-3rdmix)
-- [DDR 2ndMIX](#ddr-2ndmix)
-- [DDR 1st](#ddr-1st)
 
 #### DDR GRAND PRIX
 
@@ -390,11 +403,6 @@ difficulties:
 
 ### 楽曲パック
 
-- [グランプリ楽曲パック vol.1](#グランプリ楽曲パック-vol1)
-- [グランプリ楽曲パック vol.2](#グランプリ楽曲パック-vol2)
-- [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)
-- [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)
-
 #### グランプリ楽曲パック vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=606)
@@ -540,6 +548,34 @@ difficulties:
 |[WILD SIDE](/songs/wild-side)|Tatsh|165|:charts{:difficulties="difficulties" levels="3,6,9,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,11,13" charts="1,2,3,4"}|
 |[You](/songs/you)|NM feat. Anjanette Mickelsen|72|:charts{:difficulties="difficulties" levels="1,3,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,10" charts="1,2,3"}|
 
+#### グランプリ楽曲パック vol.6
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=672)
+- 発売日: 2022-05-23
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[朧](/songs/oboro)|HHH×MM×ST|149|:charts{:difficulties="difficulties" levels="3,6,8,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,12,14" charts="1,2,3,4"}|
+|[宇宙(ソラ)への片道切符](/songs/sora-heno-katamichi-kippu)|Musical Cosmology|88-175|:charts{:difficulties="difficulties" levels="3,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,12" charts="1,2,3"}|
+|[ハピ恋☆らぶりぃタイム!!](/songs/happy-koi-lovely-time)|DJ TOTTO feat.anporin|139|:charts{:difficulties="difficulties" levels="2,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[ベィスドロップ・フリークス](/songs/bassdrop-freaks)|かめりあ feat. ななひら|179|:charts{:difficulties="difficulties" levels="3,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
+|[Astrogazer](/songs/astrogazer)|DJ TOTTO|154|:charts{:difficulties="difficulties" levels="3,7,12,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,15,18" charts="1,2,3,4"}|
+|[DANCE ALL NIGHT (DDR EDITION)](/songs/dance-all-night)|Sota Fujimori|144|:charts{:difficulties="difficulties" levels="1,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[Dancer in the flare](/songs/dancer-in-the-flare)|猫叉Master|132|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,13" charts="1,2,3"}|
+|[Electric Dance System Music](/songs/electric-dance-system-music)|U1 overground|140|:charts{:difficulties="difficulties" levels="2,5,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
+|[HANDS UP IN THE AIR](/songs/hands-up-in-the-air)|U1|128|:charts{:difficulties="difficulties" levels="1,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[MAKE A JAM!](/songs/make-a-jam)|U1|124|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
+|[New Century](/songs/new-century)|Sota F.|98-195|:charts{:difficulties="difficulties" levels="4,9,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,14,17,18" charts="1,2,3,4"}|
+|[RISING FIRE HAWK](/songs/rising-fire-hawk)|L.E.D.-G|157|:charts{:difficulties="difficulties" levels="3,6,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,11,14,17" charts="1,2,3,4"}|
+|[SHION](/songs/shion)|DJ YOSHITAKA|179|:charts{:difficulties="difficulties" levels="4,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[siberite](/songs/siberite)|Captain KING|128|:charts{:difficulties="difficulties" levels="2,5,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,14" charts="1,2,3"}|
+|[TECH-NOID](/songs/tech-noid)|Sota F.|146|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[Towards the TOWER](/songs/towards-the-tower)|SHAMDEL|132|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[Yeah! Yeah!](/songs/yeah-yeah)|CLUB SPICE|150|:charts{:difficulties="difficulties" levels="2,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[この青空の下で](/songs/kono-aozora-no-shita-de)|TAG meets “eimy”|165|:charts{:difficulties="difficulties" levels="3,6,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
+|[bass 2 bass](/songs/bass-2-bass)|Ryu☆|140|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,12" charts="1,2,3"}|
+|[Poochie](/songs/poochie)|kors k|110-220|:charts{:difficulties="difficulties" levels="5,8,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,15" charts="1,2,3"}|
+
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
@@ -607,7 +643,7 @@ difficulties:
 #### コントローラ購入者特典楽曲パック
 
 - [DanceDanceRevolution 専用コントローラ](https://www.konamistyle.jp/products/detail.php?product_id=110013)の購入者特典。
-- 他の楽曲パックと異なり、フリープレーでも選曲可能。
+- 他の楽曲パックと異なり、[フリープレー](#フリープレー)でも選曲可能。
 - 購入することで、全楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|

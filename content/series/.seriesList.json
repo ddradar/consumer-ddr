@@ -156,9 +156,15 @@
     "color": "#000"
   },
   "grand-prix-vol5": {
-    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.4",
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.5",
     "redirect": "/series/grand-prix#グランプリ楽曲パック-vol5",
     "backgroundColor": "lightsalmon",
+    "color": "#000"
+  },
+  "grand-prix-vol6": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.6",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol6",
+    "backgroundColor": "limegreen",
     "color": "#000"
   },
   "hottest-jp": {
