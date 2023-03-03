@@ -42,6 +42,15 @@ difficulties:
   - [グランプリ楽曲パック vol.5](#グランプリ楽曲パック-vol5)
   - [グランプリ楽曲パック vol.6](#グランプリ楽曲パック-vol6)
   - [グランプリ楽曲パック vol.7](#グランプリ楽曲パック-vol7)
+  - [グランプリ楽曲パック vol.8](#グランプリ楽曲パック-vol8)
+  - [グランプリ楽曲パック vol.9](#グランプリ楽曲パック-vol9)
+  - [グランプリ楽曲パック vol.10](#グランプリ楽曲パック-vol10)
+  - [グランプリ楽曲パック vol.11](#グランプリ楽曲パック-vol11)
+  - [グランプリ楽曲パック vol.12](#グランプリ楽曲パック-vol12)
+  - [グランプリ楽曲パック vol.13](#グランプリ楽曲パック-vol13)
+  - [グランプリ楽曲パック vol.14](#グランプリ楽曲パック-vol14)
+  - [グランプリ楽曲パック vol.15](#グランプリ楽曲パック-vol15)
+  - [グランプリ楽曲パック vol.16](#グランプリ楽曲パック-vol16)
   - [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)
   - [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)
   - [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)
@@ -611,6 +620,78 @@ difficulties:
 |[osaka EVOLVED -毎度、おおきに！- (TYPE 3)](/songs/osaka-evolved-type3)|NAOKI underground|50-300|:charts{:difficulties="difficulties" levels="9,11,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,15" charts="1,2,3"}|
 |[Heatstroke](/songs/heatstroke)|TAG feat. Angie Lee|140|:charts{:difficulties="difficulties" levels="2,6,8,10,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,10,8" charts="1,2,3,4"}|
 |[Sacred Oath](/songs/sacred-oath)|TЁЯRA|170|:charts{:difficulties="difficulties" levels="2,4,7,11,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,11,13" charts="1,2,3,4"}|
+
+#### グランプリ楽曲パック vol.8
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=703)
+- 発売日: 2022-07-20
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
+#### グランプリ楽曲パック vol.9
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=708)
+- 発売日: 2022-08-22
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
+#### グランプリ楽曲パック vol.10
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=712)
+- 発売日: 2022-09-26
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
+#### グランプリ楽曲パック vol.11
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=794)
+- 発売日: 2022-11-28
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
+#### グランプリ楽曲パック vol.12
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=825)
+- 発売日: 2022-12-19
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
+#### グランプリ楽曲パック vol.13
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=899)
+- 発売日: 2023-01-30
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
+#### グランプリ楽曲パック vol.14
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=900)
+- 発売日: 2023-01-30
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
+#### グランプリ楽曲パック vol.15
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=901)
+- 発売日: 2023-02-20
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+
+#### グランプリ楽曲パック vol.16
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=902)
+- 発売日: 2023-02-20
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
 
 #### スペシャル楽曲パック feat.jubeat vol.1
 
