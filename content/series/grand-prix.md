@@ -704,6 +704,18 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[ACE FOR ACES](/songs/ace-for-aces)|TAG×U1|200|:charts{:difficulties="difficulties" levels="4,7,13,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,13,15,18" charts="1,2,3,4"}|
+|[ALGORITHM](/songs/algorithm)|SOUND HOLIC feat. Nana Takahashi|130|:charts{:difficulties="difficulties" levels="5,7,11,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,10,13,15" charts="1,2,3,4"}|
+|[CHOCOLATE PHILOSOPHY](/songs/chocolate-philosophy)|常盤ゆう|110|:charts{:difficulties="difficulties" levels="2,4,8,9,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,8,10,12" charts="1,2,3,4"}|
+|[Cosy Catastrophe](/songs/cosy-catastrophe)|SYUNN|90-360|:charts{:difficulties="difficulties" levels="6,9,13,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="10,13,16,18" charts="1,2,3,4"}|
+|[ENDYMION](/songs/endymion)|fallen shepherd ft. RabbiTon Strings|220-440|:charts{:difficulties="difficulties" levels="9,13,15,18,19" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="13,15,18,19" charts="1,2,3,4"}|
+|[Fly far bounce](/songs/fly-far-bounce)|猫叉Master|163|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[High School Love](/songs/high-school-love)|DJ YOSHITAKA feat.DWP|180|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[Ishtar](/songs/ishtar)|劇団レコード|156|:charts{:difficulties="difficulties" levels="3,5,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,11,14,16" charts="1,2,3,4"}|
+|[Neutrino](/songs/neutrino)|HuΣeR|75-300|:charts{:difficulties="difficulties" levels="6,9,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,13,16,18" charts="1,2,3,4"}|
+|[out of focus](/songs/out-of-focus)|Qrispy Joybox|83-167|:charts{:difficulties="difficulties" levels="3,6,12,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,12,15,16" charts="1,2,3,4"}|
+
+- [グランプリ楽曲パック vol.16](#グランプリ楽曲パック-vol16)と同時購入で、[ALGORITHM](/songs/algorithm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 #### グランプリ楽曲パック vol.16
 
