@@ -491,7 +491,7 @@ difficulties:
 |[創世ノート](/songs/sousei-note)|PON+wac|200|:charts{:difficulties="difficulties" levels="2,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,14" charts="1,2,3"}|
 |[虹色の花](/songs/nijiiro-no-hana)|Akhuta y OJ|170|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
 |[ラキラキ](/songs/lucky-lucky)|Mutsuhiko Izumi & S-C-U|165|:charts{:difficulties="difficulties" levels="2,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
-|[Another Phase](/songs/another-phase)|TAG|160|:charts{:difficulties="difficulties" levels="4,7,11,15,16 (SA)" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,15 (SA)" charts="1,2,3,4"}|
+|[Another Phase](/songs/another-phase)|TAG|160|:charts{:difficulties="difficulties" levels="4,7,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,15" charts="1,2,3,4"}|
 |[Back In Your Arms](/songs/back-in-your-arms)|jun feat. DJ Silver vs Milo ft. Becca Hossany|132|:charts{:difficulties="difficulties" levels="2,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
 |[Bombay Bomb](/songs/bombay-bomb)|Jena Rose|145|:charts{:difficulties="difficulties" levels="2,6,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
 |[Elemental Creation](/songs/elemental-creation)|dj TAKA meets DJ YOSHITAKA|106-424|:charts{:difficulties="difficulties" levels="8,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,14,17,18" charts="1,2,3,4"}|
@@ -712,6 +712,18 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[I'm so Happy](/songs/im-so-happy)|Ryu☆|181|:charts{:difficulties="difficulties" levels="3,6,8,12,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,16" charts="1,2,3,4"}|
+|[roppongi EVOLVED ver.D](/songs/roppongi-evolved-ver-d)|TAG underground|170|:charts{:difficulties="difficulties" levels="6,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[☆shining☆](/songs/shining)|ピンクターボ|185|:charts{:difficulties="difficulties" levels="2,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[Theory of Eternity](/songs/theory-of-eternity)|TAG|160|:charts{:difficulties="difficulties" levels="3,6,9,12,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,11" charts="1,2,3,4"}|
+|[雫](/songs/shizuku)|あさき|210|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[天上の星 ～黎明記～](/songs/tenjou-no-hoshi)|TЁЯRA|85-170|:charts{:difficulties="difficulties" levels="2,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
+|[繚乱ヒットチャート](/songs/ryouran-hit-chart)|ギラギラメガネ団|192|:charts{:difficulties="difficulties" levels="2,5,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
+|[message](/songs/message)|dj TAKA feat.flare|152|:charts{:difficulties="difficulties" levels="1,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,11" charts="1,2,3"}|
+|[SigSig](/songs/sigsig)|kors k|179|:charts{:difficulties="difficulties" levels="3,6,9,12,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,10" charts="1,2,3,4"}|
+|[Blue Rain](/songs/blue-rain)|dj TAKA VS Ryu☆|144|:charts{:difficulties="difficulties" levels="2,5,6,11,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,14" charts="1,2,3,4"}|
+
+- [グランプリ楽曲パック vol.15](#グランプリ楽曲パック-vol15)と同時購入で、[Blue Rain](/songs/blue-rain)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 #### スペシャル楽曲パック feat.jubeat vol.1
 
