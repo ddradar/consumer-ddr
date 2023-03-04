@@ -628,6 +628,26 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[Anti-Matter](/songs/anti-matter)|Orbit1 & Milo|100-400|:charts{:difficulties="difficulties" levels="6,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,15,17,18" charts="1,2,3,4"}|
+|[New Decade](/songs/new-decade)|Sota F.|100-400|:charts{:difficulties="difficulties" levels="4,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,14,17,18" charts="1,2,3,4"}|
+|[Pierce The Sky](/songs/pierce-the-sky)|JAKAZiD feat. K.N.|85-170|:charts{:difficulties="difficulties" levels="3,8,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,16" charts="1,2,3,4"}|
+|[POSSESSION](/songs/possession)|TAG underground|185-370|:charts{:difficulties="difficulties" levels="7,10,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,14,17,19" charts="1,2,3,4"}|
+|[Sakura Sunrise](/songs/sakura-sunrise)|Ryu☆|181|:charts{:difficulties="difficulties" levels="3,7,10,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,10,15,16" charts="1,2,3,4"}|
+|[Shiny World](/songs/shiny-world)|CAPACITY GATE|100|:charts{:difficulties="difficulties" levels="2,8,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,16" charts="1,2,3,4"}|
+|[someday...](/songs/someday)|杏野はるな|154|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
+|[Valkyrie dimension](/songs/valkyrie-dimension)|Spriggan|47-744|:charts{:difficulties="difficulties" levels="9,13,15,18,19" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="13,14,18,19" charts="1,2,3,4"}|
+|[dazzle](/songs/dazzle)|kobo feat.kr:agué|98|:charts{:difficulties="difficulties" levels="2,4,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
+|[Dream Machine](/songs/dream-machine)|Darwin|140|:charts{:difficulties="difficulties" levels="3,6,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[Inspiration](/songs/inspiration-dkc)|DKC Crew|147|:charts{:difficulties="difficulties" levels="3,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[Lift You Up](/songs/lift-you-up)|wolli|123|:charts{:difficulties="difficulties" levels="3,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[Malacca](/songs/malacca)|nc ft NRG factory|140|:charts{:difficulties="difficulties" levels="3,4,7,10,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,9,13" charts="1,2,3,4"}|
+|[puzzle](/songs/puzzle)|日本少年|135|:charts{:difficulties="difficulties" levels="3,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[Take A Chance](/songs/take-a-chance)|neuras feat. GATZ|88|:charts{:difficulties="difficulties" levels="2,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
+|[The flower in your smile](/songs/the-flower-in-your-smile)|TACOS NAOMI feat.小久保裕之|186|:charts{:difficulties="difficulties" levels="3,6,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[TimeHollow](/songs/timehollow)|Masanori Akita|94|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[Tracers (4Beat Remix)](/songs/tracers)|Ruffage & Size|140|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
+|[Übertreffen](/songs/ubertreffen)|TAKA respect for J.S.B.|174|:charts{:difficulties="difficulties" levels="3,6,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,14" charts="1,2,3"}|
+|[Waiting 4 u](/songs/waiting-4-u)|DDT|175|:charts{:difficulties="difficulties" levels="4,6,8,11,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,12" charts="1,2,3,4"}|
 
 #### グランプリ楽曲パック vol.9
 
