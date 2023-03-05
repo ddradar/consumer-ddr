@@ -681,9 +681,37 @@ difficulties:
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=712)
 - 発売日: 2022-09-26
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [CANDY (UFO mix)](/songs/candy-ufo)
+  - [Curry Up](/songs/curry-up)
+  - [Heavens and the Earth](/songs/heavens-and-the-earth)
+  - [PARADISE](/songs/paradise)
+  - [STAY (Joey Riot remix)](/songs/stay-joey-riot)
+  - [Take Me](/songs/take-me)
+  - [We Will Live Together](/songs/we-will-live-together)
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[CANDY (UFO mix)](/songs/candy-ufo)|The Sweetest|180|:charts{:difficulties="difficulties" levels="2,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[Curry Up](/songs/curry-up)|OR-IF-IS|165|:charts{:difficulties="difficulties" levels="2,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[Heavens and the Earth](/songs/heavens-and-the-earth)|The Lonely Hearts|70|:charts{:difficulties="difficulties" levels="1,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[PARADISE](/songs/paradise)|Lea Drop feat. McCall Clark|125|:charts{:difficulties="difficulties" levels="1,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[STAY (Joey Riot remix)](/songs/stay-joey-riot)|DANNY D|150|:charts{:difficulties="difficulties" levels="2,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[Take Me](/songs/take-me)|Harmony Machine|100|:charts{:difficulties="difficulties" levels="1,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[We Will Live Together](/songs/we-will-live-together)|Happy CoreMAN|175|:charts{:difficulties="difficulties" levels="2,5,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,14" charts="1,2,3"}|
+|[Dreamin'](/songs/dreamin)|TOMOSUKE feat. Adreana|128|:charts{:difficulties="difficulties" levels="2,4,6,9,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,9,12" charts="1,2,3,4"}|
+|[One Sided Love](/songs/one-sided-love)|D-crew with Melissa Petty|140|:charts{:difficulties="difficulties" levels="2,5,8,10,12 (SA)" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,9,11,13 (SA)" charts="1,2,3,4"}|
+|[ever snow](/songs/ever-snow-terra)|TЁЯRA|145|:charts{:difficulties="difficulties" levels="2,4,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,11" charts="1,2,3"}|
+|[IN THE ZONE](/songs/in-the-zone)|U1 (NPD3 style) & KIDD KAZMEO|124|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[Seasons](/songs/seasons)|TOMOSUKE feat. Crystal Paloa|168|:charts{:difficulties="difficulties" levels="2,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
+|[Wings of an Angel (Fly With Me)](/songs/wings-of-an-angel)|J-Mi & Midi-D|175|:charts{:difficulties="difficulties" levels="2,4,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[Gotta Dance](/songs/gotta-dance)|NAOKI feat. Aleisha G|145|:charts{:difficulties="difficulties" levels="2,3,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[KIMONO♥PRINCESS](/songs/kimono-princess)|jun|95-190|:charts{:difficulties="difficulties" levels="5,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,13,16" charts="1,2,3"}|
+|[roppongi EVOLVED ver.A](/songs/roppongi-evolved-ver-a)|TAG underground|170|:charts{:difficulties="difficulties" levels="6,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[roppongi EVOLVED ver.B](/songs/roppongi-evolved-ver-b)|TAG underground|170|:charts{:difficulties="difficulties" levels="6,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[roppongi EVOLVED ver.C](/songs/roppongi-evolved-ver-c)|TAG underground|170|:charts{:difficulties="difficulties" levels="6,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[Taking It To The Sky](/songs/taking-it-to-the-sky)|U1 feat. Tammy S. Hansen|130|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[THIS NIGHT](/songs/this-night)|jun feat. Sonnet|160|:charts{:difficulties="difficulties" levels="2,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
 
 #### グランプリ楽曲パック vol.11
 
