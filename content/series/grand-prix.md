@@ -720,6 +720,26 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[十二星座の聖域](/songs/juuniseiza-no-seiiki)|Zodiac Fall|164|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[打打打打打打打打打打](/songs/dadadadadadadadadada)|ヒゲドライバー join. SELEN|156|:charts{:difficulties="difficulties" levels="2,5,11,13,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,11,13,16" charts="1,2,3,4"}|
+|[ALL MY HEART -この恋に、わたしの全てを賭ける-](/songs/all-my-heart)|SUPER HEROINE 彩香-AYAKA-|160|:charts{:difficulties="difficulties" levels="3,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[Angelic Jelly](/songs/angelic-jelly)|t+pazolite|100-200|:charts{:difficulties="difficulties" levels="4,6,11,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[Cytokinesis](/songs/cytokinesis)|Hommarju|111-280|:charts{:difficulties="difficulties" levels="4,8,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,14" charts="1,2,3"}|
+|[Come to Life](/songs/come-to-life)|ARM (IOSYS) feat. Nicole Curry|90-180|:charts{:difficulties="difficulties" levels="4,8,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,13,16,18" charts="1,2,3,4"}|
+|[Emera](/songs/emera)|PON|161|:charts{:difficulties="difficulties" levels="3,6,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,18" charts="1,2,3,4"}|
+|[Far east nightbird](/songs/far-east-nightbird)|猫叉Master|180|:charts{:difficulties="difficulties" levels="4,6,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[Grand Chariot](/songs/grand-chariot)|xi|191|:charts{:difficulties="difficulties" levels="3,7,11,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,13" charts="1,2,3"}|
+|[Ha・lle・lu・jah](/songs/ha-lle-lu-jah)|SOUND HOLIC feat. Nana Takahashi|150|:charts{:difficulties="difficulties" levels="1,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,12" charts="1,2,3"}|
+|[Illegal Function Call](/songs/illegal-function-call)|U1-ASAMi|130-260|:charts{:difficulties="difficulties" levels="4,10,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,14,16" charts="1,2,3"}|
+|[Sephirot](/songs/sephirot)|SHIKI|154|:charts{:difficulties="difficulties" levels="3,6,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[S!ck](/songs/sick)|Eagle|88-177|:charts{:difficulties="difficulties" levels="5,8,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[Star Trail](/songs/star-trail)|Nhato|74-148|:charts{:difficulties="difficulties" levels="2,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[Start a New Day](/songs/start-a-new-day)|Sota F.|168|:charts{:difficulties="difficulties" levels="3,6,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,16" charts="1,2,3,4"}|
+|[STERLING SILVER](/songs/sterling-silver)|TAG|175|:charts{:difficulties="difficulties" levels="4,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[STERLING SILVER (U1 overground mix)](/songs/sterling-silver-u1)|TAG|185|:charts{:difficulties="difficulties" levels="4,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,14" charts="1,2,3"}|
+|[StrayedCatz](/songs/strayedcatz)|削除|114-152|:charts{:difficulties="difficulties" levels="4,7,11,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,13" charts="1,2,3"}|
+|[Triple Counter](/songs/triple-counter)|DJ YOSHITAKA meets dj TAKA|216|:charts{:difficulties="difficulties" levels="7,11,14,17" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,14,17" charts="1,2,3"}|
+|[ZEPHYRANTHES](/songs/zephyranthes)|TAG|180|:charts{:difficulties="difficulties" levels="3,7,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,15" charts="1,2,3"}|
 
 #### グランプリ楽曲パック vol.12
 
