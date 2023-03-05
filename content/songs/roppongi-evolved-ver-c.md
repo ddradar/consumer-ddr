@@ -7,6 +7,7 @@ bpm: 170
 series:
   - "x2"
   - "music-fit"
+  - "grand-prix-vol10"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,13 +24,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=6} :level{slug="music-fit" level=3}</div>|151/8||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=8} :level{slug="music-fit" level=7}</div>|241/21||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=11} :level{slug="music-fit" level=9}</div>|368/16||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=15} :level{slug="music-fit" level=10}</div>|490/23||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=8}</div>|242/22||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=11}</div>|348/21||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=15}</div>|476/13||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=6} :level{slug="music-fit" level=3} :level{slug="grand-prix-vol10" level=6}</div>|151/8||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=8} :level{slug="music-fit" level=7} :level{slug="grand-prix-vol10" level=8}</div>|241/21||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=11} :level{slug="music-fit" level=9} :level{slug="grand-prix-vol10" level=11}</div>|368/16||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=15} :level{slug="music-fit" level=10} :level{slug="grand-prix-vol10" level=15}</div>|490/23||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=8} :level{slug="grand-prix-vol10" level=8}</div>|242/22||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=11} :level{slug="grand-prix-vol10" level=12}</div>|348/21||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x2" level=15} :level{slug="grand-prix-vol10" level=16}</div>|476/13||
 
 ## メモ
 

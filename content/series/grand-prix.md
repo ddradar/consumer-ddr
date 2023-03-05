@@ -22,6 +22,41 @@ difficulties:
 ここではグランプリプレーで遊べる楽曲(楽曲パック含む)のみ記載する。
 他のモードで遊べる楽曲については、[公式サイト](https://p.eagate.573.jp/game/eacddr/konaddr/info/mlist.html)を参照。
 
+- グランプリプレー
+  - [DDR GRAND PRIX](#ddr-grand-prix)
+  - [DDR SuperNOVA2](#ddr-supernova2)
+  - [DDR SuperNOVA](#ddr-supernova)
+  - [DDR EXTREME](#ddr-extreme)
+  - [DDRMAX2](#ddrmax2)
+  - [DDRMAX](#ddrmax)
+  - [DDR 5thMIX](#ddr-5thmix)
+  - [DDR 4thMIX](#ddr-4thmix)
+  - [DDR 3rdMIX](#ddr-3rdmix)
+  - [DDR 2ndMIX](#ddr-2ndmix)
+  - [DDR 1st](#ddr-1st)
+- 楽曲パック
+  - [グランプリ楽曲パック vol.1](#グランプリ楽曲パック-vol1)
+  - [グランプリ楽曲パック vol.2](#グランプリ楽曲パック-vol2)
+  - [グランプリ楽曲パック vol.3](#グランプリ楽曲パック-vol3)
+  - [グランプリ楽曲パック vol.4](#グランプリ楽曲パック-vol4)
+  - [グランプリ楽曲パック vol.5](#グランプリ楽曲パック-vol5)
+  - [グランプリ楽曲パック vol.6](#グランプリ楽曲パック-vol6)
+  - [グランプリ楽曲パック vol.7](#グランプリ楽曲パック-vol7)
+  - [グランプリ楽曲パック vol.8](#グランプリ楽曲パック-vol8)
+  - [グランプリ楽曲パック vol.9](#グランプリ楽曲パック-vol9)
+  - [グランプリ楽曲パック vol.10](#グランプリ楽曲パック-vol10)
+  - [グランプリ楽曲パック vol.11](#グランプリ楽曲パック-vol11)
+  - [グランプリ楽曲パック vol.12](#グランプリ楽曲パック-vol12)
+  - [グランプリ楽曲パック vol.13](#グランプリ楽曲パック-vol13)
+  - [グランプリ楽曲パック vol.14](#グランプリ楽曲パック-vol14)
+  - [グランプリ楽曲パック vol.15](#グランプリ楽曲パック-vol15)
+  - [グランプリ楽曲パック vol.16](#グランプリ楽曲パック-vol16)
+  - [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)
+  - [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)
+  - [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)
+  - [スペシャル楽曲パック feat.東方Project vol.2](#スペシャル楽曲パック-feat東方project-vol2)
+  - [コントローラ購入者特典楽曲パック](#コントローラ購入者特典楽曲パック)
+
 ### フリープレー
 
 - [DDR GRAND PRIX](#ddr-grand-prix)フォルダ内および下記楽曲の[SINGLE/BEGINNER]{.tag.is-beginner}譜面が選曲可能。
@@ -35,18 +70,6 @@ difficulties:
   - [MAKE IT BETTER](/songs/make-it-better)
 
 ### グランプリプレー
-
-- [DDR GRAND PRIX](#ddr-grand-prix)
-- [DDR SuperNOVA2](#ddr-supernova2)
-- [DDR SuperNOVA](#ddr-supernova)
-- [DDR EXTREME](#ddr-extreme)
-- [DDRMAX2](#ddrmax2)
-- [DDRMAX](#ddrmax)
-- [DDR 5thMIX](#ddr-5thmix)
-- [DDR 4thMIX](#ddr-4thmix)
-- [DDR 3rdMIX](#ddr-3rdmix)
-- [DDR 2ndMIX](#ddr-2ndmix)
-- [DDR 1st](#ddr-1st)
 
 #### DDR GRAND PRIX
 
@@ -390,11 +413,6 @@ difficulties:
 
 ### 楽曲パック
 
-- [グランプリ楽曲パック vol.1](#グランプリ楽曲パック-vol1)
-- [グランプリ楽曲パック vol.2](#グランプリ楽曲パック-vol2)
-- [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)
-- [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)
-
 #### グランプリ楽曲パック vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=606)
@@ -473,7 +491,7 @@ difficulties:
 |[創世ノート](/songs/sousei-note)|PON+wac|200|:charts{:difficulties="difficulties" levels="2,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,14" charts="1,2,3"}|
 |[虹色の花](/songs/nijiiro-no-hana)|Akhuta y OJ|170|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
 |[ラキラキ](/songs/lucky-lucky)|Mutsuhiko Izumi & S-C-U|165|:charts{:difficulties="difficulties" levels="2,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
-|[Another Phase](/songs/another-phase)|TAG|160|:charts{:difficulties="difficulties" levels="4,7,11,15,16 (SA)" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,15 (SA)" charts="1,2,3,4"}|
+|[Another Phase](/songs/another-phase)|TAG|160|:charts{:difficulties="difficulties" levels="4,7,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,15" charts="1,2,3,4"}|
 |[Back In Your Arms](/songs/back-in-your-arms)|jun feat. DJ Silver vs Milo ft. Becca Hossany|132|:charts{:difficulties="difficulties" levels="2,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
 |[Bombay Bomb](/songs/bombay-bomb)|Jena Rose|145|:charts{:difficulties="difficulties" levels="2,6,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
 |[Elemental Creation](/songs/elemental-creation)|dj TAKA meets DJ YOSHITAKA|106-424|:charts{:difficulties="difficulties" levels="8,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,14,17,18" charts="1,2,3,4"}|
@@ -512,11 +530,332 @@ difficulties:
 |[NEPHILIM DELTA](/songs/nephilim-delta)|L.E.D.-G|220|:charts{:difficulties="difficulties" levels="4,8,12,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,14" charts="1,2,3"}|
 |[Resurrection](/songs/resurrection)|Dormir|140|:charts{:difficulties="difficulties" levels="2,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
 
+#### グランプリ楽曲パック vol.5
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=665)
+- 発売日: 2022-04-25
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[からふるぱすてる](/songs/colorful-pastel)|ki☆ki|186|:charts{:difficulties="difficulties" levels="2,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[ちくわパフェだよ☆CKP](/songs/chikuwa-parfait-dayo-ckp)|日向美ビタースイーツ♪|205|:charts{:difficulties="difficulties" levels="4,7,9,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,12,14" charts="1,2,3,4"}|
+|[†渚の小悪魔ラヴリィ～レイディオ†](/songs/nagisa-no-koakuma-lovely-radio)|夏色ビキニのPrim|190|:charts{:difficulties="difficulties" levels="2,6,11,16,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,12,16,9" charts="1,2,3,4"}|
+|[フー・フローツ](/songs/who-floats)|Nanako|190|:charts{:difficulties="difficulties" levels="3,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[凛として咲く花の如く ～ひなビタ♪ edition～](/songs/rin-to-shite-saku-hana-no-gotoku-hinabita)|日向美ビタースイーツ♪|163|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
+|[Air Heroes](/songs/air-heroes)|Darwin|175|:charts{:difficulties="difficulties" levels="3,9,11,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,11,15,17" charts="1,2,3,4"}|
+|[Beautiful Dream](/songs/beautiful-dream)|REDALiCE feat. anporin|182|:charts{:difficulties="difficulties" levels="3,7,9,12,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,12,15" charts="1,2,3,4"}|
+|[Chinese Snowy Dance](/songs/chinese-snowy-dance)|Mutsuhiko Izumi|175|:charts{:difficulties="difficulties" levels="4,7,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,16" charts="1,2,3"}|
+|[Find The Way](/songs/find-the-way)|nc ft SAK.|165|:charts{:difficulties="difficulties" levels="3,7,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
+|[Magnetic](/songs/magnetic)|Sota Fujimori|40-160|:charts{:difficulties="difficulties" levels="3,7,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,17" charts="1,2,3,4"}|
+|[PRANA](/songs/prana)|TAG|188|:charts{:difficulties="difficulties" levels="4,8,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,16" charts="1,2,3,4"}|
+|[RЁVOLUTIФN](/songs/revolution)|TЁЯRA|202|:charts{:difficulties="difficulties" levels="3,7,11,14,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,14,17" charts="1,2,3,4"}|
+|[Right on time (Ryu☆Remix)](/songs/right-on-time)|Ryu☆|149|:charts{:difficulties="difficulties" levels="2,6,9,14,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,14,13" charts="1,2,3,4"}|
+|[sola](/songs/sola)|小野秀幸|135|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[Spanish Snowy Dance](/songs/spanish-snowy-dance)|Mutsuhiko Izumi|180|:charts{:difficulties="difficulties" levels="3,7,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,16,18" charts="1,2,3,4"}|
+|[Straight Oath](/songs/straight-oath)|矢鴇つかさ feat. 三澤秋|182|:charts{:difficulties="difficulties" levels="3,8,11,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,16" charts="1,2,3,4"}|
+|[The Wind of Gold](/songs/the-wind-of-gold)|kors k|170|:charts{:difficulties="difficulties" levels="3,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
+|[Triple Journey -TAG EDITION-](/songs/triple-journey)|Triumvirate|96-192|:charts{:difficulties="difficulties" levels="4,8,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,12,17,18" charts="1,2,3,4"}|
+|[WILD SIDE](/songs/wild-side)|Tatsh|165|:charts{:difficulties="difficulties" levels="3,6,9,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,11,13" charts="1,2,3,4"}|
+|[You](/songs/you)|NM feat. Anjanette Mickelsen|72|:charts{:difficulties="difficulties" levels="1,3,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,10" charts="1,2,3"}|
+
+#### グランプリ楽曲パック vol.6
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=672)
+- 発売日: 2022-05-23
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[朧](/songs/oboro)|HHH×MM×ST|149|:charts{:difficulties="difficulties" levels="3,6,8,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,12,14" charts="1,2,3,4"}|
+|[宇宙(ソラ)への片道切符](/songs/sora-heno-katamichi-kippu)|Musical Cosmology|88-175|:charts{:difficulties="difficulties" levels="3,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,12" charts="1,2,3"}|
+|[ハピ恋☆らぶりぃタイム!!](/songs/happy-koi-lovely-time)|DJ TOTTO feat.anporin|139|:charts{:difficulties="difficulties" levels="2,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[ベィスドロップ・フリークス](/songs/bassdrop-freaks)|かめりあ feat. ななひら|179|:charts{:difficulties="difficulties" levels="3,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
+|[Astrogazer](/songs/astrogazer)|DJ TOTTO|154|:charts{:difficulties="difficulties" levels="3,7,12,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,15,18" charts="1,2,3,4"}|
+|[DANCE ALL NIGHT (DDR EDITION)](/songs/dance-all-night)|Sota Fujimori|144|:charts{:difficulties="difficulties" levels="1,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[Dancer in the flare](/songs/dancer-in-the-flare)|猫叉Master|132|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,13" charts="1,2,3"}|
+|[Electric Dance System Music](/songs/electric-dance-system-music)|U1 overground|140|:charts{:difficulties="difficulties" levels="2,5,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
+|[HANDS UP IN THE AIR](/songs/hands-up-in-the-air)|U1|128|:charts{:difficulties="difficulties" levels="1,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[MAKE A JAM!](/songs/make-a-jam)|U1|124|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
+|[New Century](/songs/new-century)|Sota F.|98-195|:charts{:difficulties="difficulties" levels="4,9,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,14,17,18" charts="1,2,3,4"}|
+|[RISING FIRE HAWK](/songs/rising-fire-hawk)|L.E.D.-G|157|:charts{:difficulties="difficulties" levels="3,6,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,11,14,17" charts="1,2,3,4"}|
+|[SHION](/songs/shion)|DJ YOSHITAKA|179|:charts{:difficulties="difficulties" levels="4,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[siberite](/songs/siberite)|Captain KING|128|:charts{:difficulties="difficulties" levels="2,5,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,14" charts="1,2,3"}|
+|[TECH-NOID](/songs/tech-noid)|Sota F.|146|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[Towards the TOWER](/songs/towards-the-tower)|SHAMDEL|132|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[Yeah! Yeah!](/songs/yeah-yeah)|CLUB SPICE|150|:charts{:difficulties="difficulties" levels="2,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[この青空の下で](/songs/kono-aozora-no-shita-de)|TAG meets “eimy”|165|:charts{:difficulties="difficulties" levels="3,6,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
+|[bass 2 bass](/songs/bass-2-bass)|Ryu☆|140|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,12" charts="1,2,3"}|
+|[Poochie](/songs/poochie)|kors k|110-220|:charts{:difficulties="difficulties" levels="5,8,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,15" charts="1,2,3"}|
+
+#### グランプリ楽曲パック vol.7
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=684)
+- 発売日: 2022-06-24
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [鏡花水月楼 (DDR EDITION)](/songs/kyoka-suigetsu-row)
+  - [Closer to my Heart (jun remix)](/songs/closer-to-my-heart)
+  - [DOUBLE TORNARD](/songs/double-tornard)
+  - [I WANT YOUR LOVE (Darwin remix)](/songs/i-want-your-love)
+  - [Mess With My Emotions](/songs/mess-with-my-emotions)
+  - [TRUE♥LOVE (Clubstar's True Club Mix)](/songs/true-love-clubstars)
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[鏡花水月楼 (DDR EDITION)](/songs/kyoka-suigetsu-row)|TЁЯRA feat.宇宙戦隊NOIZ|175|:charts{:difficulties="difficulties" levels="1,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,15" charts="1,2,3"}|
+|[Closer to my Heart (jun remix)](/songs/closer-to-my-heart)|NM feat.Heather Elmer|145|:charts{:difficulties="difficulties" levels="2,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,14" charts="1,2,3"}|
+|[DOUBLE TORNARD](/songs/double-tornard)|evo-X|153|:charts{:difficulties="difficulties" levels="4,7,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,15" charts="1,2,3"}|
+|[I WANT YOUR LOVE (Darwin remix)](/songs/i-want-your-love)|GAV|170|:charts{:difficulties="difficulties" levels="2,4,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,13" charts="1,2,3"}|
+|[Mess With My Emotions](/songs/mess-with-my-emotions)|Latenighter|130|:charts{:difficulties="difficulties" levels="1,3,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,9,12" charts="1,2,3"}|
+|[TRUE♥LOVE (Clubstar's True Club Mix)](/songs/true-love-clubstars)|jun feat. Schanita|135|:charts{:difficulties="difficulties" levels="1,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,13" charts="1,2,3"}|
+|[Confession](/songs/confession)|trance star|150|:charts{:difficulties="difficulties" levels="2,4,7,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,12,14" charts="1,2,3,4"}|
+|[Desert Journey](/songs/desert-journey)|dj TAKA|150|:charts{:difficulties="difficulties" levels="3,5,8,12,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,12,15" charts="1,2,3,4"}|
+|[Diamond Night](/songs/diamond-night)|TOMOSUKE feat. Alexa Slaymaker|135|:charts{:difficulties="difficulties" levels="3,5,8,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,11,14" charts="1,2,3,4"}|
+|[escape](/songs/escape)|U1 & Krystal B|140|:charts{:difficulties="difficulties" levels="3,5,8,10,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,10,14" charts="1,2,3,4"}|
+|[SILVER☆DREAM](/songs/silver-dream)|jun|96-192|:charts{:difficulties="difficulties" levels="4,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,12,15" charts="1,2,3"}|
+|[Somehow You Found Me](/songs/somehow-you-found-me)|DIGI-SEQ-BAND2000|180|:charts{:difficulties="difficulties" levels="3,6,10,13,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,13,16" charts="1,2,3,4"}|
+|[Tell me what to do](/songs/tell-me-what-to-do)|atomsoak ft. cerol|145|:charts{:difficulties="difficulties" levels="2,5,9,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,9,11,14" charts="1,2,3,4"}|
+|[The Island Song](/songs/the-island-song)|TAG feat. Eric Anthony|85|:charts{:difficulties="difficulties" levels="1,3,7,9,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,9,13" charts="1,2,3,4"}|
+|[Let's Get Away](/songs/lets-get-away)|NAOKI feat. Brenda Burch|150|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[osaka EVOLVED -毎度、おおきに！- (TYPE 1)](/songs/osaka-evolved-type1)|NAOKI underground|50-300|:charts{:difficulties="difficulties" levels="9,11,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,15" charts="1,2,3"}|
+|[osaka EVOLVED -毎度、おおきに！- (TYPE 2)](/songs/osaka-evolved-type2)|NAOKI underground|50-300|:charts{:difficulties="difficulties" levels="9,11,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,15" charts="1,2,3"}|
+|[osaka EVOLVED -毎度、おおきに！- (TYPE 3)](/songs/osaka-evolved-type3)|NAOKI underground|50-300|:charts{:difficulties="difficulties" levels="9,11,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,15" charts="1,2,3"}|
+|[Heatstroke](/songs/heatstroke)|TAG feat. Angie Lee|140|:charts{:difficulties="difficulties" levels="2,6,8,10,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,10,8" charts="1,2,3,4"}|
+|[Sacred Oath](/songs/sacred-oath)|TЁЯRA|170|:charts{:difficulties="difficulties" levels="2,4,7,11,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,11,13" charts="1,2,3,4"}|
+
+#### グランプリ楽曲パック vol.8
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=703)
+- 発売日: 2022-07-20
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[Anti-Matter](/songs/anti-matter)|Orbit1 & Milo|100-400|:charts{:difficulties="difficulties" levels="6,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,15,17,18" charts="1,2,3,4"}|
+|[New Decade](/songs/new-decade)|Sota F.|100-400|:charts{:difficulties="difficulties" levels="4,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,14,17,18" charts="1,2,3,4"}|
+|[Pierce The Sky](/songs/pierce-the-sky)|JAKAZiD feat. K.N.|85-170|:charts{:difficulties="difficulties" levels="3,8,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,16" charts="1,2,3,4"}|
+|[POSSESSION](/songs/possession)|TAG underground|185-370|:charts{:difficulties="difficulties" levels="7,10,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="11,14,17,19" charts="1,2,3,4"}|
+|[Sakura Sunrise](/songs/sakura-sunrise)|Ryu☆|181|:charts{:difficulties="difficulties" levels="3,7,10,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,10,15,16" charts="1,2,3,4"}|
+|[Shiny World](/songs/shiny-world)|CAPACITY GATE|100|:charts{:difficulties="difficulties" levels="2,8,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,16" charts="1,2,3,4"}|
+|[someday...](/songs/someday)|杏野はるな|154|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
+|[Valkyrie dimension](/songs/valkyrie-dimension)|Spriggan|47-744|:charts{:difficulties="difficulties" levels="9,13,15,18,19" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="13,14,18,19" charts="1,2,3,4"}|
+|[dazzle](/songs/dazzle)|kobo feat.kr:agué|98|:charts{:difficulties="difficulties" levels="2,4,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
+|[Dream Machine](/songs/dream-machine)|Darwin|140|:charts{:difficulties="difficulties" levels="3,6,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[Inspiration](/songs/inspiration-dkc)|DKC Crew|147|:charts{:difficulties="difficulties" levels="3,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[Lift You Up](/songs/lift-you-up)|wolli|123|:charts{:difficulties="difficulties" levels="3,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[Malacca](/songs/malacca)|nc ft NRG factory|140|:charts{:difficulties="difficulties" levels="3,4,7,10,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,9,13" charts="1,2,3,4"}|
+|[puzzle](/songs/puzzle)|日本少年|135|:charts{:difficulties="difficulties" levels="3,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[Take A Chance](/songs/take-a-chance)|neuras feat. GATZ|88|:charts{:difficulties="difficulties" levels="2,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
+|[The flower in your smile](/songs/the-flower-in-your-smile)|TACOS NAOMI feat.小久保裕之|186|:charts{:difficulties="difficulties" levels="3,6,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[TimeHollow](/songs/timehollow)|Masanori Akita|94|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[Tracers (4Beat Remix)](/songs/tracers)|Ruffage & Size|140|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
+|[Übertreffen](/songs/ubertreffen)|TAKA respect for J.S.B.|174|:charts{:difficulties="difficulties" levels="3,6,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,14" charts="1,2,3"}|
+|[Waiting 4 u](/songs/waiting-4-u)|DDT|175|:charts{:difficulties="difficulties" levels="4,6,8,11,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,12" charts="1,2,3,4"}|
+
+#### グランプリ楽曲パック vol.9
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=708)
+- 発売日: 2022-08-22
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[乙女繚乱 舞い咲き誇れ](/songs/otome-ryouran-mai-sakihokore)|日向美ビタースイーツ♪|210|:charts{:difficulties="difficulties" levels="4,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
+|[恋はどう？モロ◎波動OK☆方程式!!](/songs/koi-hadou-moro-hadou-ok-houteishiki)|あべにゅうぷろじぇくと feat.佐倉沙織 produced by ave;new|128-256|:charts{:difficulties="difficulties" levels="4,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[デッドボヲルdeホームラン](/songs/deadball-de-homerun)|猫叉Masterβ2|145|:charts{:difficulties="difficulties" levels="3,6,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
+|[轟け！恋のビーンボール！！](/songs/todoroke-koi-no-beanball)|ダイナミック野球兄弟 v.s. クロスファイヤーPrim|180|:charts{:difficulties="difficulties" levels="3,7,11,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,16" charts="1,2,3"}|
+|[星屑のキロク](/songs/hoshikuzu-no-kiroku)|小野秀幸|182|:charts{:difficulties="difficulties" levels="3,6,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
+|[マインド・ゲーム](/songs/mind-game)|96 with メカショッチョー|180|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,15" charts="1,2,3"}|
+|[滅亡天使 † にこきゅっぴん](/songs/metsubou-tenshi-nikokyuppin)|日向美ビタースイーツ♪|200|:charts{:difficulties="difficulties" levels="4,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[野球の遊び方 そしてその歴史 ～決定版～](/songs/yakyuu-no-asobikata-soshite-sono-rekishi)|あさき大監督|141|:charts{:difficulties="difficulties" levels="3,6,9,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
+|[Daily Lunch Special](/songs/daily-lunch-special)|Lucky Vacuum|205|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
+|[Dispersion Star](/songs/dispersion-star)|ZUKI|180|:charts{:difficulties="difficulties" levels="3,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,14" charts="1,2,3"}|
+|[Engraved Mark](/songs/engraved-mark)|Ryu☆ ∞ Des-ROW|188|:charts{:difficulties="difficulties" levels="3,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,13,15" charts="1,2,3"}|
+|[HYENA](/songs/hyena)|Hommarju|89-178|:charts{:difficulties="difficulties" levels="3,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
+|[PUNISHER](/songs/punisher)|TAG×PON|180|:charts{:difficulties="difficulties" levels="3,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[Stella Sinistra](/songs/stella-sinistra)|Akhuta Philharmonic Orchestra|110-180|:charts{:difficulties="difficulties" levels="4,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,14" charts="1,2,3"}|
+|[Squeeze](/songs/squeeze)|VENUS feat. Mutsuhiko Izumi|87-173|:charts{:difficulties="difficulties" levels="4,6,9,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,15" charts="1,2,3"}|
+|[True Blue](/songs/true-blue)|dj TAKA feat.AiMEE|164|:charts{:difficulties="difficulties" levels="3,7,11,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,16" charts="1,2,3"}|
+|[VEGA](/songs/vega)|REDALiCE|191|:charts{:difficulties="difficulties" levels="3,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,14" charts="1,2,3"}|
+|[IX](/songs/ix)|dj TAKA VS DJ TOTTO feat.藍|99-396|:charts{:difficulties="difficulties" levels="5,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="10,14,17,18" charts="1,2,3,4"}|
+|[Blew My Mind](/songs/blew-my-mind)|Sota F.|95-380|:charts{:difficulties="difficulties" levels="4,9,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,12,16,18" charts="1,2,3,4"}|
+|[New Generation](/songs/new-generation)|鍋島圭一|190|:charts{:difficulties="difficulties" levels="4,7,10,14,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,10,14,17" charts="1,2,3,4"}|
+
+#### グランプリ楽曲パック vol.10
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=712)
+- 発売日: 2022-09-26
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [CANDY (UFO mix)](/songs/candy-ufo)
+  - [Curry Up](/songs/curry-up)
+  - [Heavens and the Earth](/songs/heavens-and-the-earth)
+  - [PARADISE](/songs/paradise)
+  - [STAY (Joey Riot remix)](/songs/stay-joey-riot)
+  - [Take Me](/songs/take-me)
+  - [We Will Live Together](/songs/we-will-live-together)
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[CANDY (UFO mix)](/songs/candy-ufo)|The Sweetest|180|:charts{:difficulties="difficulties" levels="2,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[Curry Up](/songs/curry-up)|OR-IF-IS|165|:charts{:difficulties="difficulties" levels="2,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[Heavens and the Earth](/songs/heavens-and-the-earth)|The Lonely Hearts|70|:charts{:difficulties="difficulties" levels="1,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[PARADISE](/songs/paradise)|Lea Drop feat. McCall Clark|125|:charts{:difficulties="difficulties" levels="1,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[STAY (Joey Riot remix)](/songs/stay-joey-riot)|DANNY D|150|:charts{:difficulties="difficulties" levels="2,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[Take Me](/songs/take-me)|Harmony Machine|100|:charts{:difficulties="difficulties" levels="1,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[We Will Live Together](/songs/we-will-live-together)|Happy CoreMAN|175|:charts{:difficulties="difficulties" levels="2,5,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,14" charts="1,2,3"}|
+|[Dreamin'](/songs/dreamin)|TOMOSUKE feat. Adreana|128|:charts{:difficulties="difficulties" levels="2,4,6,9,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,9,12" charts="1,2,3,4"}|
+|[One Sided Love](/songs/one-sided-love)|D-crew with Melissa Petty|140|:charts{:difficulties="difficulties" levels="2,5,8,10,12 (SA)" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,9,11,13 (SA)" charts="1,2,3,4"}|
+|[ever snow](/songs/ever-snow-terra)|TЁЯRA|145|:charts{:difficulties="difficulties" levels="2,4,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,11" charts="1,2,3"}|
+|[IN THE ZONE](/songs/in-the-zone)|U1 (NPD3 style) & KIDD KAZMEO|124|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[Seasons](/songs/seasons)|TOMOSUKE feat. Crystal Paloa|168|:charts{:difficulties="difficulties" levels="2,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
+|[Wings of an Angel (Fly With Me)](/songs/wings-of-an-angel)|J-Mi & Midi-D|175|:charts{:difficulties="difficulties" levels="2,4,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[Gotta Dance](/songs/gotta-dance)|NAOKI feat. Aleisha G|145|:charts{:difficulties="difficulties" levels="2,3,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
+|[KIMONO♥PRINCESS](/songs/kimono-princess)|jun|95-190|:charts{:difficulties="difficulties" levels="5,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,13,16" charts="1,2,3"}|
+|[roppongi EVOLVED ver.A](/songs/roppongi-evolved-ver-a)|TAG underground|170|:charts{:difficulties="difficulties" levels="6,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[roppongi EVOLVED ver.B](/songs/roppongi-evolved-ver-b)|TAG underground|170|:charts{:difficulties="difficulties" levels="6,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[roppongi EVOLVED ver.C](/songs/roppongi-evolved-ver-c)|TAG underground|170|:charts{:difficulties="difficulties" levels="6,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[Taking It To The Sky](/songs/taking-it-to-the-sky)|U1 feat. Tammy S. Hansen|130|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[THIS NIGHT](/songs/this-night)|jun feat. Sonnet|160|:charts{:difficulties="difficulties" levels="2,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
+
+#### グランプリ楽曲パック vol.11
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=794)
+- 発売日: 2022-11-28
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[十二星座の聖域](/songs/juuniseiza-no-seiiki)|Zodiac Fall|164|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[打打打打打打打打打打](/songs/dadadadadadadadadada)|ヒゲドライバー join. SELEN|156|:charts{:difficulties="difficulties" levels="2,5,11,13,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,11,13,16" charts="1,2,3,4"}|
+|[ALL MY HEART -この恋に、わたしの全てを賭ける-](/songs/all-my-heart)|SUPER HEROINE 彩香-AYAKA-|160|:charts{:difficulties="difficulties" levels="3,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[Angelic Jelly](/songs/angelic-jelly)|t+pazolite|100-200|:charts{:difficulties="difficulties" levels="4,6,11,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[Cytokinesis](/songs/cytokinesis)|Hommarju|111-280|:charts{:difficulties="difficulties" levels="4,8,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,14" charts="1,2,3"}|
+|[Come to Life](/songs/come-to-life)|ARM (IOSYS) feat. Nicole Curry|90-180|:charts{:difficulties="difficulties" levels="4,8,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,13,16,18" charts="1,2,3,4"}|
+|[Emera](/songs/emera)|PON|161|:charts{:difficulties="difficulties" levels="3,6,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,18" charts="1,2,3,4"}|
+|[Far east nightbird](/songs/far-east-nightbird)|猫叉Master|180|:charts{:difficulties="difficulties" levels="4,6,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[Grand Chariot](/songs/grand-chariot)|xi|191|:charts{:difficulties="difficulties" levels="3,7,11,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,13" charts="1,2,3"}|
+|[Ha・lle・lu・jah](/songs/ha-lle-lu-jah)|SOUND HOLIC feat. Nana Takahashi|150|:charts{:difficulties="difficulties" levels="1,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,12" charts="1,2,3"}|
+|[Illegal Function Call](/songs/illegal-function-call)|U1-ASAMi|130-260|:charts{:difficulties="difficulties" levels="4,10,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,14,16" charts="1,2,3"}|
+|[Sephirot](/songs/sephirot)|SHIKI|154|:charts{:difficulties="difficulties" levels="3,6,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[S!ck](/songs/sick)|Eagle|88-177|:charts{:difficulties="difficulties" levels="5,8,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[Star Trail](/songs/star-trail)|Nhato|74-148|:charts{:difficulties="difficulties" levels="2,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[Start a New Day](/songs/start-a-new-day)|Sota F.|168|:charts{:difficulties="difficulties" levels="3,6,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,16" charts="1,2,3,4"}|
+|[STERLING SILVER](/songs/sterling-silver)|TAG|175|:charts{:difficulties="difficulties" levels="4,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[STERLING SILVER (U1 overground mix)](/songs/sterling-silver-u1)|TAG|185|:charts{:difficulties="difficulties" levels="4,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,14" charts="1,2,3"}|
+|[StrayedCatz](/songs/strayedcatz)|削除|114-152|:charts{:difficulties="difficulties" levels="4,7,11,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,13" charts="1,2,3"}|
+|[Triple Counter](/songs/triple-counter)|DJ YOSHITAKA meets dj TAKA|216|:charts{:difficulties="difficulties" levels="7,11,14,17" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,14,17" charts="1,2,3"}|
+|[ZEPHYRANTHES](/songs/zephyranthes)|TAG|180|:charts{:difficulties="difficulties" levels="3,7,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,15" charts="1,2,3"}|
+
+#### グランプリ楽曲パック vol.12
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=825)
+- 発売日: 2022-12-19
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[アルストロメリア (walk with you remix)](/songs/alstroemeria)|TAG|148|:charts{:difficulties="difficulties" levels="3,6,8,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,13" charts="1,2,3,4"}|
+|[隅田川夏恋歌](/songs/sumidagawa-karenka)|seiya-murai feat.ALT|180|:charts{:difficulties="difficulties" levels="2,5,10,12,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,16" charts="1,2,3,4"}|
+|[FLOWER](/songs/flower)|DJ YOSHITAKA|173|:charts{:difficulties="difficulties" levels="3,7,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,13,15" charts="1,2,3,4"}|
+|[TWINKLE♡HEART](/songs/twinkle-heart)|jun|185|:charts{:difficulties="difficulties" levels="1,4,8,11,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,8,11,11" charts="1,2,3,4"}|
+|[BALLAD THE FEATHERS](/songs/ballad-the-feathers)|SHIN SOUND DESIGN feat.Naomi Koizumi|132|:charts{:difficulties="difficulties" levels="1,4,7,10,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,11,8" charts="1,2,3,4"}|
+|[Dazzlin' Darlin-秋葉工房mix-](/songs/dazzlin-darlin-akbk)|Remixed by DJ Command|160|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,12" charts="1,2,3"}|
+|[DROP](/songs/drop)|dj TAKA feat.Kanako Hoshino|152|:charts{:difficulties="difficulties" levels="1,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,13" charts="1,2,3"}|
+|[Dummy](/songs/dummy)|RAM|175|:charts{:difficulties="difficulties" levels="2,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[going up](/songs/going-up)|colors|212|:charts{:difficulties="difficulties" levels="3,7,10,12,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,13,12" charts="1,2,3,4"}|
+|[GOLD RUSH](/songs/gold-rush)|DJ YOSHITAKA-G feat.Michael a la mode|162|:charts{:difficulties="difficulties" levels="2,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,13" charts="1,2,3"}|
+|[KISS KISS KISS 秋葉工房 MIX](/songs/kiss-kiss-kiss-akbk)|Remixed by DJ Command|160|:charts{:difficulties="difficulties" levels="2,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,12" charts="1,2,3"}|
+|[Leaving...](/songs/leaving)|seiya-murai meets “eimy”|145|:charts{:difficulties="difficulties" levels="2,5,8,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,11,13" charts="1,2,3,4"}|
+|[MAX LOVE](/songs/max-love)|DJ YOSHITAKA feat.星野奏子|180|:charts{:difficulties="difficulties" levels="3,6,8,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,8,11,13" charts="1,2,3,4"}|
+|[Melody Life](/songs/melody-life)|Noria|172|:charts{:difficulties="difficulties" levels="2,5,7,10,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,12" charts="1,2,3,4"}|
+|[Poseidon(kors k mix)](/songs/poseidon-kors-k)|NAOKI underground|152|:charts{:difficulties="difficulties" levels="2,5,9,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,13" charts="1,2,3"}|
+|[Your Angel](/songs/your-angel)|DM Ashura feat. kors k|175|:charts{:difficulties="difficulties" levels="2,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[Dance Celebration (System 7 Remix)](/songs/dance-celebration-system-7)|Bill Hamel feat. Kevens|132|:charts{:difficulties="difficulties" levels="3,6,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,13" charts="1,2,3"}|
+|[SABER WING (Akira Ishihara Headshot mix)](/songs/saber-wing-akira-ishihara-headshot)|TAG|79-316|:charts{:difficulties="difficulties" levels="6,10,12,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="10,12,15,17" charts="1,2,3,4"}|
+|[Slip Out (bounce in beat mix)](/songs/slip-out-bounce-in-beat)|Harmony Machine|106|:charts{:difficulties="difficulties" levels="2,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
+|[Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch)](/songs/taj-he-spitz-tommie-sunshine)|DKC Crew|120|:charts{:difficulties="difficulties" levels="3,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,12" charts="1,2,3"}|
+
+#### グランプリ楽曲パック vol.13
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=899)
+- 発売日: 2023-01-30
+- [グランプリ楽曲パック vol.14](#グランプリ楽曲パック-vol14)と同時購入で、[Wow Wow VENUS](/songs/wow-wow-venus)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[灼熱Beach Side Bunny](/songs/shakunetsu-beach-side-bunny)|DJ Mass MAD Izm*|153|:charts{:difficulties="difficulties" levels="3,7,11,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,15,18" charts="1,2,3,4"}|
+|[チョコレートスマイル](/songs/chocolate-smile)|日向美ビタースイーツ♪ & ここなつ|196|:charts{:difficulties="difficulties" levels="3,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[Din Don Dan](/songs/din-don-dan)|Ryu☆ feat.Mayumi Morinaga|140|:charts{:difficulties="difficulties" levels="2,5,7,10,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,10,12" charts="1,2,3,4"}|
+|[heron](/songs/heron)|S-C-U|182|:charts{:difficulties="difficulties" levels="3,6,9,12,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,13" charts="1,2,3,4"}|
+|[New Gravity](/songs/new-gravity)|Starving Trancer|154|:charts{:difficulties="difficulties" levels="3,6,9,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,14" charts="1,2,3,4"}|
+|[nightbird lost wing](/songs/nightbird-lost-wing)|猫叉Master+|190|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
+|[printemps](/songs/printemps)|Qrispy Joybox|168|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,14" charts="1,2,3"}|
+|[Qipchāq](/songs/qipchaq)|world sequence|150|:charts{:difficulties="difficulties" levels="3,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[Windy Fairy](/songs/windy-fairy)|DJ TOTTO|180|:charts{:difficulties="difficulties" levels="2,7,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,15" charts="1,2,3"}|
+|[Wow Wow VENUS](/songs/wow-wow-venus)|VENUS|157|:charts{:difficulties="difficulties" levels="2,4,8,11,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,12,16" charts="1,2,3,4"}|
+
+#### グランプリ楽曲パック vol.14
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=900)
+- 発売日: 2023-01-30
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [Be With You (Still Miss you)](/songs/be-with-you)
+  - [little steps](/songs/little-steps)
+  - [On the Night of a Still Wind](/songs/on-the-night-of-a-still-wind)
+  - [Such A Feeling](/songs/such-a-feeling)
+- [グランプリ楽曲パック vol.13](#グランプリ楽曲パック-vol13)と同時購入で、[CRAZY♥LOVE](/songs/crazy-love)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[Be With You (Still Miss you)](/songs/be-with-you)|nc ft. Eddie Kay|116|:charts{:difficulties="difficulties" levels="1,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[little steps](/songs/little-steps)|Freeman|155|:charts{:difficulties="difficulties" levels="3,6,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,15" charts="1,2,3"}|
+|[On the Night of a Still Wind](/songs/on-the-night-of-a-still-wind)|Jena Rose|155|:charts{:difficulties="difficulties" levels="3,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[Such A Feeling](/songs/such-a-feeling)|U1|120|:charts{:difficulties="difficulties" levels="3,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[CRAZY♥LOVE](/songs/crazy-love)|jun|89-177|:charts{:difficulties="difficulties" levels="3,6,12,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,15,18" charts="1,2,3,4"}|
+|[MAGIC PARADE](/songs/magic-parade)|Lea Drop feat. Katie Dellenbach|127|:charts{:difficulties="difficulties" levels="1,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
+|[Rhythms Inside](/songs/rhythms-inside)|DKC Crew|131|:charts{:difficulties="difficulties" levels="1,3,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
+|[Share The Love](/songs/share-the-love)|Brenda Burch|158|:charts{:difficulties="difficulties" levels="2,4,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,12" charts="1,2,3"}|
+|[TIME](/songs/time)|NM feat.Aleisha G|115|:charts{:difficulties="difficulties" levels="1,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[La receta](/songs/la-receta)|Carlos Coco Garcia|130|:charts{:difficulties="difficulties" levels="3,4,7,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,13" charts="1,2,3,4"}|
+
+#### グランプリ楽曲パック vol.15
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=901)
+- 発売日: 2023-02-20
+- [グランプリ楽曲パック vol.16](#グランプリ楽曲パック-vol16)と同時購入で、[ALGORITHM](/songs/algorithm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[ACE FOR ACES](/songs/ace-for-aces)|TAG×U1|200|:charts{:difficulties="difficulties" levels="4,7,13,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,13,15,18" charts="1,2,3,4"}|
+|[ALGORITHM](/songs/algorithm)|SOUND HOLIC feat. Nana Takahashi|130|:charts{:difficulties="difficulties" levels="5,7,11,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,10,13,15" charts="1,2,3,4"}|
+|[CHOCOLATE PHILOSOPHY](/songs/chocolate-philosophy)|常盤ゆう|110|:charts{:difficulties="difficulties" levels="2,4,8,9,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,8,10,12" charts="1,2,3,4"}|
+|[Cosy Catastrophe](/songs/cosy-catastrophe)|SYUNN|90-360|:charts{:difficulties="difficulties" levels="6,9,13,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="10,13,16,18" charts="1,2,3,4"}|
+|[ENDYMION](/songs/endymion)|fallen shepherd ft. RabbiTon Strings|220-440|:charts{:difficulties="difficulties" levels="9,13,15,18,19" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="13,15,18,19" charts="1,2,3,4"}|
+|[Fly far bounce](/songs/fly-far-bounce)|猫叉Master|163|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[High School Love](/songs/high-school-love)|DJ YOSHITAKA feat.DWP|180|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,13" charts="1,2,3"}|
+|[Ishtar](/songs/ishtar)|劇団レコード|156|:charts{:difficulties="difficulties" levels="3,5,11,14,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,11,14,16" charts="1,2,3,4"}|
+|[Neutrino](/songs/neutrino)|HuΣeR|75-300|:charts{:difficulties="difficulties" levels="6,9,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,13,16,18" charts="1,2,3,4"}|
+|[out of focus](/songs/out-of-focus)|Qrispy Joybox|83-167|:charts{:difficulties="difficulties" levels="3,6,12,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,12,15,16" charts="1,2,3,4"}|
+
+#### グランプリ楽曲パック vol.16
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=902)
+- 発売日: 2023-02-20
+- [グランプリ楽曲パック vol.15](#グランプリ楽曲パック-vol15)と同時購入で、[Blue Rain](/songs/blue-rain)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[I'm so Happy](/songs/im-so-happy)|Ryu☆|181|:charts{:difficulties="difficulties" levels="3,6,8,12,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,16" charts="1,2,3,4"}|
+|[roppongi EVOLVED ver.D](/songs/roppongi-evolved-ver-d)|TAG underground|170|:charts{:difficulties="difficulties" levels="6,8,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[☆shining☆](/songs/shining)|ピンクターボ|185|:charts{:difficulties="difficulties" levels="2,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[Theory of Eternity](/songs/theory-of-eternity)|TAG|160|:charts{:difficulties="difficulties" levels="3,6,9,12,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,11" charts="1,2,3,4"}|
+|[雫](/songs/shizuku)|あさき|210|:charts{:difficulties="difficulties" levels="2,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[天上の星 ～黎明記～](/songs/tenjou-no-hoshi)|TЁЯRA|85-170|:charts{:difficulties="difficulties" levels="2,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
+|[繚乱ヒットチャート](/songs/ryouran-hit-chart)|ギラギラメガネ団|192|:charts{:difficulties="difficulties" levels="2,5,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
+|[message](/songs/message)|dj TAKA feat.flare|152|:charts{:difficulties="difficulties" levels="1,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,11" charts="1,2,3"}|
+|[SigSig](/songs/sigsig)|kors k|179|:charts{:difficulties="difficulties" levels="3,6,9,12,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,10" charts="1,2,3,4"}|
+|[Blue Rain](/songs/blue-rain)|dj TAKA VS Ryu☆|144|:charts{:difficulties="difficulties" levels="2,5,6,11,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,14" charts="1,2,3,4"}|
+
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
 - 発売日: 2022-06-24
 - 購入することで、全楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+- [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)と同時購入で、[Megalara Garuda](/songs/megalara-garuda)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -525,13 +864,12 @@ difficulties:
 |[Megalara Garuda](/songs/megalara-garuda)|SYUNN|90-180|:charts{:difficulties="difficulties" levels="5,9,16,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,16,17,18" charts="1,2,3,4"}|
 |[Wowie Zowie!](/songs/wowie-zowie)|Hommarju|128|:charts{:difficulties="difficulties" levels="2,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
 
-- [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)と同時購入で、[Megalara Garuda](/songs/megalara-garuda)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
-
 #### スペシャル楽曲パック feat.jubeat vol.2
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=686)
 - 発売日: 2022-06-24
 - 購入することで、全楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+- [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)と同時購入で、[量子の海のリントヴルム](/songs/ryoushi-no-umi-no-lindwurm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -540,8 +878,6 @@ difficulties:
 |[Glitter Flatter Scatter](/songs/glitter-flatter-scatter)|Project B-|98-197|:charts{:difficulties="difficulties" levels="6,9,14,17" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,14,17" charts="1,2,3"}|
 |[Too Late Snow](/songs/too-late-snow)|movies (moimoi × Xceon × Dai.)|138|:charts{:difficulties="difficulties" levels="2,5,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,13" charts="1,2,3"}|
 
-- [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)と同時購入で、[量子の海のリントヴルム](/songs/ryoushi-no-umi-no-lindwurm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
-
 #### スペシャル楽曲パック feat.東方Project vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=758)
@@ -549,6 +885,7 @@ difficulties:
 - 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
   - [最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)
   - [リスペク風神](/songs/respec-fujin)
+- [スペシャル楽曲パック feat.東方Project vol.2](#スペシャル楽曲パック-feat東方project-vol2)と同時購入で、[最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -557,8 +894,6 @@ difficulties:
 |[リスペク風神](/songs/respec-fujin)|ビートまりお(COOL&CREATE)|135|:charts{:difficulties="difficulties" levels="2,5,10,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,15" charts="1,2,3"}|
 |[ナイト・オブ・ナイツ](/songs/night-of-knights)|ビートまりお(COOL&CREATE)|180|:charts{:difficulties="difficulties" levels="1,7,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,17" charts="1,2,3,4"}|
 
-- [スペシャル楽曲パック feat.東方Project vol.2](#スペシャル楽曲パック-feat東方project-vol2)と同時購入で、[最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
-
 #### スペシャル楽曲パック feat.東方Project vol.2
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=759)
@@ -566,6 +901,7 @@ difficulties:
 - 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
   - [恋の氷結おてんば湯けむりチルノ温泉](/songs/koi-no-hyoketsu-otenba-yukemuri-cirno-onsen)
   - [スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)
+- [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)と同時購入で、[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -574,12 +910,10 @@ difficulties:
 |[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)|七条レタスグループ|160|:charts{:difficulties="difficulties" levels="3,7,11,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,18" charts="1,2,3,4"}|
 |[チルノのパーフェクトさんすう教室](/songs/cirno-no-perfect-sansuu-kyoushitsu)|ARM+夕野ヨシミ feat.miko|175|:charts{:difficulties="difficulties" levels="3,6,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,13,15" charts="1,2,3,4"}|
 
-- [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)と同時購入で、[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
-
 #### コントローラ購入者特典楽曲パック
 
 - [DanceDanceRevolution 専用コントローラ](https://www.konamistyle.jp/products/detail.php?product_id=110013)の購入者特典。
-- 他の楽曲パックと異なり、フリープレーでも選曲可能。
+- 他の楽曲パックと異なり、[フリープレー](#フリープレー)でも選曲可能。
 - 購入することで、全楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|

@@ -155,6 +155,78 @@
     "backgroundColor": "deeppink",
     "color": "#000"
   },
+  "grand-prix-vol5": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.5",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol5",
+    "backgroundColor": "lightsalmon",
+    "color": "#000"
+  },
+  "grand-prix-vol6": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.6",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol6",
+    "backgroundColor": "limegreen",
+    "color": "#000"
+  },
+  "grand-prix-vol7": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.7",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol7",
+    "backgroundColor": "greenyellow",
+    "color": "#000"
+  },
+  "grand-prix-vol8": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.8",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol8",
+    "backgroundColor": "magenta",
+    "color": "#000"
+  },
+  "grand-prix-vol9": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.9",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol9",
+    "backgroundColor": "orange",
+    "color": "#000"
+  },
+  "grand-prix-vol10": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.10",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol10",
+    "backgroundColor": "deepskyblue",
+    "color": "#000"
+  },
+  "grand-prix-vol11": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.11",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol11",
+    "backgroundColor": "chartreuse",
+    "color": "#000"
+  },
+  "grand-prix-vol12": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.12",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol12",
+    "backgroundColor": "mediumvioletred",
+    "color": "#fff"
+  },
+  "grand-prix-vol13": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.13",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol13",
+    "backgroundColor": "mediumblue",
+    "color": "#fff"
+  },
+  "grand-prix-vol14": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.14",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol14",
+    "backgroundColor": "gold",
+    "color": "#000"
+  },
+  "grand-prix-vol15": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.15",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol15",
+    "backgroundColor": "darkorange",
+    "color": "#000"
+  },
+  "grand-prix-vol16": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.16",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol16",
+    "backgroundColor": "turquoise",
+    "color": "#000"
+  },
   "hottest-jp": {
     "title": "Dance Dance Revolution HOTTEST PARTY (JP)",
     "backgroundColor": "coral",
