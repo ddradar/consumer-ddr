@@ -685,9 +685,20 @@ difficulties:
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=899)
 - 発売日: 2023-01-30
+- [グランプリ楽曲パック vol.14](#グランプリ楽曲パック-vol14)と同時購入で、[Wow Wow VENUS](/songs/wow-wow-venus)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[灼熱Beach Side Bunny](/songs/shakunetsu-beach-side-bunny)|DJ Mass MAD Izm*|153|:charts{:difficulties="difficulties" levels="3,7,11,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,15,18" charts="1,2,3,4"}|
+|[チョコレートスマイル](/songs/chocolate-smile)|日向美ビタースイーツ♪ & ここなつ|196|:charts{:difficulties="difficulties" levels="3,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[Din Don Dan](/songs/din-don-dan)|Ryu☆ feat.Mayumi Morinaga|140|:charts{:difficulties="difficulties" levels="2,5,7,10,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,10,12" charts="1,2,3,4"}|
+|[heron](/songs/heron)|S-C-U|182|:charts{:difficulties="difficulties" levels="3,6,9,12,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,13" charts="1,2,3,4"}|
+|[New Gravity](/songs/new-gravity)|Starving Trancer|154|:charts{:difficulties="difficulties" levels="3,6,9,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,14" charts="1,2,3,4"}|
+|[nightbird lost wing](/songs/nightbird-lost-wing)|猫叉Master+|190|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
+|[printemps](/songs/printemps)|Qrispy Joybox|168|:charts{:difficulties="difficulties" levels="3,6,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,14" charts="1,2,3"}|
+|[Qipchāq](/songs/qipchaq)|world sequence|150|:charts{:difficulties="difficulties" levels="3,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
+|[Windy Fairy](/songs/windy-fairy)|DJ TOTTO|180|:charts{:difficulties="difficulties" levels="2,7,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,15" charts="1,2,3"}|
+|[Wow Wow VENUS](/songs/wow-wow-venus)|VENUS|157|:charts{:difficulties="difficulties" levels="2,4,8,11,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,12,16" charts="1,2,3,4"}|
 
 #### グランプリ楽曲パック vol.14
 
