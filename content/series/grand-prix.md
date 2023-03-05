@@ -748,6 +748,26 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[アルストロメリア (walk with you remix)](/songs/alstroemeria)|TAG|148|:charts{:difficulties="difficulties" levels="3,6,8,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,13" charts="1,2,3,4"}|
+|[隅田川夏恋歌](/songs/sumidagawa-karenka)|seiya-murai feat.ALT|180|:charts{:difficulties="difficulties" levels="2,5,10,12,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,16" charts="1,2,3,4"}|
+|[FLOWER](/songs/flower)|DJ YOSHITAKA|173|:charts{:difficulties="difficulties" levels="3,7,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,13,15" charts="1,2,3,4"}|
+|[TWINKLE♡HEART](/songs/twinkle-heart)|jun|185|:charts{:difficulties="difficulties" levels="1,4,8,11,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,8,11,11" charts="1,2,3,4"}|
+|[BALLAD THE FEATHERS](/songs/ballad-the-feathers)|SHIN SOUND DESIGN feat.Naomi Koizumi|132|:charts{:difficulties="difficulties" levels="1,4,7,10,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,11,8" charts="1,2,3,4"}|
+|[Dazzlin' Darlin-秋葉工房mix-](/songs/dazzlin-darlin-akbk)|Remixed by DJ Command|160|:charts{:difficulties="difficulties" levels="3,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,12" charts="1,2,3"}|
+|[DROP](/songs/drop)|dj TAKA feat.Kanako Hoshino|152|:charts{:difficulties="difficulties" levels="1,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,13" charts="1,2,3"}|
+|[Dummy](/songs/dummy)|RAM|175|:charts{:difficulties="difficulties" levels="2,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[going up](/songs/going-up)|colors|212|:charts{:difficulties="difficulties" levels="3,7,10,12,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,13,12" charts="1,2,3,4"}|
+|[GOLD RUSH](/songs/gold-rush)|DJ YOSHITAKA-G feat.Michael a la mode|162|:charts{:difficulties="difficulties" levels="2,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,13" charts="1,2,3"}|
+|[KISS KISS KISS 秋葉工房 MIX](/songs/kiss-kiss-kiss-akbk)|Remixed by DJ Command|160|:charts{:difficulties="difficulties" levels="2,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,12" charts="1,2,3"}|
+|[Leaving...](/songs/leaving)|seiya-murai meets “eimy”|145|:charts{:difficulties="difficulties" levels="2,5,8,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,11,13" charts="1,2,3,4"}|
+|[MAX LOVE](/songs/max-love)|DJ YOSHITAKA feat.星野奏子|180|:charts{:difficulties="difficulties" levels="3,6,8,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,8,11,13" charts="1,2,3,4"}|
+|[Melody Life](/songs/melody-life)|Noria|172|:charts{:difficulties="difficulties" levels="2,5,7,10,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,12" charts="1,2,3,4"}|
+|[Poseidon(kors k mix)](/songs/poseidon-kors-k)|NAOKI underground|152|:charts{:difficulties="difficulties" levels="2,5,9,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,9,13" charts="1,2,3"}|
+|[Your Angel](/songs/your-angel)|DM Ashura feat. kors k|175|:charts{:difficulties="difficulties" levels="2,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+|[Dance Celebration (System 7 Remix)](/songs/dance-celebration-system-7)|Bill Hamel feat. Kevens|132|:charts{:difficulties="difficulties" levels="3,6,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,13" charts="1,2,3"}|
+|[SABER WING (Akira Ishihara Headshot mix)](/songs/saber-wing-akira-ishihara-headshot)|TAG|79-316|:charts{:difficulties="difficulties" levels="6,10,12,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="10,12,15,17" charts="1,2,3,4"}|
+|[Slip Out (bounce in beat mix)](/songs/slip-out-bounce-in-beat)|Harmony Machine|106|:charts{:difficulties="difficulties" levels="2,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
+|[Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch)](/songs/taj-he-spitz-tommie-sunshine)|DKC Crew|120|:charts{:difficulties="difficulties" levels="3,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,12" charts="1,2,3"}|
 
 #### グランプリ楽曲パック vol.13
 
