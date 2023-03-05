@@ -656,6 +656,26 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[乙女繚乱 舞い咲き誇れ](/songs/otome-ryouran-mai-sakihokore)|日向美ビタースイーツ♪|210|:charts{:difficulties="difficulties" levels="4,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,13" charts="1,2,3"}|
+|[恋はどう？モロ◎波動OK☆方程式!!](/songs/koi-hadou-moro-hadou-ok-houteishiki)|あべにゅうぷろじぇくと feat.佐倉沙織 produced by ave;new|128-256|:charts{:difficulties="difficulties" levels="4,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[デッドボヲルdeホームラン](/songs/deadball-de-homerun)|猫叉Masterβ2|145|:charts{:difficulties="difficulties" levels="3,6,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
+|[轟け！恋のビーンボール！！](/songs/todoroke-koi-no-beanball)|ダイナミック野球兄弟 v.s. クロスファイヤーPrim|180|:charts{:difficulties="difficulties" levels="3,7,11,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,16" charts="1,2,3"}|
+|[星屑のキロク](/songs/hoshikuzu-no-kiroku)|小野秀幸|182|:charts{:difficulties="difficulties" levels="3,6,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,12" charts="1,2,3"}|
+|[マインド・ゲーム](/songs/mind-game)|96 with メカショッチョー|180|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,15" charts="1,2,3"}|
+|[滅亡天使 † にこきゅっぴん](/songs/metsubou-tenshi-nikokyuppin)|日向美ビタースイーツ♪|200|:charts{:difficulties="difficulties" levels="4,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[野球の遊び方 そしてその歴史 ～決定版～](/songs/yakyuu-no-asobikata-soshite-sono-rekishi)|あさき大監督|141|:charts{:difficulties="difficulties" levels="3,6,9,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
+|[Daily Lunch Special](/songs/daily-lunch-special)|Lucky Vacuum|205|:charts{:difficulties="difficulties" levels="3,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
+|[Dispersion Star](/songs/dispersion-star)|ZUKI|180|:charts{:difficulties="difficulties" levels="3,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,14" charts="1,2,3"}|
+|[Engraved Mark](/songs/engraved-mark)|Ryu☆ ∞ Des-ROW|188|:charts{:difficulties="difficulties" levels="3,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,13,15" charts="1,2,3"}|
+|[HYENA](/songs/hyena)|Hommarju|89-178|:charts{:difficulties="difficulties" levels="3,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
+|[PUNISHER](/songs/punisher)|TAG×PON|180|:charts{:difficulties="difficulties" levels="3,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[Stella Sinistra](/songs/stella-sinistra)|Akhuta Philharmonic Orchestra|110-180|:charts{:difficulties="difficulties" levels="4,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,14" charts="1,2,3"}|
+|[Squeeze](/songs/squeeze)|VENUS feat. Mutsuhiko Izumi|87-173|:charts{:difficulties="difficulties" levels="4,6,9,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,15" charts="1,2,3"}|
+|[True Blue](/songs/true-blue)|dj TAKA feat.AiMEE|164|:charts{:difficulties="difficulties" levels="3,7,11,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,16" charts="1,2,3"}|
+|[VEGA](/songs/vega)|REDALiCE|191|:charts{:difficulties="difficulties" levels="3,7,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,14" charts="1,2,3"}|
+|[IX](/songs/ix)|dj TAKA VS DJ TOTTO feat.藍|99-396|:charts{:difficulties="difficulties" levels="5,11,14,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="10,14,17,18" charts="1,2,3,4"}|
+|[Blew My Mind](/songs/blew-my-mind)|Sota F.|95-380|:charts{:difficulties="difficulties" levels="4,9,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,12,16,18" charts="1,2,3,4"}|
+|[New Generation](/songs/new-generation)|鍋島圭一|190|:charts{:difficulties="difficulties" levels="4,7,10,14,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,10,14,17" charts="1,2,3,4"}|
 
 #### グランプリ楽曲パック vol.10
 
