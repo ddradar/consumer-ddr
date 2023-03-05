@@ -693,14 +693,31 @@ difficulties:
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=900)
 - 発売日: 2023-01-30
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+  - [Be With You (Still Miss you)](/songs/be-with-you)
+  - [little steps](/songs/little-steps)
+  - [On the Night of a Still Wind](/songs/on-the-night-of-a-still-wind)
+  - [Such A Feeling](/songs/such-a-feeling)
+- [グランプリ楽曲パック vol.13](#グランプリ楽曲パック-vol13)と同時購入で、[CRAZY♥LOVE](/songs/crazy-love)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
+|[Be With You (Still Miss you)](/songs/be-with-you)|nc ft. Eddie Kay|116|:charts{:difficulties="difficulties" levels="1,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,12" charts="1,2,3"}|
+|[little steps](/songs/little-steps)|Freeman|155|:charts{:difficulties="difficulties" levels="3,6,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,15" charts="1,2,3"}|
+|[On the Night of a Still Wind](/songs/on-the-night-of-a-still-wind)|Jena Rose|155|:charts{:difficulties="difficulties" levels="3,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[Such A Feeling](/songs/such-a-feeling)|U1|120|:charts{:difficulties="difficulties" levels="3,6,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,14" charts="1,2,3"}|
+|[CRAZY♥LOVE](/songs/crazy-love)|jun|89-177|:charts{:difficulties="difficulties" levels="3,6,12,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,15,18" charts="1,2,3,4"}|
+|[MAGIC PARADE](/songs/magic-parade)|Lea Drop feat. Katie Dellenbach|127|:charts{:difficulties="difficulties" levels="1,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
+|[Rhythms Inside](/songs/rhythms-inside)|DKC Crew|131|:charts{:difficulties="difficulties" levels="1,3,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
+|[Share The Love](/songs/share-the-love)|Brenda Burch|158|:charts{:difficulties="difficulties" levels="2,4,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,12" charts="1,2,3"}|
+|[TIME](/songs/time)|NM feat.Aleisha G|115|:charts{:difficulties="difficulties" levels="1,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
+|[La receta](/songs/la-receta)|Carlos Coco Garcia|130|:charts{:difficulties="difficulties" levels="3,4,7,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,13" charts="1,2,3,4"}|
 
 #### グランプリ楽曲パック vol.15
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=901)
 - 発売日: 2023-02-20
+- [グランプリ楽曲パック vol.16](#グランプリ楽曲パック-vol16)と同時購入で、[ALGORITHM](/songs/algorithm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -715,12 +732,11 @@ difficulties:
 |[Neutrino](/songs/neutrino)|HuΣeR|75-300|:charts{:difficulties="difficulties" levels="6,9,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,13,16,18" charts="1,2,3,4"}|
 |[out of focus](/songs/out-of-focus)|Qrispy Joybox|83-167|:charts{:difficulties="difficulties" levels="3,6,12,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,12,15,16" charts="1,2,3,4"}|
 
-- [グランプリ楽曲パック vol.16](#グランプリ楽曲パック-vol16)と同時購入で、[ALGORITHM](/songs/algorithm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
-
 #### グランプリ楽曲パック vol.16
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=902)
 - 発売日: 2023-02-20
+- [グランプリ楽曲パック vol.15](#グランプリ楽曲パック-vol15)と同時購入で、[Blue Rain](/songs/blue-rain)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -735,13 +751,12 @@ difficulties:
 |[SigSig](/songs/sigsig)|kors k|179|:charts{:difficulties="difficulties" levels="3,6,9,12,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,10" charts="1,2,3,4"}|
 |[Blue Rain](/songs/blue-rain)|dj TAKA VS Ryu☆|144|:charts{:difficulties="difficulties" levels="2,5,6,11,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,14" charts="1,2,3,4"}|
 
-- [グランプリ楽曲パック vol.15](#グランプリ楽曲パック-vol15)と同時購入で、[Blue Rain](/songs/blue-rain)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
-
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
 - 発売日: 2022-06-24
 - 購入することで、全楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+- [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)と同時購入で、[Megalara Garuda](/songs/megalara-garuda)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -750,13 +765,12 @@ difficulties:
 |[Megalara Garuda](/songs/megalara-garuda)|SYUNN|90-180|:charts{:difficulties="difficulties" levels="5,9,16,17,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,16,17,18" charts="1,2,3,4"}|
 |[Wowie Zowie!](/songs/wowie-zowie)|Hommarju|128|:charts{:difficulties="difficulties" levels="2,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
 
-- [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)と同時購入で、[Megalara Garuda](/songs/megalara-garuda)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
-
 #### スペシャル楽曲パック feat.jubeat vol.2
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=686)
 - 発売日: 2022-06-24
 - 購入することで、全楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+- [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)と同時購入で、[量子の海のリントヴルム](/songs/ryoushi-no-umi-no-lindwurm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -765,8 +779,6 @@ difficulties:
 |[Glitter Flatter Scatter](/songs/glitter-flatter-scatter)|Project B-|98-197|:charts{:difficulties="difficulties" levels="6,9,14,17" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,14,17" charts="1,2,3"}|
 |[Too Late Snow](/songs/too-late-snow)|movies (moimoi × Xceon × Dai.)|138|:charts{:difficulties="difficulties" levels="2,5,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,13" charts="1,2,3"}|
 
-- [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)と同時購入で、[量子の海のリントヴルム](/songs/ryoushi-no-umi-no-lindwurm)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
-
 #### スペシャル楽曲パック feat.東方Project vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=758)
@@ -774,6 +786,7 @@ difficulties:
 - 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
   - [最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)
   - [リスペク風神](/songs/respec-fujin)
+- [スペシャル楽曲パック feat.東方Project vol.2](#スペシャル楽曲パック-feat東方project-vol2)と同時購入で、[最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -782,8 +795,6 @@ difficulties:
 |[リスペク風神](/songs/respec-fujin)|ビートまりお(COOL&CREATE)|135|:charts{:difficulties="difficulties" levels="2,5,10,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,10,15" charts="1,2,3"}|
 |[ナイト・オブ・ナイツ](/songs/night-of-knights)|ビートまりお(COOL&CREATE)|180|:charts{:difficulties="difficulties" levels="1,7,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,17" charts="1,2,3,4"}|
 
-- [スペシャル楽曲パック feat.東方Project vol.2](#スペシャル楽曲パック-feat東方project-vol2)と同時購入で、[最速最高シャッターガール](/songs/saisoku-saikou-shutter-girl)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
-
 #### スペシャル楽曲パック feat.東方Project vol.2
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=759)
@@ -791,6 +802,7 @@ difficulties:
 - 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
   - [恋の氷結おてんば湯けむりチルノ温泉](/songs/koi-no-hyoketsu-otenba-yukemuri-cirno-onsen)
   - [スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)
+- [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)と同時購入で、[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
@@ -798,8 +810,6 @@ difficulties:
 |[恋の氷結おてんば湯けむりチルノ温泉](/songs/koi-no-hyoketsu-otenba-yukemuri-cirno-onsen)|uno & 夕野ヨシミ feat. miko|57-188|:charts{:difficulties="difficulties" levels="2,7,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,12,15" charts="1,2,3"}|
 |[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)|七条レタスグループ|160|:charts{:difficulties="difficulties" levels="3,7,11,15,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,18" charts="1,2,3,4"}|
 |[チルノのパーフェクトさんすう教室](/songs/cirno-no-perfect-sansuu-kyoushitsu)|ARM+夕野ヨシミ feat.miko|175|:charts{:difficulties="difficulties" levels="3,6,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,13,15" charts="1,2,3,4"}|
-
-- [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)と同時購入で、[スカーレット警察のゲットーパトロール24時](/songs/scarlet-keisatsu-no-ghetto-patrol-24ji)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
 
 #### コントローラ購入者特典楽曲パック
 
