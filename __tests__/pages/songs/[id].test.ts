@@ -11,8 +11,7 @@ vi.mock('~~/composables/useSongData')
 mockNuxtImport('useRoute', () => () => ({ params: { id: mockSong.slug } }))
 
 describe('pages/songs/[id].vue', () => {
-  const stubs = { ContentRenderer: true, Head: true, Title: true }
-  const global = { plugins, stubs }
+  const global = { plugins, stubs: { ContentRenderer: true } }
 
   describe('snapshot test', () => {
     test('renders correctly', async () => {

@@ -4,7 +4,9 @@ exports[`pages/series/[id].vue > snapshot test > renders correctly 1`] = `
 <section
   class="section"
 >
-  <head-stub />
+  
+  <!---->
+  
   <content-renderer-stub
     class="content"
     excerpt="false"

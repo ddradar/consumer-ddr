@@ -11,15 +11,13 @@ vi.mock('~~/composables/useSoftwareData')
 mockNuxtImport('useRoute', () => () => ({ params: { id: mockSoftware.slug } }))
 
 describe('pages/series/[id].vue', () => {
-  const stubs = { ContentRenderer: true, Head: true, Title: true }
-  const global = { plugins, stubs }
+  const global = { plugins, stubs: { ContentRenderer: true } }
 
   describe('snapshot test', () => {
     test('renders correctly', async () => {
       // Arrange
-      vi.mocked(useSoftwareData).mockResolvedValue({
-        software: ref(mockSoftware),
-      })
+      const software = ref(mockSoftware)
+      vi.mocked(useSoftwareData).mockResolvedValue({ software })
 
       // Act
       const wrapper = await mountAsync(SeriesDetail, { global })
