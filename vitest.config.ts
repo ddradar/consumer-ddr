@@ -1,31 +1,8 @@
-import fs from 'node:fs'
-import { resolve } from 'node:path'
+import { defineVitestConfig } from 'nuxt-vitest/config'
 
-import Vue from '@vitejs/plugin-vue'
-import { defineConfig } from 'vitest/config'
-
-const NuxtTsConfig = fs.readFileSync('./.nuxt/tsconfig.json').toString()
-const tsConfigFormated = JSON.parse(
-  NuxtTsConfig.replace(
-    /\\"|"(?:\\"|[^"])*"|(\/\/.*|\/\*[\s\S]*?\*\/)/g,
-    (m, g) => (g ? '' : m)
-  )
-)
-
-const alias: Record<string, string> = {}
-
-Object.entries(
-  tsConfigFormated.compilerOptions.paths as Record<string, string[]>
-).forEach(([key, value]) => {
-  alias[key] = resolve(__dirname, value[0])
-})
-
-export default defineConfig({
-  plugins: [Vue()],
-  resolve: { alias },
+export default defineVitestConfig({
   test: {
-    environment: 'jsdom',
-    setupFiles: ['./__tests__/stubWindow.ts', './__tests__/stubGlobal.ts'],
+    environment: 'nuxt',
     coverage: {
       all: true,
       reporter: ['json', 'text'],

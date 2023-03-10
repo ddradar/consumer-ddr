@@ -1,4 +1,4 @@
-// Vitest Snapshot v1
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
 exports[`pages/series/[id].vue > snapshot test > renders correctly 1`] = `
 <section
@@ -7,6 +7,8 @@ exports[`pages/series/[id].vue > snapshot test > renders correctly 1`] = `
   <head-stub />
   <content-renderer-stub
     class="content"
+    excerpt="false"
+    tag="div"
     value="[object Object]"
   />
 </section>

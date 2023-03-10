@@ -63,7 +63,7 @@ export default defineNuxtConfig({
     transpile: [/@oruga-ui\/oruga-next/],
   },
   modules: [
-    // Doc: https://content.nuxtjs.org/
     '@nuxt/content',
+    'nuxt-vitest',
   ],
 })
