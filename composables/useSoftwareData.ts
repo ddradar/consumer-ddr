@@ -8,6 +8,7 @@ export const regionList = ['JP', 'US', 'EU', 'None'] as const
 export const platforms = [
   'Play Station',
   'Play Station 2',
+  'Play Station 3',
   'Dreamcast',
   'GAME BOY COLOR',
   'GAME CUBE',
