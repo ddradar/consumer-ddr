@@ -70,7 +70,7 @@ difficulties:
 |[MARS WAR 3](/songs/mars-war-3)|JET GIRL SPIN|200|:charts{:difficulties="difficulties" levels="2,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Raspberry♥Heart (English version)](/songs/raspberry-heart)|jun feat. PAULA TERRY|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[STARS☆☆☆ (Re-tuned by HΛL) -DDR EDITION-](/songs/stars-hal)|TЁЯRA|145|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
-|[Venus](/songs/venus)|Tatsh+RayZY|195|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
+|[Venus](/songs/venus-tatsh)|Tatsh+RayZY|195|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
 |[Votum stellarum -forest #25 DDR RMX-](/songs/votum-stellarum)|iconoclasm|140|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[AFRONOVA](/songs/afronova)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
 |[AM-3P](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|

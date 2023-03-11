@@ -1,5 +1,5 @@
 ---
-slug: "venus"
+slug: "venus-tatsh"
 name: "Venus"
 artist: "Tatsh+RayZY"
 from: "GuitarFreaks V3 & DrumMania V3"

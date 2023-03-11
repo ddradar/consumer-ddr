@@ -80,7 +80,7 @@ difficulties:
 |[Tracers (4Beat Remix)](/songs/tracers)|Ruffage & Size|140|:charts{:difficulties="difficulties" levels="2,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
 |[Trust -DanceDanceRevolution mix-](/songs/trust)|Tatsh feat. Yoko|164|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
 |[Uranus](/songs/uranus)|Tatsh SN 2 Style|81-162|:charts{:difficulties="difficulties" levels="3,7,9,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,11,14" charts="1,2,3,4"}|
-|[Venus](/songs/venus)|Tatsh+RayZY|195|:charts{:difficulties="difficulties" levels="2,4,7,10,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,10,12" charts="1,2,3,4"}|
+|[Venus](/songs/venus-tatsh)|Tatsh+RayZY|195|:charts{:difficulties="difficulties" levels="2,4,7,10,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,10,12" charts="1,2,3,4"}|
 |[Votum stellarum -forest #25 DDR RMX-](/songs/votum-stellarum)|iconoclasm|140|:charts{:difficulties="difficulties" levels="1,4,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,11" charts="1,2,3"}|
 |[Waiting 4 u](/songs/waiting-4-u)|DDT|175|:charts{:difficulties="difficulties" levels="3,6,8,11,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,12,12" charts="1,2,3,4"}|
 |[Why not](/songs/why-not)|Darwin|175|:charts{:difficulties="difficulties" levels="3,5,9,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|

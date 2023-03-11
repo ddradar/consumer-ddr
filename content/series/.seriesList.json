@@ -4,6 +4,16 @@
     "backgroundColor": "darkviolet",
     "color": "#fff"
   },
+  "2010-360": {
+    "title": "DanceDanceRevolution (2010, XBOX 360)",
+    "backgroundColor": "darkred",
+    "color": "#fff"
+  },
+  "2010-ps3": {
+    "title": "DanceDanceRevolution (2010, PS3)",
+    "backgroundColor": "darkred",
+    "color": "#fff"
+  },
   "2nd-dc": {
     "title": "Dance Dance Revolution 2nd MIX Dreamcast Edition",
     "backgroundColor": "darkorange",
