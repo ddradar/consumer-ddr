@@ -159,7 +159,7 @@ difficulties:
 |[Unreal](/songs/unreal)|Black Rose Garden|90-180|:charts{:difficulties="difficulties" levels="4,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,14" charts="1,2,3"}|
 |[Uranus](/songs/uranus)|Tatsh SN 2 Style|81-162|:charts{:difficulties="difficulties" levels="3,6,9,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,11,13" charts="1,2,3,4"}|
 |[Vem brincar](/songs/vem-brincar)|Caldeira feat.Téka Penteriche|135|:charts{:difficulties="difficulties" levels="2,5,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
-|[Venus](/songs/venus)|Tatsh+RayZY|195|:charts{:difficulties="difficulties" levels="3,4,7,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,10,13" charts="1,2,3,4"}|
+|[Venus](/songs/venus-tatsh)|Tatsh+RayZY|195|:charts{:difficulties="difficulties" levels="3,4,7,11,13" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,10,13" charts="1,2,3,4"}|
 |[volcano](/songs/volcano)|Yasuhiro Abe|240|:charts{:difficulties="difficulties" levels="4,5,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
 |[Votum stellarum -forest #25 DDR RMX-](/songs/votum-stellarum)|iconoclasm|140|:charts{:difficulties="difficulties" levels="1,4,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,12" charts="1,2,3"}|
 |[Why not](/songs/why-not)|Darwin|175|:charts{:difficulties="difficulties" levels="4,6,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,11" charts="1,2,3"}|
