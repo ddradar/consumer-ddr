@@ -15,6 +15,7 @@ series:
   - "best"
   - "us"
   - "konamix"
+  - "pc"
   - "ext-jp"
   - "party"
   - "ext2"
@@ -41,21 +42,21 @@ series:
 |SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=1} :level{slug="party" level=1} :level{slug="ext2" level=1} :level{slug="nova2-jp" level=1} :level{slug="grand-prix" level=3}</div>|95/0||
 |SINGLE|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=3}</div>|133/0||
 |SINGLE|[BASIC (Club)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5}</div>|154/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="3rd" level=4} :level{slug="gb" level=4} :level{slug="oha" level=5} :level{slug="best" level=4} :level{slug="us" level=4} :level{slug="konamix" level=4} :level{slug="ext-jp" level=4} :level{slug="party" level=4} :level{slug="ext2" level=4} :level{slug="nova2-jp" level=4} :level{slug="grand-prix" level=6}</div>|162/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="3rd" level=4} :level{slug="gb" level=4} :level{slug="oha" level=5} :level{slug="best" level=4} :level{slug="us" level=4} :level{slug="konamix" level=4} :level{slug="pc" level=4} :level{slug="ext-jp" level=4} :level{slug="party" level=4} :level{slug="ext2" level=4} :level{slug="nova2-jp" level=4} :level{slug="grand-prix" level=6}</div>|162/0||
 |SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4}</div>|133/0||
 |SINGLE|[ANOTHER (Club)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6}</div>|183/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="3rd" level=5} :level{slug="gb" level=5} :level{slug="oha" level=7} :level{slug="best" level=4} :level{slug="us" level=4} :level{slug="konamix" level=4} :level{slug="ext-jp" level=5} :level{slug="party" level=5} :level{slug="ext2" level=5} :level{slug="nova2-jp" level=5} :level{slug="grand-prix" level=6}</div>|176/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="3rd" level=5} :level{slug="gb" level=5} :level{slug="oha" level=7} :level{slug="best" level=4} :level{slug="us" level=5} :level{slug="konamix" level=5} :level{slug="pc" level=5} :level{slug="ext-jp" level=5} :level{slug="party" level=5} :level{slug="ext2" level=5} :level{slug="nova2-jp" level=5} :level{slug="grand-prix" level=6}</div>|176/0||
 |SINGLE|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=5}</div>|132/0||
 |SINGLE|[MANIAC (Club)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8}</div>|218/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="gb" level=6} :level{slug="oha" level=8} :level{slug="best" level=6} :level{slug="us" level=6} :level{slug="ext-jp" level=6} :level{slug="party" level=6} :level{slug="ext2" level=6} :level{slug="nova2-jp" level=6} :level{slug="grand-prix" level=10}</div>|225/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="gb" level=6} :level{slug="oha" level=8} :level{slug="best" level=6} :level{slug="us" level=6} :level{slug="pc" level=6} :level{slug="ext-jp" level=6} :level{slug="party" level=6} :level{slug="ext2" level=6} :level{slug="nova2-jp" level=6} :level{slug="grand-prix" level=10}</div>|225/0||
 |SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6} :level{slug="ext-jp" level=7} :level{slug="party" level=7} :level{slug="ext2" level=7} :level{slug="nova2-jp" level=7} :level{slug="grand-prix" level=10}</div>|264/0||
 |SINGLE|["STREAM" Special]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=9} :level{slug="x2" level=13} :level{slug="grand-prix" level=13}</div>|340/6||
 |DOUBLE|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4}</div>|130/0||
 |DOUBLE|[BASIC (Club)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5}</div>|154/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="3rd" level=4} :level{slug="oha" level=6} :level{slug="best" level=4} :level{slug="us" level=4} :level{slug="konamix" level=4} :level{slug="ext-jp" level=4} :level{slug="party" level=4} :level{slug="ext2" level=4} :level{slug="nova2-jp" level=4} :level{slug="grand-prix" level=6}</div>|165/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="3rd" level=4} :level{slug="oha" level=6} :level{slug="best" level=4} :level{slug="us" level=4} :level{slug="konamix" level=4} :level{slug="pc" level=4} :level{slug="ext-jp" level=4} :level{slug="party" level=4} :level{slug="ext2" level=4} :level{slug="nova2-jp" level=4} :level{slug="grand-prix" level=6}</div>|165/0||
 |DOUBLE|[ANOTHER (Club)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=7} :level{slug="club-dc" level=7}</div>|215/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="3rd" level=5} :level{slug="best" level=5} :level{slug="us" level=5} :level{slug="konamix" level=5} :level{slug="ext-jp" level=5} :level{slug="party" level=5} :level{slug="ext2" level=5} :level{slug="nova2-jp" level=5} :level{slug="grand-prix" level=7}</div>|180/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=7} :level{slug="us" level=7} :level{slug="konamix" level=7} :level{slug="ext-jp" level=7} :level{slug="party" level=7} :level{slug="ext2" level=7} :level{slug="nova2-jp" level=7} :level{slug="grand-prix" level=9}</div>|227/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="3rd" level=5} :level{slug="best" level=5} :level{slug="us" level=5} :level{slug="konamix" level=5} :level{slug="pc" level=65} :level{slug="ext-jp" level=5} :level{slug="party" level=5} :level{slug="ext2" level=5} :level{slug="nova2-jp" level=5} :level{slug="grand-prix" level=7}</div>|180/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=7} :level{slug="us" level=7} :level{slug="konamix" level=7} :level{slug="pc" level=7} :level{slug="ext-jp" level=7} :level{slug="party" level=7} :level{slug="ext2" level=7} :level{slug="nova2-jp" level=7} :level{slug="grand-prix" level=9}</div>|227/0||
 |DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=8} :level{slug="party" level=8} :level{slug="ext2" level=8} :level{slug="nova2-jp" level=8} :level{slug="grand-prix" level=10}</div>|229/8||
 |DOUBLE|["STREAM" Special]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=9} :level{slug="x2" level=13} :level{slug="grand-prix" level=13}</div>|325/0||
 |COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="gb" level=4}</div>|149/0||
@@ -67,10 +68,10 @@ series:
 |UNISON|[ANOTHER]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=5} :level{slug="oha" level=7} :level{slug="best" level=5} :level{slug="us" level=5}</div>|||
 |UNISON|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=5}</div>|||
 |UNISON|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=6} :level{slug="oha" level=8} :level{slug="best" level=6} :level{slug="us" level=6}</div>|||
-|BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6}</div>|||
-|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=4}</div>|158/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=5}</div>|176/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7}</div>|225/0||
+|BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6} :level{slug="pc" level=5}</div>|||
+|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=4} :level{slug="pc" level=4}</div>|158/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=5} :level{slug="pc" level=6}</div>|176/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7} :level{slug="pc" level=7}</div>|225/0||
 
 ## メモ
 

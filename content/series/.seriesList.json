@@ -329,6 +329,11 @@
     "backgroundColor": "hotpink",
     "color": "#fff"
   },
+  "pc": {
+    "title": "Dance Dance Revolution (PC)",
+    "backgroundColor": "deeppink",
+    "color": "#000"
+  },
   "strike": {
     "title": "DanceDanceRevolution STRIKE",
     "backgroundColor": "dodgerblue",
