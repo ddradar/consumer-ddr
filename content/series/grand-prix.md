@@ -103,6 +103,7 @@ difficulties:
 |[恋愛レボリューション21](/songs/love-revolution-21)||133|:charts{:difficulties="difficulties" levels="3,6,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,12" charts="1,2,3"}|
 |[勿忘](/songs/wasurena)||158|:charts{:difficulties="difficulties" levels="1,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[BRIGHT STREAM](/songs/bright-stream)||158|:charts{:difficulties="difficulties" levels="1,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
+|[HOT LIMIT](/songs/hot-limit)||140|:charts{:difficulties="difficulties" levels="1,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
 |[Lemon](/songs/lemon)||87|:charts{:difficulties="difficulties" levels="1,3,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,9,12" charts="1,2,3"}|
 |[LOVE & JOY -Risk Junk MIX-](/songs/love-joy-risk-junk)|Risk Junk|180|:charts{:difficulties="difficulties" levels="3,4,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
 |[only my railgun](/songs/only-my-railgun)||143|:charts{:difficulties="difficulties" levels="2,4,7,10,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,12,8" charts="1,2,3,4"}|
