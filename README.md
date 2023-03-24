@@ -12,16 +12,16 @@ Consumer DDR Song List
 
 ``` bash
 # install dependencies
-$ yarn
+$ npm install
 
 # serve with hot reload at localhost:3000
-$ yarn dev
+$ npm run dev
 
 # generate static project
-$ yarn build
+$ npm run build
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work, check out [Nuxt 3 docs](https://nuxt.com/docs).
 
 ## Contributing
 
