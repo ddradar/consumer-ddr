@@ -6,7 +6,7 @@
   "private": true,
   "engines": {
     "node": ">=16",
-    "yarn": "^1.22.4"
+    "npm": "^9.0.0"
   },
   "scripts": {
     "prepare": "nuxt prepare",
