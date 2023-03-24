@@ -62,8 +62,5 @@ export default defineNuxtConfig({
   build: {
     transpile: [/@oruga-ui\/oruga-next/],
   },
-  modules: [
-    '@nuxt/content',
-    'nuxt-vitest',
-  ],
+  modules: ['@nuxt/content', 'nuxt-vitest'],
 })
