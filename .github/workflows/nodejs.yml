@@ -8,7 +8,7 @@ on:
   merge_group:
 
 env:
-  NODE_VERSION: 16
+  NODE_VERSION: 18
 
 jobs:
   lint:
@@ -20,13 +20,13 @@ jobs:
         uses: actions/setup-node@v3.6.0
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: yarn
+          cache: npm
 
       - name: Install Dependencies
-        run: yarn --frozen-lockfile
+        run: npm ci
 
       - name: Lint
-        run: yarn lint
+        run: npm run lint
 
   build:
     name: Build
@@ -38,13 +38,13 @@ jobs:
         uses: actions/setup-node@v3.6.0
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: yarn
+          cache: npm
 
       - name: Install Dependencies
-        run: yarn --frozen-lockfile
+        run: npm ci
 
       - name: Build
-        run: yarn build
+        run: npm run build
 
       - name: Upload Production Artifact
         uses: actions/upload-pages-artifact@v1.0.7
@@ -60,13 +60,13 @@ jobs:
         uses: actions/setup-node@v3.6.0
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: yarn
+          cache: npm
 
       - name: Install Dependencies
-        run: yarn --frozen-lockfile
+        run: npm ci
 
       - name: Unit Test
-        run: yarn test --coverage
+        run: npm test -- --coverage
 
       - name: Report Code Coverage to codecov
         uses: codecov/codecov-action@v3.1.1
