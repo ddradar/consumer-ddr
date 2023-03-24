@@ -851,6 +851,44 @@ difficulties:
 |[SigSig](/songs/sigsig)|kors k|179|:charts{:difficulties="difficulties" levels="3,6,9,12,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,12,10" charts="1,2,3,4"}|
 |[Blue Rain](/songs/blue-rain)|dj TAKA VS Ryu☆|144|:charts{:difficulties="difficulties" levels="2,5,6,11,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,11,14" charts="1,2,3,4"}|
 
+#### グランプリ楽曲パック vol.17
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=926)
+- 発売日: 2023-03-20
+- [グランプリ楽曲パック vol.18](#グランプリ楽曲パック-vol18)と同時購入で、[Follow Tomorrow](/songs/follow-tomorrow)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[Adularia](/songs/adularia)|DJ TOTTO|180|:charts{:difficulties="difficulties" levels="3,6,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[AWAKE](/songs/awake)|柊木りお featured by TAG|180|:charts{:difficulties="difficulties" levels="3,5,10,13,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,13,16" charts="1,2,3,4"}|
+|[Cleopatrysm](/songs/cleopatrysm)|ピラミッ℃|190|:charts{:difficulties="difficulties" levels="4,7,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,15" charts="1,2,3"}|
+|[Follow Tomorrow](/songs/follow-tomorrow)|HHH×MM×ST|140|:charts{:difficulties="difficulties" levels="2,5,8,11,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,12,14" charts="1,2,3,4"}|
+|[FUJIMORI -祭- FESTIVAL](/songs/fujimori-festival)|VENUS|158|:charts{:difficulties="difficulties" levels="3,5,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
+|[JOMANDA](/songs/jomanda)|DJ YOSHITAKA|90-600|:charts{:difficulties="difficulties" levels="4,8,12,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,12,15,17" charts="1,2,3,4"}|
+|[KHAMEN BREAK](/songs/khamen-break)|くふおー|90-180|:charts{:difficulties="difficulties" levels="3,7,11,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,15" charts="1,2,3"}|
+|[Nostalgia Is Lost](/songs/nostalgia-is-lost)|U1 overground|173|:charts{:difficulties="difficulties" levels="3,7,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,15" charts="1,2,3"}|
+|[御千手メディテーション](/songs/osenju-meditation)|昇天家族|150-190|:charts{:difficulties="difficulties" levels="4,8,12,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,15" charts="1,2,3"}|
+|[嘆きの樹](/songs/nageki-no-ki)|金獅子|160|:charts{:difficulties="difficulties" levels="4,8,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,12,16,18" charts="1,2,3,4"}|
+
+#### グランプリ楽曲パック vol.18
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=927)
+- 発売日: 2023-03-20
+- [グランプリ楽曲パック vol.17](#グランプリ楽曲パック-vol17)と同時購入で、[Take A Step Forward](/songs/take-a-step-forward)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[Hold Tight](/songs/hold-tight)|800 slopes|130|:charts{:difficulties="difficulties" levels="1,3,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,12" charts="1,2,3"}|
+|[JUST BELIEVE](/songs/just-believe)|Lea Drop feat.Marissa Ship|160|:charts{:difficulties="difficulties" levels="2,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
+|[LOVE SHINE (Body Grooverz 2006 mix)](/songs/love-shine-body-grooverz)|W.W.S|177|:charts{:difficulties="difficulties" levels="3,7,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,11,15" charts="1,2,3"}|
+|[the beat](/songs/the-beat)|Sparky|140|:charts{:difficulties="difficulties" levels="4,8,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,11,14" charts="1,2,3"}|
+|[Take A Step Forward](/songs/take-a-step-forward)|TAG feat. Sydney Powers|145|:charts{:difficulties="difficulties" levels="2,7,9,11,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,12,15" charts="1,2,3,4"}|
+|[Top The Charts](/songs/top-the-charts)|J-Mi & Midi-D feat. Hanna Stockzell|160|:charts{:difficulties="difficulties" levels="3,5,8,12,14" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,8,12,14" charts="1,2,3,4"}|
+|[New York EVOLVED (Type A)](/songs/new-york-evolved-type-a)|NC underground|48-380|:charts{:difficulties="difficulties" levels="4,9,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,13,16" charts="1,2,3"}|
+|[New York EVOLVED (Type B)](/songs/new-york-evolved-type-b)|NC underground|48-380|:charts{:difficulties="difficulties" levels="4,9,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,13,16" charts="1,2,3"}|
+|[New York EVOLVED (Type C)](/songs/new-york-evolved-type-c)|NC underground|48-380|:charts{:difficulties="difficulties" levels="4,9,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,13,16" charts="1,2,3"}|
+|[Wicked Plastik](/songs/wicked-plastik)|nc ft. Electric Touch|145|:charts{:difficulties="difficulties" levels="3,4,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,11,13" charts="1,2,3"}|
+
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
