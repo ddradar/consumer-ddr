@@ -10,14 +10,15 @@ import { mockSoftwareList, mountAsync, plugins } from '../test-utils'
 vi.mock('~~/composables/useSoftwareList')
 
 describe('pages/index.vue', () => {
+  const global = { plugins, stubs: { NuxtLink: RouterLinkStub } }
+
   test('renders correctly', async () => {
     // Arrange
     const softwareList = ref(mockSoftwareList)
     vi.mocked(useSoftwareList).mockResolvedValue({ softwareList })
 
     // Act
-    const stubs = { NuxtLink: RouterLinkStub }
-    const wrapper = await mountAsync(Index, { global: { plugins, stubs } })
+    const wrapper = await mountAsync(Index, { global })
 
     // Assert
     expect(wrapper.element).toMatchSnapshot()

@@ -1,3 +1,4 @@
+import { mockNuxtImport } from 'nuxt-vitest/utils'
 import { beforeEach, describe, expect, test, vi } from 'vitest'
 import { ref } from 'vue'
 
@@ -7,6 +8,8 @@ import useSongList from '~~/composables/useSongList'
 import { mountAsync, plugins } from '../test-utils'
 
 vi.mock('~~/composables/useSongList')
+const push = vi.fn()
+mockNuxtImport('useRouter', () => () => ({ push }))
 
 describe('components/SearchBox.vue', () => {
   const songs = [
@@ -43,8 +46,7 @@ describe('components/SearchBox.vue', () => {
   describe('autocomplete', () => {
     test('@select calls router.push("/songs/{id}")', async () => {
       // Arrange
-      const push = vi.fn()
-      vi.mocked(useRouter).mockReturnValue({ push } as any)
+      push.mockReset()
 
       // Act
       const wrapper = await mountAsync(SearchBox, { global: { plugins } })
