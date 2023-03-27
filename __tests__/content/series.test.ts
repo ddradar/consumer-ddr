@@ -1,7 +1,7 @@
 // @vitest-environment node
 import { existsSync } from 'node:fs'
 import { readdir, readFile } from 'node:fs/promises'
-import { basename } from 'node:path'
+import { basename, dirname } from 'node:path'
 
 import { load } from 'js-yaml'
 import { describe, expect, test } from 'vitest'
@@ -76,13 +76,24 @@ describe('content/series/', async () => {
       }
     })
 
-    test('has valid hyperlink', () => {
+    test('has valid hyperlink', async () => {
       const markdownLinks = markdownString.matchAll(/\[.+\]\(\/(.+?(#.+)?)\)/g)
       for (const link of markdownLinks) {
         const testName = `Match[${link.index}] (${link[0]})`
         const linkPath = link[1]
-        expect(existsSync(`./content/${linkPath}.md`), testName).toBeTruthy()
+        expect(await exists(`./content/${linkPath}.md`), testName).toBeTruthy()
       }
     })
   })
 })
+
+async function exists(path: string) {
+  if (!path.startsWith('./content/songs/')) return existsSync(path)
+
+  const baseDir = dirname(path)
+  const fileName = basename(path)
+  const subDirs = (await readdir(baseDir, { withFileTypes: true })).filter(s =>
+    s.isDirectory()
+  )
+  return subDirs.some(s => existsSync(`${baseDir}/${s.name}/${fileName}`))
+}
