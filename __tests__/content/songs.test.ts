@@ -1,7 +1,7 @@
 // @vitest-environment node
 import { existsSync } from 'node:fs'
 import { readdir, readFile } from 'node:fs/promises'
-import { basename, dirname, extname } from 'node:path'
+import { basename, dirname } from 'node:path'
 
 import { load } from 'js-yaml'
 import { describe, expect, test } from 'vitest'
