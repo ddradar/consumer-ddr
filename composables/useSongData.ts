@@ -15,7 +15,7 @@ export type SongParsedContent = ParsedContent & Song
 
 export default async function (slug: string) {
   const { data } = await useAsyncData(`/songs/${slug}`, () =>
-    queryContent<ParsedContent & Song>()
+    queryContent<ParsedContent & Song>('songs')
       .where({ _type: 'markdown', slug: { $eq: slug } })
       .findOne()
   )

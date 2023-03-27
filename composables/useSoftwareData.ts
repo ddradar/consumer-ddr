@@ -28,7 +28,7 @@ export interface Software {
 
 export default async function (slug: string) {
   const { data } = await useAsyncData(`/software/${slug}`, () =>
-    queryContent<Software & ParsedContent>()
+    queryContent<Software & ParsedContent>('series')
       .where({ _type: 'markdown', slug })
       .findOne()
   )
