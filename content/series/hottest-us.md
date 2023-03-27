@@ -23,7 +23,7 @@ difficulties:
 |[1, 2 Step](/songs/1-2-step)|LADY-S|113|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|
 |[Clocks](/songs/clocks)|T.R.MASTER MC|145|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|
 |[Yo, Excuse Me Miss](/songs/yo-excuse-me-miss)|Smooth-1|88|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|
-|[Always (Microbots Trance Dance Mix)](/songs/always)|MAN'S COOL|105|:charts{:difficulties="difficulties" levels="1,2,4,8" charts="0,1,2,3"}|
+|[Always (Microbots Trance Dance Mix)](/songs/always-mans-cool)|MAN'S COOL|105|:charts{:difficulties="difficulties" levels="1,2,4,8" charts="0,1,2,3"}|
 |[Lips of an Angel](/songs/lips-of-an-angel)|JET ROCKERS|140|:charts{:difficulties="difficulties" levels="1,2,6,7" charts="0,1,2,3"}|
 |[Summertime](/songs/summertime)|Eazin'|111|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|
 |[Blue Monday](/songs/blue-monday)|wg|131|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|

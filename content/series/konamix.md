@@ -39,7 +39,7 @@ difficulties:
 |[DEAD END](/songs/dead-end)|N&S|190|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[DIVE](/songs/dive)|Be For U|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="5,6,7"}|
 |[diving money](/songs/diving-money)|QUADRA|150|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="5,6,7"}|
-|[Do It Right](/songs/do-it-right)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="5,6,7"}|
+|[Do It Right](/songs/do-it-right-sota)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="5,6,7"}|
 |[Don't Stop! (AMD 2nd MIX)](/songs/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[DROP OUT](/songs/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
@@ -97,7 +97,7 @@ difficulties:
 1. [BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love) [BASIC]{.tag.is-basic}
 1. [GROOVE](/songs/groove) [BASIC]{.tag.is-basic}
 1. [Make Your Move](/songs/make-your-move) [TRICK]{.tag.is-difficult}
-1. [Do It Right](/songs/do-it-right) [TRICK]{.tag.is-difficult}
+1. [Do It Right](/songs/do-it-right-sota) [TRICK]{.tag.is-difficult}
 1. [Let the beat hit em! (CLASSIC R&B STYLE)](/songs/let-the-beat-hit-em-classic) [MANIAC]{.tag.is-expert}
 
 ### OFFICIAL 3
@@ -151,7 +151,7 @@ difficulties:
 |[SUPER STAR](/songs/super-star)|20|
 |[PARANOiA Rebirth](/songs/paranoia-rebirth)|25|
 |[Holic](/songs/holic)|30|
-|[Do It Right](/songs/do-it-right)|35|
+|[Do It Right](/songs/do-it-right-sota)|35|
 |[GENOM SCREAMS](/songs/genom-screams)<br/>「HIDDEN COLLECTION」カテゴリ|40|
 |[DIVE](/songs/dive)|45|
 |[La Señorita Virtual](/songs/la-senorita-virtual)|50|

@@ -50,7 +50,7 @@ difficulties:
 |[Will I?](/songs/will-i)|Ian Van Dahl|140|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[AM-3P](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[Do It Right](/songs/do-it-right)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
+|[Do It Right](/songs/do-it-right-sota)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[Groove](/songs/groove)|Sho-T feat. Blenda|130|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[HYSTERIA](/songs/hysteria)|NAOKI 190|190|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[I Was The One](/songs/i-was-the-one)|good-cool|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|

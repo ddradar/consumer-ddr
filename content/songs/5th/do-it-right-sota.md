@@ -1,5 +1,5 @@
 ---
-slug: "do-it-right"
+slug: "do-it-right-sota"
 name: "Do It Right"
 artist: "SOTA feat. Ebony Fay"
 from: "DanceDanceRevolution 5thMIX CS"

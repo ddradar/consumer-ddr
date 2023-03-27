@@ -1,8 +1,8 @@
 ---
-slug: "senses"
+slug: "senses-kaiju"
 name: "Senses (Kaiju Remix)"
 artist: "JT.1UP"
-from: ""
+from: "DanceDanceRevolution UNIVERSE3"
 bpm: 120
 series:
   - "universe3"
