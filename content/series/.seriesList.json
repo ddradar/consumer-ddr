@@ -368,6 +368,11 @@
     "backgroundColor": "crimson",
     "color": "#fff"
   },
+  "universe2": {
+    "title": "DanceDanceRevolution UNIVERSE2 (US)",
+    "backgroundColor": "dimgray",
+    "color": "#fff"
+  },
   "universe3": {
     "title": "DanceDanceRevolution UNIVERSE3 (US)",
     "backgroundColor": "khaki",

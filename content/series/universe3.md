@@ -80,7 +80,7 @@ difficulties:
 |[My Hero](/songs/my-hero)|In Geer|167|:charts{:difficulties="difficulties" levels="?,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,4,7" charts="0,1,2,3"}|
 |[Out of Decaf](/songs/out-of-decaf)|NEKOJIRA|150|:charts{:difficulties="difficulties" levels="?,3,5,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="?,3,5,8,9" charts="0,1,2,3,4"}|
 |[sakura storm](/songs/sakura-storm)|Ryu☆|184|:charts{:difficulties="difficulties" levels="?,3,5,7,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="?,3,5,7,9" charts="0,1,2,3,4"}|
-|[Senses (Kaiju Remix)](/songs/senses)|JT.1UP|120|:charts{:difficulties="difficulties" levels="?,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,5,6" charts="0,1,2,3"}|
+|[Senses (Kaiju Remix)](/songs/senses-kaiju)|JT.1UP|120|:charts{:difficulties="difficulties" levels="?,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,5,6" charts="0,1,2,3"}|
 |[Siege Engine](/songs/siege-engine)|Morgan's Corner|175|:charts{:difficulties="difficulties" levels="?,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,5,8" charts="0,1,2,3"}|
 |[Streamline](/songs/streamline)|Kazuto|175|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|
 |[Tesla Coil](/songs/tesla-coil)|Rephaim|145-180|:charts{:difficulties="difficulties" levels="?,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,9" charts="0,1,2,3"}|

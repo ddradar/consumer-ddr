@@ -24,7 +24,7 @@ difficulties:
 |[NORI NORI NORI](/songs/nori-nori-nori)|JUDY CRYSTAL|160|:charts{:difficulties="difficulties" levels="3" charts="1"}|:charts{:difficulties="difficulties" levels="3" charts="1"}|
 |[Look To The Sky](/songs/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[DIVE \~more deep & deeper style\~](/songs/dive-more-deep)|Be For U|155|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
-|[Do It Right](/songs/do-it-right)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
+|[Do It Right](/songs/do-it-right-sota)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[Abyss](/songs/abyss)|dj TAKA|142|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[サナ・モレッテ・ネ・エンテ](/songs/sana-mollete-ne-ente)|Togo Project feat.Sana|90|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|

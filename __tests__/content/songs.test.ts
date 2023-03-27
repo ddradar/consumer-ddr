@@ -12,6 +12,7 @@ import seriesList from '~~/content/series/.seriesList.json'
 const dirpath = './content/songs'
 
 describe('content/songs/', async () => {
+  const slugs = new Set<string>()
   const subDirs = (await readdir(dirpath, { withFileTypes: true }))
     .filter(s => s.isDirectory())
     .map(d => d.name)
@@ -34,6 +35,8 @@ describe('content/songs/', async () => {
         expect(mdcContent).toBeDefined()
 
         expect(mdcContent).toHaveProperty('slug', basename(fileName, '.md'))
+        expect(slugs).not.contains(mdcContent.slug)
+        slugs.add(mdcContent.slug)
 
         expect(mdcContent).toHaveProperty('name')
 

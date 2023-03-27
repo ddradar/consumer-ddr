@@ -34,7 +34,7 @@ difficulties:
 |[WITCH DOCTOR (GIANTS TOONS VERSION)](/songs/witch-doctor)|CARTOONS|150|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[DIVE (more deep & deeper style)](/songs/dive-more-deep)|Be For U|155|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[Groove](/songs/groove)|Sho-T feat. Blenda|130|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
-|[Do It Right](/songs/do-it-right)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
+|[Do It Right](/songs/do-it-right-sota)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[Share My Love](/songs/share-my-love)|Julie Frost|125|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[DO YOU REMEMBER ME](/songs/do-you-remember-me)|JENNY|150|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[Look To The Sky](/songs/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|

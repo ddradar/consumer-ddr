@@ -1,5 +1,5 @@
 ---
-slug: "always"
+slug: "always-mans-cool"
 name: "Always (Microbots Trance Dance Mix)"
 artist: "MAN'S COOL"
 from: "Always"
