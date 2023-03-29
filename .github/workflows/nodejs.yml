@@ -15,7 +15,7 @@ jobs:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v3.5.0
       - name: Setup Node.js ${{ env.NODE_VERSION }}
         uses: actions/setup-node@v3.6.0
         with:
@@ -33,7 +33,7 @@ jobs:
     if: github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v3.5.0
       - name: Setup Node.js ${{ env.NODE_VERSION }}
         uses: actions/setup-node@v3.6.0
         with:
@@ -55,7 +55,7 @@ jobs:
     name: Test
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v3.5.0
       - name: Setup Node.js ${{ env.NODE_VERSION }}
         uses: actions/setup-node@v3.6.0
         with:
