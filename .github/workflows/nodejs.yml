@@ -47,7 +47,7 @@ jobs:
         run: npm run build
 
       - name: Upload Production Artifact
-        uses: actions/upload-pages-artifact@v1.0.7
+        uses: actions/upload-pages-artifact@v1.0.8
         with:
           path: dist
 
