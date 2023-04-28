@@ -37,7 +37,7 @@
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "js-yaml": "^4.1.0",
-    "npm-run-all2": "^6.0.4",
+    "npm-run-all2": "^6.0.5",
     "nuxt": "^3.3.2",
     "nuxt-vitest": "^0.6.9",
     "prettier": "^2.8.7",
