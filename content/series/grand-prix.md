@@ -950,6 +950,20 @@ difficulties:
 |[患部で止まってすぐ溶ける～狂気の優曇華院](/songs/kanbu-de-tomatte-sugu-tokeru)|ARM(IOSYS)|100-200|:charts{:difficulties="difficulties" levels="3,8,11,14,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,11,14,18" charts="1,2,3,4"}|
 |[チルノのパーフェクトさんすう教室](/songs/cirno-no-perfect-sansuu-kyoushitsu)|ARM+夕野ヨシミ feat.miko|175|:charts{:difficulties="difficulties" levels="3,6,10,13,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,10,13,15" charts="1,2,3,4"}|
 
+#### スペシャル楽曲パック feat.REFLEC BEAT vol.1
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=929)
+- 発売日: 2023-04-24
+- 購入することで、全楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+- [スペシャル楽曲パック feat.REFLEC BEAT vol.2](#スペシャル楽曲パック-featreflec-beat-vol2)と同時購入で、[Valanga](/songs/valanga)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[Flip Flap](/songs/flip-flap)|kors k|175|:charts{:difficulties="difficulties" levels="3,6,8,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,14" charts="1,2,3"}|
+|[GLITTER](/songs/glitter)|Sota Fujimori 2nd Season|184|:charts{:difficulties="difficulties" levels="4,8,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,16" charts="1,2,3"}|
+|[Valanga](/songs/valanga)|DJ TOTTO|186|:charts{:difficulties="difficulties" levels="4,7,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,17" charts="1,2,3,4"}|
+|[カラフルミニッツ](/songs/colorful-minutes)|Qrispy Joybox feat.mao||:charts{:difficulties="difficulties" levels="1,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
+
 #### コントローラ購入者特典楽曲パック
 
 - [DanceDanceRevolution 専用コントローラ](https://www.konamistyle.jp/products/detail.php?product_id=110013)の購入者特典。
