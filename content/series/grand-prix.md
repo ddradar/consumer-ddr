@@ -110,6 +110,7 @@ difficulties:
 |[Pretender](/songs/pretender)||92|:charts{:difficulties="difficulties" levels="1,3,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,11" charts="1,2,3"}|
 |[POP STAR](/songs/pop-star)||140|:charts{:difficulties="difficulties" levels="1,3,6,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,11" charts="1,2,3"}|
 |[resonance](/songs/resonance)|NAOKI-EX|165|:charts{:difficulties="difficulties" levels="2,4,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,11" charts="1,2,3"}|
+|[SOUVENIR](/songs/souvenir)|||:charts{:difficulties="difficulties" levels="2,4,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,12" charts="1,2,3"}|
 |[Trickster](/songs/trickster-cover)||174|:charts{:difficulties="difficulties" levels="2,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,11" charts="1,2,3"}|
 |[10年桜](/songs/10nen-zakura)||173|:charts{:difficulties="difficulties" levels="2,5,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
 
