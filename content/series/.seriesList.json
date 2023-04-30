@@ -346,6 +346,18 @@
     "backgroundColor": "deeppink",
     "color": "#000"
   },
+  "reflec-beat-vol1": {
+    "title": "DDR GRAND PRIX スペシャル楽曲パック feat.REFLEC BEAT vol.1",
+    "redirect": "/series/grand-prix#スペシャル楽曲パック-featreflec-beat-vol1",
+    "backgroundColor": "blueviolet",
+    "color": "#fff"
+  },
+  "reflec-beat-vol2": {
+    "title": "DDR GRAND PRIX スペシャル楽曲パック feat.REFLEC BEAT vol.2",
+    "redirect": "/series/grand-prix#スペシャル楽曲パック-featreflec-beat-vol2",
+    "backgroundColor": "blueviolet",
+    "color": "#fff"
+  },
   "strike": {
     "title": "DanceDanceRevolution STRIKE",
     "backgroundColor": "dodgerblue",
