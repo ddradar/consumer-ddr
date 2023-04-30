@@ -964,6 +964,20 @@ difficulties:
 |[Valanga](/songs/valanga)|DJ TOTTO|186|:charts{:difficulties="difficulties" levels="4,7,11,15,17" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,11,15,17" charts="1,2,3,4"}|
 |[カラフルミニッツ](/songs/colorful-minutes)|Qrispy Joybox feat.mao||:charts{:difficulties="difficulties" levels="1,4,7,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,11" charts="1,2,3"}|
 
+#### スペシャル楽曲パック feat.REFLEC BEAT vol.2
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=930)
+- 発売日: 2023-04-24
+- 購入することで、全楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+- [スペシャル楽曲パック feat.REFLEC BEAT vol.1](#スペシャル楽曲パック-featreflec-beat-vol1)と同時購入で、[伐折羅-vajra-](/songs/vajra)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[Broken](/songs/broken)|dj TAKA feat.AiMEE|148|:charts{:difficulties="difficulties" levels="2,5,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
+|[Playing With Fire](/songs/playing-with-fire)|kors k|160|:charts{:difficulties="difficulties" levels="2,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
+|[Towards The Horizon](/songs/towards-the-horizon)|かめりあ||:charts{:difficulties="difficulties" levels="2,7,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,16" charts="1,2,3"}|
+|[伐折羅-vajra-](/songs/vajra)|DJ TOTTO VS 兎々|87-173|:charts{:difficulties="difficulties" levels="3,7,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,16,18" charts="1,2,3,4"}|
+
 #### コントローラ購入者特典楽曲パック
 
 - [DanceDanceRevolution 専用コントローラ](https://www.konamistyle.jp/products/detail.php?product_id=110013)の購入者特典。
