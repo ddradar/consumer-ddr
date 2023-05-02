@@ -29,7 +29,7 @@ exports[`components/SearchBox.vue > snapshot test > { term: "" } renders input w
       appear="false"
       css="true"
       name="fade"
-      persisted="false"
+      persisted="true"
     >
       <div
         class="dropdown-menu dropdown-content is-opened-bottom"
