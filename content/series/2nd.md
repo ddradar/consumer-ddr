@@ -54,7 +54,7 @@ difficulties:
 |[think ya better D](/songs/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4" charts="1,2"}|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}||
 |[TRIP MACHINE](/songs/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[TRIP MACHINE \~luv mix\~](/songs/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}||
-|[TUBTHUMPING](/songs/tubthumping)|||:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}||
+|[TUBTHUMPING](/songs/tubthumping)|CHUMBAWAMBA|104|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}||
 
 ## システム概要
 
