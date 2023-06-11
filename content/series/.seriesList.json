@@ -44,6 +44,12 @@
     "backgroundColor": "goldenrod",
     "color": "#fff"
   },
+  "bpl-0": {
+    "title": "DDR GRAND PRIX BPL S2楽曲パック vol.0",
+    "redirect": "/series/grand-prix#bpl-s2楽曲パック-vol0",
+    "backgroundColor": "snow",
+    "color": "#000"
+  },
   "club-1": {
     "title": "Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1",
     "backgroundColor": "deepskyblue",
@@ -248,6 +254,30 @@
     "redirect": "/series/grand-prix#グランプリ楽曲パック-vol18",
     "backgroundColor": "hotpink",
     "color": "#000"
+  },
+  "grand-prix-vol19": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.19",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol19",
+    "backgroundColor": "cornflowerblue",
+    "color": "#000"
+  },
+  "grand-prix-vol20": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.20",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol20",
+    "backgroundColor": "khaki",
+    "color": "#000"
+  },
+  "grand-prix-vol21": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.21",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol21",
+    "backgroundColor": "lawngreen",
+    "color": "#000"
+  },
+  "grand-prix-vol22": {
+    "title": "DDR GRAND PRIX グランプリ楽曲パック vol.22",
+    "redirect": "/series/grand-prix#グランプリ楽曲パック-vol22",
+    "backgroundColor": "brown",
+    "color": "#fff"
   },
   "hottest-jp": {
     "title": "Dance Dance Revolution HOTTEST PARTY (JP)",

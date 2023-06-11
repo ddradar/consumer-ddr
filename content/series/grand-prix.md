@@ -51,10 +51,19 @@ difficulties:
   - [グランプリ楽曲パック vol.14](#グランプリ楽曲パック-vol14)
   - [グランプリ楽曲パック vol.15](#グランプリ楽曲パック-vol15)
   - [グランプリ楽曲パック vol.16](#グランプリ楽曲パック-vol16)
+  - [グランプリ楽曲パック vol.17](#グランプリ楽曲パック-vol17)
+  - [グランプリ楽曲パック vol.18](#グランプリ楽曲パック-vol18)
+  - [グランプリ楽曲パック vol.19](#グランプリ楽曲パック-vol19)
+  - [グランプリ楽曲パック vol.20](#グランプリ楽曲パック-vol20)
+  - [グランプリ楽曲パック vol.21](#グランプリ楽曲パック-vol21)
+  - [グランプリ楽曲パック vol.22](#グランプリ楽曲パック-vol22)
   - [スペシャル楽曲パック feat.jubeat vol.1](#スペシャル楽曲パック-featjubeat-vol1)
   - [スペシャル楽曲パック feat.jubeat vol.2](#スペシャル楽曲パック-featjubeat-vol2)
   - [スペシャル楽曲パック feat.東方Project vol.1](#スペシャル楽曲パック-feat東方project-vol1)
   - [スペシャル楽曲パック feat.東方Project vol.2](#スペシャル楽曲パック-feat東方project-vol2)
+  - [スペシャル楽曲パック feat.REFLEC BEAT vol.1](#スペシャル楽曲パック-featreflec-beat-vol1)
+  - [スペシャル楽曲パック feat.REFLEC BEAT vol.2](#スペシャル楽曲パック-featreflec-beat-vol2)
+  - [BPL S2楽曲パック vol.0](#bpl-s2楽曲パック-vol0)
   - [コントローラ購入者特典楽曲パック](#コントローラ購入者特典楽曲パック)
 
 ### フリープレー
@@ -890,6 +899,83 @@ difficulties:
 |[New York EVOLVED (Type C)](/songs/new-york-evolved-type-c)|NC underground|48-380|:charts{:difficulties="difficulties" levels="4,9,13,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,13,16" charts="1,2,3"}|
 |[Wicked Plastik](/songs/wicked-plastik)|nc ft. Electric Touch|145|:charts{:difficulties="difficulties" levels="3,4,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,11,13" charts="1,2,3"}|
 
+#### グランプリ楽曲パック vol.19
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=957)
+- 発売日: 2023-05-25
+- [グランプリ楽曲パック vol.17](#グランプリ楽曲パック-vol20)と同時購入で、[](/songs/)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+
+#### グランプリ楽曲パック vol.20
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=958)
+- 発売日: 2023-05-25
+- [グランプリ楽曲パック vol.19](#グランプリ楽曲パック-vol19)と同時購入で、[](/songs/)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+
+#### グランプリ楽曲パック vol.21
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=959)
+- 発売日: 2023-05-25
+- [グランプリ楽曲パック vol.22](#グランプリ楽曲パック-vol22)と同時購入で、[](/songs/)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+
+#### グランプリ楽曲パック vol.22
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=960)
+- 発売日: 2023-05-25
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+- [グランプリ楽曲パック vol.21](#グランプリ楽曲パック-vol21)と同時購入で、[](/songs/)の[CHALLENGE]{.tag.is-challenge}譜面が解禁される。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+
 #### スペシャル楽曲パック feat.jubeat vol.1
 
 - [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=685)
@@ -977,6 +1063,19 @@ difficulties:
 |[Playing With Fire](/songs/playing-with-fire)|kors k|160|:charts{:difficulties="difficulties" levels="2,7,10,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,10,14" charts="1,2,3"}|
 |[Towards The Horizon](/songs/towards-the-horizon)|かめりあ||:charts{:difficulties="difficulties" levels="2,7,11,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,11,16" charts="1,2,3"}|
 |[伐折羅-vajra-](/songs/vajra)|DJ TOTTO VS 兎々|87-173|:charts{:difficulties="difficulties" levels="3,7,12,16,18" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,12,16,18" charts="1,2,3,4"}|
+
+#### BPL S2楽曲パック vol.0
+
+- [販売ページ](https://p.eagate.573.jp/gate/p/eamusement/coop/details.html?shop=1&category=56&pid=961)
+- 発売日: 2023-05-25
+- 購入することで、下記の楽曲をアーケードで「先行プレー特典」として遊ぶことができる。
+
+|Name|Artist|BPM|SINGLE|DOUBLE|
+|----|------|---|------|------|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
 
 #### コントローラ購入者特典楽曲パック
 
