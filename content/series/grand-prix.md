@@ -907,7 +907,7 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
-|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[Boss Rush](/songs/boss-rush)|USAO|95-190|:charts{:difficulties="difficulties" levels="4,10,14,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,14,16" charts="1,2,3"}|
 |[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
 |[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
 |[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
@@ -1072,8 +1072,8 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
-|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
-|[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
+|[Bang Pad(Werk Mix)](/songs/bang-pad)|Oyubi|160|:charts{:difficulties="difficulties" levels="3,6,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|
+|[BREAKING THE FUTURE](/songs/breaking-the-future)|ARM (IOSYS) x BEMANI Sound Team "U1" ft. Kradness x TRIΔNGLE|45-360|:charts{:difficulties="difficulties" levels="5,10,14,17" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,14,17" charts="1,2,3"}|
 |[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
 |[](/songs/)|||:charts{:difficulties="difficulties" levels=",,," charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
 
