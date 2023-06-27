@@ -15,6 +15,15 @@
     }
   },
   "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Nuxt Development Server",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "otherPortsAttributes": {
+    "onAutoForward": "ignore"
+  },
   "postCreateCommand": "npm install",
   "remoteUser": "node"
 }
