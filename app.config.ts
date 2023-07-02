@@ -5,37 +5,23 @@ export default defineAppConfig({
     title: 'Consumer DDR',
     description: pkg.description,
     socials: {
-      github: 'ddradar/consumer-ddr'
+      github: 'ddradar/consumer-ddr',
     },
     github: {
       dir: '/content',
-      branch: 'main',
+      branch: 'master',
       repo: 'consumer-ddr',
       owner: 'ddradar',
-      edit: true
-    },
-    aside: {
-      level: 0,
-      collapsed: false,
-      exclude: []
+      edit: true,
     },
     main: {
       padded: true,
-      fluid: true
+      fluid: true,
     },
     header: {
-      logo: true,
+      title: 'Consumer DDR',
       showLinkIcon: true,
-      exclude: [],
-      fluid: true
+      fluid: true,
     },
-    footer: {
-      iconLinks: [
-        {
-          href: 'https://nuxt.com',
-          icon: 'simple-icons:nuxtdotjs'
-        }
-      ]
-    }
-  }
+  },
 })

@@ -1,22 +1,17 @@
 <template>
-  <div class="tags has-addons">
-    <span
-      v-for="(level, i) in splitedLevels"
-      :key="i"
-      class="tag"
-      :class="difficulties[splitedCharts[i]].class"
-      :title="difficulties[splitedCharts[i]].name"
-    >
-      {{ level }}
-    </span>
-  </div>
+  <Badge
+    v-for="(level, i) in splitedLevels"
+    :key="i"
+    :title="difficulties[splitedCharts[i]].name"
+    :type="difficulties[splitedCharts[i]].type"
+  >
+    {{ level }}
+  </Badge>
 </template>
 
 <script lang="ts" setup>
-import type { Software } from '~~/composables/useSoftwareData'
-
 interface Props {
-  difficulties: Software['difficulties']
+  difficulties: { name: string; type: string }[]
   levels: string
   charts: string
 }
