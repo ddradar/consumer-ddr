@@ -39,7 +39,7 @@
     "js-yaml": "^4.1.0",
     "npm-run-all2": "^6.0.5",
     "nuxt": "^3.6.1",
-    "nuxt-vitest": "^0.8.5",
+    "nuxt-vitest": "^0.8.7",
     "prettier": "^2.8.8",
     "sass": "^1.63.6",
     "typescript": "^4.9.5",
