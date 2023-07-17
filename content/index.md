@@ -9,7 +9,7 @@ navigation: false
 #default
   ::card{icon=simple-icons:playstation}
   #title
-  [Dance Dance Revolution](/1st)
+  [Dance Dance Revolution](/playstation-jp/1st)
   #description
   First Release
   ::
