@@ -1,34 +1,22 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`components/content/Charts.vue > renders tags 1`] = `
+exports[`components/content/Charts.vue > renders badges 1`] = `
 <div
-  class="tags has-addons"
+  data-v-app=""
 >
   
-  <span
-    class="tag is-basic"
+  <badge-stub
     title="NORMAL"
-  >
-    1
-  </span>
-  <span
-    class="tag is-basic"
+  />
+  <badge-stub
     title="BASIC"
-  >
-    2
-  </span>
-  <span
-    class="tag is-difficult"
+  />
+  <badge-stub
     title="ANOTHER"
-  >
-    3
-  </span>
-  <span
-    class="tag is-expert"
+  />
+  <badge-stub
     title="MANIAC"
-  >
-    4
-  </span>
+  />
   
 </div>
 `;
