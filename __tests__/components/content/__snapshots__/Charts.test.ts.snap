@@ -1,0 +1,22 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`components/content/Charts.vue > renders badges 1`] = `
+<div
+  data-v-app=""
+>
+  
+  <badge-stub
+    title="NORMAL"
+  />
+  <badge-stub
+    title="BASIC"
+  />
+  <badge-stub
+    title="ANOTHER"
+  />
+  <badge-stub
+    title="MANIAC"
+  />
+  
+</div>
+`;

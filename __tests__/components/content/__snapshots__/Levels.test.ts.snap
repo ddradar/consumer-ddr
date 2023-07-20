@@ -1,0 +1,43 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`components/content/Levels.vue > (links: /playstation-jp/1st, level: 1) renders expected badge 1`] = `
+<div
+  data-v-app=""
+>
+  
+  <a>
+    <badge-stub />
+  </a>
+  
+</div>
+`;
+
+exports[`components/content/Levels.vue > (links: /playstation-jp/1st,/playstation-jp/2nd, level: 2) renders expected badge 1`] = `
+<div
+  data-v-app=""
+>
+  
+  <a>
+    <badge-stub />
+  </a>
+  <a>
+    <badge-stub />
+  </a>
+  
+</div>
+`;
+
+exports[`components/content/Levels.vue > (links: /playstation-jp/1st,/playstation-jp/2nd, level: 2,3) renders expected badge 1`] = `
+<div
+  data-v-app=""
+>
+  
+  <a>
+    <badge-stub />
+  </a>
+  <a>
+    <badge-stub />
+  </a>
+  
+</div>
+`;
