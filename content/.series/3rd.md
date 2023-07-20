@@ -35,7 +35,7 @@ difficulties:
 |[MR. WONDERFUL](/songs/mr-wonderful)|SMiLE.dk|138|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[WONDERLAND (UKS MIX)](/songs/wonderland)|X-TREME|128|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[GET UP (BEFORE THE NIGHT IS OVER)](/songs/get-up)|TECHNOTRONIC feat. YA KID K|124|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[butterfly (UPSWING MIX)](/songs/butterfly-upswing)|SMiLE.dk|170|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[butterfly (UPSWING MIX)](/playstation-jp/1st/butterfly-upswing)|SMiLE.dk|170|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[DAM DARIRAM](/songs/dam-dariram)|JOGA|142|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[IN THE NAVY '99 (XXL Disaster Remix)](/songs/in-the-navy)|CAPTAIN JACK|135|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[La Senorita](/songs/la-senorita)|CAPTAIN. T|182|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
@@ -62,15 +62,15 @@ difficulties:
 |[PUT YOUR FAITH IN ME (Jazzy Groove)](/songs/put-your-faith-in-me-jazzy-groove)|UZI-LAY|119|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6" charts="1,2"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5" charts="1,2"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[BRILLIANT 2U (Orchestra-Groove)](/songs/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5" charts="1,2"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
-|[MAKE IT BETTER](/songs/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[MAKE IT BETTER](/playstation-jp/1st/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[MAKE IT BETTER (So-REAL MIX)](/songs/make-it-better-so-real)|mitsu-O! SUMMER|118|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
 |[AM-3P](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6" charts="1,2"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
-|[TRIP MACHINE](/songs/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[TRIP MACHINE](/playstation-jp/1st/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[SP-TRIP MACHINE \~JUNGLE MIX\~](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}||
-|[PARANOiA](/songs/paranoia)|180|180|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
-|[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|
-|[MAKE A JAM!](/songs/make-a-jam)|U1|124|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5" charts="1,2"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[PARANOiA KCET \~clean mix\~](/songs/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[PARANOiA](/playstation-jp/1st/paranoia)|180|180|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|
+|[MAKE A JAM!](/playstation-jp/1st/make-a-jam)|U1|124|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5" charts="1,2"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[PARANOiA KCET \~clean mix\~](/playstation-jp/1st/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[think ya better D](/songs/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4" charts="1,2"}|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|
 |[TRIP MACHINE \~luv mix\~](/songs/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
@@ -89,22 +89,22 @@ difficulties:
 |曲名|必要曲数|その他の条件|
 |----|------:|-----------|
 |[AFTER THE GAME OF LOVE](/songs/after-the-game-of-love)|10|ARCADE MODEでゲームオーバーになる|
-|[MAKE A JAM!](/songs/make-a-jam)|35||
-|[MAKE IT BETTER](/songs/make-it-better)|40||
+|[MAKE A JAM!](/playstation-jp/1st/make-a-jam)|35||
+|[MAKE IT BETTER](/playstation-jp/1st/make-it-better)|40||
 |[PUT YOUR FAITH IN ME](/songs/put-your-faith-in-me)|45||
 |[PUT YOUR FAITH IN ME (Jazzy Groove)](/songs/put-your-faith-in-me-jazzy-groove)|50||
 |[think ya better D](/songs/think-ya-better-d)|55||
 |[CUTIE CHASER](/songs/cutie-chaser)|60||
 |[BRILLIANT 2U](/songs/brilliant-2u)|65||
-|[TRIP MACHINE](/songs/trip-machine)|75||
-|[PARANOiA](/songs/paranoia)|80||
-|[PARANOiA KCET \~clean mix\~](/songs/paranoia-kcet)|85||
+|[TRIP MACHINE](/playstation-jp/1st/trip-machine)|75||
+|[PARANOiA](/playstation-jp/1st/paranoia)|80||
+|[PARANOiA KCET \~clean mix\~](/playstation-jp/1st/paranoia-kcet)|85||
 |[AM-3P](/songs/am-3p)|90||
 |[MAKE IT BETTER (So-REAL MIX)](/songs/make-it-better-so-real)|95||
 |[BRILLIANT 2U (Orchestra-Groove)](/songs/brilliant-2u-orchestra-groove)|100||
 |[SP-TRIP MACHINE \~JUNGLE MIX\~](/songs/sp-trip-machine)|105||
 |[TRIP MACHINE \~luv mix\~](/songs/trip-machine-luv)|110||
-|[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)|115||
+|[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)|115||
 |[LOVE THIS FEELIN'](/songs/love-this-feelin)|120||
 |[DROP THE BOMB](/songs/drop-the-bomb)|130||
 |[La Señorita Virtual](/songs/la-senorita-virtual)|160|HOME 2エンディングを見る|
@@ -119,17 +119,17 @@ difficulties:
 
 当ソフトのアペンド機能より、下記ソフトをプレー可能。
 
-- [Dance Dance Revolution](/series/1st-jp)
+- [Dance Dance Revolution](/playstation-jp/1st)
 - [Dance Dance Revolution 2nd ReMIX](/series/2nd)
 - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1](/series/club-1)
-- [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/series/club-2)
+- [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/playstation-jp/club-vol2)
 
 ### このソフトが隠し要素を解禁できるソフト
 
-- [Dance Dance Revolution](/series/1st-jp)
+- [Dance Dance Revolution](/playstation-jp/1st)
 - [Dance Dance Revolution 2nd ReMIX](/series/2nd)
 - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1](/series/club-1)
-- [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/series/club-2)
+- [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/playstation-jp/club-vol2)
 
 ### このソフトの隠し要素を解禁できるソフト
 

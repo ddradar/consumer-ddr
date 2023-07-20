@@ -84,7 +84,7 @@ difficulties:
 |[SUPER STAR](/songs/super-star)|D.J. RICH feat. Tail Bros.|128|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[LUV TO ME (disco mix)](/songs/luv-to-me)|tiger YAMATO|154|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,8" charts="1,2,3"}|
 |[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="2,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
-|[PARANOiA KCET (clean mix)](/songs/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[PARANOiA KCET (clean mix)](/playstation-jp/1st/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[Healing Vision (Angelic mix)](/songs/healing-vision-angelic)|2MB|46-196|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[PARANOIA EVOLUTION](/songs/paranoia-evolution)|200|200|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[La Señorita Virtual](/songs/la-senorita-virtual)|2MB|182|:charts{:difficulties="difficulties" levels="2,7,8,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
@@ -102,7 +102,7 @@ difficulties:
 |[BRILLIANT 2U (Orchestra-Groove)](/songs/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,5,6,7,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
 |[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:difficulties="difficulties" levels="2,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
 |[革命](/songs/kakumei)|dj TAKA with NAOKI|83-148|:charts{:difficulties="difficulties" levels="1,4,6,9,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,5,9,8" charts="1,2,3,4"}|
-|[MAKE IT BETTER](/songs/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,3"}|
+|[MAKE IT BETTER](/playstation-jp/1st/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,3"}|
 |[La Senorita](/songs/la-senorita)|CAPTAIN. T|182|:charts{:difficulties="difficulties" levels="2,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[CAN'T STOP FALLIN' IN LOVE (SPEED MIX)](/songs/cant-stop-fallin-in-love-speed)|NAOKI|170|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[DYNAMITE RAVE](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,5,7,9,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,8,8" charts="1,2,3,4"}|
@@ -110,10 +110,10 @@ difficulties:
 |[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="1,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[AFRONOVA](/songs/afronova)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
 |[SP-TRIP MACHINE (JUNGLE MIX)](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
-|[TRIP MACHINE](/songs/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
+|[TRIP MACHINE](/playstation-jp/1st/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
 |[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="2,6,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
-|[PARANOiA](/songs/paranoia)|180|180|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
-|[PARANOiA MAX (DIRTY MIX)](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="2,6,8,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
+|[PARANOiA](/playstation-jp/1st/paranoia)|180|180|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
+|[PARANOiA MAX (DIRTY MIX)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="2,6,8,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[MAX 300](/songs/max-300)|Ω|300|:charts{:difficulties="difficulties" levels="3,6,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
 |[MAXX UNLIMITED](/songs/maxx-unlimited)|Z|140-320|:charts{:difficulties="difficulties" levels="3,6,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
 |[more deep (ver.2.1)](/songs/more-deep)|Togo Project feat. Sana|133|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|

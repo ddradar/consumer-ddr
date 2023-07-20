@@ -89,7 +89,7 @@ difficulties:
 |[gentle stress (SENSUAL MIX)](/songs/gentle-stress-sensual)|MR. DOG feat. DJ SWAN|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
-|[PARANOiA MAX (DIRTY MIX) -CLUB ANOTHER ver.2-](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,9" charts="1,2,5"}|
+|[PARANOiA MAX (DIRTY MIX) -CLUB ANOTHER ver.2-](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,9" charts="1,2,5"}|
 |[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 
 ## システム概要

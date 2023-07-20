@@ -86,7 +86,7 @@ difficulties:
 |[INSIDE YOUR HEART](/songs/inside-your-heart)|AKIRA YAMAOKA|107|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[Look To The Sky](/songs/look-to-the-sky)|SySF. feat.ANNA|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
-|[PARANOiA](/songs/paranoia)|180|180|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
+|[PARANOiA](/playstation-jp/1st/paranoia)|180|180|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[STILL IN MY HEART](/songs/still-in-my-heart)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[Sweet Sweet ♥ Magic](/songs/sweet-sweet-love-magic)|jun|180|:charts{:difficulties="difficulties" levels="2,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
 |[TOMORROW](/songs/tomorrow)|nc ft. Dreamscanner|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|

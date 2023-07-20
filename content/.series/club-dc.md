@@ -63,9 +63,9 @@ difficulties:
 |[GENOM SCREAMS](/songs/genom-screams)|L.E.D. LIGHT|150|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|
 |[DEEP IN YOU](/songs/deep-in-you)|dj nagureo|126|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8" charts="1,2"}|
 |[RUGGED ASH](/songs/rugged-ash)|SYMPHONIC DEFOGGERS|168|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
-|[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
-|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
-|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
+|[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
+|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
+|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
 |[KEEP ON MOVIN'](/songs/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|
 |[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
 |[gentle stress](/songs/gentle-stress)|DJ Swan|174|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|

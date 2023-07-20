@@ -21,7 +21,7 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
-|[BUTTERFLY](/songs/butterfly)|smile. dk|135|:charts{:difficulties="difficulties" levels="1,3,4,5,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,6,8" charts="1,2,3,4"}|
+|[BUTTERFLY](/playstation-jp/1st/butterfly)|smile. dk|135|:charts{:difficulties="difficulties" levels="1,3,4,5,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,6,8" charts="1,2,3,4"}|
 |[CAPTAIN JACK (GRANDALE REMIX)](/songs/captain-jack)|CAPTAIN JACK|170|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[CONGA FEELING](/songs/conga-feeling)|VIVIAN|130|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[DAM DARIRAM](/songs/dam-dariram)|JOGA|142|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
@@ -29,9 +29,9 @@ difficulties:
 |[DUB I DUB](/songs/dub-i-dub)|ME & MY|136|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,3"}|
 |[EL RITMO TROPICAL](/songs/el-ritmo-tropical)|DIXIES GANG|133|:charts{:difficulties="difficulties" levels="1,2,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
 |[GET UP'N MOVE](/songs/get-up-n-move)|S&K|132|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,7" charts="1,2,3"}|
-|[I believe in miracles](/songs/i-believe-in-miracles)|HI-RISE|126|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[I believe in miracles](/playstation-jp/1st/i-believe-in-miracles)|HI-RISE|126|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[IF YOU WERE HERE](/songs/if-you-were-here)|JENNIFER|146|:charts{:difficulties="difficulties" levels="1,5,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,7" charts="1,2,3"}|
-|[LET'S GET DOWN](/songs/lets-get-down)|JT PLAYAZ|128|:charts{:difficulties="difficulties" levels="1,3,4,5,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,4,7,7" charts="1,2,3,4"}|
+|[LET'S GET DOWN](/playstation-jp/1st/lets-get-down)|JT PLAYAZ|128|:charts{:difficulties="difficulties" levels="1,3,4,5,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,4,7,7" charts="1,2,3,4"}|
 |[MOONLIGHT SHADOW (New Vocal Version)](/songs/moonlight-shadow)|MISSING HEART|140|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[RHYTHM AND POLICE (K.O.G G3 Mix)](/songs/rhythm-and-police)|CJ CREW feat. CHRISTIAN D|170|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
 |[SKY HIGH](/songs/sky-high-miko)|DJ MIKO|136|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -48,7 +48,7 @@ difficulties:
 |[La Senorita](/songs/la-senorita)|CAPTAIN. T|182|:charts{:difficulties="difficulties" levels="2,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[Look To The Sky](/songs/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
-|[PARANOiA](/songs/paranoia)|180|180|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
+|[PARANOiA](/playstation-jp/1st/paranoia)|180|180|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[PUT YOUR FAITH IN ME](/songs/put-your-faith-in-me)|UZI-LAY|119|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[Remember You](/songs/remember-you)|NM feat.Julie|105|:charts{:difficulties="difficulties" levels="1,1,3,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|
 |[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="1,2,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|

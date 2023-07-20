@@ -58,7 +58,7 @@ difficulties:
 |[LADIES' NIGHT](/songs/ladies-night)|∠R|120|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Like A Virgin](/songs/like-a-virgin)|tama_happytone|126|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[LOVE LOVE SUGAR](/songs/love-love-sugar)|dj TAKA feat. NORIA|155|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[MAKE IT BETTER](/songs/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,3"}|
+|[MAKE IT BETTER](/playstation-jp/1st/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,3"}|
 |[MAXIMIZER](/songs/maximizer)|CLI-MAX S.|190|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
 |[MEMORIES](/songs/memories)|NAOKI Feat.PAULA TERRY|145|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[MIRACLE](/songs/miracle)|ST.JENNARO|128|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
@@ -69,7 +69,7 @@ difficulties:
 |[ON THE JAZZ](/songs/on-the-jazz)|Jonny Dynamite!|130|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[ONLY YOU](/songs/only-you)|CAPTAIN JACK|93|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[PARANOiA ETERNAL](/songs/paranoia-eternal)|STM 200|200|:charts{:difficulties="difficulties" levels="2,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
-|[PARANOiA MAX (DIRTY MIX)](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="2,6,8,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
+|[PARANOiA MAX (DIRTY MIX)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="2,6,8,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[PEACE-OUT](/songs/peace-out)|dj nagureo|133|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Pink Rose](/songs/pink-rose)|Kiyommy + Seiya|146|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Planet Rock (Swordfish Radio Edit)](/songs/planet-rock)|Paul Oakenfold vs. Afrika Bambaata and the Soul Sonic Force|126|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
@@ -80,7 +80,7 @@ difficulties:
 |[THE REFLEX](/songs/the-reflex)|DURAN DURAN|126|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[THEME FROM ENTER THE DRAGON (notorious mix)](/songs/theme-from-enter-the-dragon)|B3-PROJECT|142|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
 |[THERE YOU'LL BE](/songs/there-you-ll-be)|DJ SPEEDO feat. ANGELICA|172|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,8" charts="1,2,3"}|
-|[TRIP MACHINE](/songs/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
+|[TRIP MACHINE](/playstation-jp/1st/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
 |[TRIP MACHINE survivor](/songs/trip-machine-survivor)|DE-SIRE|170|:charts{:difficulties="difficulties" levels="1,5,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[TSUGARU](/songs/tsugaru)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
 |[TSUGARU (APPLE MIX)](/songs/tsugaru-apple)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|

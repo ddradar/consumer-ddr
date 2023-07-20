@@ -72,7 +72,7 @@ difficulties:
 |[Forever Sunshine](/songs/forever-sunshine)|Chel Y.|128|:charts{:difficulties="difficulties" levels="1,3,5,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
 |[I Need You](/songs/i-need-you)|Supa Fova feat. Jenny F.|114|:charts{:difficulties="difficulties" levels="1,3,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[more deep (ver.2.1)](/songs/more-deep)|Togo Project feat. Sana|133|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
-|[PARANOiA KCET (clean mix)](/songs/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[PARANOiA KCET (clean mix)](/playstation-jp/1st/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[PUT YOUR FAITH IN ME](/songs/put-your-faith-in-me)|UZI-LAY|119|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[Radical Faith](/songs/radical-faith)|TaQ|114|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[SP-TRIP MACHINE (JUNGLE MIX)](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|

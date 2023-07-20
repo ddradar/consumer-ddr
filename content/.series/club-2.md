@@ -30,7 +30,7 @@ difficulties:
 |[DEEP IN YOU](/songs/deep-in-you)|dj nagureo|126|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8" charts="1,2"}|
 |[patsenner](/songs/patsenner)|dj nagureo|108|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
 |[Macho Gang](/songs/macho-gang)|ANAL SPYDER|125|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|
-|[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
+|[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
 |[THE EARTH LIGHT](/songs/the-earth-light)|L.E.D. LIGHT|145|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|
 |[GENOM SCREAMS](/songs/genom-screams)|L.E.D. LIGHT|150|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|
 |[Queen's Jamaica (astria mix)](/songs/queens-jamaica)|crunky boy (featuring Muhammad)|94|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7" charts="1,2"}|
@@ -43,8 +43,8 @@ difficulties:
 |[GRADIUSIC CYBER (CLUB ANOTHER)](/songs/gradiusic-cyber-another)|TAKA|159-167|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
 |[ska a go go (CLUB ANOTHER)](/songs/ska-a-go-go-another)|THE BALD HEAD|144-160|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|
 |[R3 (CLUB ANOTHER)](/songs/r3-another)|tiger YAMATO|157|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|
-|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
-|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)](/songs/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
+|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
+|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
 
 ## システム概要
 
@@ -103,8 +103,8 @@ difficulties:
 
 |曲名|条件|
 |----|----|
-|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/songs/paranoia-max)|30曲以上クリア<br/>[PARANOiA MAX \~DIRTY MIX\~](/songs/paranoia-max)の全譜面をクリアし、RECORDを埋める|
-|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)](/songs/paranoia-max)|60曲以上クリア<br/>[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/songs/paranoia-max)の全譜面をクリアし、RECORDを埋める|
+|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/playstation-jp/1st/paranoia-max)|30曲以上クリア<br/>[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)の全譜面をクリアし、RECORDを埋める|
+|[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)](/playstation-jp/1st/paranoia-max)|60曲以上クリア<br/>[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/playstation-jp/1st/paranoia-max)の全譜面をクリアし、RECORDを埋める|
 
 ### ENDLESSモード
 
