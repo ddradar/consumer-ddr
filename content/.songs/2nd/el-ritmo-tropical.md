@@ -26,17 +26,17 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER (old)]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="us" level=1}</div>|87/0||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="party" level=1}</div>|75/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=2} :level{slug="2nd-dc" level=2} :level{slug="gb" level=2} :level{slug="us" level=2} :level{slug="party" level=2}</div>|124/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="gb" level=6} :level{slug="us" level=6} :level{slug="party" level=6}</div>|198/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="gb" level=7} :level{slug="us" level=7} :level{slug="party" level=7}</div>|247/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="us" level=4} :level{slug="party" level=4}</div>|163/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="us" level=5} :level{slug="party" level=5}</div>|174/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="us" level=7} :level{slug="party" level=7}</div>|217/0||
-|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=2} :level{slug="2nd-dc" level=2} :level{slug="gb" level=2}</div>|117/0||
-|COUPLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="gb" level=6}</div>|180/0||
-|COUPLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="gb" level=7}</div>|247/0||
-|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="us" level=2}</div>|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="us" level=6}</div>|||
-|UNISON|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="us" level=7}</div>|||
+|SINGLE|[BEGINNER (old)]{.tag.is-beginner}| :levels{links="/playstation-us/1st" level="1"}|87/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/party" level="1"}|75/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/gameboy/1st,/playstation-us/1st,/playstation2-jp/party" level="2,2,2,2,2"}|124/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/gameboy/1st,/playstation-us/1st,/playstation2-jp/party" level="6,6,6,6,6"}|198/0||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/gameboy/1st,/playstation-us/1st,/playstation2-jp/party" level="7,7,7,7,7"}|247/0||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-us/1st,/playstation2-jp/party" level="4,4,4,4"}|163/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-us/1st,/playstation2-jp/party" level="5,5,5,5"}|174/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-us/1st,/playstation2-jp/party" level="7,7"}|217/0||
+|COUPLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/gameboy/1st" level="2,2,2"}|117/0||
+|COUPLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/gameboy/1st" level="6,6,6"}|180/0||
+|COUPLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/gameboy/1st" level="7,7,7"}|247/0||
+|UNISON|[BASIC]{.tag.is-basic}| :levels{links="/playstation-us/1st" level="2"}|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-us/1st" level="6"}|||
+|UNISON|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-us/1st" level="7"}|||

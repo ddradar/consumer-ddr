@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=2}</div>|79/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=4}</div>|134/9||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=6}</div>|185/14||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=8}</div>|249/13||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=4}</div>|136/10||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=6}</div>|167/13||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=9}</div>|235/23||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/x" level="2"}|79/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/x" level="4"}|134/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/x" level="6"}|185/14||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/x" level="8"}|249/13||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/x" level="4"}|136/10||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/x" level="6"}|167/13||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/x" level="9"}|235/23||

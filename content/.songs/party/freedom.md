@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="party" level=1} :level{slug="grand-prix" level=3}</div>|114/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="party" level=4} :level{slug="grand-prix" level=5}</div>|141/27||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="party" level=5} :level{slug="grand-prix" level=7}</div>|196/6||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="party" level=7} :level{slug="grand-prix" level=11}</div>|291/7||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="party" level=3} :level{slug="grand-prix" level=4}</div>|137/18||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="party" level=6} :level{slug="grand-prix" level=7}</div>|187/5||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="party" level=7} :level{slug="grand-prix" level=11}</div>|251/5||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/party,/windows/grand-prix" level="1,3"}|114/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/party,/windows/grand-prix" level="4,5"}|141/27||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/party,/windows/grand-prix" level="5,7"}|196/6||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/party,/windows/grand-prix" level="7,11"}|291/7||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/party,/windows/grand-prix" level="3,4"}|137/18||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/party,/windows/grand-prix" level="6,7"}|187/5||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/party,/windows/grand-prix" level="7,11"}|251/5||

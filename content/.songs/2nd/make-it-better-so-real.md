@@ -28,23 +28,23 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="festival" level=1} :level{slug="grand-prix" level=2}</div>|90/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="3rd" level=5} :level{slug="konamix" level=5} :level{slug="pc" level=5} :level{slug="festival" level=5} :level{slug="grand-prix" level=7}</div>|159/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="konamix" level=6} :level{slug="pc" level=6} :level{slug="festival" level=6} :level{slug="grand-prix" level=8}</div>|191/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="konamix" level=8} :level{slug="pc" level=8} :level{slug="festival" level=8} :level{slug="grand-prix" level=10}</div>|208/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=12}</div>|237/10(29)||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="3rd" level=5} :level{slug="konamix" level=5} :level{slug="pc" level=5} :level{slug="festival" level=5} :level{slug="grand-prix" level=7}</div>|135/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="3rd" level=7} :level{slug="konamix" level=7} :level{slug="pc" level=7} :level{slug="festival" level=7} :level{slug="grand-prix" level=9}</div>|183/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=8} :level{slug="pc" level=8} :level{slug="festival" level=8} :level{slug="grand-prix" level=11}</div>|237/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=12}</div>|192/22(29)||
-|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5}</div>|140/0||
-|COUPLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}</div>|175/0||
-|COUPLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}</div>|195/0||
-|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=5}</div>|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=6}</div>|||
-|UNISON|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=8}</div>|||
-|BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=5}</div>|||
-|BATTLE|[BATTLE (PC)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="pc" level=8}</div>|||
-|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=5} :level{slug="pc" level=5}</div>|159/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6} :level{slug="pc" level=6}</div>|191/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=8} :level{slug="pc" level=8}</div>|208/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="festival" level=1}  :levels{links="/windows/grand-prix" level="2"}</div>|90/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/konamix,/windows/1st" level="5,5,5,5,5"} :level{slug="festival" level=5}  :levels{links="/windows/grand-prix" level="7"}|159/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/konamix,/windows/1st" level="6,6,6,6,6"} :level{slug="festival" level=6}  :levels{links="/windows/grand-prix" level="8"}|191/0||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/konamix,/windows/1st" level="8,8,8,8,8"} :level{slug="festival" level=8}  :levels{links="/windows/grand-prix" level="10"}|208/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}| :levels{links="/windows/grand-prix" level="12"}|237/10(29)||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/konamix,/windows/1st" level="5,5,5,5,5"} :level{slug="festival" level=5}  :levels{links="/windows/grand-prix" level="7"}|135/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/konamix,/windows/1st" level="7,7,7,7,7"} :level{slug="festival" level=7}  :levels{links="/windows/grand-prix" level="9"}|183/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-us/konamix,/windows/1st" level="8,8"} :level{slug="festival" level=8}  :levels{links="/windows/grand-prix" level="11"}|237/0||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}| :levels{links="/windows/grand-prix" level="12"}|192/22(29)||
+|COUPLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="5,5"}|140/0||
+|COUPLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="6,6"}|175/0||
+|COUPLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="8,8"}|195/0||
+|UNISON|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/3rd" level="5"}|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/3rd" level="6"}|||
+|UNISON|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/3rd" level="8"}|||
+|BATTLE|[BATTLE]{.tag.is-basic}| :levels{links="/playstation-us/konamix" level="5"}|||
+|BATTLE|[BATTLE (PC)]{.tag.is-basic}| :levels{links="/windows/1st" level="8"}|||
+|6-PANELS|[BASIC]{.tag.is-basic}| :levels{links="/playstation-us/konamix,/windows/1st" level="5,5"}|159/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-us/konamix,/windows/1st" level="6,6"}|191/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-us/konamix,/windows/1st" level="8,8"}|208/0||

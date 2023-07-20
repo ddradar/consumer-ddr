@@ -27,31 +27,31 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="us" level=1}</div>|69/0||
-|SINGLE|[BASIC (old)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=1} :level{slug="2nd-dc" level=1}</div>|56/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd-dc" level=3} :level{slug="3rd" level=3} :level{slug="us" level=3} :level{slug="konamix" level=3} :level{slug="pc" level=3}</div>|107/0||
-|SINGLE|[DIFFICULT (old)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=2} :level{slug="2nd-dc" level=2}</div>|112/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="us" level=6} :level{slug="konamix" level=6} :level{slug="pc" level=6}</div>|150/0||
-|SINGLE|[EXPERT (old)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4}</div>|161/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd-dc" level=7} :level{slug="3rd" level=7} :level{slug="us" level=7} :level{slug="konamix" level=7} :level{slug="pc" level=7}</div>|198/0||
-|DOUBLE|[BASIC (old)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=2} :level{slug="2nd-dc" level=2}</div>|101/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd-dc" level=3} :level{slug="3rd" level=3} :level{slug="us" level=3} :level{slug="konamix" level=3} :level{slug="pc" level=3}</div>|110/0||
-|DOUBLE|[DIFFICULT (old)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=3} :level{slug="2nd-dc" level=3}</div>|143/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="us" level=6} :level{slug="konamix" level=6} :level{slug="pc" level=6}</div>|126/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd-dc" level=7} :level{slug="3rd" level=7} :level{slug="us" level=7} :level{slug="konamix" level=7} :level{slug="pc" level=7}</div>|165/0||
-|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=1} :level{slug="2nd-dc" level=1}</div>|56/0||
-|COUPLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=2} :level{slug="2nd-dc" level=2}</div>|106/0||
-|COUPLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4}</div>|147/0||
-|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=3} :level{slug="us" level=3}</div>|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=6} :level{slug="us" level=6}</div>|||
-|UNISON|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=7} :level{slug="us" level=7}</div>|||
-|STEP BATTLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=9} :level{slug="2nd-dc" level=9}</div>|||
-|STEP BATTLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=9} :level{slug="2nd-dc" level=9}</div>|||
-|STEP BATTLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=9} :level{slug="2nd-dc" level=9}</div>|||
-|BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=2} :level{slug="pc" level=5}</div>|||
-|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=3} :level{slug="pc" level=3}</div>|95/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6} :level{slug="pc" level=6}</div>|150/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7} :level{slug="pc" level=7}</div>|198/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation-us/1st" level="1"}|69/0||
+|SINGLE|[BASIC (old)]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="1,1"}|56/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/1st,/playstation-us/konamix,/windows/1st" level="3,3,3,3,3"}|107/0||
+|SINGLE|[DIFFICULT (old)]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="2,2"}|112/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/1st,/playstation-us/konamix,/windows/1st" level="6,6,6,6,6"}|150/0||
+|SINGLE|[EXPERT (old)]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="4,4"}|161/0||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/1st,/playstation-us/konamix,/windows/1st" level="7,7,7,7,7"}|198/0||
+|DOUBLE|[BASIC (old)]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="2,2"}|101/0||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/1st,/playstation-us/konamix,/windows/1st" level="3,3,3,3,3"}|110/0||
+|DOUBLE|[DIFFICULT (old)]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="3,3"}|143/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/1st,/playstation-us/konamix,/windows/1st" level="6,6,6,6,6"}|126/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-us/1st,/playstation-us/konamix,/windows/1st" level="7,7,7,7,7"}|165/0||
+|COUPLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="1,1"}|56/0||
+|COUPLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="2,2"}|106/0||
+|COUPLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="4,4"}|147/0||
+|UNISON|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/3rd,/playstation-us/1st" level="3,3"}|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/3rd,/playstation-us/1st" level="6,6"}|||
+|UNISON|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/3rd,/playstation-us/1st" level="7,7"}|||
+|STEP BATTLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="9,9"}|||
+|STEP BATTLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="9,9"}|||
+|STEP BATTLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="9,9"}|||
+|BATTLE|[BATTLE]{.tag.is-basic}| :levels{links="/playstation-us/konamix,/windows/1st" level="2,5"}|||
+|6-PANELS|[BASIC]{.tag.is-basic}| :levels{links="/playstation-us/konamix,/windows/1st" level="3,3"}|95/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-us/konamix,/windows/1st" level="6,6"}|150/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-us/konamix,/windows/1st" level="7,7"}|198/0||
 
 ## メモ
 

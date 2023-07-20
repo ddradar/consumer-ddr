@@ -23,9 +23,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=10} :level{slug="x-jp" level=10}</div>|504/40||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=13} :level{slug="x-jp" level=13}</div>|671/44||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15} :level{slug="x-jp" level=15}</div>|1003/45||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11} :level{slug="x-jp" level=11}</div>|478/19||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15} :level{slug="x-jp" level=15}</div>|658/26||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=18} :level{slug="x-jp" level=18}</div>|911/39||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=10}  :levels{links="/playstation2-jp/x" level="10"}</div>|504/40||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=13}  :levels{links="/playstation2-jp/x" level="13"}</div>|671/44||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}  :levels{links="/playstation2-jp/x" level="15"}</div>|1003/45||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11}  :levels{links="/playstation2-jp/x" level="11"}</div>|478/19||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}  :levels{links="/playstation2-jp/x" level="15"}</div>|658/26||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=18}  :levels{links="/playstation2-jp/x" level="18"}</div>|911/39||

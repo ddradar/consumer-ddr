@@ -27,15 +27,15 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=1} :level{slug="festival" level=1} :level{slug="nova2-jp" level=1} :level{slug="grand-prix" level=3}</div>|124/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=3} :level{slug="max2-us" level=3} :level{slug="festival" level=3} :level{slug="nova2-jp" level=3} :level{slug="grand-prix" level=4}</div>|147/5||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5} :level{slug="festival" level=5} :level{slug="nova2-jp" level=5} :level{slug="grand-prix" level=7}</div>|236/29||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7} :level{slug="festival" level=7} :level{slug="nova2-jp" level=7} :level{slug="grand-prix" level=11}</div>|327/7||
-|SINGLE|["FREEZE" Special]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=8} :level{slug="x2" level=12} :level{slug="grand-prix" level=12}</div>|175/67||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=3} :level{slug="max2-us" level=3} :level{slug="festival" level=3} :level{slug="nova2-jp" level=3} :level{slug="grand-prix" level=4}</div>|138/4||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :level{slug="max2-us" level=5} :level{slug="festival" level=5} :level{slug="nova2-jp" level=5} :level{slug="grand-prix" level=8}</div>|238/10||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :level{slug="max2-us" level=7} :level{slug="festival" level=7} :level{slug="nova2-jp" level=7} :level{slug="grand-prix" level=11}</div>|332/0||
-|DOUBLE|["FREEZE" Special]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=9} :level{slug="x2" level=13} :level{slug="grand-prix" level=12}</div>|158/54||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/max2,/windows/grand-prix" level="1"} :level{slug="festival" level=1}  :levels{links="/playstation2-jp/supernova2" level="1,3"}|124/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=3} :levels{links="/playstation2-us/max2,/windows/grand-prix" level="3"} :level{slug="festival" level=3}  :levels{links="/playstation2-jp/supernova2" level="3,4"}</div>|147/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :levels{links="/playstation2-us/max2,/windows/grand-prix" level="5"} :level{slug="festival" level=5}  :levels{links="/playstation2-jp/supernova2" level="5,7"}</div>|236/29||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :levels{links="/playstation2-us/max2,/windows/grand-prix" level="7"} :level{slug="festival" level=7}  :levels{links="/playstation2-jp/supernova2" level="7,11"}</div>|327/7||
+|SINGLE|["FREEZE" Special]{.tag.is-challenge}| :levels{links="/playstation2-jp/supernova2" level="8"} :level{slug="x2" level=12}  :levels{links="/windows/grand-prix" level="12"}|175/67||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=3} :levels{links="/playstation2-us/max2,/windows/grand-prix" level="3"} :level{slug="festival" level=3}  :levels{links="/playstation2-jp/supernova2" level="3,4"}</div>|138/4||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :levels{links="/playstation2-us/max2,/windows/grand-prix" level="5"} :level{slug="festival" level=5}  :levels{links="/playstation2-jp/supernova2" level="5,8"}</div>|238/10||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=7} :levels{links="/playstation2-us/max2,/windows/grand-prix" level="7"} :level{slug="festival" level=7}  :levels{links="/playstation2-jp/supernova2" level="7,11"}</div>|332/0||
+|DOUBLE|["FREEZE" Special]{.tag.is-challenge}| :levels{links="/playstation2-jp/supernova2" level="9"} :level{slug="x2" level=13}  :levels{links="/windows/grand-prix" level="12"}|158/54||
 
 ## メモ
 

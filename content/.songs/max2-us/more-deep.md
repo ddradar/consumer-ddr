@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=1} :level{slug="ext-jp" level=1}</div>|81/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=3} :level{slug="ext-jp" level=3}</div>|81/15||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=5} :level{slug="ext-jp" level=5}</div>|162/38||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}</div>|195/40||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=2} :level{slug="ext-jp" level=2}</div>|93/9||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=5} :level{slug="ext-jp" level=5}</div>|133/28||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-us" level=6} :level{slug="ext-jp" level=6}</div>|184/16||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/max2,/playstation2-jp/extreme" level="1,1"}|81/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/max2,/playstation2-jp/extreme" level="3,3"}|81/15||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/max2,/playstation2-jp/extreme" level="5,5"}|162/38||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/max2,/playstation2-jp/extreme" level="6,6"}|195/40||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/max2,/playstation2-jp/extreme" level="2,2"}|93/9||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/max2,/playstation2-jp/extreme" level="5,5"}|133/28||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/max2,/playstation2-jp/extreme" level="6,6"}|184/16||

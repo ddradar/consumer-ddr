@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=2} :level{slug="ext-us" level=2} :level{slug="grand-prix" level=4}</div>|95/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=4} :level{slug="ext-us" level=4} :level{slug="grand-prix" level=5}</div>|146/5||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=6} :level{slug="ext-us" level=6} :level{slug="grand-prix" level=9}</div>|239/15||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=8} :level{slug="ext-us" level=8} :level{slug="grand-prix" level=11}</div>|308/7||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=4} :level{slug="ext-us" level=4} :level{slug="grand-prix" level=5}</div>|147/5||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=7} :level{slug="ext-us" level=7} :level{slug="grand-prix" level=8}</div>|241/7||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=8} :level{slug="ext-us" level=8} :level{slug="grand-prix" level=11}</div>|307/7||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme,/windows/grand-prix" level="2,2,4"}|95/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme,/windows/grand-prix" level="4,4,5"}|146/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme,/windows/grand-prix" level="6,6,9"}|239/15||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme,/windows/grand-prix" level="8,8,11"}|308/7||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme,/windows/grand-prix" level="4,4,5"}|147/5||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme,/windows/grand-prix" level="7,7,8"}|241/7||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme,/windows/grand-prix" level="8,8,11"}|307/7||

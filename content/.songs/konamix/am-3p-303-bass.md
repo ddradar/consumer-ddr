@@ -24,13 +24,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=4}</div>|101/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=3} :level{slug="max2-jp" level=3} :level{slug="grand-prix" level=4}</div>|128/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=5} :level{slug="max2-jp" level=6} :level{slug="grand-prix" level=9}</div>|217/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7} :level{slug="max2-jp" level=7} :level{slug="grand-prix" level=10}</div>|242/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=4} :level{slug="max2-jp" level=5} :level{slug="grand-prix" level=5}</div>|123/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6} :level{slug="max2-jp" level=6} :level{slug="grand-prix" level=8}</div>|204/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7} :level{slug="max2-jp" level=7} :level{slug="grand-prix" level=10}</div>|233/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/windows/grand-prix" level="4"}|101/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-us/konamix" level="3"} :level{slug="max2-jp" level=3}  :levels{links="/windows/grand-prix" level="4"}|128/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-us/konamix" level="5"} :level{slug="max2-jp" level=6}  :levels{links="/windows/grand-prix" level="9"}|217/0||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-us/konamix" level="7"} :level{slug="max2-jp" level=7}  :levels{links="/windows/grand-prix" level="10"}|242/0||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-us/konamix" level="4"} :level{slug="max2-jp" level=5}  :levels{links="/windows/grand-prix" level="5"}|123/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-us/konamix" level="6"} :level{slug="max2-jp" level=6}  :levels{links="/windows/grand-prix" level="8"}|204/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-us/konamix" level="7"} :level{slug="max2-jp" level=7}  :levels{links="/windows/grand-prix" level="10"}|233/0||
 
 ## メモ
 

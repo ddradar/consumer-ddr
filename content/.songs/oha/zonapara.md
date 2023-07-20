@@ -23,16 +23,16 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC (EASY/NORMAL)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=1} :level{slug="oha-gb" level=1}</div>|59/0||
-|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=3}</div>|153/0||
-|SINGLE|[ANOTHER]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4} :level{slug="oha-gb" level=4}</div>|165/0||
-|SINGLE|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4}</div>|172/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=6} :level{slug="oha-gb" level=6}</div>|194/0||
-|DOUBLE|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4}</div>|152/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=6}</div>|164/0||
-|UNISON|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=1}</div>|||
-|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=1}</div>|||
-|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=3}</div>|||
-|UNISON|[ANOTHER]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4}</div>|||
-|UNISON|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4}</div>|||
-|UNISON|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=6}</div>|||
+|SINGLE|[BASIC (EASY/NORMAL)]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta" level="1"} :level{slug="oha-gb" level=1}|59/0||
+|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="3"}|153/0||
+|SINGLE|[ANOTHER]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="4"} :level{slug="oha-gb" level=4}|165/0||
+|SINGLE|[MANIAC (EASY)]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="4"}|172/0||
+|SINGLE|[MANIAC]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="6"} :level{slug="oha-gb" level=6}|194/0||
+|DOUBLE|[BASIC (EASY)]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta" level="4"}|152/0||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta" level="6"}|164/0||
+|UNISON|[BASIC (EASY)]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta" level="1"}|||
+|UNISON|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta" level="1"}|||
+|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="3"}|||
+|UNISON|[ANOTHER]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="4"}|||
+|UNISON|[MANIAC (EASY)]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="4"}|||
+|UNISON|[MANIAC]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="6"}|||

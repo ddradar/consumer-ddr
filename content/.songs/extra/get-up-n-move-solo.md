@@ -35,6 +35,6 @@ series:
   - [Dance Dance Revolution 2nd ReMIX](/series/2nd)
   - [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc)
   - [Dance Dance Revolution BEST HITS](/series/best)
-  - [Dance Dance Revolution (US)](/series/us)
+  - [Dance Dance Revolution (US)](/playstation-us/1st)
   - [Dance Dance Revolution Party Collection](/series/party)
 - [Dance Dance Revolution EXTRA MIX](/series/extra)のDOUBLE譜面は、SINGLE譜面と同一。(1P側にSINGLE譜面が流れる)

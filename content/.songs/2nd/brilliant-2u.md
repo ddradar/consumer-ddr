@@ -38,46 +38,46 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER (old)]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=1} :level{slug="us" level=1}</div>|81/0||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=1} :level{slug="party" level=1} :level{slug="ext2" level=1} :level{slug="nova2-jp" level=1} :level{slug="grand-prix" level=3}</div>|95/0||
-|SINGLE|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=3}</div>|133/0||
-|SINGLE|[BASIC (Club)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5}</div>|154/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="3rd" level=4} :level{slug="gb" level=4} :level{slug="oha" level=5} :level{slug="best" level=4} :level{slug="us" level=4} :level{slug="konamix" level=4} :level{slug="pc" level=4} :level{slug="ext-jp" level=4} :level{slug="party" level=4} :level{slug="ext2" level=4} :level{slug="nova2-jp" level=4} :level{slug="grand-prix" level=6}</div>|162/0||
-|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4}</div>|133/0||
-|SINGLE|[ANOTHER (Club)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6}</div>|183/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="3rd" level=5} :level{slug="gb" level=5} :level{slug="oha" level=7} :level{slug="best" level=4} :level{slug="us" level=5} :level{slug="konamix" level=5} :level{slug="pc" level=5} :level{slug="ext-jp" level=5} :level{slug="party" level=5} :level{slug="ext2" level=5} :level{slug="nova2-jp" level=5} :level{slug="grand-prix" level=6}</div>|176/0||
-|SINGLE|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=5}</div>|132/0||
-|SINGLE|[MANIAC (Club)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8}</div>|218/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="gb" level=6} :level{slug="oha" level=8} :level{slug="best" level=6} :level{slug="us" level=6} :level{slug="pc" level=6} :level{slug="ext-jp" level=6} :level{slug="party" level=6} :level{slug="ext2" level=6} :level{slug="nova2-jp" level=6} :level{slug="grand-prix" level=10}</div>|225/0||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6} :level{slug="ext-jp" level=7} :level{slug="party" level=7} :level{slug="ext2" level=7} :level{slug="nova2-jp" level=7} :level{slug="grand-prix" level=10}</div>|264/0||
-|SINGLE|["STREAM" Special]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=9} :level{slug="x2" level=13} :level{slug="grand-prix" level=13}</div>|340/6||
-|DOUBLE|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4}</div>|130/0||
-|DOUBLE|[BASIC (Club)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5}</div>|154/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="3rd" level=4} :level{slug="oha" level=6} :level{slug="best" level=4} :level{slug="us" level=4} :level{slug="konamix" level=4} :level{slug="pc" level=4} :level{slug="ext-jp" level=4} :level{slug="party" level=4} :level{slug="ext2" level=4} :level{slug="nova2-jp" level=4} :level{slug="grand-prix" level=6}</div>|165/0||
-|DOUBLE|[ANOTHER (Club)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=7} :level{slug="club-dc" level=7}</div>|215/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="3rd" level=5} :level{slug="best" level=5} :level{slug="us" level=5} :level{slug="konamix" level=5} :level{slug="pc" level=65} :level{slug="ext-jp" level=5} :level{slug="party" level=5} :level{slug="ext2" level=5} :level{slug="nova2-jp" level=5} :level{slug="grand-prix" level=7}</div>|180/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="best" level=7} :level{slug="us" level=7} :level{slug="konamix" level=7} :level{slug="pc" level=7} :level{slug="ext-jp" level=7} :level{slug="party" level=7} :level{slug="ext2" level=7} :level{slug="nova2-jp" level=7} :level{slug="grand-prix" level=9}</div>|227/0||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=8} :level{slug="party" level=8} :level{slug="ext2" level=8} :level{slug="nova2-jp" level=8} :level{slug="grand-prix" level=10}</div>|229/8||
-|DOUBLE|["STREAM" Special]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=9} :level{slug="x2" level=13} :level{slug="grand-prix" level=13}</div>|325/0||
-|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=4} :level{slug="2nd-dc" level=4} :level{slug="gb" level=4}</div>|149/0||
-|COUPLE|[ANOTHER]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=5} :level{slug="2nd-dc" level=5} :level{slug="gb" level=5}</div>|165/0||
-|COUPLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="gb" level=6}</div>|225/0||
-|UNISON|[BASIC (EASY)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=3}</div>|||
-|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=4} :level{slug="oha" level=5} :level{slug="best" level=4} :level{slug="us" level=4}</div>|||
-|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=4}</div>|||
-|UNISON|[ANOTHER]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=5} :level{slug="oha" level=7} :level{slug="best" level=5} :level{slug="us" level=5}</div>|||
-|UNISON|[MANIAC (EASY)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="oha" level=5}</div>|||
-|UNISON|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=6} :level{slug="oha" level=8} :level{slug="best" level=6} :level{slug="us" level=6}</div>|||
-|BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=6} :level{slug="pc" level=5}</div>|||
-|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=4} :level{slug="pc" level=4}</div>|158/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=5} :level{slug="pc" level=6}</div>|176/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="konamix" level=7} :level{slug="pc" level=7}</div>|225/0||
+|SINGLE|[BEGINNER (old)]{.tag.is-beginner}| :levels{links="/playstation-jp/best,/playstation-us/1st" level="1,1"}|81/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party,/playstation2-us/extreme2,/playstation2-jp/supernova2,/windows/grand-prix" level="1,1,1,1,3"}|95/0||
+|SINGLE|[BASIC (EASY)]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta" level="3"}|133/0||
+|SINGLE|[BASIC (Club)]{.tag.is-basic}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="5,5"}|154/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/gameboy/1st,/playstation-jp/oha-sta,/playstation-jp/best,/playstation-us/1st,/playstation-us/konamix,/windows/1st,/playstation2-jp/party,/playstation2-jp/extreme,/playstation2-us/extreme2,/playstation2-jp/supernova2,/windows/grand-prix" level="4,4,4,4,5,4,4,4,4,4,4,4,4,6"}|162/0||
+|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="4"}|133/0||
+|SINGLE|[ANOTHER (Club)]{.tag.is-difficult}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="6,6"}|183/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/gameboy/1st,/playstation-jp/oha-sta,/playstation-jp/best,/playstation-us/1st,/playstation-us/konamix,/windows/1st,/playstation2-jp/party,/playstation2-jp/extreme,/playstation2-us/extreme2,/playstation2-jp/supernova2,/windows/grand-prix" level="5,5,5,5,7,4,5,5,5,5,5,5,5,6"}|176/0||
+|SINGLE|[MANIAC (EASY)]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="5"}|132/0||
+|SINGLE|[MANIAC (Club)]{.tag.is-expert}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="8,8"}|218/0||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/gameboy/1st,/playstation-jp/oha-sta,/playstation-jp/best,/playstation-us/1st,/windows/1st,/playstation2-jp/extreme,/playstation2-jp/party,/playstation2-us/extreme2,/playstation2-jp/supernova2,/windows/grand-prix" level="6,6,6,6,8,6,6,6,6,6,6,6,10"}|225/0||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}| :levels{links="/playstation-us/konamix,/playstation2-jp/party,/playstation2-jp/extreme,/playstation2-us/extreme2,/playstation2-jp/supernova2,/windows/grand-prix" level="6,7,7,7,7,10"}|264/0||
+|SINGLE|["STREAM" Special]{.tag.is-challenge}| :levels{links="/playstation2-jp/supernova2" level="9"} :level{slug="x2" level=13}  :levels{links="/windows/grand-prix" level="13"}|340/6||
+|DOUBLE|[BASIC (EASY)]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta" level="4"}|130/0||
+|DOUBLE|[BASIC (Club)]{.tag.is-basic}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="5,5"}|154/0||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-jp/oha-sta,/playstation-jp/best,/playstation-us/1st,/playstation-us/konamix,/windows/1st,/playstation2-jp/extreme,/playstation2-jp/party,/playstation2-us/extreme2,/playstation2-jp/supernova2,/windows/grand-prix" level="4,4,4,6,4,4,4,4,4,4,4,4,6"}|165/0||
+|DOUBLE|[ANOTHER (Club)]{.tag.is-difficult}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="7,7"}|215/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/playstation-jp/best,/playstation-us/1st,/playstation-us/konamix,/windows/1st,/playstation2-jp/party,/playstation2-jp/extreme,/playstation2-us/extreme2,/playstation2-jp/supernova2,/windows/grand-prix" level="5,5,5,5,5,5,65,5,5,5,5,7"}|180/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/best,/playstation-us/1st,/playstation-us/konamix,/windows/1st,/playstation2-jp/extreme,/playstation2-jp/party,/playstation2-us/extreme2,/playstation2-jp/supernova2,/windows/grand-prix" level="7,7,7,7,7,7,7,7,9"}|227/0||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party,/playstation2-us/extreme2,/playstation2-jp/supernova2,/windows/grand-prix" level="8,8,8,8,10"}|229/8||
+|DOUBLE|["STREAM" Special]{.tag.is-challenge}| :levels{links="/playstation2-jp/supernova2" level="9"} :level{slug="x2" level=13}  :levels{links="/windows/grand-prix" level="13"}|325/0||
+|COUPLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/gameboy/1st" level="4,4,4"}|149/0||
+|COUPLE|[ANOTHER]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/gameboy/1st" level="5,5,5"}|165/0||
+|COUPLE|[MANIAC]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/gameboy/1st" level="6,6,6"}|225/0||
+|UNISON|[BASIC (EASY)]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta" level="3"}|||
+|UNISON|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/3rd,/playstation-jp/oha-sta,/playstation-jp/best,/playstation-us/1st" level="4,5,4,4"}|||
+|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="4"}|||
+|UNISON|[ANOTHER]{.tag.is-difficult}| :levels{links="/playstation-jp/3rd,/playstation-jp/oha-sta,/playstation-jp/best,/playstation-us/1st" level="5,7,5,5"}|||
+|UNISON|[MANIAC (EASY)]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="5"}|||
+|UNISON|[MANIAC]{.tag.is-expert}| :levels{links="/playstation-jp/3rd,/playstation-jp/oha-sta,/playstation-jp/best,/playstation-us/1st" level="6,8,6,6"}|||
+|BATTLE|[BATTLE]{.tag.is-basic}| :levels{links="/playstation-us/konamix,/windows/1st" level="6,5"}|||
+|6-PANELS|[BASIC]{.tag.is-basic}| :levels{links="/playstation-us/konamix,/windows/1st" level="4,4"}|158/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-us/konamix,/windows/1st" level="5,6"}|176/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-us/konamix,/windows/1st" level="7,7"}|225/0||
 
 ## メモ
 
 - 以下のシリーズには、CLUB音源で収録されている。
-  - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/series/club-2)
-  - [Dance Dance Revolution CLUB VERSION Dreamcast Edition](/series/club-dc)
+  - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/playstation-jp/club-vol2)
+  - [Dance Dance Revolution CLUB VERSION Dreamcast Edition](/dreamcast-jp/club)
 - [Dance Dance Revolution KONAMIX](/series/konamix)の[SINGLE/EXPERT]{.tag.is-expert}は後のシリーズで登場した[SINGLE/CHALLENGE]{.tag.is-challenge}と同一。
   - 譜面一覧では[SINGLE/CHALLENGE]{.tag.is-challenge}に掲載。
 - ["STREAM" Special]{.tag.is-challenge}は「BRILLIANT 2U("STREAM" Special)」という別楽曲として収録。

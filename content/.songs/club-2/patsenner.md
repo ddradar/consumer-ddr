@@ -24,11 +24,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=4} :level{slug="club-dc" level=4} :level{slug="konamix" level=4}</div>|127/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}</div>|176/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6}</div>|205/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5}</div>|176/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=7} :level{slug="club-dc" level=7} :level{slug="konamix" level=7}</div>|196/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club" level="4,4,4"}|127/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club" level="5,5,5"}|176/0||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club" level="6,6,6"}|205/0||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club" level="5,5,5"}|176/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club" level="7,7,7"}|196/0||
 
 ## メモ
 

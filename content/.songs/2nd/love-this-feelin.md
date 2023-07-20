@@ -29,20 +29,20 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-jp" level=2} :level{slug="x-jp" level=4} :level{slug="grand-prix" level=4}</div>|76/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6} :level{slug="3rd" level=6} :level{slug="pc" level=6} :level{slug="max-us" level=6} :level{slug="ext-jp" level=5} :level{slug="x-jp" level=9} :level{slug="grand-prix" level=9}</div>|210/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="3rd" level=7} :level{slug="pc" level=7} :level{slug="max-us" level=7} :level{slug="ext-jp" level=7} :level{slug="x-jp" level=10} :level{slug="grand-prix" level=10}</div>|225/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="pc" level=8} :level{slug="max-us" level=8} :level{slug="ext-jp" level=8} :level{slug="x-jp" level=11} :level{slug="grand-prix" level=11}</div>|242/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=7} :level{slug="2nd-dc" level=7} :level{slug="3rd" level=7} :level{slug="pc" level=7} :level{slug="max-us" level=7} :level{slug="ext-jp" level=6} :level{slug="x-jp" level=9} :level{slug="grand-prix" level=10}</div>|214/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8} :level{slug="3rd" level=8} :level{slug="pc" level=8} :level{slug="max-us" level=8} :level{slug="ext-jp" level=7} :level{slug="x-jp" level=10} :level{slug="grand-prix" level=11}</div>|227/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="pc" level=8} :level{slug="max-us" level=9} :level{slug="ext-jp" level=8} :level{slug="x-jp" level=11} :level{slug="grand-prix" level=12}</div>|241/0||
-|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=6} :level{slug="2nd-dc" level=6}</div>|194/0||
-|COUPLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=7} :level{slug="2nd-dc" level=7}</div>|207/0||
-|COUPLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2nd" level=8} :level{slug="2nd-dc" level=8}</div>|226/0||
-|UNISON|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=6}</div>|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=7}</div>|||
-|UNISON|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=8}</div>|||
-|BATTLE|[BATTLE (PC)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="pc" level=6}</div>|||
-|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="pc" level=4}</div>|193/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="pc" level=6}</div>|217/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="pc" level=8}</div>|239/0||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/x,/windows/grand-prix" level="2,4,4"}|76/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-jp/extreme,/playstation2-jp/x,/windows/grand-prix" level="6,6,6,6,6,5,9,9"}|210/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-jp/extreme,/playstation2-jp/x,/windows/grand-prix" level="7,7,7,7,7,7,10,10"}|225/0||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-jp/extreme,/playstation2-jp/x,/windows/grand-prix" level="8,8,8,8,8,8,11,11"}|242/0||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-jp/extreme,/playstation2-jp/x,/windows/grand-prix" level="7,7,7,7,7,6,9,10"}|214/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd,/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-jp/extreme,/playstation2-jp/x,/windows/grand-prix" level="8,8,8,8,8,7,10,11"}|227/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/windows/1st,/playstation2-us/max,/playstation2-jp/extreme,/playstation2-jp/x,/windows/grand-prix" level="8,9,8,11,12"}|241/0||
+|COUPLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="6,6"}|194/0||
+|COUPLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="7,7"}|207/0||
+|COUPLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/2nd,/dreamcast-jp/2nd" level="8,8"}|226/0||
+|UNISON|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/3rd" level="6"}|||
+|UNISON|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/3rd" level="7"}|||
+|UNISON|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/3rd" level="8"}|||
+|BATTLE|[BATTLE (PC)]{.tag.is-basic}| :levels{links="/windows/1st" level="6"}|||
+|6-PANELS|[BASIC]{.tag.is-basic}| :levels{links="/windows/1st" level="4"}|193/0||
+|6-PANELS|[DIFFICULT]{.tag.is-difficult}| :levels{links="/windows/1st" level="6"}|217/0||
+|6-PANELS|[EXPERT]{.tag.is-expert}| :levels{links="/windows/1st" level="8"}|239/0||

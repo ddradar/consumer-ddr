@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=2} :level{slug="nova2-us" level=2} :level{slug="grand-prix" level=5}</div>|162/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=5} :level{slug="nova2-us" level=5} :level{slug="grand-prix" level=9}</div>|249/1||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=6} :level{slug="nova2-us" level=6} :level{slug="grand-prix" level=10}</div>|311/1||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=8} :level{slug="nova2-us" level=8} :level{slug="grand-prix" level=11}</div>|395/1||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=6} :level{slug="nova2-us" level=6} :level{slug="grand-prix" level=9}</div>|248/1||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=7} :level{slug="nova2-us" level=7} :level{slug="grand-prix" level=11}</div>|310/1||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=8} :level{slug="nova2-us" level=8} :level{slug="grand-prix" level=11}</div>|396/1||
+|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=2} :level{slug="nova2-us" level=2}  :levels{links="/windows/grand-prix" level="5"}</div>|162/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=5} :level{slug="nova2-us" level=5}  :levels{links="/windows/grand-prix" level="9"}</div>|249/1||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=6} :level{slug="nova2-us" level=6}  :levels{links="/windows/grand-prix" level="10"}</div>|311/1||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=8} :level{slug="nova2-us" level=8}  :levels{links="/windows/grand-prix" level="11"}</div>|395/1||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=6} :level{slug="nova2-us" level=6}  :levels{links="/windows/grand-prix" level="9"}</div>|248/1||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=7} :level{slug="nova2-us" level=7}  :levels{links="/windows/grand-prix" level="11"}</div>|310/1||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=8} :level{slug="nova2-us" level=8}  :levels{links="/windows/grand-prix" level="11"}</div>|396/1||

@@ -24,12 +24,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=2} :level{slug="x2" level=2} :level{slug="grand-prix-vol16" level=2}</div>|81/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=5} :level{slug="x2" level=5} :level{slug="grand-prix-vol16" level=5}</div>|155/11||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=6} :level{slug="x2" level=6} :level{slug="grand-prix-vol16" level=6}</div>|193/17||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=10} :level{slug="x2" level=10} :level{slug="grand-prix-vol16" level=11}</div>|298/16||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/x" level="2"} :level{slug="x2" level=2} :level{slug="grand-prix-vol16" level=2}|81/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/x" level="5"} :level{slug="x2" level=5} :level{slug="grand-prix-vol16" level=5}|155/11||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/x" level="6"} :level{slug="x2" level=6} :level{slug="grand-prix-vol16" level=6}|193/17||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/x" level="10"} :level{slug="x2" level=10} :level{slug="grand-prix-vol16" level=11}|298/16||
 |SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol16" level=14}</div>|482/5||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=5} :level{slug="x2" level=5} :level{slug="grand-prix-vol16" level=5}</div>|139/11||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=7} :level{slug="x2" level=7} :level{slug="grand-prix-vol16" level=7}</div>|211/18||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-jp" level=11} :level{slug="x2" level=11} :level{slug="grand-prix-vol16" level=11}</div>|307/15||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/x" level="5"} :level{slug="x2" level=5} :level{slug="grand-prix-vol16" level=5}|139/11||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/x" level="7"} :level{slug="x2" level=7} :level{slug="grand-prix-vol16" level=7}|211/18||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/x" level="11"} :level{slug="x2" level=11} :level{slug="grand-prix-vol16" level=11}|307/15||
 |DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol16" level=14}</div>|475/7||

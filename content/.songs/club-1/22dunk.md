@@ -24,11 +24,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=5} :level{slug="club-dc" level=5} :level{slug="max-us" level=5}</div>|161/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=7} :level{slug="club-dc" level=7} :level{slug="max-us" level=7}</div>|157/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=8} :level{slug="club-dc" level=8} :level{slug="max-us" level=8}</div>|185/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=5} :level{slug="club-dc" level=5} :level{slug="max-us" level=5}</div>|154/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=8} :level{slug="club-dc" level=8} :level{slug="max-us" level=8}</div>|185/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=5}  :levels{links="/dreamcast-jp/club,/playstation2-us/max" level="5,5"}</div>|161/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=7}  :levels{links="/dreamcast-jp/club,/playstation2-us/max" level="7,7"}</div>|157/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=8}  :levels{links="/dreamcast-jp/club,/playstation2-us/max" level="8,8"}</div>|185/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=5}  :levels{links="/dreamcast-jp/club,/playstation2-us/max" level="5,5"}</div>|154/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=8}  :levels{links="/dreamcast-jp/club,/playstation2-us/max" level="8,8"}</div>|185/0||
 
 ## メモ
 

@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-us" level=1} :level{slug="festival" level=1}</div>|102/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :level{slug="ext-us" level=1} :level{slug="festival" level=1}</div>|98/9||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :level{slug="ext-us" level=5} :level{slug="festival" level=5}</div>|227/43||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :level{slug="ext-us" level=7} :level{slug="festival" level=7}</div>|301/38||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :level{slug="ext-us" level=2} :level{slug="festival" level=2}</div>|75/12||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :level{slug="ext-us" level=5} :level{slug="festival" level=5}</div>|197/33||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :level{slug="ext-us" level=8} :level{slug="festival" level=8}</div>|359/25||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/extreme" level="1"} :level{slug="festival" level=1}|102/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}  :levels{links="/playstation2-us/extreme" level="1"} :level{slug="festival" level=1}</div>|98/9||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}  :levels{links="/playstation2-us/extreme" level="5"} :level{slug="festival" level=5}</div>|227/43||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}  :levels{links="/playstation2-us/extreme" level="7"} :level{slug="festival" level=7}</div>|301/38||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}  :levels{links="/playstation2-us/extreme" level="2"} :level{slug="festival" level=2}</div>|75/12||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}  :levels{links="/playstation2-us/extreme" level="5"} :level{slug="festival" level=5}</div>|197/33||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}  :levels{links="/playstation2-us/extreme" level="8"} :level{slug="festival" level=8}</div>|359/25||

@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-us" level=1} :level{slug="festival" level=1} :level{slug="grand-prix" level=4}</div>|94/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-us" level=4} :level{slug="festival" level=4} :level{slug="grand-prix" level=5}</div>|126/25||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-us" level=5} :level{slug="festival" level=5} :level{slug="grand-prix" level=4}</div>|123/16||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-us" level=6} :level{slug="festival" level=6} :level{slug="grand-prix" level=8}</div>|219/26||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-us" level=3} :level{slug="festival" level=3} :level{slug="grand-prix" level=4}</div>|108/5||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-us" level=5} :level{slug="festival" level=5} :level{slug="grand-prix" level=6}</div>|185/6||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext-us" level=6} :level{slug="festival" level=6} :level{slug="grand-prix" level=8}</div>|215/9||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/extreme" level="1"} :level{slug="festival" level=1}  :levels{links="/windows/grand-prix" level="4"}|94/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme" level="4"} :level{slug="festival" level=4}  :levels{links="/windows/grand-prix" level="5"}|126/25||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme" level="5"} :level{slug="festival" level=5}  :levels{links="/windows/grand-prix" level="4"}|123/16||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme" level="6"} :level{slug="festival" level=6}  :levels{links="/windows/grand-prix" level="8"}|219/26||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme" level="3"} :level{slug="festival" level=3}  :levels{links="/windows/grand-prix" level="4"}|108/5||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme" level="5"} :level{slug="festival" level=5}  :levels{links="/windows/grand-prix" level="6"}|185/6||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme" level="6"} :level{slug="festival" level=6}  :levels{links="/windows/grand-prix" level="8"}|215/9||

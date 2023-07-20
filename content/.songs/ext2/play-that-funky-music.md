@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext2" level=1} :level{slug="strike" level=1}</div>|58/3||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext2" level=2} :level{slug="strike" level=2}</div>|83/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext2" level=4} :level{slug="strike" level=4}</div>|143/16||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext2" level=6} :level{slug="strike" level=6}</div>|208/6||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext2" level=3} :level{slug="strike" level=3}</div>|86/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext2" level=4} :level{slug="strike" level=4}</div>|142/14||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="ext2" level=6} :level{slug="strike" level=6}</div>|194/16||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/extreme2" level="1"} :level{slug="strike" level=1}|58/3||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme2" level="2"} :level{slug="strike" level=2}|83/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme2" level="4"} :level{slug="strike" level=4}|143/16||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme2" level="6"} :level{slug="strike" level=6}|208/6||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme2" level="3"} :level{slug="strike" level=3}|86/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme2" level="4"} :level{slug="strike" level=4}|142/14||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme2" level="6"} :level{slug="strike" level=6}|194/16||

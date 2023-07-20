@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=3} :level{slug="4th" level=3}</div>|133/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/3rd" level="3"} :level{slug="4th" level=3}|133/0||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=5}</div>|190/0||
 |SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7}</div>|257/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="3rd" level=3} :level{slug="4th" level=3}</div>|135/0||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/3rd" level="3"} :level{slug="4th" level=3}|135/0||
 |DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=5}</div>|177/0||
 |DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7}</div>|244/0||
 |BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=4}</div>|||

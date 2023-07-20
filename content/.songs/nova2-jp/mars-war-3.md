@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=2} :level{slug="x2" level=3} :level{slug="grand-prix" level=3}</div>|89/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=3} :level{slug="x2" level=4} :level{slug="grand-prix" level=4}</div>|133/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=6} :level{slug="x2" level=8} :level{slug="grand-prix" level=8}</div>|242/16||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=8} :level{slug="x2" level=11} :level{slug="grand-prix" level=11}</div>|389/16||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=3} :level{slug="x2" level=4} :level{slug="grand-prix" level=4}</div>|123/4||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=6} :level{slug="x2" level=10} :level{slug="grand-prix" level=10}</div>|280/8||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-jp" level=8} :level{slug="x2" level=13} :level{slug="grand-prix" level=13}</div>|350/16||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/supernova2" level="2"} :level{slug="x2" level=3}  :levels{links="/windows/grand-prix" level="3"}|89/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/supernova2" level="3"} :level{slug="x2" level=4}  :levels{links="/windows/grand-prix" level="4"}|133/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/supernova2" level="6"} :level{slug="x2" level=8}  :levels{links="/windows/grand-prix" level="8"}|242/16||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/supernova2" level="8"} :level{slug="x2" level=11}  :levels{links="/windows/grand-prix" level="11"}|389/16||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/supernova2" level="3"} :level{slug="x2" level=4}  :levels{links="/windows/grand-prix" level="4"}|123/4||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/supernova2" level="6"} :level{slug="x2" level=10}  :levels{links="/windows/grand-prix" level="10"}|280/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/supernova2" level="8"} :level{slug="x2" level=13}  :levels{links="/windows/grand-prix" level="13"}|350/16||

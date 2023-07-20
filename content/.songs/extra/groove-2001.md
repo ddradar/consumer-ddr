@@ -24,12 +24,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=4} :level{slug="max-jp" level="?"} :level{slug="max-us" level=4}</div>|165/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="max-jp" level="?"} :level{slug="max-us" level=6}</div>|214/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7} :level{slug="max-jp" level="?"} :level{slug="max-us" level=7}</div>|256/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=4} :level{slug="max-jp" level="?"} :level{slug="max-us" level=4}</div>|165/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="max-jp" level="?"} :level{slug="max-us" level=6}</div>|218/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7} :level{slug="max-jp" level="?"} :level{slug="max-us" level=7}</div>|256/0||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=4} :level{slug="max-jp" level="?"} :levels{links="/playstation2-us/max" level="4"}</div>|165/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="max-jp" level="?"} :levels{links="/playstation2-us/max" level="6"}</div>|214/0||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7} :level{slug="max-jp" level="?"} :levels{links="/playstation2-us/max" level="7"}</div>|256/0||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=4} :level{slug="max-jp" level="?"} :levels{links="/playstation2-us/max" level="4"}</div>|165/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6} :level{slug="max-jp" level="?"} :levels{links="/playstation2-us/max" level="6"}</div>|218/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7} :level{slug="max-jp" level="?"} :levels{links="/playstation2-us/max" level="7"}</div>|256/0||
 |6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=4}</div>|168/0||
 |6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6}</div>|210/0||
 |6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7}</div>|256/0||

@@ -25,13 +25,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=3}</div>|84/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=5} :level{slug="club-dc" level=5} :level{slug="konamix" level=5} :level{slug="grand-prix" level=6}</div>|169/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6} :level{slug="grand-prix" level=8}</div>|205/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8} :level{slug="grand-prix" level=11}</div>|238/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=6} :level{slug="club-dc" level=6} :level{slug="konamix" level=6} :level{slug="grand-prix" level=9}</div>|195/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-2" level=8} :level{slug="club-dc" level=8} :level{slug="konamix" level=8} :level{slug="grand-prix" level=11}</div>|225/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix" level=12}</div>|272/7||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/windows/grand-prix" level="3"}|84/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club,/windows/grand-prix" level="5,5,5,6"}|169/0||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club,/windows/grand-prix" level="6,6,6,8"}|205/0||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club,/windows/grand-prix" level="8,8,8,11"}|238/0||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club,/windows/grand-prix" level="6,6,6,9"}|195/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/club-vol2,/playstation-us/konamix,/dreamcast-jp/club,/windows/grand-prix" level="8,8,8,11"}|225/0||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/windows/grand-prix" level="12"}|272/7||
 
 ## メモ
 
