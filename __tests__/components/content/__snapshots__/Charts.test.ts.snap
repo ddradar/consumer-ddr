@@ -6,16 +6,24 @@ exports[`components/content/Charts.vue > renders badges 1`] = `
 >
   
   <badge-stub
-    title="NORMAL"
+    title="BEGINNER"
+    type="info"
   />
   <badge-stub
     title="BASIC"
+    type="warning"
   />
   <badge-stub
-    title="ANOTHER"
+    title="DIFFICULT"
+    type="danger"
   />
   <badge-stub
-    title="MANIAC"
+    title="EXPERT"
+    type="success"
+  />
+  <badge-stub
+    title="CHALLENGE"
+    type="primary"
   />
   
 </div>
