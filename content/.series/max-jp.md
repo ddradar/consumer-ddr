@@ -4,9 +4,9 @@ platform: "Play Station 2"
 region: "JP"
 launched: "2002-05-16"
 difficulties:
-  1: { name: "楽", class: "is-basic" }
-  2: { name: "踊", class: "is-difficult" }
-  3: { name: "激", class: "is-expert" }
+  1: { name: "楽", type: "warning" }
+  2: { name: "踊", type: "danger" }
+  3: { name: "激", type: "success" }
 ---
 
 # DDRMAX -DanceDanceRevolution 6thMIX-

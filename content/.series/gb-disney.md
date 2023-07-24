@@ -4,8 +4,8 @@ platform: "GAME BOY COLOR"
 region: "None"
 launched: "2001-03-29"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "TRICK", class: "is-difficult" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "TRICK", type: "danger" }
 ---
 
 # Dance Dance Revolution GB Disney mix

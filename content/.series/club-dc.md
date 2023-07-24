@@ -4,9 +4,9 @@ platform: "Dreamcast"
 region: "JP"
 launched: "2000-04-27"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "ANOTHER", class: "is-difficult" }
-  3: { name: "MANIAC", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "ANOTHER", type: "danger" }
+  3: { name: "MANIAC", type: "success" }
 ---
 
 # Dance Dance Revolution CLUB VERSION Dreamcast Edition
@@ -66,8 +66,8 @@ difficulties:
 |[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
 |[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
 |[PARANOiA MAX \~DIRTY MIX\~ (CLUB ANOTHER ver.2)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9" charts="1,2"}|
-|[KEEP ON MOVIN'](/songs/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|
-|[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
+|[KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|
+|[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
 |[gentle stress](/songs/gentle-stress)|DJ Swan|174|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|
 |[Macho Gang](/songs/macho-gang)|ANAL SPYDER|125|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|
 |[THE EARTH LIGHT](/songs/the-earth-light)|L.E.D. LIGHT|145|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|

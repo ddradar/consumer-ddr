@@ -4,10 +4,10 @@ platform: "GAME BOY COLOR"
 region: "None"
 launched: "2000-08-03"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "ANOTHER", class: "is-difficult" }
-  3: { name: "MANIAC", class: "is-expert" }
-  4: { name: "SSR", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "ANOTHER", type: "danger" }
+  3: { name: "MANIAC", type: "success" }
+  4: { name: "SSR", type: "success" }
 ---
 
 # Dance Dance Revolution GB
@@ -22,19 +22,19 @@ difficulties:
 |----|------|---|------|------|
 |[HAVE YOU NEVER BEEN MELLOW](/playstation-jp/1st/have-you-never-been-mellow)|THE OLIVIA PROJECT|126|:charts{:difficulties="difficulties" levels="1,2,4" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,2,4" charts="1,2,3"}|
 |[BUTTERFLY](/playstation-jp/1st/butterfly)|smile. dk|135|:charts{:difficulties="difficulties" levels="2,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,5" charts="1,2,3"}|
-|[BOOM BOOM DOLLAR](/songs/boom-boom-dollar)|King Kong & D. Jungle Girls|135|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}||
-|[IF YOU WERE HERE](/songs/if-you-were-here)|JENNIFER|146|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}||
-|[DUB I DUB](/songs/dub-i-dub)|ME & MY|136|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}||
-|[HERO](/songs/hero)|PAPAYA|138|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}||
-|[EL RITMO TROPICAL](/songs/el-ritmo-tropical)|DIXIES GANG|133|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}||
+|[BOOM BOOM DOLLAR](/playstation-jp/2nd/boom-boom-dollar)|King Kong & D. Jungle Girls|135|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}||
+|[IF YOU WERE HERE](/playstation-jp/2nd/if-you-were-here)|JENNIFER|146|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}||
+|[DUB I DUB](/playstation-jp/2nd/dub-i-dub)|ME & MY|136|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}||
+|[HERO](/playstation-jp/2nd/hero)|PAPAYA|138|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}||
+|[EL RITMO TROPICAL](/playstation-jp/2nd/el-ritmo-tropical)|DIXIES GANG|133|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}||
 |[PARANOiA](/playstation-jp/1st/paranoia)|180|180|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
-|[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}||
-|[SP-TRIP MACHINE \~JUNGLE MIX\~](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}||
+|[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}||
+|[SP-TRIP MACHINE \~JUNGLE MIX\~](/playstation-jp/2nd/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}||
 |[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|
 |[I believe in miracles](/playstation-jp/1st/i-believe-in-miracles)|HI-RISE|126|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
-|[BAD GIRLS](/songs/bad-girls)|Juliet Roberts|122|:charts{:difficulties="difficulties" levels="2,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,5" charts="1,2,3"}||
-|[AM-3P](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}||
-|[LOVE](/songs/love)|SONIC DREAM|129|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}||
+|[BAD GIRLS](/playstation-jp/2nd/bad-girls)|Juliet Roberts|122|:charts{:difficulties="difficulties" levels="2,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,5" charts="1,2,3"}||
+|[AM-3P](/playstation-jp/2nd/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}||
+|[LOVE](/playstation-jp/2nd/love)|SONIC DREAM|129|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}||
 |[DAM DARIRAM](/songs/dam-dariram)|JOGA|142|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,4"}||
 |[La Senorita](/songs/la-senorita)|CAPTAIN. T|182|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,4"}||
 |[BUTTERFLY (HARD)](/playstation-jp/1st/butterfly)|smile. dk|135|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|

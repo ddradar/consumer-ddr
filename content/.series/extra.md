@@ -4,9 +4,9 @@ platform: "Play Station"
 region: "JP"
 launched: "2001-06-07"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "TRICK", class: "is-difficult" }
-  3: { name: "MANIAC", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "TRICK", type: "danger" }
+  3: { name: "MANIAC", type: "success" }
   4: { name: "BASIC(SINGLEと同一)", class: "is-unknown" }
   5: { name: "TRICK(SINGLEと同一)", class: "is-unknown" }
   6: { name: "MANIAC(SINGLEと同一)", class: "is-unknown" }

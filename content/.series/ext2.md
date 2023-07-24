@@ -5,9 +5,9 @@ region: "US"
 launched: "2005-09-27"
 difficulties:
   0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "LIGHT", class: "is-basic" }
-  2: { name: "STANDARD", class: "is-difficult" }
-  3: { name: "HEAVY", class: "is-expert" }
+  1: { name: "LIGHT", type: "warning" }
+  2: { name: "STANDARD", type: "danger" }
+  3: { name: "HEAVY", type: "success" }
   4: { name: "CHALLENGE", class: "is-challenge" }
 ---
 
@@ -81,7 +81,7 @@ difficulties:
 |[un deux trois](/songs/un-deux-trois)|SDMS|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[You gotta move it (feat. Julie Rugaard)](/songs/you-gotta-move-it)|Yuzo Koshiro|134|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[AFRONOVA PRIMEVAL](/songs/afronova-primeval)|8 bit|200|:charts{:difficulties="difficulties" levels="2,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
-|[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,5,6,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
+|[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,5,6,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
 |[BURNIN' THE FLOOR](/songs/burnin-the-floor)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[DIVE](/songs/dive)|Be For U|155|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[DYNAMITE RAVE](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,5,7,9,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,8,8" charts="1,2,3,4"}|

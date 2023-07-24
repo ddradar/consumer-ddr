@@ -5,9 +5,9 @@ region: "JP"
 launched: "2003-10-09"
 difficulties:
   0: { name: "習", class: "is-beginner" }
-  1: { name: "楽", class: "is-basic" }
-  2: { name: "踊", class: "is-difficult" }
-  3: { name: "激", class: "is-expert" }
+  1: { name: "楽", type: "warning" }
+  2: { name: "踊", type: "danger" }
+  3: { name: "激", type: "success" }
   4: { name: "鬼", class: "is-challenge" }
 ---
 
@@ -77,29 +77,29 @@ difficulties:
 |[The Least 100sec](/songs/the-least-100sec)|Hirofumi Sasaki|200-263|:charts{:difficulties="difficulties" levels="3,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,3"}|
 |[桜](/songs/sakura)|RevenG|14-300|:charts{:difficulties="difficulties" levels="3,5,8,10,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,10,9" charts="1,2,3,4"}|
 |[AFTER THE GAME OF LOVE](/songs/after-the-game-of-love)|NPD3|105|:charts{:difficulties="difficulties" levels="1,1,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
-|[think ya better D](/songs/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="1,3,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
+|[think ya better D](/playstation-jp/2nd/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="1,3,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[SEXY PLANET](/songs/sexy-planet)|Crystal Aliens|180|:charts{:difficulties="difficulties" levels="2,5,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[WILD RUSH](/songs/wild-rush)|FACTOR-X|80-180|:charts{:difficulties="difficulties" levels="2,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[SUPER STAR](/songs/super-star)|D.J. RICH feat. Tail Bros.|128|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[LUV TO ME (disco mix)](/songs/luv-to-me)|tiger YAMATO|154|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,8" charts="1,2,3"}|
-|[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="2,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[LOVE THIS FEELIN'](/playstation-jp/2nd/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="2,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[PARANOiA KCET (clean mix)](/playstation-jp/1st/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[Healing Vision (Angelic mix)](/songs/healing-vision-angelic)|2MB|46-196|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[PARANOIA EVOLUTION](/songs/paranoia-evolution)|200|200|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[La Señorita Virtual](/songs/la-senorita-virtual)|2MB|182|:charts{:difficulties="difficulties" levels="2,7,8,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[R3](/songs/r3)|tiger YAMATO|157|:charts{:difficulties="difficulties" levels="1,5,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
 |[ORION.78 (civilization mix)](/songs/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="2,6,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
-|[TRIP MACHINE (luv mix)](/songs/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
+|[TRIP MACHINE (luv mix)](/playstation-jp/2nd/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love)|DIVAS|96|:charts{:difficulties="difficulties" levels="1,1,3,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
-|[PUT YOUR FAITH IN ME](/songs/put-your-faith-in-me)|UZI-LAY|119|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
+|[PUT YOUR FAITH IN ME](/playstation-jp/2nd/put-your-faith-in-me)|UZI-LAY|119|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[HIGHER](/songs/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="1,2,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
-|[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,5,6,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
-|[KEEP ON MOVIN'](/songs/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,5,6,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
+|[KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[BRILLIANT 2U (Orchestra-Groove)](/songs/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,5,6,7,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
+|[BRILLIANT 2U (Orchestra-Groove)](/playstation-jp/2nd/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,5,6,7,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
 |[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:difficulties="difficulties" levels="2,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
 |[革命](/songs/kakumei)|dj TAKA with NAOKI|83-148|:charts{:difficulties="difficulties" levels="1,4,6,9,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,5,9,8" charts="1,2,3,4"}|
 |[MAKE IT BETTER](/playstation-jp/1st/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,3"}|
@@ -109,7 +109,7 @@ difficulties:
 |[PARANOiA ETERNAL](/songs/paranoia-eternal)|STM 200|200|:charts{:difficulties="difficulties" levels="2,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
 |[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="1,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[AFRONOVA](/songs/afronova)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
-|[SP-TRIP MACHINE (JUNGLE MIX)](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
+|[SP-TRIP MACHINE (JUNGLE MIX)](/playstation-jp/2nd/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
 |[TRIP MACHINE](/playstation-jp/1st/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
 |[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="2,6,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
 |[PARANOiA](/playstation-jp/1st/paranoia)|180|180|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|

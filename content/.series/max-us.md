@@ -4,9 +4,9 @@ platform: "Play Station 2"
 region: "US"
 launched: "2002-10-29"
 difficulties:
-  1: { name: "楽", class: "is-basic" }
-  2: { name: "踊", class: "is-difficult" }
-  3: { name: "激", class: "is-expert" }
+  1: { name: "楽", type: "warning" }
+  2: { name: "踊", type: "danger" }
+  3: { name: "激", type: "success" }
   4: { name: "楽と同一譜面", class: "is-unknown" }
   5: { name: "踊と同一譜面", class: "is-unknown" }
 ---
@@ -42,14 +42,14 @@ difficulties:
 |[Midnite Blaze](/songs/midnite-blaze)|U1 Jewel style|150|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[SYNCHRONIZED LOVE (Red Monster Hyper Mix)](/songs/synchronized-love)|JOE RINOIE|150|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[THE CUBE](/songs/the-cube)|DJ SUWAMI|178|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[BRILLIANT 2U (Orchestra-Groove)](/songs/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[BRILLIANT 2U (Orchestra-Groove)](/playstation-jp/2nd/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[exotic ethnic](/songs/exotic-ethnic)|RevenG|190|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[MATSURI JAPAN](/songs/matsuri-japan)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Sandstorm](/songs/sandstorm)|Darude|136|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[Stomp to my beat](/songs/stomp-to-my-beat)|JS16|134|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
+|[Stomp to my beat](/playstation-jp/2nd/stomp-to-my-beat)|JS16|134|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[Take It To The Morning Light (Extended Vocal)](/songs/take-it-to-the-morning-light)|Golden Gate|129|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
-|[AM-3P](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
+|[AM-3P](/playstation-jp/2nd/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[INSERTiON](/songs/insertion)|NAOKI underground|140-220|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[22DUNK](/songs/22dunk)|SLAKE|135|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,5"}|
 |[DEEP IN YOU](/songs/deep-in-you)|dj nagureo|126|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,5"}|
@@ -88,7 +88,7 @@ difficulties:
 |[Electro Tuned (the SubS mix)](/songs/electro-tuned)|TaQ|125|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[gentle stress (SENSUAL MIX)](/songs/gentle-stress-sensual)|MR. DOG feat. DJ SWAN|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
-|[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
+|[LOVE THIS FEELIN'](/playstation-jp/2nd/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[PARANOiA MAX (DIRTY MIX) -CLUB ANOTHER ver.2-](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,9" charts="1,2,5"}|
 |[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 

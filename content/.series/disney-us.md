@@ -4,9 +4,9 @@ platform: "Play Station"
 region: "US"
 launched: "2001-09-18"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "TRICK", class: "is-difficult" }
-  3: { name: "MANIAC", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "TRICK", type: "danger" }
+  3: { name: "MANIAC", type: "success" }
 ---
 
 # Dance Dance Revolution Disney MIX

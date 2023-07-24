@@ -5,9 +5,9 @@ region: "JP"
 launched: "2021-11-08"
 difficulties:
   0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "DIFFICULT", class: "is-difficult" }
-  3: { name: "EXPERT", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "DIFFICULT", type: "danger" }
+  3: { name: "EXPERT", type: "success" }
   4: { name: "CHALLENGE", class: "is-challenge" }
 ---
 
@@ -66,7 +66,7 @@ difficulties:
   - [BROKEN MY HEART](/songs/broken-my-heart)
   - [HIGHER](/songs/higher)
   - [DROP THE BOMB](/songs/drop-the-bomb)
-  - [KEEP ON MOVIN'](/songs/keep-on-movin)
+  - [KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin)
   - [MAKE IT BETTER](/playstation-jp/1st/make-it-better)
 
 ### グランプリプレー
@@ -119,11 +119,11 @@ difficulties:
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
 |[A thing called LOVE](/songs/a-thing-called-love)|D-crew 2 US|160|:charts{:difficulties="difficulties" levels="3,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,11" charts="1,2,3"}|
-|[AM-3P ("CHAOS" Special)](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="14" charts="4"}|:charts{:difficulties="difficulties" levels="13" charts="4"}|
+|[AM-3P ("CHAOS" Special)](/playstation-jp/2nd/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="14" charts="4"}|:charts{:difficulties="difficulties" levels="13" charts="4"}|
 |[Arrabbiata](/songs/arrabbiata)|Reven-G改|225|:charts{:difficulties="difficulties" levels="5,11,13,15" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="12,14,16" charts="1,2,3"}|
 |[Blind Justice ～Torn souls, Hurt Faiths ～](/songs/blind-justice)|Zektbach|137-165|:charts{:difficulties="difficulties" levels="3,5,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,12" charts="1,2,3"}|
 |[Bloody Tears(IIDX EDITION)](/songs/bloody-tears)|DJ YOSHITAKA|170|:charts{:difficulties="difficulties" levels="4,5,6,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
-|[BRILLIANT 2U ("STREAM" Special)](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="13" charts="4"}|:charts{:difficulties="difficulties" levels="13" charts="4"}|
+|[BRILLIANT 2U ("STREAM" Special)](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="13" charts="4"}|:charts{:difficulties="difficulties" levels="13" charts="4"}|
 |[B4U ("VOLTAGE" Special)](/songs/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="14" charts="4"}|:charts{:difficulties="difficulties" levels="15" charts="4"}|
 |[CaptivAte～誓い～](/songs/captivate)|DJ YOSHITAKA feat.A/I|160|:charts{:difficulties="difficulties" levels="4,5,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
 |[DEAD END ("GROOVE RADAR" Special)](/songs/dead-end)|N & S|95-380|:charts{:difficulties="difficulties" levels="18" charts="4"}|:charts{:difficulties="difficulties" levels="18" charts="4"}|
@@ -382,28 +382,28 @@ difficulties:
 |[GRADIUSIC CYBER \~AMD G5 MIX\~](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="3,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,13" charts="1,2,3"}|
 |[La Señorita](/songs/la-senorita)|CAPTAIN.T|182|:charts{:difficulties="difficulties" levels="4,6,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
 |[La Señorita Virtual](/songs/la-senorita-virtual)|2MB|182|:charts{:difficulties="difficulties" levels="4,8,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,12" charts="1,2,3"}|
-|[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang ma|95-190|:charts{:difficulties="difficulties" levels="4,9,10,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,11,12" charts="1,2,3"}|
+|[LOVE THIS FEELIN'](/playstation-jp/2nd/love-this-feelin)|Chang ma|95-190|:charts{:difficulties="difficulties" levels="4,9,10,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,11,12" charts="1,2,3"}|
 |[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="4,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,13" charts="1,2,3"}|
 |[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="3,4,9,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,11" charts="1,2,3"}|
-|[think ya better D](/songs/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="3,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,10" charts="1,2,3"}|
-|[TRIP MACHINE \~luv mix\~](/songs/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="3,9,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,11" charts="1,2,3"}|
+|[think ya better D](/playstation-jp/2nd/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="3,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,10" charts="1,2,3"}|
+|[TRIP MACHINE \~luv mix\~](/playstation-jp/2nd/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="3,9,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,11" charts="1,2,3"}|
 
 #### DDR 2ndMIX
 
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
-|[AM-3P](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="3,7,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,10" charts="1,2,3"}|
-|[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="3,6,6,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,9,10" charts="1,2,3,4"}|
-|[BRILLIANT 2U (Orchestra Groove)](/songs/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,6,8,9,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,9,12" charts="1,2,3,4"}|
+|[AM-3P](/playstation-jp/2nd/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="3,7,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,10" charts="1,2,3"}|
+|[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="3,6,6,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,9,10" charts="1,2,3,4"}|
+|[BRILLIANT 2U (Orchestra Groove)](/playstation-jp/2nd/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,6,8,9,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,9,12" charts="1,2,3,4"}|
 |[e-motion](/songs/e-motion)|e.o.s|145|:charts{:difficulties="difficulties" levels="2,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,11" charts="1,2,3"}|
 |[GENOM SCREAMS](/songs/genom-screams)|L.E.D.LIGHT|150|:charts{:difficulties="difficulties" levels="3,6,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,12" charts="1,2,3"}|
-|[KEEP ON MOVIN'](/songs/keep-on-movin)|N.M.R|132|:charts{:difficulties="difficulties" levels="4,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,10" charts="1,2,3"}|
-|[MAKE IT BETTER (So-REAL Mix)](/songs/make-it-better-so-real)|mitsu-O!SUMMER|118|:charts{:difficulties="difficulties" levels="2,7,8,10,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,11,12" charts="1,2,3,4"}|
+|[KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin)|N.M.R|132|:charts{:difficulties="difficulties" levels="4,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,10" charts="1,2,3"}|
+|[MAKE IT BETTER (So-REAL Mix)](/playstation-jp/2nd/make-it-better-so-real)|mitsu-O!SUMMER|118|:charts{:difficulties="difficulties" levels="2,7,8,10,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,11,12" charts="1,2,3,4"}|
 |[PARANOiA KCET \~clean mix\~](/playstation-jp/1st/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="4,8,9,11,15" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,10,10,15" charts="1,2,3,4"}|
 |[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="5,9,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,11" charts="1,2,3"}|
-|[PUT YOUR FAITH IN ME](/songs/put-your-faith-in-me)|UZI-LAY|120|:charts{:difficulties="difficulties" levels="3,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|
-|[PUT YOUR FAITH IN ME (Jazzy Groove)](/songs/put-your-faith-in-me-jazzy-groove)|UZI-LAY|120|:charts{:difficulties="difficulties" levels="2,6,7,9,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,8,11,11" charts="1,2,3,4"}|
-|[SP-TRIP MACHINE \~JUNGLE MIX\~](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="4,8,9,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,10" charts="1,2,3"}|
+|[PUT YOUR FAITH IN ME](/playstation-jp/2nd/put-your-faith-in-me)|UZI-LAY|120|:charts{:difficulties="difficulties" levels="3,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,3"}|
+|[PUT YOUR FAITH IN ME (Jazzy Groove)](/playstation-jp/2nd/put-your-faith-in-me-jazzy-groove)|UZI-LAY|120|:charts{:difficulties="difficulties" levels="2,6,7,9,11" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,8,11,11" charts="1,2,3,4"}|
+|[SP-TRIP MACHINE \~JUNGLE MIX\~](/playstation-jp/2nd/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="4,8,9,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,10" charts="1,2,3"}|
 
 #### DDR 1st
 

@@ -4,9 +4,9 @@ platform: "GAME BOY COLOR"
 region: "None"
 launched: "2001-02-08"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "ANOTHER", class: "is-difficult" }
-  3: { name: "MANIAC", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "ANOTHER", type: "danger" }
+  3: { name: "MANIAC", type: "success" }
 ---
 
 # おはスタ Dance Dance Revolution GB

@@ -5,9 +5,9 @@ region: "JP"
 launched: "2006-02-16"
 difficulties:
   0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "LIGHT", class: "is-basic" }
-  2: { name: "STANDARD", class: "is-difficult" }
-  3: { name: "HEAVY", class: "is-expert" }
+  1: { name: "LIGHT", type: "warning" }
+  2: { name: "STANDARD", type: "danger" }
+  3: { name: "HEAVY", type: "success" }
   4: { name: "CHALLENGE", class: "is-challenge" }
 ---
 

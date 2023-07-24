@@ -4,9 +4,9 @@ platform: "GAME BOY COLOR"
 region: "None"
 launched: "2000-11-16"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "ANOTHER", class: "is-difficult" }
-  3: { name: "SSR", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "ANOTHER", type: "danger" }
+  3: { name: "SSR", type: "success" }
 ---
 
 # Dance Dance Revolution GB2
@@ -24,7 +24,7 @@ difficulties:
 |[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[TURN ME ON (HEAVENLY MIX)](/songs/turn-me-on)|E-ROTIC|170|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[OPERATOR (Two Gees Mix)](/songs/operator)|PAPAYA|135|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[IN THE NAVY '99 (XXL Disaster Remix)](/songs/in-the-navy)|CAPTAIN JACK|135|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[IN THE NAVY '99 (XXL Disaster Remix)](/playstation-jp/2nd/in-the-navy)|CAPTAIN JACK|135|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[MR. WONDERFUL](/songs/mr-wonderful)|SMiLE.dk|138|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[SO MANY MEN](/songs/so-many-men)|ME & MY|121|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[DAM DARIRAM](/songs/dam-dariram)|JOGA|142|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}||
@@ -72,7 +72,7 @@ difficulties:
 
 ### SSR SELECTION
 
-1. [IN THE NAVY '99 (XXL Disaster Remix)](/songs/in-the-navy) [SSR]{.tag.is-expert}
+1. [IN THE NAVY '99 (XXL Disaster Remix)](/playstation-jp/2nd/in-the-navy) [SSR]{.tag.is-expert}
 1. [MR. WONDERFUL](/songs/mr-wonderful) [SSR]{.tag.is-expert}
 1. [IF YOU CAN SAY GOODBYE](/songs/if-you-can-say-goodbye) [SSR]{.tag.is-expert}
 1. [PARANOiA Rebirth](/songs/paranoia-rebirth) [SSR]{.tag.is-expert}

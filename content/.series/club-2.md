@@ -4,9 +4,9 @@ platform: "Play Station"
 region: "JP"
 launched: "1999-12-12"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "ANOTHER", class: "is-difficult" }
-  3: { name: "MANIAC", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "ANOTHER", type: "danger" }
+  3: { name: "MANIAC", type: "success" }
 ---
 
 # Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2
@@ -23,10 +23,10 @@ difficulties:
 |[been so long](/songs/been-so-long)|m-flo|96|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6" charts="1,2"}|
 |[The rhyme brokers](/songs/the-rhyme-brokers)|m-flo|91|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
 |[Into the world](/songs/into-the-world)|QUADRA|126|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|
-|[KEEP ON MOVIN'](/songs/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|
+|[KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|
 |[RUGGED ASH](/songs/rugged-ash)|SYMPHONIC DEFOGGERS|168|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
 |[gentle stress](/songs/gentle-stress)|DJ Swan|174|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8" charts="1,2"}|
-|[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
+|[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
 |[DEEP IN YOU](/songs/deep-in-you)|dj nagureo|126|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8" charts="1,2"}|
 |[patsenner](/songs/patsenner)|dj nagureo|108|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7" charts="1,2"}|
 |[Macho Gang](/songs/macho-gang)|ANAL SPYDER|125|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8" charts="1,2"}|
@@ -50,7 +50,7 @@ difficulties:
 
 当ソフトはアペンドディスクのため、**起動には下記いずれかのソフトが別途必要。**
 
-- [Dance Dance Revolution 2nd ReMIX](/series/2nd)
+- [Dance Dance Revolution 2nd ReMIX](/playstation-jp/2nd)
 - [Dance Dance Revolution 3rd MIX](/series/3rd)
 
 ### プレースタイル

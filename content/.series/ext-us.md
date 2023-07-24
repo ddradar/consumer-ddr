@@ -5,9 +5,9 @@ region: "US"
 launched: "2004-09-21"
 difficulties:
   0: { name: "習", class: "is-beginner" }
-  1: { name: "楽", class: "is-basic" }
-  2: { name: "踊", class: "is-difficult" }
-  3: { name: "激", class: "is-expert" }
+  1: { name: "楽", type: "warning" }
+  2: { name: "踊", type: "danger" }
+  3: { name: "激", type: "success" }
   4: { name: "鬼", class: "is-challenge" }
 ---
 
@@ -51,7 +51,7 @@ difficulties:
 |[I'M FOR REAL](/songs/im-for-real)|SLAKE|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[JANEJANA](/songs/jane-jana)|T.E.M.P.O. feat. Mohammed&Emi|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[JET WORLD](/songs/jet-world)|Mutsuhiko Izumi|138|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[KEEP ON MOVIN'](/songs/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[KICK THE CAN](/songs/kick-the-can)|BUS STOP|144|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Kids in America](/songs/kids-in-america)|KIM WILDE|159|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
 |[La Senorita](/songs/la-senorita)|CAPTAIN. T|182|:charts{:difficulties="difficulties" levels="2,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|

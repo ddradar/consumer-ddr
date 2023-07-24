@@ -5,9 +5,9 @@ region: "JP"
 launched: "2009-01-29"
 difficulties:
   0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "DIFFICULT", class: "is-difficult" }
-  3: { name: "EXPERT", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "DIFFICULT", type: "danger" }
+  3: { name: "EXPERT", type: "success" }
   4: { name: "CHALLENGE", class: "is-challenge" }
 ---
 
@@ -78,7 +78,7 @@ difficulties:
 |[AFRONOVA PRIMEVAL](/songs/afronova-primeval)|8 bit|200|:charts{:difficulties="difficulties" levels="4,6,8,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,13" charts="1,2,3"}|
 |[Healing Vision (Angelic mix)](/songs/healing-vision-angelic)|2MB|196|:charts{:difficulties="difficulties" levels="5,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,14" charts="1,2,3"}|
 |[La Señorita Virtual](/songs/la-senorita-virtual)|2MB|182|:charts{:difficulties="difficulties" levels="4,8,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,12" charts="1,2,3"}|
-|[LOVE THIS FEELIN'](/songs/love-this-feelin)|Chang ma|95-190|:charts{:difficulties="difficulties" levels="4,9,10,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,11" charts="1,2,3"}|
+|[LOVE THIS FEELIN'](/playstation-jp/2nd/love-this-feelin)|Chang ma|95-190|:charts{:difficulties="difficulties" levels="4,9,10,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,11" charts="1,2,3"}|
 |[MAXIMIZER](/songs/maximizer)|CLI-MAX S.|190|:charts{:difficulties="difficulties" levels="5,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
 |[ORION.78 (civilization mix)](/songs/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="4,9,12,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,13" charts="1,2,3"}|
 |[PARANOiA KCET \~clean mix\~](/playstation-jp/1st/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="4,8,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,10" charts="1,2,3"}|
@@ -88,10 +88,10 @@ difficulties:
 |[PARANOIA survivor MAX](/songs/paranoia-survivor-max)|290|145-290|:charts{:difficulties="difficulties" levels="5,9,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,11,15,16" charts="1,2,3,4"}|
 |[PARANOiA-Respect-](/songs/paranoia-respect)|.3k|300|:charts{:difficulties="difficulties" levels="5,11,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,15" charts="1,2,3"}|
 |[SEXY PLANET](/songs/sexy-planet)|Crystal Aliens|180|:charts{:difficulties="difficulties" levels="3,7,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
-|[SP-TRIP MACHINE \~JUNGLE MIX\~](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="4,8,9,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,10" charts="1,2,3"}|
-|[SP-TRIP MACHINE \~JUNGLE MIX\~ (SMM-Special)](/songs/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="13" charts="4"}|:charts{:difficulties="difficulties" levels="13" charts="4"}|
+|[SP-TRIP MACHINE \~JUNGLE MIX\~](/playstation-jp/2nd/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="4,8,9,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,10" charts="1,2,3"}|
+|[SP-TRIP MACHINE \~JUNGLE MIX\~ (SMM-Special)](/playstation-jp/2nd/sp-trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="13" charts="4"}|:charts{:difficulties="difficulties" levels="13" charts="4"}|
 |[TRIP MACHINE survivor](/songs/trip-machine-survivor)|DE-SIRE|170|:charts{:difficulties="difficulties" levels="4,5,11,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,11,12" charts="1,2,3"}|
-|[TRIP MACHINE \~luv mix\~](/songs/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="3,9,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,11" charts="1,2,3"}|
+|[TRIP MACHINE \~luv mix\~](/playstation-jp/2nd/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="3,9,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,11" charts="1,2,3"}|
 |[Xmix1 (Midnight Dawn)](/songs/xmix1)|dj jiggens|75-300|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,10,14" charts="1,2,3"}|
 |[Xmix2 (Beats 'n Bangs)](/songs/xmix2)|DJ Inhabit|88-146|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,10" charts="1,2,3"}|
 |[Xmix3 (Stomp Dem Groove)](/songs/xmix3)|dj nagi|120-142|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,13" charts="1,2,3"}|

@@ -5,9 +5,9 @@ region: "JP"
 launched: "2010-01-28"
 difficulties:
   0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "DIFFICULT", class: "is-difficult" }
-  3: { name: "EXPERT", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "DIFFICULT", type: "danger" }
+  3: { name: "EXPERT", type: "success" }
 ---
 
 # DanceDanceRevolution MUSIC FIT

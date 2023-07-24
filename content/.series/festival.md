@@ -5,9 +5,9 @@ region: "JP"
 launched: "2004-11-18"
 difficulties:
   0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "LIGHT", class: "is-basic" }
-  2: { name: "STANDARD", class: "is-difficult" }
-  3: { name: "HEAVY", class: "is-expert" }
+  1: { name: "LIGHT", type: "warning" }
+  2: { name: "STANDARD", type: "danger" }
+  3: { name: "HEAVY", type: "success" }
   4: { name: "CHALLENGE", class: "is-challenge" }
 ---
 
@@ -51,7 +51,7 @@ difficulties:
 |[INSERTiON](/songs/insertion)|NAOKI underground|140-220|:charts{:difficulties="difficulties" levels="2,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[KI·SE·KI (DDR edit)](/songs/ki-se-ki)|Be For U|155|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[MAKE IT BETTER (So-REAL MIX)](/songs/make-it-better-so-real)|mitsu-O! SUMMER|118|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
+|[MAKE IT BETTER (So-REAL MIX)](/playstation-jp/2nd/make-it-better-so-real)|mitsu-O! SUMMER|118|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
 |[サナ・モレッテ・ネ・エンテ](/songs/sana-mollete-ne-ente)|Togo Project feat. Sana|90|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[un deux trois](/songs/un-deux-trois)|SDMS|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[You're Not Here](/songs/you-re-not-here)|Heather|70-138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|

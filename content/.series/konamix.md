@@ -4,10 +4,10 @@ platform: "Play Station"
 region: "US"
 launched: "2002-04-23"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "TRICK", class: "is-difficult" }
-  3: { name: "MANIAC", class: "is-expert" }
-  4: { name: "BATTLE", class: "is-basic" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "TRICK", type: "danger" }
+  3: { name: "MANIAC", type: "success" }
+  4: { name: "BATTLE", type: "warning" }
   5: { name: "SINGLE/BASICと同一", class: "is-unknown" }
   6: { name: "SINGLE/TRICKと同一", class: "is-unknown" }
   7: { name: "SINGLE/MANIACと同一", class: "is-unknown" }
@@ -31,7 +31,7 @@ difficulties:
 |[AM-3P (303 BASS MIX)](/songs/am-3p-303-bass)|KTz (remixed by U1)|130|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3" charts="5"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="5,6,7"}|
 |[B4U](/songs/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love)|DIVAS|96|:charts{:difficulties="difficulties" levels="1,3,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="4"}|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|
-|[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[BURNIN' THE FLOOR](/songs/burnin-the-floor)|NAOKI|155|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
 |[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5" charts="4"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
@@ -56,11 +56,11 @@ difficulties:
 |[La Señorita Virtual](/songs/la-senorita-virtual)|2MB|181|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[LEADING CYBER](/songs/leading-cyber)|dj TAKA|150|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
 |[Let the beat hit em! (CLASSIC R&B STYLE)](/songs/let-the-beat-hit-em-classic)|Stone Bros.|102|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3" charts="5"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
-|[LET THEM MOVE](/songs/let-them-move)|N.M.R.|115|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2" charts="4"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[LET THEM MOVE](/playstation-jp/2nd/let-them-move)|N.M.R.|115|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2" charts="4"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Look To The Sky](/songs/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3" charts="5"}|:charts{:difficulties="difficulties" levels="2,3,5" charts="5,6,7"}|
 |[LUV TO ME (AMD MIX)](/songs/luv-to-me-amd)|DJ KAZU feat. tiger YAMATO|154|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[MAKE A JAM!](/playstation-jp/1st/make-a-jam)|U1|124|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="4"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
-|[MAKE IT BETTER (So-REAL MIX)](/songs/make-it-better-so-real)|mitsu-O! SUMMER|118|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5" charts="4"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[MAKE IT BETTER (So-REAL MIX)](/playstation-jp/2nd/make-it-better-so-real)|mitsu-O! SUMMER|118|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5" charts="4"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
 |[Make Your Move](/songs/make-your-move)|good-cool feat. JP Miles|120|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[MATSURI JAPAN](/songs/matsuri-japan)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="5,6,7"}|
 |[ON THE JAZZ](/songs/on-the-jazz)|Jonny Dynamite!|130|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2" charts="5"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="5,6,7"}|
@@ -73,8 +73,8 @@ difficulties:
 |[Salamander Beat Crush mix](/songs/salamander-beat-crush-mix)|nite system|134|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,6" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="5,6,7"}|
 |[SUPER STAR](/songs/super-star)|D.J. RICH feat. Tail Bros.|128|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[THE EARTH LIGHT](/songs/the-earth-light)|L.E.D. LIGHT|145|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="5" charts="5"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="5,6,7"}|
-|[think ya better D](/songs/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="4"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
-|[TRIP MACHINE (luv mix)](/songs/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[think ya better D](/playstation-jp/2nd/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="4"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
+|[TRIP MACHINE (luv mix)](/playstation-jp/2nd/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[WILD RUSH](/songs/wild-rush)|FACTOR-X|80-180|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="4"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 
 ## NONSTOP
@@ -86,7 +86,7 @@ difficulties:
 
 ### OFFICIAL 1
 
-1. [BRILLIANT 2U](/songs/brilliant-2u) [BASIC]{.tag.is-basic}
+1. [BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u) [BASIC]{.tag.is-basic}
 1. [PERFECT FREE](/songs/perfect-free) [BASIC]{.tag.is-basic}
 1. [Salamander Beat Crush mix](/songs/salamander-beat-crush-mix) [BASIC]{.tag.is-basic}
 1. [END OF THE CENTURY](/songs/end-of-the-century) [BASIC]{.tag.is-basic}
@@ -126,10 +126,10 @@ difficulties:
 
 ### OFFICIAL 6
 
-1. [MAKE IT BETTER (So-REAL MIX)](/songs/make-it-better-so-real) [BASIC]{.tag.is-basic}
+1. [MAKE IT BETTER (So-REAL MIX)](/playstation-jp/2nd/make-it-better-so-real) [BASIC]{.tag.is-basic}
 1. [Don't Stop! (AMD 2nd MIX)](/songs/dont-stop) [BASIC]{.tag.is-basic}
 1. [DROP THE BOMB](/songs/drop-the-bomb) [BASIC]{.tag.is-basic}
-1. [think ya better D](/songs/think-ya-better-d) [BASIC]{.tag.is-basic}
+1. [think ya better D](/playstation-jp/2nd/think-ya-better-d) [BASIC]{.tag.is-basic}
 1. [HYSTERIA](/songs/hysteria) [BASIC]{.tag.is-basic}
 
 ## システム概要
@@ -159,7 +159,7 @@ difficulties:
 |[MATSURI JAPAN](/songs/matsuri-japan)|60|
 |[DROP OUT](/songs/drop-out)|65|
 |[era (nostalmix)](/songs/era)|70|
-|[TRIP MACHINE (luv mix)](/songs/trip-machine-luv)|75|
+|[TRIP MACHINE (luv mix)](/playstation-jp/2nd/trip-machine-luv)|75|
 |[R3](/songs/r3)|80|
 |[LEADING CYBER](/songs/leading-cyber)|85|
 |[Healing Vision](/songs/healing-vision)|90|

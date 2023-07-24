@@ -5,9 +5,9 @@ region: "JP"
 launched: "2008-02-21"
 difficulties:
   0: { name: "BEGINNER", class: "is-beginner" }
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "DIFFICULT", class: "is-difficult" }
-  3: { name: "EXPERT", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "DIFFICULT", type: "danger" }
+  3: { name: "EXPERT", type: "success" }
   4: { name: "CHALLENGE", class: "is-challenge" }
 ---
 
@@ -73,9 +73,9 @@ difficulties:
 |[Venus](/songs/venus-tatsh)|Tatsh+RayZY|195|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
 |[Votum stellarum -forest #25 DDR RMX-](/songs/votum-stellarum)|iconoclasm|140|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[AFRONOVA](/songs/afronova)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
-|[AM-3P](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
+|[AM-3P](/playstation-jp/2nd/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[B4U](/songs/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[BRILLIANT 2U](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,5,6,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
+|[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,5,6,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
 |[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
 |[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[D2R](/songs/d2r)|NAOKI|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -92,9 +92,9 @@ difficulties:
 |[TOMORROW](/songs/tomorrow)|nc ft. Dreamscanner|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[TRUE♥LOVE](/songs/true-love)|jun feat. Schanita|188|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[un deux trois](/songs/un-deux-trois)|SDMS|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
-|[AM-3P("CHAOS" Special)](/songs/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="10" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
+|[AM-3P("CHAOS" Special)](/playstation-jp/2nd/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="10" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
 |[B4U("VOLTAGE" Special)](/songs/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="10" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
-|[BRILLIANT 2U("STREAM" Special)](/songs/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
+|[BRILLIANT 2U("STREAM" Special)](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
 |[D2R("FREEZE" Special)](/songs/d2r)|NAOKI|160|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
 |[DEAD END("GROOVE RADAR" Special)](/songs/dead-end)|N&S|95-380|:charts{:difficulties="difficulties" levels="10" charts="4"}|:charts{:difficulties="difficulties" levels="10" charts="4"}|
 |[DYNAMITE RAVE("AIR" Special)](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|

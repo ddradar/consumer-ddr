@@ -4,9 +4,9 @@ platform: "Play Station"
 region: "JP"
 launched: "1999-11-25"
 difficulties:
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "ANOTHER", class: "is-difficult" }
-  3: { name: "MANIAC", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "ANOTHER", type: "danger" }
+  3: { name: "MANIAC", type: "success" }
 ---
 
 # Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1
@@ -50,7 +50,7 @@ difficulties:
 
 当ソフトはアペンドディスクのため、**起動には下記いずれかのソフトが別途必要。**
 
-- [Dance Dance Revolution 2nd ReMIX](/series/2nd)
+- [Dance Dance Revolution 2nd ReMIX](/playstation-jp/2nd)
 - [Dance Dance Revolution 3rd MIX](/series/3rd)
 
 ### プレースタイル

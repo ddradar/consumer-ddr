@@ -5,9 +5,9 @@ region: "JP"
 launched: "1999-12-09"
 difficulties:
   0: { name: "FREE", class: "is-beginner" }
-  1: { name: "BASIC", class: "is-basic" }
-  2: { name: "TRICK", class: "is-difficult" }
-  3: { name: "MANIAC", class: "is-expert" }
+  1: { name: "BASIC", type: "warning" }
+  2: { name: "TRICK", type: "danger" }
+  3: { name: "MANIAC", type: "success" }
   4: { name: "SUPER MANIAC", class: "is-challenge" }
 ---
 

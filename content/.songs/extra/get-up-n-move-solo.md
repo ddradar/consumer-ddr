@@ -31,8 +31,8 @@ series:
 
 ## メモ
 
-- 下記シリーズにも同一楽曲があるが、尺が異なるため[別ページ](/songs/get-up-n-move)に分割している。
-  - [Dance Dance Revolution 2nd ReMIX](/series/2nd)
+- 下記シリーズにも同一楽曲があるが、尺が異なるため[別ページ](/playstation-jp/2nd/get-up-n-move)に分割している。
+  - [Dance Dance Revolution 2nd ReMIX](/playstation-jp/2nd)
   - [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc)
   - [Dance Dance Revolution BEST HITS](/series/best)
   - [Dance Dance Revolution (US)](/playstation-us/1st)
