@@ -22,7 +22,7 @@ difficulties:
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
 |[BUTTERFLY](/playstation-jp/1st/butterfly)|smile. dk|135|:charts{:difficulties="difficulties" levels="1,3,4,5,8" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,6,8" charts="1,2,3,4"}|
-|[CAPTAIN JACK (GRANDALE REMIX)](/songs/captain-jack)|CAPTAIN JACK|170|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[CAPTAIN JACK (GRANDALE REMIX)](/dreamcast-jp/2nd/captain-jack)|CAPTAIN JACK|170|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[CONGA FEELING](/songs/conga-feeling)|VIVIAN|130|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[DAM DARIRAM](/songs/dam-dariram)|JOGA|142|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[DREAM A DREAM](/songs/dream-a-dream)|CAPTAIN JACK|141|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|

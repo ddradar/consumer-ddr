@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX :icon{name="flag:jp-4x3"}](/playstation-jp/2nd)
-- "2nd-dc"
+- [:icon{name="simple-icons:sega"} Dance Dance Revolution 2nd MIX Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/2nd)
 - "3rd"
 - "gb2"
 - "max2-us"
@@ -32,4 +32,4 @@
 
 - 下記のシリーズでは、「BONUS TRACK」からのみ選曲可能。
   - [Dance Dance Revolution 2nd ReMIX](/playstation-jp/2nd)
-  - [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc)
+  - [Dance Dance Revolution 2nd MIX Dreamcast Edition](/dreamcast-jp/2nd)

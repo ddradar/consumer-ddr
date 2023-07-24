@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX :icon{name="flag:jp-4x3"}](/playstation-jp/2nd)
 - "club-2"
-- "2nd-dc"
+- [:icon{name="simple-icons:sega"} Dance Dance Revolution 2nd MIX Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/2nd)
 - "club-dc"
 - "3rd"
 - "gb"

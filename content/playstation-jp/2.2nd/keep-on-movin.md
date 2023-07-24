@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX :icon{name="flag:jp-4x3"}](/playstation-jp/2nd)
 - "club-2"
-- "2nd-dc"
+- [:icon{name="simple-icons:sega"} Dance Dance Revolution 2nd MIX Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/2nd)
 - "club-dc"
 - "3rd"
 - "oha"
@@ -66,4 +66,4 @@
 - 以下のシリーズには、CLUB音源で収録されている。
   - [Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2](/playstation-jp/club-vol2)
   - [Dance Dance Revolution CLUB VERSION Dreamcast Edition](/dreamcast-jp/club)
-- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc)の :badge[BASIC]{type="warning"}, :badge[DIFFICULT]{type="danger"}, :badge[EXPERT]{type="success"}譜面は、BONUS TRACKモードでのみ遊べる。
+- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/dreamcast-jp/2nd)の :badge[BASIC]{type="warning"}, :badge[DIFFICULT]{type="danger"}, :badge[EXPERT]{type="success"}譜面は、BONUS TRACKモードでのみ遊べる。

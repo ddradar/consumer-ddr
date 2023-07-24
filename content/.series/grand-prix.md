@@ -128,7 +128,7 @@ difficulties:
 |[CaptivAte～誓い～](/songs/captivate)|DJ YOSHITAKA feat.A/I|160|:charts{:difficulties="difficulties" levels="4,5,8,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,13" charts="1,2,3"}|
 |[DEAD END ("GROOVE RADAR" Special)](/songs/dead-end)|N & S|95-380|:charts{:difficulties="difficulties" levels="18" charts="4"}|:charts{:difficulties="difficulties" levels="18" charts="4"}|
 |[dream of love](/songs/dream-of-love)|Kaori Nishina|114|:charts{:difficulties="difficulties" levels="3,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
-|[DYNAMITE RAVE ("AIR" Special)](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
+|[DYNAMITE RAVE ("AIR" Special)](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
 |[D2R ("FREEZE" Special)](/songs/d2r)|NAOKI|160|:charts{:difficulties="difficulties" levels="12" charts="4"}|:charts{:difficulties="difficulties" levels="12" charts="4"}|
 |[Electrified](/songs/electrified)|SySF.|140|:charts{:difficulties="difficulties" levels="3,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,11" charts="1,2,3"}|
 |[Every Day, Every Night(NM STYLE)](/songs/every-day-every-night)|LEA DROP feat. Ant Johnston|90|:charts{:difficulties="difficulties" levels="3,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
@@ -378,7 +378,7 @@ difficulties:
 |[CUTIE CHASER](/songs/cutie-chaser)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
 |[DEAD END](/songs/dead-end)|N & S|190|:charts{:difficulties="difficulties" levels="4,7,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,9,13" charts="1,2,3"}|
 |[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
-|[DYNAMITE RAVE](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="3,6,10,12,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,11,12" charts="1,2,3,4"}|
+|[DYNAMITE RAVE](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="3,6,10,12,12" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,7,11,12" charts="1,2,3,4"}|
 |[GRADIUSIC CYBER \~AMD G5 MIX\~](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="3,8,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,13" charts="1,2,3"}|
 |[La Señorita](/songs/la-senorita)|CAPTAIN.T|182|:charts{:difficulties="difficulties" levels="4,6,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,9,13" charts="1,2,3"}|
 |[La Señorita Virtual](/songs/la-senorita-virtual)|2MB|182|:charts{:difficulties="difficulties" levels="4,8,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,12" charts="1,2,3"}|

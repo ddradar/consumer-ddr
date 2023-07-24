@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX :icon{name="flag:jp-4x3"}](/playstation-jp/2nd)
-- "2nd-dc"
+- [:icon{name="simple-icons:sega"} Dance Dance Revolution 2nd MIX Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/2nd)
 - "3rd"
 - "us"
 - "konamix"
@@ -45,4 +45,4 @@
 
 ## メモ
 
-- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/series/2nd-dc)の :badge[BASIC]{type="warning"}, :badge[DIFFICULT]{type="danger"}, :badge[EXPERT]{type="success"}譜面は、BONUS TRACKモードでのみ遊べる。
+- [Dance Dance Revolution 2nd MIX Dreamcast Edition](/dreamcast-jp/2nd)の :badge[BASIC]{type="warning"}, :badge[DIFFICULT]{type="danger"}, :badge[EXPERT]{type="success"}譜面は、BONUS TRACKモードでのみ遊べる。

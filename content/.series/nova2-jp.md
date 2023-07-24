@@ -81,7 +81,7 @@ difficulties:
 |[D2R](/songs/d2r)|NAOKI|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[DEAD END](/songs/dead-end)|N&S|190|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
-|[DYNAMITE RAVE](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,5,7,9,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,8,8" charts="1,2,3,4"}|
+|[DYNAMITE RAVE](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,5,7,9,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,8,8" charts="1,2,3,4"}|
 |[Groove](/songs/groove)|Sho-T feat. Brenda|130|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[INSIDE YOUR HEART](/songs/inside-your-heart)|AKIRA YAMAOKA|107|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
@@ -97,7 +97,7 @@ difficulties:
 |[BRILLIANT 2U("STREAM" Special)](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
 |[D2R("FREEZE" Special)](/songs/d2r)|NAOKI|160|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
 |[DEAD END("GROOVE RADAR" Special)](/songs/dead-end)|N&S|95-380|:charts{:difficulties="difficulties" levels="10" charts="4"}|:charts{:difficulties="difficulties" levels="10" charts="4"}|
-|[DYNAMITE RAVE("AIR" Special)](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
+|[DYNAMITE RAVE("AIR" Special)](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
 |[Unreal](/songs/unreal)|Black Rose Garden|???|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
 |[NGO](/songs/ngo)|鍋島圭一|???|:charts{:difficulties="difficulties" levels="3,6,7,9,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,9,10" charts="1,2,3,4"}|
 |[TRIP MACHINE PhoeniX](/songs/trip-machine-phoenix)|DE-SIRE改|???|:charts{:difficulties="difficulties" levels="1,4,7,9,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,9,10" charts="1,2,3,4"}|

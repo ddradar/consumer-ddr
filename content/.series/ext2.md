@@ -26,7 +26,7 @@ difficulties:
 |[Block Rockin' Beats](/songs/block-rockin-beats)|Chemical Brothers|110|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[BOOM BOOM DOLLAR (K.O.G G3 MIX)](/songs/boom-boom-dollar-kogg)|King Kong & D. Jungle Girls|170|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[butterfly (UPSWING MIX)](/songs/butterfly-upswing)|SMiLE.dk|170|:charts{:difficulties="difficulties" levels="1,4,6,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,8,9" charts="1,2,3,4"}|
-|[CAPTAIN JACK (GRANDALE REMIX)](/songs/captain-jack)|CAPTAIN JACK|170|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[CAPTAIN JACK (GRANDALE REMIX)](/dreamcast-jp/2nd/captain-jack)|CAPTAIN JACK|170|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[CARTOON HEROES (Speedy Mix)](/songs/cartoon-heroes)|BARBIE YOUNG|170|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
 |[Crazy In Love](/songs/crazy-in-love)|wg feat. Indra J|100|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[Genie In A Bottle](/songs/genie-in-a-bottle)|nc ft. NRG Factory|136|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
@@ -84,7 +84,7 @@ difficulties:
 |[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,5,6,7" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,5,7,8" charts="1,2,3,4"}|
 |[BURNIN' THE FLOOR](/songs/burnin-the-floor)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[DIVE](/songs/dive)|Be For U|155|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[DYNAMITE RAVE](/songs/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,5,7,9,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,8,8" charts="1,2,3,4"}|
+|[DYNAMITE RAVE](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,5,7,9,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,8,8" charts="1,2,3,4"}|
 |[Look To The Sky (True Color Mix)](/songs/look-to-the-sky-true-color)|SysF. feat. Anna|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[PARANOiA](/playstation-jp/1st/paranoia)|180|180|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[AFRONOVA (FROM NONSTOP MEGAMIX)](/songs/afronova-from-nonstop)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|

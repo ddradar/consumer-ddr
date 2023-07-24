@@ -61,7 +61,7 @@ difficulties:
 |[What Will Come of Me](/songs/what-will-come-of-me)|Black Rose Garden|140|:charts{:difficulties="difficulties" levels="2,3,5,9" charts="0,1,2,3"}|
 |[You are a Star](/songs/you-are-a-star)|NAOKI feat. Anna Kaelin|155|:charts{:difficulties="difficulties" levels="2,3,6,9" charts="0,1,2,3"}|
 |[A Brighter Day](/songs/a-brighter-day)|NAOKI feat. Aleisha G|155|:charts{:difficulties="difficulties" levels="2,4,6,7" charts="0,1,2,3"}|
-|[DYNAMITE RAVE](/songs/dynamite-rave)|NAOKI|149|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
+|[DYNAMITE RAVE](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|149|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
 |[Sacred Oath](/songs/sacred-oath)|TЁЯRA|170|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
 |[THIS NIGHT](/songs/this-night)|jun feat. Sonnet|160|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
 |[Freeze](/songs/freeze)|nc ft. NRG Factory|140|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|
