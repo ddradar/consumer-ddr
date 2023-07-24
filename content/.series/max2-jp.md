@@ -7,7 +7,7 @@ difficulties:
   1: { name: "楽", type: "warning" }
   2: { name: "踊", type: "danger" }
   3: { name: "激", type: "success" }
-  4: { name: "鬼", class: "is-challenge" }
+  4: { name: "鬼", type: "primary" }
 ---
 
 # DDRMAX2 -DanceDanceRevolution 7thMIX-

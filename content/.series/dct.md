@@ -7,7 +7,7 @@ difficulties:
   1: { name: "BASIC", type: "warning" }
   2: { name: "TRICK", type: "danger" }
   3: { name: "MANIAC", type: "success" }
-  4: { name: "SUPER MANIAC", class: "is-challenge" }
+  4: { name: "SUPER MANIAC", type: "primary" }
 ---
 
 # Dancing Stage featuring DREAMS COME TRUE

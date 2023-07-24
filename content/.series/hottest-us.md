@@ -4,7 +4,7 @@ platform: "Wii"
 region: "US"
 launched: "2007-09-25"
 difficulties:
-  0: { name: "BEGINNER", class: "is-beginner" }
+  0: { name: "BEGINNER", type: "info" }
   1: { name: "BASIC", type: "warning" }
   2: { name: "DIFFICULT", type: "danger" }
   3: { name: "EXPERT", type: "success" }

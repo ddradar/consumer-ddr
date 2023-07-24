@@ -4,11 +4,11 @@ platform: "Xbox 360"
 region: "US"
 launched: "2008-10-21"
 difficulties:
-  0: { name: "BEGINNER", class: "is-beginner" }
+  0: { name: "BEGINNER", type: "info" }
   1: { name: "BASIC", type: "warning" }
   2: { name: "DIFFICULT", type: "danger" }
   3: { name: "EXPERT", type: "success" }
-  4: { name: "ONI", class: "is-challenge" }
+  4: { name: "ONI", type: "primary" }
 ---
 
 # DanceDanceRevolution UNIVERSE3

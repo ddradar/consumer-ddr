@@ -4,11 +4,11 @@ platform: "Play Station 2"
 region: "JP"
 launched: "2006-02-16"
 difficulties:
-  0: { name: "BEGINNER", class: "is-beginner" }
+  0: { name: "BEGINNER", type: "info" }
   1: { name: "LIGHT", type: "warning" }
   2: { name: "STANDARD", type: "danger" }
   3: { name: "HEAVY", type: "success" }
-  4: { name: "CHALLENGE", class: "is-challenge" }
+  4: { name: "CHALLENGE", type: "primary" }
 ---
 
 # DanceDanceRevolution STRIKE

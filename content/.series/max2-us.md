@@ -4,11 +4,11 @@ platform: "Play Station 2"
 region: "US"
 launched: "2003-09-23"
 difficulties:
-  0: { name: "習", class: "is-beginner" }
+  0: { name: "習", type: "info" }
   1: { name: "楽", type: "warning" }
   2: { name: "踊", type: "danger" }
   3: { name: "激", type: "success" }
-  4: { name: "鬼", class: "is-challenge" }
+  4: { name: "鬼", type: "primary" }
 ---
 
 # DDRMAX2 Dance Dance Revolution

@@ -4,11 +4,11 @@ platform: "GAME CUBE"
 region: "JP"
 launched: "2005-07-14"
 difficulties:
-  0: { name: "イージー", class: "is-beginner" }
+  0: { name: "イージー", type: "info" }
   1: { name: "ノーマル", type: "warning" }
   2: { name: "ハード", type: "danger" }
   3: { name: "ベリーハード", type: "success" }
-  4: { name: "スーパーハード", class: "is-challenge" }
+  4: { name: "スーパーハード", type: "primary" }
 ---
 
 # DanceDanceRevolution with MARIO
