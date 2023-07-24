@@ -30,5 +30,5 @@ series:
 |SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=4} :level{slug="2010-360" level=4}</div>|148/6||
 |SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=6} :level{slug="2010-360" level=6}</div>|233/9||
 |SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=8} :level{slug="2010-360" level=8}</div>|289/10||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=9}  :levels{links="/playstation2-us/extreme" level="9"} :level{slug="2010-ps3" level=9} :level{slug="2010-360" level=9}  :levels{links="/windows/grand-prix" level="11"}</div>|353/6||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=8}  :levels{links="/playstation2-us/extreme,/windows/grand-prix" level="8,11"}</div>|286/6||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="9"}  :levels{links="/playstation2-us/extreme" level="9"} :level{slug="2010-ps3" level=9} :level{slug="2010-360" level=9}  :levels{links="/windows/grand-prix" level="11"}</div>|353/6||
+|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="8"}  :levels{links="/playstation2-us/extreme,/windows/grand-prix" level="8,11"}</div>|286/6||

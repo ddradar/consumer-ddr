@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/extreme" level="1"} :level{slug="festival" level=1}|98/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme" level="4"} :level{slug="festival" level=4}|130/12||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme" level="5"} :level{slug="festival" level=5}|198/10||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme" level="7"} :level{slug="festival" level=7}|263/17||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme" level="3"} :level{slug="festival" level=3}|121/8||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme" level="7"} :level{slug="festival" level=7}|211/25||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme" level="7"} :level{slug="festival" level=7}|258/17||
+|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/extreme" level="1"} :levels{links="/playstation2-jp/festival" level="1"}|98/0||
+|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme" level="4"} :levels{links="/playstation2-jp/festival" level="4"}|130/12||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme" level="5"} :levels{links="/playstation2-jp/festival" level="5"}|198/10||
+|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme" level="7"} :levels{links="/playstation2-jp/festival" level="7"}|263/17||
+|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme" level="3"} :levels{links="/playstation2-jp/festival" level="3"}|121/8||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme" level="7"} :levels{links="/playstation2-jp/festival" level="7"}|211/25||
+|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme" level="7"} :levels{links="/playstation2-jp/festival" level="7"}|258/17||

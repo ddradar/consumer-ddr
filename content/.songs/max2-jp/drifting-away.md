@@ -24,9 +24,9 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/max2" level="1"}|90/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=2} :levels{links="/playstation2-us/max2" level="2"}</div>|114/4||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :levels{links="/playstation2-us/max2" level="5"}</div>|227/8||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=8} :levels{links="/playstation2-us/max2" level="8"}</div>|356/7||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=2} :levels{links="/playstation2-us/max2" level="2"}</div>|124/7||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=5} :levels{links="/playstation2-us/max2" level="5"}</div>|216/8||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max2-jp" level=8} :levels{links="/playstation2-us/max2" level="8"}</div>|338/13||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="2"} :levels{links="/playstation2-us/max2" level="2"}</div>|114/4||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="5"} :levels{links="/playstation2-us/max2" level="5"}</div>|227/8||
+|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="8"} :levels{links="/playstation2-us/max2" level="8"}</div>|356/7||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="2"} :levels{links="/playstation2-us/max2" level="2"}</div>|124/7||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="5"} :levels{links="/playstation2-us/max2" level="5"}</div>|216/8||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="8"} :levels{links="/playstation2-us/max2" level="8"}</div>|338/13||

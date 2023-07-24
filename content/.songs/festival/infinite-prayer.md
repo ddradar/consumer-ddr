@@ -24,13 +24,13 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/extreme2" level="1"}|133/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="festival" level=2}  :levels{links="/playstation2-us/extreme2" level="2"}</div>|146/5||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="festival" level=6}  :levels{links="/playstation2-us/extreme2" level="6"}</div>|201/36||
+|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="2"}  :levels{links="/playstation2-us/extreme2" level="2"}</div>|146/5||
+|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="6"}  :levels{links="/playstation2-us/extreme2" level="6"}</div>|201/36||
 |SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme2" level="7"}|309/20||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="festival" level=9}  :levels{links="/playstation2-us/extreme2" level="9"}</div>|450/18||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="festival" level=2}　 :levels{links="/playstation2-us/extreme2" level="2"}</div>|143/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="festival" level=6}　 :levels{links="/playstation2-us/extreme2" level="6"}</div>|201/36||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="festival" level=7}　 :levels{links="/playstation2-us/extreme2" level="7"}</div>|309/20||
+|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="9"}  :levels{links="/playstation2-us/extreme2" level="9"}</div>|450/18||
+|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="2"}　 :levels{links="/playstation2-us/extreme2" level="2"}</div>|143/0||
+|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="6"}　 :levels{links="/playstation2-us/extreme2" level="6"}</div>|201/36||
+|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"}　 :levels{links="/playstation2-us/extreme2" level="7"}</div>|309/20||
 
 ## メモ
 
