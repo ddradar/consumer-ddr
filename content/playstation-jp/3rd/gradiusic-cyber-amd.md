@@ -4,12 +4,6 @@ name: "GRADIUSIC CYBER (AMD G5 MIX)"
 artist: "BIG-O feat. TAKA"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 160
-series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-
-  - "max-us"
-  - "festival"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -20,7 +14,10 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "max-us"
+- "festival"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 

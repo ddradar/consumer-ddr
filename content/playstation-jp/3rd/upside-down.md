@@ -5,9 +5,6 @@ artist: "COO COO"
 from: "Dancemania Super Classics 1"
 bpm: 124
 series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-
-  - "gb3"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -18,7 +15,8 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "gb3"
 
 ## 譜面一覧
 

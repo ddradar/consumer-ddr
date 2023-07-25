@@ -5,9 +5,6 @@ artist: "MR. DOG feat. DJ SWAN"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 160
 series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-
-  - "max-us"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -18,7 +15,8 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "max-us"
 
 ## 譜面一覧
 

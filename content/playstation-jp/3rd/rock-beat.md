@@ -4,9 +4,6 @@ name: "ROCK BEAT"
 artist: "LOUD FORCE"
 from: "Dancemania X4"
 bpm: 150
-series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -17,7 +14,7 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 
 ## 譜面一覧
 

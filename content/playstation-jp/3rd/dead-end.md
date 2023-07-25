@@ -14,14 +14,14 @@ bpm: 190
 
 ## 収録タイトル
 
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-  - "konamix"
-  - "pc"
-  - "max2-jp"
-  - "universe2"
-  - "nova2-jp"
-  - "x2"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "konamix"
+- "pc"
+- "max2-jp"
+- "universe2"
+- "nova2-jp"
+- "x2"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 

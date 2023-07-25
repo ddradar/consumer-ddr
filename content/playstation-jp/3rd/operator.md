@@ -4,10 +4,6 @@ name: "OPERATOR (Two Gees Mix)"
 artist: "PAPAYA"
 from: "Dancemania X3"
 bpm: 135
-series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-
-  - "gb2"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -18,7 +14,8 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "gb2"
 
 ## 譜面一覧
 

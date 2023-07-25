@@ -5,14 +5,6 @@ artist: "190'"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 190
 series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-
-  - "gb2"
-  - "konamix"
-  - "max2-jp"
-  - "ext-jp"
-  - "universe3"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -23,7 +15,13 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "gb2"
+- "konamix"
+- "max2-jp"
+- "ext-jp"
+- "universe3"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 

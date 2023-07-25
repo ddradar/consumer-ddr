@@ -5,10 +5,6 @@ artist: "DJ KAZU feat. tiger YAMATO"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 154
 series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-
-  - "gb3"
-  - "konamix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -19,7 +15,9 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "gb3"
+- "konamix"
 
 ## 譜面一覧
 

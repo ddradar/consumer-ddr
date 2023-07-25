@@ -5,9 +5,6 @@ artist: "SMiLE.dk"
 from: "Dancemania X2"
 bpm: 138
 series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-
-  - "gb2"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -18,7 +15,8 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "gb2"
 
 ## 譜面一覧
 

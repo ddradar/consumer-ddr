@@ -5,7 +5,6 @@ artist: "RICE. C feat. jam master '73"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 90
 series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 
 ---
 
@@ -17,7 +16,7 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 
 ## 譜面一覧
 
