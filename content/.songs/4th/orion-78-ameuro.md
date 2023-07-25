@@ -8,7 +8,7 @@ series:
   - "4th"
   - "konamix"
   - "pc"
-  - "party"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
   - "grand-prix"
 ---
 

@@ -1,22 +1,12 @@
----
-slug: "wannabe"
-name: "Wannabe"
-artist: "Spice Girls"
-from: "Wannabe"
-bpm: 110
-series:
-  - "party"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Wannabe / Spice Girls
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Spice Girls|110|Wannabe|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
 
 ## 譜面一覧
 

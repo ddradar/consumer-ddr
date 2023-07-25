@@ -7,7 +7,7 @@ bpm: 170
 series:
   - "extra"
   - "max-us"
-  - "party"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

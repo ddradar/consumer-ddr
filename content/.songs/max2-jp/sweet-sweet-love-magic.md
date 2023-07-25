@@ -6,7 +6,7 @@ from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 180
 series:
   - "max2-jp"
-  - "party"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
   - "ext2"
   - "nova2-jp"
   - "2010-ps3"

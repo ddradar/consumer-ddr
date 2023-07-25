@@ -10,7 +10,7 @@ series:
   - "konamix"
   - "pc"
   - "max2-jp"
-  - "party"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
   - "ext-us"
   - "nova2-jp"
   - "x2"
