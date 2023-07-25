@@ -1,31 +1,21 @@
----
-slug: "afronova"
-name: "AFRONOVA"
-artist: "RE-VENGE"
-from: "DanceDanceRevolution 3rdMIX"
-bpm: 200
-series:
-  - "3rd"
-  - "gb2"
-  - "us"
-  - "pc"
-  - "max2-us"
-  - "ext-jp"
-  - "nova2-jp"
-  - "2010-ps3"
-  - "2010-360"
-  - "grand-prix"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# AFRONOVA / RE-VENGE
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|RE-VENGE|200|DanceDanceRevolution 3rdMIX|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "gb2"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation-us/1st)
+- "pc"
+- "max2-us"
+- "ext-jp"
+- "nova2-jp"
+- "2010-ps3"
+- "2010-360"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 

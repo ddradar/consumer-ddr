@@ -5,12 +5,13 @@ artist: "2MB"
 from: "DanceDanceRevolution 3rdMIX CS"
 bpm: 182
 series:
-  - "3rd"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+
   - "konamix"
   - "ext-jp"
   - "x-jp"
   - "x2"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

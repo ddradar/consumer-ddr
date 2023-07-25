@@ -5,7 +5,8 @@ artist: "MR. DOG feat. DJ SWAN"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 160
 series:
-  - "3rd"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+
   - "max-us"
 ---
 
@@ -35,4 +36,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution 3rd MIX (JP)](/series/3rd)では「gentle stress (AMD SEXUAL MIX)」という曲名で収録。
+- [Dance Dance Revolution 3rd MIX (JP)](/playstation-jp/3rd)では「gentle stress (AMD SEXUAL MIX)」という曲名で収録。

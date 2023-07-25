@@ -10,14 +10,14 @@
 - "club-2"
 - [:icon{name="simple-icons:sega"} Dance Dance Revolution 2nd MIX Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/2nd)
 - "club-dc"
-- "3rd"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 - "oha"
-- "us"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation-us/1st)
 - "pc"
 - "ext-jp"
 - "ext-us"
 - "grand-prix-free"
-- "grand-prix"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 

@@ -5,15 +5,6 @@ artist: "THOMAS HOWARD"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 125
 series:
-  - "3rd"
-  - "gb2"
-  - "best"
-  - "pc"
-  - "max-us"
-  - "max2-us"
-  - "ext-jp"
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
-  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -24,7 +15,16 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+
+- "gb2"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
+- "pc"
+- "max-us"
+- "max2-us"
+- "ext-jp"
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 

@@ -1,23 +1,13 @@
----
-slug: "vol-4"
-name: "VOL. 4"
-artist: "RAVERS CHOICE"
-from: "Dancemania SPEED 2"
-bpm: 166
-series:
-  - "3rd"
-  - "gb2"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# VOL. 4 / RAVERS CHOICE
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|RAVERS CHOICE|166|Dancemania SPEED 2|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "gb2"
 
 ## 譜面一覧
 

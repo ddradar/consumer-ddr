@@ -5,16 +5,6 @@ artist: "CAPTAIN. T"
 from: "Dance Dance Revolution 3rdMIX"
 bpm: 182
 series:
-  - "3rd"
-  - "gb"
-  - "gb2"
-  - "best"
-  - "us"
-  - "pc"
-  - "ext-jp"
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
-  - "ext-us"
-  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -25,7 +15,17 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+
+- [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB](/gameboy/1st)
+- "gb2"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation-us/1st)
+- "pc"
+- "ext-jp"
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
+- "ext-us"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 

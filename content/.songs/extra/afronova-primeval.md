@@ -10,7 +10,7 @@ series:
   - "konamix"
   - "ext2"
   - "x-jp"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -1,24 +1,14 @@
----
-slug: "wonderland"
-name: "WONDERLAND (UKS MIX)"
-artist: "X-TREME"
-from: "Dancemania SUMMERS 2"
-bpm: 128
-series:
-  - "3rd"
-  - "best"
-  - "ext-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# WONDERLAND (UKS MIX) / X-TREME
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|X-TREME|128|Dancemania SUMMERS 2|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
+- "ext-us"
 
 ## 譜面一覧
 

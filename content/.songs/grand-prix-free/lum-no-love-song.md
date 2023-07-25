@@ -6,7 +6,7 @@ from: "(ラムのラブソング)"
 bpm: 180
 series:
   - "grand-prix-free"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

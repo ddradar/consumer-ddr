@@ -5,9 +5,10 @@ artist: "E-ROTIC"
 from: "Dancemania SPEED 2"
 bpm: 170
 series:
-  - "3rd"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+
   - "gb2"
-  - "best"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

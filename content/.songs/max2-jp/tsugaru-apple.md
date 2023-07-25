@@ -9,7 +9,7 @@ series:
   - "ext-us"
   - "2010-ps3"
   - "2010-360"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -7,7 +7,7 @@ bpm: 128
 series:
   - "x-jp"
   - "grand-prix-free"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

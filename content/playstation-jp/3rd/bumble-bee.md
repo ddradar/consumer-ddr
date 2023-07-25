@@ -5,8 +5,6 @@ artist: "BAMBEE"
 from: "Dancemania X5"
 bpm: 138
 series:
-  - "3rd"
-  - "4th"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -17,7 +15,8 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "4th"
 
 ## 譜面一覧
 
@@ -36,4 +35,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution 3rd MIX](/series/3rd)は、「BONUS TRACK」からのみ選曲可能。
+- [Dance Dance Revolution 3rd MIX](/playstation-jp/3rd)は、「BONUS TRACK」からのみ選曲可能。

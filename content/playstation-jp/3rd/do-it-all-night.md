@@ -4,8 +4,6 @@ name: "DO IT ALL NIGHT"
 artist: "E-ROTIC"
 from: "Dancemania X4"
 bpm: 143
-series:
-  - "3rd"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -16,7 +14,7 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 
 ## 譜面一覧
 

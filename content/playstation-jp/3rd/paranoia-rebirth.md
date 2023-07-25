@@ -5,13 +5,14 @@ artist: "190'"
 from: "DanceDanceRevolution 3rdMIX"
 bpm: 190
 series:
-  - "3rd"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+
   - "gb2"
   - "konamix"
   - "max2-jp"
   - "ext-jp"
   - "universe3"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

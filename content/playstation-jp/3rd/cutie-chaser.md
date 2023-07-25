@@ -5,10 +5,6 @@ artist: "CLUB SPICE"
 from: "DanceDanceRevolution 3rdMIX CS"
 bpm: 126
 series:
-  - "3rd"
-  - "konamix"
-  - "pc"
-  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -19,7 +15,10 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- "konamix"
+- "pc"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 

@@ -6,7 +6,7 @@ from: "GUITARFREAKS 7thMIX & drummania 6thMIX"
 bpm: 170
 series:
   - "ext-jp"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

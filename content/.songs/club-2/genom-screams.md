@@ -8,7 +8,7 @@ series:
   - "club-2"
   - "club-dc"
   - "konamix"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

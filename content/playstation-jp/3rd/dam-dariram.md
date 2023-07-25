@@ -5,11 +5,6 @@ artist: "JOGA"
 from: "Dancemania X3"
 bpm: 142
 series:
-  - "3rd"
-  - "gb"
-  - "gb2"
-  - "best"
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -20,7 +15,11 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB](/gameboy/1st)
+- "gb2"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
 
 ## 譜面一覧
 

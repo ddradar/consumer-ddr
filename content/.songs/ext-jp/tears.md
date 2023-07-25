@@ -6,7 +6,7 @@ from: "DanceDanceRevolution EXTREME"
 bpm: 143
 series:
   - "ext-jp"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

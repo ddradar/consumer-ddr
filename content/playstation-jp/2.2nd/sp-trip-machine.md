@@ -8,14 +8,14 @@
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX :icon{name="flag:jp-4x3"}](/playstation-jp/2nd)
 - [:icon{name="simple-icons:sega"} Dance Dance Revolution 2nd MIX Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/2nd)
-- "3rd"
-- "gb"
-- "best"
-- "us"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+- [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB](/gameboy/1st)
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation-us/1st)
 - "max2-us"
 - "ext-jp"
 - "x-jp"
-- "grand-prix"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 

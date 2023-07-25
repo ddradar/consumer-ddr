@@ -5,7 +5,8 @@ artist: "WHO'S THAT GIRL!"
 from: "ZIPmania II"
 bpm: 128
 series:
-  - "3rd"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
+
   - "gb3"
 ---
 

@@ -51,7 +51,7 @@ difficulties:
 当ソフトはアペンドディスクのため、**起動には下記いずれかのソフトが別途必要。**
 
 - [Dance Dance Revolution 2nd ReMIX](/playstation-jp/2nd)
-- [Dance Dance Revolution 3rd MIX](/series/3rd)
+- [Dance Dance Revolution 3rd MIX](/playstation-jp/3rd)
 
 ### プレースタイル
 
@@ -105,4 +105,4 @@ difficulties:
 
 ### このソフトの隠し要素を解禁できるソフト
 
-- [Dance Dance Revolution 3rd MIX](/series/3rd)
+- [Dance Dance Revolution 3rd MIX](/playstation-jp/3rd)
