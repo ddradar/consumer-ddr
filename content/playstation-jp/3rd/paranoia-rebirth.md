@@ -21,7 +21,7 @@ series:
 - "max2-jp"
 - "ext-jp"
 - "universe3"
-- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+- "grand-prix"
 
 ## 譜面一覧
 

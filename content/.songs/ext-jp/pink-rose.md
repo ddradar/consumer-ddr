@@ -7,7 +7,7 @@ bpm: 146
 series:
   - "ext-jp"
   - "ext-us"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

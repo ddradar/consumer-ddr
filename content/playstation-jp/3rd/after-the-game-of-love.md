@@ -19,7 +19,7 @@ series:
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
 - "konamix"
 - "ext-jp"
-- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+- "grand-prix"
 
 ## 譜面一覧
 

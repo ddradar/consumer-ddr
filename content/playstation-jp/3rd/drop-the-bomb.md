@@ -24,7 +24,7 @@ series:
 - "ext-us"
 - "nova2-jp"
 - "grand-prix-free"
-- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+- "grand-prix"
 
 ## 譜面一覧
 

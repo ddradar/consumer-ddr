@@ -15,7 +15,7 @@
 - "nova2-jp"
 - "2010-ps3"
 - "2010-360"
-- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+- "grand-prix"
 
 ## 譜面一覧
 

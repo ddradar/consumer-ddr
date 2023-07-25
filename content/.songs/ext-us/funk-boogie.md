@@ -7,7 +7,7 @@ bpm: 127
 series:
   - "ext-us"
   - "festival"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

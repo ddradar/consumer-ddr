@@ -22,7 +22,7 @@
 - "ext2"
 - "nova2-jp"
 - "x2"
-- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+- "grand-prix"
 
 ## 譜面一覧
 

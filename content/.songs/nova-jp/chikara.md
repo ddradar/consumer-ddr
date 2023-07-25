@@ -6,7 +6,7 @@ from: "GUITARFREAKS 9thMIX & drummania 8thMIX"
 bpm: 185
 series:
   - "nova-jp"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -8,7 +8,7 @@ series:
   - "festival"
   - "ext2"
   - "nova-jp"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -6,7 +6,7 @@ from: "beatmania IIDX 14 GOLD"
 bpm: 160
 series:
   - "nova2-jp"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

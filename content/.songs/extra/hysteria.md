@@ -10,7 +10,7 @@ series:
   - "max2-us"
   - "festival"
   - "x2"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

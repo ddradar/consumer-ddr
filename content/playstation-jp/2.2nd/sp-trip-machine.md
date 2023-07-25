@@ -15,7 +15,7 @@
 - "max2-us"
 - "ext-jp"
 - "x-jp"
-- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+- "grand-prix"
 
 ## 譜面一覧
 

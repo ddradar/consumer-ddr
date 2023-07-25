@@ -6,7 +6,7 @@ from: "(マジLOVE1000%)"
 bpm: 129
 series:
   - "grand-prix-free"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

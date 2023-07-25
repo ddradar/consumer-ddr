@@ -8,7 +8,7 @@ series:
   - "5th"
   - "ext-jp"
   - "ext-us"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - "grand-prix"
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
