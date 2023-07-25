@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/x,/windows/grand-prix#フリープレー,/windows/grand-prix" level="1,1,1"}|77/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="4,4"}|116/11||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="8,8"}|236/23||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="10,10"}|323/12||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="4,4"}|111/21||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="9,9"}|221/22||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="10,11"}|316/17||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/x,/windows/grand-prix#フリープレー,/windows/grand-prix" level="1,1,1"}|77/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="4,4"}|116/11||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="8,8"}|236/23||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="10,10"}|323/12||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="4,4"}|111/21||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="9,9"}|221/22||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/x,/windows/grand-prix" level="10,11"}|316/17||

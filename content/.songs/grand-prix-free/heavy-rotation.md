@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/windows/grand-prix#フリープレー,/windows/grand-prix" level="2,2"}|83/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/windows/grand-prix" level="4"}|159/19||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/windows/grand-prix" level="9"}|285/33||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/windows/grand-prix" level="11"}|365/36||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/windows/grand-prix" level="5"}|164/19||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/windows/grand-prix" level="9"}|284/31||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/windows/grand-prix" level="11"}|368/38||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/windows/grand-prix#フリープレー,/windows/grand-prix" level="2,2"}|83/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix" level="4"}|159/19||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix" level="9"}|285/33||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix" level="11"}|365/36||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix" level="5"}|164/19||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix" level="9"}|284/31||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix" level="11"}|368/38||

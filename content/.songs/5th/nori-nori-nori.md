@@ -23,11 +23,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC (Preview)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3}</div>|133/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|123/6||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|165/3||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|215/16||
-|DOUBLE|[BASIC (Preview)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3}</div>|137/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|117/3||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|177/3||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|222/18||
+|SINGLE| :badge[BASIC (Preview)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3}</div>|133/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|123/6||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|165/3||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|215/16||
+|DOUBLE| :badge[BASIC (Preview)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3}</div>|137/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|117/3||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|177/3||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"}</div>|222/18||

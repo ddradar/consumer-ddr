@@ -24,14 +24,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER (Wii)]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=2} :level{slug="hottest-jp" level=2}</div>|65/0||
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=1}</div>|25/0||
-|SINGLE|[BASIC (Wii)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=3} :level{slug="hottest-jp" level=3}</div>|72/44||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=5}</div>|111/7||
-|SINGLE|[DIFFICULT (Wii)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=5} :level{slug="hottest-jp" level=5}</div>|150/62||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=7}</div>|211/4||
-|SINGLE|[EXPERT (Wii)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=8} :level{slug="hottest-jp" level=8}</div>|222/15||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=11}</div>|273/22||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=5}</div>|113/7||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=8}</div>|202/4||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=11}</div>|277/22||
+|SINGLE| :badge[BEGINNER (Wii)]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=2} :level{slug="hottest-jp" level=2}</div>|65/0||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=1}</div>|25/0||
+|SINGLE| :badge[BASIC (Wii)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=3} :level{slug="hottest-jp" level=3}</div>|72/44||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=5}</div>|111/7||
+|SINGLE| :badge[DIFFICULT (Wii)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=5} :level{slug="hottest-jp" level=5}</div>|150/62||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=7}</div>|211/4||
+|SINGLE| :badge[EXPERT (Wii)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=8} :level{slug="hottest-jp" level=8}</div>|222/15||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=11}</div>|273/22||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=5}</div>|113/7||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=8}</div>|202/4||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=11}</div>|277/22||

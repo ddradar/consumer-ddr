@@ -24,12 +24,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=6}  :levels{links="/playstation2-jp/x" level="6"} :level{slug="grand-prix-vol12" level=6}</div>|175/12||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=10}  :levels{links="/playstation2-jp/x" level="10"} :level{slug="grand-prix-vol12" level=10}</div>|297/17||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11}  :levels{links="/playstation2-jp/x" level="11"} :level{slug="grand-prix-vol12" level=12}</div>|357/10||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}  :levels{links="/playstation2-jp/x" level="15"} :level{slug="grand-prix-vol12" level=15}</div>|439/29||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=17}  :levels{links="/playstation2-jp/x" level="17"} :level{slug="grand-prix-vol12" level=17}</div>|492/31||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=10}  :levels{links="/playstation2-jp/x" level="10"} :level{slug="grand-prix-vol12" level=10}</div>|276/15||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11}  :levels{links="/playstation2-jp/x" level="11"} :level{slug="grand-prix-vol12" level=12}</div>|341/10||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}  :levels{links="/playstation2-jp/x" level="15"} :level{slug="grand-prix-vol12" level=15}</div>|421/29||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=17}  :levels{links="/playstation2-jp/x" level="17"} :level{slug="grand-prix-vol12" level=17}</div>|480/25||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=6}  :levels{links="/playstation2-jp/x" level="6"} :level{slug="grand-prix-vol12" level=6}</div>|175/12||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=10}  :levels{links="/playstation2-jp/x" level="10"} :level{slug="grand-prix-vol12" level=10}</div>|297/17||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11}  :levels{links="/playstation2-jp/x" level="11"} :level{slug="grand-prix-vol12" level=12}</div>|357/10||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}  :levels{links="/playstation2-jp/x" level="15"} :level{slug="grand-prix-vol12" level=15}</div>|439/29||
+|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=17}  :levels{links="/playstation2-jp/x" level="17"} :level{slug="grand-prix-vol12" level=17}</div>|492/31||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=10}  :levels{links="/playstation2-jp/x" level="10"} :level{slug="grand-prix-vol12" level=10}</div>|276/15||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11}  :levels{links="/playstation2-jp/x" level="11"} :level{slug="grand-prix-vol12" level=12}</div>|341/10||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}  :levels{links="/playstation2-jp/x" level="15"} :level{slug="grand-prix-vol12" level=15}</div>|421/29||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=17}  :levels{links="/playstation2-jp/x" level="17"} :level{slug="grand-prix-vol12" level=17}</div>|480/25||

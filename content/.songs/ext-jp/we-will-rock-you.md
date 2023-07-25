@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="1,1"}|58/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="3,3"}|98/1||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="5,5"}|155/8||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="7,7"}|179/4||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="3,3"}|102/1||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="5,5"}|149/2||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="7,7"}|161/9||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="1,1"}|58/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="3,3"}|98/1||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="5,5"}|155/8||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="7,7"}|179/4||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="3,3"}|102/1||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="5,5"}|149/2||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme,/playstation2-jp/party" level="7,7"}|161/9||

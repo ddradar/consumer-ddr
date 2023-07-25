@@ -20,12 +20,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=3}</div>|128/14||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=5}</div>|177/12||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=10}</div>|342/23||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=13}</div>|444/33||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=16}</div>|622/33||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=6}</div>|193/13||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=10}</div>|335/22||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=13}</div>|440/29||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=16}</div>|597/26||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=3}</div>|128/14||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=5}</div>|177/12||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=10}</div>|342/23||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=13}</div>|444/33||
+|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=16}</div>|622/33||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=6}</div>|193/13||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=10}</div>|335/22||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=13}</div>|440/29||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=16}</div>|597/26||

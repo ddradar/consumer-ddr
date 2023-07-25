@@ -23,11 +23,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=6}  :levels{links="/dreamcast-jp/club" level="6"}</div>|175/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=8}  :levels{links="/dreamcast-jp/club" level="8"}</div>|281/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=9}  :levels{links="/dreamcast-jp/club" level="9"}</div>|327/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=6}  :levels{links="/dreamcast-jp/club" level="6"}</div>|175/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=8}  :levels{links="/dreamcast-jp/club" level="8"}</div>|281/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=6}  :levels{links="/dreamcast-jp/club" level="6"}</div>|175/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=8}  :levels{links="/dreamcast-jp/club" level="8"}</div>|281/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=9}  :levels{links="/dreamcast-jp/club" level="9"}</div>|327/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=6}  :levels{links="/dreamcast-jp/club" level="6"}</div>|175/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="club-1" level=8}  :levels{links="/dreamcast-jp/club" level="8"}</div>|281/0||
 
 ## メモ
 

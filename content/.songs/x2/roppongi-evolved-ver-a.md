@@ -24,13 +24,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="6"} :levels{links="/wii-jp/music-fit" level="3"} :level{slug="grand-prix-vol10" level=6}</div>|146/9||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="8"} :levels{links="/wii-jp/music-fit" level="7"} :level{slug="grand-prix-vol10" level=8}</div>|229/28||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="11"} :levels{links="/wii-jp/music-fit" level="9"} :level{slug="grand-prix-vol10" level=11}</div>|337/29||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="15"} :levels{links="/wii-jp/music-fit" level="10"} :level{slug="grand-prix-vol10" level=15}</div>|495/28||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="8"} :level{slug="grand-prix-vol10" level=8}</div>|222/30||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="11"} :level{slug="grand-prix-vol10" level=12}</div>|291/37||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="15"} :level{slug="grand-prix-vol10" level=16}</div>|440/31||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="6"} :levels{links="/wii-jp/music-fit" level="3"} :level{slug="grand-prix-vol10" level=6}</div>|146/9||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="8"} :levels{links="/wii-jp/music-fit" level="7"} :level{slug="grand-prix-vol10" level=8}</div>|229/28||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="11"} :levels{links="/wii-jp/music-fit" level="9"} :level{slug="grand-prix-vol10" level=11}</div>|337/29||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="15"} :levels{links="/wii-jp/music-fit" level="10"} :level{slug="grand-prix-vol10" level=15}</div>|495/28||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="8"} :level{slug="grand-prix-vol10" level=8}</div>|222/30||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="11"} :level{slug="grand-prix-vol10" level=12}</div>|291/37||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="15"} :level{slug="grand-prix-vol10" level=16}</div>|440/31||
 
 ## メモ
 

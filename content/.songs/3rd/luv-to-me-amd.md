@@ -24,19 +24,19 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/3rd" level="4"} :level{slug="gb3" level=4} :levels{links="/playstation-us/konamix" level="4"}|203/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/3rd" level="7"} :level{slug="gb3" level=7} :levels{links="/playstation-us/konamix" level="7"}|270/0||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/3rd" level="8"} :level{slug="gb3" level=8} :levels{links="/playstation-us/konamix" level="8"}|353/0||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/3rd,/playstation-us/konamix" level="5,5"}|217/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/3rd,/playstation-us/konamix" level="6,6"}|228/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/3rd,/playstation-us/konamix" level="8,8"}|352/0||
-|UNISON|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/3rd" level="4"}|||
-|UNISON|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/3rd" level="7"}|||
-|UNISON|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/3rd" level="8"}|||
-|BATTLE|[BATTLE]{.tag.is-basic}| :levels{links="/playstation-us/konamix" level="7"}|||
-|6-PANELS|[BASIC]{.tag.is-basic}| :levels{links="/playstation-us/konamix" level="4"}|175/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-us/konamix" level="6"}|214/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-us/konamix" level="8"}|351/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="4"} :level{slug="gb3" level=4} :levels{links="/playstation-us/konamix" level="4"}|203/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="7"} :level{slug="gb3" level=7} :levels{links="/playstation-us/konamix" level="7"}|270/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="8"} :level{slug="gb3" level=8} :levels{links="/playstation-us/konamix" level="8"}|353/0||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-us/konamix" level="5,5"}|217/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-us/konamix" level="6,6"}|228/0||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation-us/konamix" level="8,8"}|352/0||
+|UNISON| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="4"}|||
+|UNISON| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="7"}|||
+|UNISON| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="8"}|||
+|BATTLE| :badge[BATTLE]{type="warning"}| :levels{links="/playstation-us/konamix" level="7"}|||
+|6-PANELS| :badge[BASIC]{type="warning"}| :levels{links="/playstation-us/konamix" level="4"}|175/0||
+|6-PANELS| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-us/konamix" level="6"}|214/0||
+|6-PANELS| :badge[EXPERT]{type="success"}| :levels{links="/playstation-us/konamix" level="8"}|351/0||
 
 ## メモ
 

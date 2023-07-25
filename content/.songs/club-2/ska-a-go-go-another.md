@@ -23,8 +23,8 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="6,6"}|203/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="8,8"}|337/0||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="9,9"}|383/0||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="6,6"}|203/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="8,8"}|337/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="6,6"}|203/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="8,8"}|337/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="9,9"}|383/0||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="6,6"}|203/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol2,/dreamcast-jp/club" level="8,8"}|337/0||

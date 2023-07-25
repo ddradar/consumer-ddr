@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/supernova2" level="1"} :level{slug="grand-prix-vol8" level=3}|75/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/supernova2" level="4"} :level{slug="grand-prix-vol8" level=6}|196/4||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/supernova2" level="5"} :level{slug="grand-prix-vol8" level=7}|239/8||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/supernova2" level="7"} :level{slug="grand-prix-vol8" level=10}|293/8||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/supernova2" level="4"} :level{slug="grand-prix-vol8" level=5}|186/2||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/supernova2" level="6"} :level{slug="grand-prix-vol8" level=7}|229/5||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/supernova2" level="7"} :level{slug="grand-prix-vol8" level=10}|262/5||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/supernova2" level="1"} :level{slug="grand-prix-vol8" level=3}|75/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2" level="4"} :level{slug="grand-prix-vol8" level=6}|196/4||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2" level="5"} :level{slug="grand-prix-vol8" level=7}|239/8||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2" level="7"} :level{slug="grand-prix-vol8" level=10}|293/8||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2" level="4"} :level{slug="grand-prix-vol8" level=5}|186/2||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2" level="6"} :level{slug="grand-prix-vol8" level=7}|229/5||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2" level="7"} :level{slug="grand-prix-vol8" level=10}|262/5||

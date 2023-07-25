@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="2"} :levels{links="/wii-jp/music-fit" level="1"}</div>|56/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="4"} :levels{links="/wii-jp/music-fit" level="2"}</div>|84/11||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="6"} :levels{links="/wii-jp/music-fit" level="4"}</div>|143/28||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="8"} :levels{links="/wii-jp/music-fit" level="6"}</div>|196/34||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="3"}</div>|93/18||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="6"}</div>|154/26||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="8"}</div>|199/31||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="2"} :levels{links="/wii-jp/music-fit" level="1"}</div>|56/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="4"} :levels{links="/wii-jp/music-fit" level="2"}</div>|84/11||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="6"} :levels{links="/wii-jp/music-fit" level="4"}</div>|143/28||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="8"} :levels{links="/wii-jp/music-fit" level="6"}</div>|196/34||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="3"}</div>|93/18||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="6"}</div>|154/26||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="8"}</div>|199/31||

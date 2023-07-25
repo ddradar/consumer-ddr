@@ -23,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="1,1"}|94/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="4,4"}|180/10||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="7,7"}|257/11||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="8,8"}|304/7||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="9,9"}|328/8||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="3,3"}|190/18||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="7,7"}|255/7||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="8,8"}|283/17||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="9,9"}|313/8||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="1,1"}|94/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="4,4"}|180/10||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="7,7"}|257/11||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="8,8"}|304/7||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="9,9"}|328/8||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="3,3"}|190/18||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="7,7"}|255/7||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="8,8"}|283/17||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2" level="9,9"}|313/8||

@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/supernova2" level="1"} :level{slug="x-us" level=2} :level{slug="grand-prix-vol8" level=3}|77/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/supernova2" level="3"} :level{slug="x-us" level=5} :level{slug="grand-prix-vol8" level=4}|120/9||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/supernova2" level="5"} :level{slug="x-us" level=6} :level{slug="grand-prix-vol8" level=6}|167/10||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/supernova2" level="6"} :level{slug="x-us" level=7} :level{slug="grand-prix-vol8" level=8}|205/8||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/supernova2" level="3"} :level{slug="x-us" level=5} :level{slug="grand-prix-vol8" level=4}|125/2||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/supernova2" level="4"} :level{slug="x-us" level=6} :level{slug="grand-prix-vol8" level=6}|155/3||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/supernova2" level="6"} :level{slug="x-us" level=8} :level{slug="grand-prix-vol8" level=9}|214/2||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/supernova2" level="1"} :level{slug="x-us" level=2} :level{slug="grand-prix-vol8" level=3}|77/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2" level="3"} :level{slug="x-us" level=5} :level{slug="grand-prix-vol8" level=4}|120/9||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2" level="5"} :level{slug="x-us" level=6} :level{slug="grand-prix-vol8" level=6}|167/10||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2" level="6"} :level{slug="x-us" level=7} :level{slug="grand-prix-vol8" level=8}|205/8||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2" level="3"} :level{slug="x-us" level=5} :level{slug="grand-prix-vol8" level=4}|125/2||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2" level="4"} :level{slug="x-us" level=6} :level{slug="grand-prix-vol8" level=6}|155/3||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2" level="6"} :level{slug="x-us" level=8} :level{slug="grand-prix-vol8" level=9}|214/2||

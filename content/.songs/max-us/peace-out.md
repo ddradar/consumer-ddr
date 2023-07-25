@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/extreme" level="1"}|57/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/max" level="2"} :levels{links="/playstation2-jp/max2" level="2"}  :levels{links="/playstation2-us/extreme" level="2"}|57/4||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/max" level="4"} :levels{links="/playstation2-jp/max2" level="4"}  :levels{links="/playstation2-us/extreme" level="4"}|115/8||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/max" level="7"} :levels{links="/playstation2-jp/max2" level="7"}  :levels{links="/playstation2-us/extreme" level="7"}|170/27||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/max" level="3"} :levels{links="/playstation2-jp/max2" level="3"}  :levels{links="/playstation2-us/extreme" level="3"}|79/17||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/max" level="5"} :levels{links="/playstation2-jp/max2" level="5"}  :levels{links="/playstation2-us/extreme" level="5"}|107/7||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/max" level="7"} :levels{links="/playstation2-jp/max2" level="7"}  :levels{links="/playstation2-us/extreme" level="7"}|164/11||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/extreme" level="1"}|57/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max" level="2"} :levels{links="/playstation2-jp/max2" level="2"}  :levels{links="/playstation2-us/extreme" level="2"}|57/4||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max" level="4"} :levels{links="/playstation2-jp/max2" level="4"}  :levels{links="/playstation2-us/extreme" level="4"}|115/8||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max" level="7"} :levels{links="/playstation2-jp/max2" level="7"}  :levels{links="/playstation2-us/extreme" level="7"}|170/27||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max" level="3"} :levels{links="/playstation2-jp/max2" level="3"}  :levels{links="/playstation2-us/extreme" level="3"}|79/17||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max" level="5"} :levels{links="/playstation2-jp/max2" level="5"}  :levels{links="/playstation2-us/extreme" level="5"}|107/7||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max" level="7"} :levels{links="/playstation2-jp/max2" level="7"}  :levels{links="/playstation2-us/extreme" level="7"}|164/11||

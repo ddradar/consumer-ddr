@@ -22,16 +22,16 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=1}</div>|59/0||
-|SINGLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=3}</div>|120/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=5}</div>|228/0||
-|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level="?"}</div>|219/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=3}</div>|128/0||
-|DOUBLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=5}</div>|177/0||
-|DOUBLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level="?"}</div>|240/0||
-|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=1}</div>|||
-|COUPLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=3}</div>|||
-|COUPLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=5}</div>|||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=1}</div>|59/0||
+|SINGLE| :badge[TRICK]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=3}</div>|120/0||
+|SINGLE| :badge[MANIAC]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=5}</div>|228/0||
+|SINGLE| :badge[SUPER MANIAC]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level="?"}</div>|219/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=3}</div>|128/0||
+|DOUBLE| :badge[TRICK]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=5}</div>|177/0||
+|DOUBLE| :badge[MANIAC]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level="?"}</div>|240/0||
+|COUPLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=1}</div>|||
+|COUPLE| :badge[TRICK]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=3}</div>|||
+|COUPLE| :badge[MANIAC]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="dct" level=5}</div>|||
 
 ## メモ
 

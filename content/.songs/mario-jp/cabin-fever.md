@@ -22,8 +22,8 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[イージー]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|111/0||
-|SINGLE|[ノーマル]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|132/0||
-|SINGLE|[ハード]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|169/0||
-|SINGLE|[ベリーハード]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|201/0||
-|SINGLE|[スーパーハード]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|219/0||
+|SINGLE| :badge[イージー]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|111/0||
+|SINGLE| :badge[ノーマル]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|132/0||
+|SINGLE| :badge[ハード]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|169/0||
+|SINGLE| :badge[ベリーハード]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|201/0||
+|SINGLE| :badge[スーパーハード]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|219/0||

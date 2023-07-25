@@ -23,14 +23,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta,/playstation-jp/oha-sta" level="2,3"} :level{slug="oha-gb" level=3}|107/0||
-|SINGLE|[ANOTHER (EASY)]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="3"}|126/0||
-|SINGLE|[ANOTHER]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="4"} :level{slug="oha-gb" level=4}|140/0||
-|SINGLE|[MANIAC (EASY)]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="3"}|133/0||
-|SINGLE|[MANIAC]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="5"} :level{slug="oha-gb" level=5}|173/0||
-|DOUBLE|[BASIC (EASY/NORMAL)]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta,/playstation-jp/oha-sta" level="3,5"}|109/0||
-|UNISON|[BASIC]{.tag.is-basic}| :levels{links="/playstation-jp/oha-sta,/playstation-jp/oha-sta" level="2,3"}|||
-|UNISON|[ANOTHER (EASY)]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="3"}|||
-|UNISON|[ANOTHER]{.tag.is-difficult}| :levels{links="/playstation-jp/oha-sta" level="4"}|||
-|UNISON|[MANIAC (EASY)]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="3"}|||
-|UNISON|[MANIAC]{.tag.is-expert}| :levels{links="/playstation-jp/oha-sta" level="5"}|||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/oha-sta,/playstation-jp/oha-sta" level="2,3"} :level{slug="oha-gb" level=3}|107/0||
+|SINGLE| :badge[ANOTHER (EASY)]{type="danger"}| :levels{links="/playstation-jp/oha-sta" level="3"}|126/0||
+|SINGLE| :badge[ANOTHER]{type="danger"}| :levels{links="/playstation-jp/oha-sta" level="4"} :level{slug="oha-gb" level=4}|140/0||
+|SINGLE| :badge[MANIAC (EASY)]{type="success"}| :levels{links="/playstation-jp/oha-sta" level="3"}|133/0||
+|SINGLE| :badge[MANIAC]{type="success"}| :levels{links="/playstation-jp/oha-sta" level="5"} :level{slug="oha-gb" level=5}|173/0||
+|DOUBLE| :badge[BASIC (EASY/NORMAL)]{type="warning"}| :levels{links="/playstation-jp/oha-sta,/playstation-jp/oha-sta" level="3,5"}|109/0||
+|UNISON| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/oha-sta,/playstation-jp/oha-sta" level="2,3"}|||
+|UNISON| :badge[ANOTHER (EASY)]{type="danger"}| :levels{links="/playstation-jp/oha-sta" level="3"}|||
+|UNISON| :badge[ANOTHER]{type="danger"}| :levels{links="/playstation-jp/oha-sta" level="4"}|||
+|UNISON| :badge[MANIAC (EASY)]{type="success"}| :levels{links="/playstation-jp/oha-sta" level="3"}|||
+|UNISON| :badge[MANIAC]{type="success"}| :levels{links="/playstation-jp/oha-sta" level="5"}|||

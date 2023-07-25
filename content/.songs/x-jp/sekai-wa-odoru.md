@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/x" level="1"}|53/2||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/x" level="3"}|92/9||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/x" level="7"}|164/8||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/x" level="10"}|240/5||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/x" level="2"}|86/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/x" level="6"}|160/3||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/x" level="9"}|241/6||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/x" level="1"}|53/2||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/x" level="3"}|92/9||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/x" level="7"}|164/8||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/x" level="10"}|240/5||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/x" level="2"}|86/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/x" level="6"}|160/3||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/x" level="9"}|241/6||

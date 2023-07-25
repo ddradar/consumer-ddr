@@ -24,13 +24,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=3} :level{slug="hottest-jp" level=3} :level{slug="grand-prix-vol2" level=6}</div>|123/1||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=7} :level{slug="hottest-jp" level=7} :level{slug="grand-prix-vol2" level=9}</div>|235/6||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=9} :level{slug="hottest-jp" level=9} :level{slug="grand-prix-vol2" level=13}</div>|361/15||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=10} :level{slug="hottest-jp" level=10} :level{slug="grand-prix-vol2" level=16}</div>|523/6||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol2" level=9}</div>|204/6||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol2" level=13}</div>|343/9||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol2" level=16}</div>|452/7||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=3} :level{slug="hottest-jp" level=3} :level{slug="grand-prix-vol2" level=6}</div>|123/1||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=7} :level{slug="hottest-jp" level=7} :level{slug="grand-prix-vol2" level=9}</div>|235/6||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=9} :level{slug="hottest-jp" level=9} :level{slug="grand-prix-vol2" level=13}</div>|361/15||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=10} :level{slug="hottest-jp" level=10} :level{slug="grand-prix-vol2" level=16}</div>|523/6||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol2" level=9}</div>|204/6||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol2" level=13}</div>|343/9||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol2" level=16}</div>|452/7||
 
 ## メモ
 

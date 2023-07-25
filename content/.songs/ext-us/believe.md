@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/extreme" level="1"} :levels{links="/playstation2-jp/festival" level="1"}|104/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme" level="4"} :levels{links="/playstation2-jp/festival" level="4"}|128/20||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme" level="6"} :levels{links="/playstation2-jp/festival" level="6"}|214/11||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme" level="7"} :levels{links="/playstation2-jp/festival" level="7"}|277/20||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/extreme" level="4"} :levels{links="/playstation2-jp/festival" level="4"}|157/12||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/extreme" level="7"} :levels{links="/playstation2-jp/festival" level="7"}|237/6||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/extreme" level="8"} :levels{links="/playstation2-jp/festival" level="8"}|270/9||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/extreme" level="1"} :levels{links="/playstation2-jp/festival" level="1"}|104/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/extreme" level="4"} :levels{links="/playstation2-jp/festival" level="4"}|128/20||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/extreme" level="6"} :levels{links="/playstation2-jp/festival" level="6"}|214/11||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/extreme" level="7"} :levels{links="/playstation2-jp/festival" level="7"}|277/20||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/extreme" level="4"} :levels{links="/playstation2-jp/festival" level="4"}|157/12||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/extreme" level="7"} :levels{links="/playstation2-jp/festival" level="7"}|237/6||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/extreme" level="8"} :levels{links="/playstation2-jp/festival" level="8"}|270/9||

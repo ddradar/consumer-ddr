@@ -25,10 +25,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="1,1,1,3"}|66/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="3,3,3,4"}|73/17||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="4,4,4,6"}|125/16||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="5,5,5,8"}|150/30||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="2,2,2,4"}|88/7||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="4,4,4,6"}|127/10||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="6,6,6,8"}|169/12||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="1,1,1,3"}|66/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="3,3,3,4"}|73/17||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="4,4,4,6"}|125/16||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="5,5,5,8"}|150/30||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="2,2,2,4"}|88/7||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="4,4,4,6"}|127/10||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="6,6,6,8"}|169/12||

@@ -24,13 +24,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/extreme2" level="1"} :level{slug="nova-jp" level=1}|90/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="3"}  :levels{links="/playstation2-us/extreme2" level="3"} :level{slug="nova-jp" level=3}</div>|122/10||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="5"}  :levels{links="/playstation2-us/extreme2" level="5"} :level{slug="nova-jp" level=5}</div>|206/14||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"}  :levels{links="/playstation2-us/extreme2" level="7"} :level{slug="nova-jp" level=7}</div>|244/19||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=3}</div>|143/21||
-|DOUBLE|[BASIC (Old)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="3"}  :levels{links="/playstation2-us/extreme2" level="3"}</div>|130/17||
-|DOUBLE|[DIFFICULT (Old)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="6"}  :levels{links="/playstation2-us/extreme2" level="6"}</div>|201/17||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=6}</div>|197/11||
-|DOUBLE|[EXPERT (Old)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"}  :levels{links="/playstation2-us/extreme2" level="7"}</div>|239/17||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=8}</div>|310/13||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/extreme2" level="1"} :level{slug="nova-jp" level=1}|90/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="3"}  :levels{links="/playstation2-us/extreme2" level="3"} :level{slug="nova-jp" level=3}</div>|122/10||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="5"}  :levels{links="/playstation2-us/extreme2" level="5"} :level{slug="nova-jp" level=5}</div>|206/14||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"}  :levels{links="/playstation2-us/extreme2" level="7"} :level{slug="nova-jp" level=7}</div>|244/19||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=3}</div>|143/21||
+|DOUBLE| :badge[BASIC (Old)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="3"}  :levels{links="/playstation2-us/extreme2" level="3"}</div>|130/17||
+|DOUBLE| :badge[DIFFICULT (Old)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="6"}  :levels{links="/playstation2-us/extreme2" level="6"}</div>|201/17||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=6}</div>|197/11||
+|DOUBLE| :badge[EXPERT (Old)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"}  :levels{links="/playstation2-us/extreme2" level="7"}</div>|239/17||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=8}</div>|310/13||

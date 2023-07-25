@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="1,4"}|100/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="4,5"}|155/14||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="6,8"}|252/14||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="8,13"}|420/15||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="4,5"}|151/23||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="6,8"}|247/17||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="9,13"}|419/16||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="1,4"}|100/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="4,5"}|155/14||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="6,8"}|252/14||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="8,13"}|420/15||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="4,5"}|151/23||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="6,8"}|247/17||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="9,13"}|419/16||

@@ -25,14 +25,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="1,1"}|92/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=4} :level{slug="gb3" level=4} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="4,4"}</div>|140/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=6} :level{slug="gb3" level=6} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="6,6"}</div>|187/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7} :level{slug="gb3" level=7} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="7,7"}</div>|251/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=4} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="4,4"}</div>|149/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=6} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="6,6"}</div>|177/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="7,7"}</div>|246/0||
-|BATTLE|[BATTLE]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=2}</div>|||
-|6-PANELS|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=4}</div>|144/0||
-|6-PANELS|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=5}</div>|198/0||
-|6-PANELS|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7}</div>|248/0||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="1,1"}|92/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=4} :level{slug="gb3" level=4} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="4,4"}</div>|140/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=6} :level{slug="gb3" level=6} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="6,6"}</div>|187/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7} :level{slug="gb3" level=7} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="7,7"}</div>|251/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=4} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="4,4"}</div>|149/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=6} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="6,6"}</div>|177/0||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7} :levels{links="/playstation2-us/max2,/playstation2-jp/party" level="7,7"}</div>|246/0||
+|BATTLE| :badge[BATTLE]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=2}</div>|||
+|6-PANELS| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=4}</div>|144/0||
+|6-PANELS| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=5}</div>|198/0||
+|6-PANELS| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="4th" level=7}</div>|248/0||

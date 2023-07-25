@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="3"}|136/7||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="7"}|204/22||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="10"}|317/4||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="13"}|455/20||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="7"}|209/14||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="10"}|325/8||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="13"}|466/23||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="3"}|136/7||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="7"}|204/22||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="10"}|317/4||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="13"}|455/20||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="7"}|209/14||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="10"}|325/8||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol6" level="13"}|466/23||

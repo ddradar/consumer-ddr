@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-us/max2" level="1"}|105/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/max2" level="4"}|149/27||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/max2" level="6"}|210/37||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/max2" level="7"}|250/35||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-us/max2" level="2"}|97/6||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-us/max2" level="5"}|152/11||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-us/max2" level="7"}|219/25||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/max2" level="1"}|105/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max2" level="4"}|149/27||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max2" level="6"}|210/37||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max2" level="7"}|250/35||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max2" level="2"}|97/6||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max2" level="5"}|152/11||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max2" level="7"}|219/25||

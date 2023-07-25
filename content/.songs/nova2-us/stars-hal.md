@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=1}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="1,3"}</div>|108/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=3}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="3,5"}</div>|166/6||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=6}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="6,10"}</div>|280/9||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=7}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="7,9"}</div>|300/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=3}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="3,6"}</div>|166/10||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=6}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="6,9"}</div>|281/7||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=7}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="7,10"}</div>|300/0||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=1}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="1,3"}</div>|108/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=3}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="3,5"}</div>|166/6||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=6}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="6,10"}</div>|280/9||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=7}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="7,9"}</div>|300/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=3}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="3,6"}</div>|166/10||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=6}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="6,9"}</div>|281/7||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova2-us" level=7}  :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="7,10"}</div>|300/0||

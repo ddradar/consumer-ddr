@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="1,1,3"}|75/0||
-|SINGLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="4,4,5"}|112/3||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="6,6,8"}|173/9||
-|SINGLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="8,8,11"}|242/15||
-|DOUBLE|[BASIC]{.tag.is-basic}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="4,4,4"}|111/3||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="6,6,7"}|164/13||
-|DOUBLE|[EXPERT]{.tag.is-expert}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="8,8,11"}|233/11||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="1,1,3"}|75/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="4,4,5"}|112/3||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="6,6,8"}|173/9||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="8,8,11"}|242/15||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="4,4,4"}|111/3||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="6,6,7"}|164/13||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme2,/windows/grand-prix" level="8,8,11"}|233/11||

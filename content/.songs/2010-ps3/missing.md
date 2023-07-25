@@ -23,7 +23,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=1} :level{slug="2010-360" level=1}</div>|61/8||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=2} :level{slug="2010-360" level=2}</div>|94/4||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=5} :level{slug="2010-360" level=5}</div>|166/5||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=6} :level{slug="2010-360" level=6}</div>|210/6||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=1} :level{slug="2010-360" level=1}</div>|61/8||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=2} :level{slug="2010-360" level=2}</div>|94/4||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=5} :level{slug="2010-360" level=5}</div>|166/5||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=6} :level{slug="2010-360" level=6}</div>|210/6||

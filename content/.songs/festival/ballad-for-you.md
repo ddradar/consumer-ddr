@@ -25,13 +25,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=1} :level{slug="nova2-us" level=1}  :levels{links="/windows/grand-prix" level="2"}</div>|52/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="2"} :level{slug="nova-jp" level=2} :level{slug="nova2-us" level=2}  :levels{links="/windows/grand-prix" level="5"}</div>|104/10||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="5"} :level{slug="nova-jp" level=5} :level{slug="nova2-us" level=5}  :levels{links="/windows/grand-prix" level="7"}</div>|150/27||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"} :level{slug="nova-jp" level=7} :level{slug="nova2-us" level=7}  :levels{links="/windows/grand-prix" level="8"}</div>|212/26||
-|DOUBLE|[BASIC (Old)]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="2"}</div>|102/11||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=2} :level{slug="nova2-us" level=2}  :levels{links="/windows/grand-prix" level="4"}</div>|75/9||
-|DOUBLE|[DIFFICULT (Old)]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="5"}</div>|155/7||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=5} :level{slug="nova2-us" level=5}  :levels{links="/windows/grand-prix" level="7"}</div>|164/8||
-|DOUBLE|[EXPERT (Old)]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"}</div>|208/6||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=7} :level{slug="nova2-us" level=7}  :levels{links="/windows/grand-prix" level="9"}</div>|245/21||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=1} :level{slug="nova2-us" level=1}  :levels{links="/windows/grand-prix" level="2"}</div>|52/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="2"} :level{slug="nova-jp" level=2} :level{slug="nova2-us" level=2}  :levels{links="/windows/grand-prix" level="5"}</div>|104/10||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="5"} :level{slug="nova-jp" level=5} :level{slug="nova2-us" level=5}  :levels{links="/windows/grand-prix" level="7"}</div>|150/27||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"} :level{slug="nova-jp" level=7} :level{slug="nova2-us" level=7}  :levels{links="/windows/grand-prix" level="8"}</div>|212/26||
+|DOUBLE| :badge[BASIC (Old)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="2"}</div>|102/11||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=2} :level{slug="nova2-us" level=2}  :levels{links="/windows/grand-prix" level="4"}</div>|75/9||
+|DOUBLE| :badge[DIFFICULT (Old)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="5"}</div>|155/7||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=5} :level{slug="nova2-us" level=5}  :levels{links="/windows/grand-prix" level="7"}</div>|164/8||
+|DOUBLE| :badge[EXPERT (Old)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"}</div>|208/6||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=7} :level{slug="nova2-us" level=7}  :levels{links="/windows/grand-prix" level="9"}</div>|245/21||

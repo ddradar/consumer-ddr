@@ -24,14 +24,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=4} :level{slug="2010-360" level=4} :level{slug="grand-prix-vol18" level=4}</div>|126/11||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=7} :level{slug="2010-360" level=7} :level{slug="grand-prix-vol18" level=9}</div>|259/15||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=9} :level{slug="2010-360" level=9} :level{slug="grand-prix-vol18" level=13}</div>|430/18||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=10} :level{slug="2010-360" level=10} :level{slug="grand-prix-vol18" level=16}</div>|561/23||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=8}</div>|249/19||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=13}</div>|392/16||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=16}</div>|541/14||
-|Octo|[CHALLENGE]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=10} :level{slug="2010-360" level=10}</div>|||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=4} :level{slug="2010-360" level=4} :level{slug="grand-prix-vol18" level=4}</div>|126/11||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=7} :level{slug="2010-360" level=7} :level{slug="grand-prix-vol18" level=9}</div>|259/15||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=9} :level{slug="2010-360" level=9} :level{slug="grand-prix-vol18" level=13}</div>|430/18||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=10} :level{slug="2010-360" level=10} :level{slug="grand-prix-vol18" level=16}</div>|561/23||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=8}</div>|249/19||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=13}</div>|392/16||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=16}</div>|541/14||
+|Octo| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=10} :level{slug="2010-360" level=10}</div>|||
 
 ## メモ
 

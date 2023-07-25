@@ -22,15 +22,15 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|47/0||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=3.5}</div>|137/0||
-|SINGLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4.5}</div>|158/0||
-|SINGLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=5.5}</div>|161/0||
-|SINGLE|[SUPER MANIAC]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|213/0||
-|DOUBLE|[FREE]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|47/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4}</div>|146/0||
-|DOUBLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=7.5}</div>|148/0||
-|DOUBLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|220/0||
-|COUPLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=3.5}</div>|||
-|COUPLE|[TRICK]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4.5}</div>|||
-|COUPLE|[MANIAC]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=5.5}</div>|||
+|SINGLE| :badge[FREE]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|47/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=3.5}</div>|137/0||
+|SINGLE| :badge[TRICK]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4.5}</div>|158/0||
+|SINGLE| :badge[MANIAC]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=5.5}</div>|161/0||
+|SINGLE| :badge[SUPER MANIAC]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|213/0||
+|DOUBLE| :badge[FREE]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|47/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4}</div>|146/0||
+|DOUBLE| :badge[TRICK]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=7.5}</div>|148/0||
+|DOUBLE| :badge[MANIAC]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|220/0||
+|COUPLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=3.5}</div>|||
+|COUPLE| :badge[TRICK]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4.5}</div>|||
+|COUPLE| :badge[MANIAC]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=5.5}</div>|||

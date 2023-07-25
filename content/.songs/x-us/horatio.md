@@ -24,14 +24,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BEGINNER]{.tag.is-beginner}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=2}  :levels{links="/playstation2-jp/x" level="3"} :level{slug="grand-prix-vol1" level=3}</div>|75/1||
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=4}  :levels{links="/playstation2-jp/x" level="4"} :level{slug="grand-prix-vol1" level=4}</div>|128/4||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=9}  :levels{links="/playstation2-jp/x" level="9"} :level{slug="grand-prix-vol1" level=9}</div>|244/14||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}  :levels{links="/playstation2-jp/x" level="15"} :level{slug="grand-prix-vol1" level=15}</div>|503/12||
-|SINGLE|[CHALLENGE (old)]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=16}</div>|441/12(65)||
-|SINGLE|[CHALLENGE]{.tag.is-challenge}| :levels{links="/playstation2-jp/x" level="15"} :level{slug="grand-prix-vol1" level=15}|436/12(37)||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=4}  :levels{links="/playstation2-jp/x" level="5"} :level{slug="grand-prix-vol1" level=5}</div>|124/10||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=8}  :levels{links="/playstation2-jp/x" level="8"} :level{slug="grand-prix-vol1" level=8}</div>|211/11||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=14}  :levels{links="/playstation2-jp/x" level="14"} :level{slug="grand-prix-vol1" level=14}</div>|422/3||
-|DOUBLE|[CHALLENGE (old)]{.tag.is-challenge}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}</div>|382/3(49)||
-|DOUBLE|[CHALLENGE]{.tag.is-challenge}| :levels{links="/playstation2-jp/x" level="14"} :level{slug="grand-prix-vol1" level=14}|382/3(43)||
+|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=2}  :levels{links="/playstation2-jp/x" level="3"} :level{slug="grand-prix-vol1" level=3}</div>|75/1||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=4}  :levels{links="/playstation2-jp/x" level="4"} :level{slug="grand-prix-vol1" level=4}</div>|128/4||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=9}  :levels{links="/playstation2-jp/x" level="9"} :level{slug="grand-prix-vol1" level=9}</div>|244/14||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}  :levels{links="/playstation2-jp/x" level="15"} :level{slug="grand-prix-vol1" level=15}</div>|503/12||
+|SINGLE| :badge[CHALLENGE (old)]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=16}</div>|441/12(65)||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/x" level="15"} :level{slug="grand-prix-vol1" level=15}|436/12(37)||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=4}  :levels{links="/playstation2-jp/x" level="5"} :level{slug="grand-prix-vol1" level=5}</div>|124/10||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=8}  :levels{links="/playstation2-jp/x" level="8"} :level{slug="grand-prix-vol1" level=8}</div>|211/11||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=14}  :levels{links="/playstation2-jp/x" level="14"} :level{slug="grand-prix-vol1" level=14}</div>|422/3||
+|DOUBLE| :badge[CHALLENGE (old)]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=15}</div>|382/3(49)||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/x" level="14"} :level{slug="grand-prix-vol1" level=14}|382/3(43)||

@@ -23,9 +23,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=4} :levels{links="/playstation2-us/max" level="4"}</div>|135/0||
-|SINGLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :levels{links="/playstation2-us/max" level="6"}</div>|215/0||
-|SINGLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=7} :levels{links="/playstation2-us/max" level="7"}</div>|282/0||
-|DOUBLE|[BASIC]{.tag.is-basic}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=4} :levels{links="/playstation2-us/max" level="4"}</div>|152/0||
-|DOUBLE|[DIFFICULT]{.tag.is-difficult}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :levels{links="/playstation2-us/max" level="6"}</div>|236/0||
-|DOUBLE|[EXPERT]{.tag.is-expert}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=7} :levels{links="/playstation2-us/max" level="7"}</div>|323/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=4} :levels{links="/playstation2-us/max" level="4"}</div>|135/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :levels{links="/playstation2-us/max" level="6"}</div>|215/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=7} :levels{links="/playstation2-us/max" level="7"}</div>|282/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=4} :levels{links="/playstation2-us/max" level="4"}</div>|152/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :levels{links="/playstation2-us/max" level="6"}</div>|236/0||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=7} :levels{links="/playstation2-us/max" level="7"}</div>|323/0||
