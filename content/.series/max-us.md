@@ -67,7 +67,7 @@ difficulties:
 |[I Was The One](/songs/i-was-the-one)|good-cool|125|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[I'M FOR REAL](/songs/im-for-real)|SLAKE|140|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[SANA MORETTE NE ENTE](/songs/sana-mollete-ne-ente)|Togo Project feat. Sana|90|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
-|[Silent Hill](/songs/silent-hill)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[Silent Hill](/playstation-jp/3rd/silent-hill)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[Spin the disc](/songs/spin-the-disc)|good-cool|130|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[THE SHINING POLARIS](/songs/the-shining-polaris)|L.E.D. feat. Sana|147|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[DYNAMITE RAVE -Down Bird SOTA Mix-](/songs/dynamite-rave-down-bird-sota)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -86,8 +86,8 @@ difficulties:
 |[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[RHYTHM AND POLICE (K.O.G G3 Mix)](/songs/rhythm-and-police)|CJ CREW feat. CHRISTIAN D|170|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[Electro Tuned (the SubS mix)](/songs/electro-tuned)|TaQ|125|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[gentle stress (SENSUAL MIX)](/songs/gentle-stress-sensual)|MR. DOG feat. DJ SWAN|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
-|[GRADIUSIC CYBER (AMD G5 MIX)](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
+|[gentle stress (SENSUAL MIX)](/playstation-jp/3rd/gentle-stress-sensual)|MR. DOG feat. DJ SWAN|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[GRADIUSIC CYBER (AMD G5 MIX)](/playstation-jp/3rd/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[LOVE THIS FEELIN'](/playstation-jp/2nd/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[PARANOiA MAX (DIRTY MIX) -CLUB ANOTHER ver.2-](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,9" charts="1,2,5"}|
 |[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|

@@ -31,9 +31,9 @@ difficulties:
 |[DREAM A DREAM](/songs/dream-a-dream)|CAPTAIN JACK|141|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[NEVER GONNA MAKE (FACTORY DANCE TEAM MIX)](/songs/never-gonna-make)|MORGANA|136|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[EAT YOU UP](/songs/eat-you-up)|ANGIE GOLD|130|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
-|[HOLIDAY](/songs/holiday)|WHO'S THAT GIRL!|128|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
-|[UPSIDE DOWN](/songs/upside-down)|COO COO|124|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[LUV TO ME (AMD MIX)](/songs/luv-to-me-amd)|DJ KAZU feat. tiger YAMATO|154|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
+|[HOLIDAY](/playstation-jp/3rd/holiday)|WHO'S THAT GIRL!|128|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
+|[UPSIDE DOWN](/playstation-jp/3rd/upside-down)|COO COO|124|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[LUV TO ME (AMD MIX)](/playstation-jp/3rd/luv-to-me-amd)|DJ KAZU feat. tiger YAMATO|154|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[I DON'T WANT TO MISS A THING (Planet Lution Mix)](/songs/i-dont-want-to-miss-a-thing)|DEJA VU featuring TASMIN|170|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[KISS ME (KCP REMIX)](/songs/kiss-me)|E-ROTIC|170|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|
 |[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
@@ -48,14 +48,14 @@ difficulties:
 ### COVERS & CLASSICS
 
 1. [EAT YOU UP](/songs/eat-you-up) [BASIC]{.tag.is-basic}
-1. [UPSIDE DOWN](/songs/upside-down) [BASIC]{.tag.is-basic}
+1. [UPSIDE DOWN](/playstation-jp/3rd/upside-down) [BASIC]{.tag.is-basic}
 1. [WALKIE TALKIE](/songs/walkie-talkie) [BASIC]{.tag.is-basic}
-1. [HOLIDAY](/songs/holiday) [BASIC]{.tag.is-basic}
+1. [HOLIDAY](/playstation-jp/3rd/holiday) [BASIC]{.tag.is-basic}
 
 ### KONAMI ORIGINAL 1
 
 1. [Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight) [BASIC]{.tag.is-basic}
-1. [LUV TO ME (AMD MIX)](/songs/luv-to-me-amd) [BASIC]{.tag.is-basic}
+1. [LUV TO ME (AMD MIX)](/playstation-jp/3rd/luv-to-me-amd) [BASIC]{.tag.is-basic}
 1. [Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop) [BASIC]{.tag.is-basic}
 1. [HYPNØTIC CRISIS](/songs/hypnotic-crisis) [BASIC]{.tag.is-basic}
 

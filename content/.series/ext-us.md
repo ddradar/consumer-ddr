@@ -37,7 +37,7 @@ difficulties:
 |[DON'T CLOCK ME](/songs/dont-clock-me)|POPULA DEMAND feat. THE GET FRESH GIRLS|124|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,4" charts="1,2,3"}|
 |[DROP OUT](/songs/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="3,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[DROP OUT (FROM NONSTOP MEGAMIX)](/songs/drop-out-from-nonstop)|NW260|130|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
-|[DROP THE BOMB](/songs/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
+|[DROP THE BOMB](/playstation-jp/3rd/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[ECSTASY (midnight blue mix)](/songs/ecstasy-midnight-blue)|d-complex|145|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
 |[Firefly](/songs/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
@@ -54,7 +54,7 @@ difficulties:
 |[KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[KICK THE CAN](/songs/kick-the-can)|BUS STOP|144|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Kids in America](/songs/kids-in-america)|KIM WILDE|159|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
-|[La Senorita](/songs/la-senorita)|CAPTAIN. T|182|:charts{:difficulties="difficulties" levels="2,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[La Senorita](/playstation-jp/3rd/la-senorita)|CAPTAIN. T|182|:charts{:difficulties="difficulties" levels="2,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[LADIES' NIGHT](/songs/ladies-night)|∠R|120|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Like A Virgin](/songs/like-a-virgin)|tama_happytone|126|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[LOVE LOVE SUGAR](/songs/love-love-sugar)|dj TAKA feat. NORIA|155|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -88,7 +88,7 @@ difficulties:
 |[WAITING FOR TONIGHT](/songs/waiting-for-tonight)|P.A.T|125|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[WILD RUSH](/songs/wild-rush)|FACTOR-X|80-180|:charts{:difficulties="difficulties" levels="2,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[WILD RUSH (FROM NONSTOP MEGAMIX)](/songs/wild-rush-from-nonstop)|FACTOR-X|125|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
-|[WONDERLAND (UKS MIX)](/songs/wonderland)|X-TREME|128|:charts{:difficulties="difficulties" levels="1,5,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
+|[WONDERLAND (UKS MIX)](/playstation-jp/3rd/wonderland)|X-TREME|128|:charts{:difficulties="difficulties" levels="1,5,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[Y.M.C.A.](/songs/ymca)|VILLAGE PEOPLE|130|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
 |[You're Not Here](/songs/you-re-not-here)|Heather|70-138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Your Rain (RAGE MIX)](/songs/your-rain)|Akira Yamaoka feat. Mary Elizabeth McGlynn|84|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|

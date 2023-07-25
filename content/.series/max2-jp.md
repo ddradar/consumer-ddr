@@ -49,11 +49,11 @@ difficulties:
 |[TSUGARU](/songs/tsugaru)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
 |[WAKA LAKA](/songs/waka-laka)|JENNY ROM VS ZIPPERS|170|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[B4U](/songs/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[DEAD END](/songs/dead-end)|N&S|190|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
+|[DEAD END](/playstation-jp/3rd/dead-end)|N&S|190|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[DROP OUT](/songs/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[DYNAMITE RAVE](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
 |[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
-|[PARANOiA Rebirth](/songs/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
+|[PARANOiA Rebirth](/playstation-jp/3rd/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
 |[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[AFRONOVA (FROM NONSTOP MEGAMIX)](/songs/afronova-from-nonstop)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
 |[AM-3P (AM EAST mix)](/songs/am-3p-am-east)|KTz|140|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|

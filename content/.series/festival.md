@@ -44,7 +44,7 @@ difficulties:
 |[era (nostalmix)](/songs/era)|TaQ|90-180|:charts{:difficulties="difficulties" levels="2,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Firefly](/songs/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Funk Boogie](/songs/funk-boogie)|Funk Kid feat. KOOL BOYS|127|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
-|[GRADIUSIC CYBER (AMD G5 MIX)](/songs/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
+|[GRADIUSIC CYBER (AMD G5 MIX)](/playstation-jp/3rd/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[Holic](/songs/holic)|TaQ|155|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[HYSTERIA](/songs/hysteria)|NAOKI 190|190|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[I Was The One](/songs/i-was-the-one)|good-cool|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|

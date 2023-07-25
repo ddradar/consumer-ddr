@@ -1,23 +1,13 @@
----
-slug: "boom-boom-dollar-kogg"
-name: "BOOM BOOM DOLLAR (K.O.G G3 MIX)"
-artist: "King Kong & D. Jungle Girls"
-from: "Dancemania SPEED 3"
-bpm: 170
-series:
-  - "3rd"
-  - "ext2"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# BOOM BOOM DOLLAR (K.O.G G3 MIX) / King Kong & D. Jungle Girls
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|King Kong & D. Jungle Girls|170|Dancemania SPEED 3|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- "3rd"
+- "ext2"
 
 ## 譜面一覧
 

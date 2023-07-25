@@ -35,5 +35,5 @@ series:
 
 1. [Unborn](/songs/unborn)
 1. [Disabled the Flaw](/songs/disabled-the-flaw)
-1. [DEAD END](/songs/dead-end)
+1. [DEAD END](/playstation-jp/3rd/dead-end)
 1. [Elfadiciell](/songs/elfadiciell)

@@ -82,7 +82,7 @@ difficulties:
 |[Somebody In Da' House](/songs/somebody-in-da-house)|Steve Porter|130|:charts{:difficulties="difficulties" levels="?,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,7" charts="0,1,2,3"}|
 |[Unborn](/songs/unborn)|Gein|175|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|
 |[COSMIC COWGIRL](/songs/cosmic-cowgirl)|Toshio Sakurai|145|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,5,6,8" charts="0,1,2,3"}|
-|[Dead End](/songs/dead-end)|N & S|190|:charts{:difficulties="difficulties" levels="?,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,6,7,8" charts="0,1,2,3"}|
+|[Dead End](/playstation-jp/3rd/dead-end)|N & S|190|:charts{:difficulties="difficulties" levels="?,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,6,7,8" charts="0,1,2,3"}|
 |[Disabled the Flaw](/songs/disabled-the-flaw)|D-Crew|145-171|:charts{:difficulties="difficulties" levels="?,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,7,9" charts="0,1,2,3"}|
 |[Let The Beat Hit 'Em Classic R&B Style](/songs/let-the-beat-hit-em-classic)|Stone Bros.|102|:charts{:difficulties="difficulties" levels="?,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,5,6" charts="0,1,2,3"}|
 |[MATSURI J-SUMMER MIX](/songs/matsuri-j-summer)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="?,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|

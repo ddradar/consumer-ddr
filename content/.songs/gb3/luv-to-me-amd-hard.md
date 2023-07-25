@@ -28,4 +28,4 @@ series:
 
 ## メモ
 
-- [LUV TO ME (AMD MIX)](/songs/luv-to-me-amd)と譜面は同一。
+- [LUV TO ME (AMD MIX)](/playstation-jp/3rd/luv-to-me-amd)と譜面は同一。
