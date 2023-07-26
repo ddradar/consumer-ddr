@@ -58,9 +58,9 @@ difficulties:
 
 - BASIC
 - TRICK (要コマンド)
-  - 曲選択時に<kbd>↓</kbd>を素早く2回押す。
+  - 曲選択時に`↓`を素早く2回押す。
 - MANIAC (要解禁, 要コマンド)
-  - TRICKを選択後、さらに<kbd>↓</kbd>を素早く2回押す。
+  - TRICKを選択後、さらに`↓`を素早く2回押す。
   - DOUBLEプレー時には選択不可
 
 ## 隠し要素
@@ -77,6 +77,6 @@ difficulties:
       - コマンド入力前に、**難易度をTRICKにする**こと。
       - [コマンド入力参考画像](https://pbs.twimg.com/media/EyWh_GVUYAA9KDb?format=png&name=large)
       - 成功するとジングルが鳴り、自動で難易度がMANIACに変更される。
-- 解禁後は、TRICK選択後さらに<kbd>↓↓</kbd>を押すことで、いつでもMANIACに変更可能。
+- 解禁後は、TRICK選択後さらに`↓↓`を押すことで、いつでもMANIACに変更可能。
   - 毎回コマンドを入力する必要はない。
   - 解禁状態はメモリーカードにセーブできる。

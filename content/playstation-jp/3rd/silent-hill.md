@@ -17,7 +17,7 @@ series:
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 
-- "gb2"
+- [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB2](/gameboy/gb2)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
 - "pc"
 - "max-us"
@@ -31,9 +31,9 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation-jp/best,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/party,/windows/grand-prix" level="1,1,1,1,3"}|85/0||
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/party,/windows/grand-prix" level="2"} :level{slug="gb2" level=2} :levels{links="/playstation-jp/best" level="2,2,2,2,2,2,4"}|117/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/party,/windows/grand-prix" level="6"} :level{slug="gb2" level=6} :levels{links="/playstation-jp/best" level="6,6,6,6,6,6,9"}|202/0||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/party,/windows/grand-prix" level="7"} :level{slug="gb2" level=7} :levels{links="/playstation-jp/best" level="7,7,7,7,7,7,10"}|265/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/party,/windows/grand-prix" level="2"} :levels{links="/gameboy/gb2" level="2"} :levels{links="/playstation-jp/best" level="2,2,2,2,2,2,4"}|117/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/party,/windows/grand-prix" level="6"} :levels{links="/gameboy/gb2" level="6"} :levels{links="/playstation-jp/best" level="6,6,6,6,6,6,9"}|202/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/windows/1st,/playstation2-us/max,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/party,/windows/grand-prix" level="7"} :levels{links="/gameboy/gb2" level="7"} :levels{links="/playstation-jp/best" level="7,7,7,7,7,7,10"}|265/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best,/windows/1st,/playstation2-us/max,/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="4,4,4,4,4,4,4,5"}|165/0||
 |DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best,/windows/1st,/playstation2-us/max,/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="5,5,5,5,5,5,5,7"}|206/0||
 |DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best,/windows/1st,/playstation2-us/max,/playstation2-us/max2,/playstation2-jp/party,/playstation2-jp/extreme,/windows/grand-prix" level="7,7,7,7,7,7,7,11"}|268/0||

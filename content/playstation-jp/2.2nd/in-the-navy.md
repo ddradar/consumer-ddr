@@ -9,7 +9,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX :icon{name="flag:jp-4x3"}](/playstation-jp/2nd)
 - [:icon{name="simple-icons:sega"} Dance Dance Revolution 2nd MIX Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/2nd)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-- "gb2"
+- [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB2](/gameboy/gb2)
 - "max2-us"
 
 ## 譜面一覧

@@ -47,31 +47,31 @@ difficulties:
 
 ### COVERS & CLASSICS
 
-1. [EAT YOU UP](/songs/eat-you-up) [BASIC]{.tag.is-basic}
-1. [UPSIDE DOWN](/playstation-jp/3rd/upside-down) [BASIC]{.tag.is-basic}
-1. [WALKIE TALKIE](/songs/walkie-talkie) [BASIC]{.tag.is-basic}
-1. [HOLIDAY](/playstation-jp/3rd/holiday) [BASIC]{.tag.is-basic}
+1. [EAT YOU UP](/songs/eat-you-up) :badge[BASIC]{type="warning"}
+1. [UPSIDE DOWN](/playstation-jp/3rd/upside-down) :badge[BASIC]{type="warning"}
+1. [WALKIE TALKIE](/songs/walkie-talkie) :badge[BASIC]{type="warning"}
+1. [HOLIDAY](/playstation-jp/3rd/holiday) :badge[BASIC]{type="warning"}
 
 ### KONAMI ORIGINAL 1
 
-1. [Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight) [BASIC]{.tag.is-basic}
-1. [LUV TO ME (AMD MIX)](/playstation-jp/3rd/luv-to-me-amd) [BASIC]{.tag.is-basic}
-1. [Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop) [BASIC]{.tag.is-basic}
-1. [HYPNØTIC CRISIS](/songs/hypnotic-crisis) [BASIC]{.tag.is-basic}
+1. [Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight) :badge[BASIC]{type="warning"}
+1. [LUV TO ME (AMD MIX)](/playstation-jp/3rd/luv-to-me-amd) :badge[BASIC]{type="warning"}
+1. [Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop) :badge[BASIC]{type="warning"}
+1. [HYPNØTIC CRISIS](/songs/hypnotic-crisis) :badge[BASIC]{type="warning"}
 
 ### KONAMI ORIGINAL 2
 
-1. [MY SUMMER LOVE](/songs/my-summer-love) [BASIC]{.tag.is-basic}
-1. [TRIP MACHINE CLIMAX](/songs/trip-machine-climax) [BASIC]{.tag.is-basic}
-1. [HIGHER](/songs/higher) [ANOTHER]{.tag.is-difficult}
-1. [LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight) [ANOTHER]{.tag.is-difficult}
+1. [MY SUMMER LOVE](/songs/my-summer-love) :badge[BASIC]{type="warning"}
+1. [TRIP MACHINE CLIMAX](/songs/trip-machine-climax) :badge[BASIC]{type="warning"}
+1. [HIGHER](/songs/higher) :badge[ANOTHER]{type="danger"}
+1. [LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight) :badge[ANOTHER]{type="danger"}
 
 ### POPS 1
 
-1. [IN THE HEAT OF THE NIGHT](/songs/in-the-heat-of-the-night) [ANOTHER]{.tag.is-difficult}
-1. [1,2,3,4,007](/songs/1-2-3-4-007) [ANOTHER]{.tag.is-difficult}
-1. [PINK DINOSAUR](/songs/pink-dinosaur) [ANOTHER]{.tag.is-difficult}
-1. [DREAM A DREAM](/songs/dream-a-dream) [ANOTHER]{.tag.is-difficult}
+1. [IN THE HEAT OF THE NIGHT](/songs/in-the-heat-of-the-night) :badge[ANOTHER]{type="danger"}
+1. [1,2,3,4,007](/songs/1-2-3-4-007) :badge[ANOTHER]{type="danger"}
+1. [PINK DINOSAUR](/songs/pink-dinosaur) :badge[ANOTHER]{type="danger"}
+1. [DREAM A DREAM](/songs/dream-a-dream) :badge[ANOTHER]{type="danger"}
 
 ### POPS 2
 
@@ -86,7 +86,7 @@ difficulties:
 そのため以下の操作体系をとる。(タイトル画面で変更する)
 
 - (ゲームボーイカラーのみ)同梱されている「専用指コントローラ」を取り付ける
-- <kbd>A</kbd>ボタンが<kbd>→</kbd>、<kbd>B</kbd>ボタンが<kbd>↑</kbd>にアサインされるため併用する
+- `A`ボタンが`→`、`B`ボタンが`↑`にアサインされるため併用する
 
 当ゲームには**バッテリーバックアップ機能が搭載されていない。**
 ハイスコア・解禁状況は電源を切るとリセットされる。

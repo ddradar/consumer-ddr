@@ -64,7 +64,7 @@ difficulties:
 |[AFRONOVA](/playstation-jp/3rd/afronova)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
 |[Bad Routine](/songs/bad-routine)|D.J. Spugna|130|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Burning Heat! (3 Option Mix)](/songs/burning-heat)|Mr. T with Motoaki F.|166|:charts{:difficulties="difficulties" levels="1,2,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,9" charts="1,2,3"}|
-|[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
+|[CAN'T STOP FALLIN' IN LOVE](/gameboy/gb2/cant-stop-fallin-in-love)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
 |[DIVE (more deep & deeper style)](/songs/dive-more-deep)|Be For U|155|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
 |[Don't Stop! (AMD 2nd MIX)](/songs/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[END OF THE CENTURY](/playstation-jp/3rd/end-of-the-century)|NO. 9|171|:charts{:difficulties="difficulties" levels="1,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|

@@ -79,16 +79,16 @@ difficulties:
 
 ### OFFICIAL 1
 
-1. [1,2,3,4,007](/songs/1-2-3-4-007) [BASIC]{.tag.is-basic}
-1. [KICK THE CAN](/songs/kick-the-can) [BASIC]{.tag.is-basic}
-1. [PINK DINOSAUR](/songs/pink-dinosaur) [BASIC]{.tag.is-basic}
-1. [THE 7 JUMP](/songs/the-7-jump) [BASIC]{.tag.is-basic}
-1. [DAM DARIRAM (KCP MIX)](/songs/dam-dariram-kcp) [BASIC]{.tag.is-basic}
+1. [1,2,3,4,007](/songs/1-2-3-4-007) :badge[BASIC]{type="warning"}
+1. [KICK THE CAN](/songs/kick-the-can) :badge[BASIC]{type="warning"}
+1. [PINK DINOSAUR](/songs/pink-dinosaur) :badge[BASIC]{type="warning"}
+1. [THE 7 JUMP](/songs/the-7-jump) :badge[BASIC]{type="warning"}
+1. [DAM DARIRAM (KCP MIX)](/songs/dam-dariram-kcp) :badge[BASIC]{type="warning"}
 
 ### OFFICIAL 2
 
-1. [MY SUMMER LOVE](/songs/my-summer-love) [BASIC]{.tag.is-basic}
-1. [WALKIE TALKIE](/songs/walkie-talkie) [BASIC]{.tag.is-basic}
+1. [MY SUMMER LOVE](/songs/my-summer-love) :badge[BASIC]{type="warning"}
+1. [WALKIE TALKIE](/songs/walkie-talkie) :badge[BASIC]{type="warning"}
 1. [HIGHER](/songs/higher) [TRICK]{.tag.is-difficult}
 1. [MUSIC](/songs/music-habegale) [TRICK]{.tag.is-difficult}
 1. [Holic](/songs/holic) [TRICK]{.tag.is-difficult}
@@ -119,11 +119,11 @@ difficulties:
 
 ### OFFICIAL 6
 
-1. [SYNCHRONIZED LOVE (Red Monster Hyper Mix)](/songs/synchronized-love) [BASIC]{.tag.is-basic}
-1. [HERO (HAPPY GRANDALE MIX)](/songs/hero-happy-grandale) [BASIC]{.tag.is-basic}
-1. [Share My Love](/songs/share-my-love) [BASIC]{.tag.is-basic}
-1. [era (nostalmix)](/songs/era) [BASIC]{.tag.is-basic}
-1. [Midnite Blaze](/songs/midnite-blaze) [BASIC]{.tag.is-basic}
+1. [SYNCHRONIZED LOVE (Red Monster Hyper Mix)](/songs/synchronized-love) :badge[BASIC]{type="warning"}
+1. [HERO (HAPPY GRANDALE MIX)](/songs/hero-happy-grandale) :badge[BASIC]{type="warning"}
+1. [Share My Love](/songs/share-my-love) :badge[BASIC]{type="warning"}
+1. [era (nostalmix)](/songs/era) :badge[BASIC]{type="warning"}
+1. [Midnite Blaze](/songs/midnite-blaze) :badge[BASIC]{type="warning"}
 
 ## システム概要
 

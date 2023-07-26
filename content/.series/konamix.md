@@ -33,7 +33,7 @@ difficulties:
 |[BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love)|DIVAS|96|:charts{:difficulties="difficulties" levels="1,3,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="4"}|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|
 |[BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[BURNIN' THE FLOOR](/songs/burnin-the-floor)|NAOKI|155|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|NAOKI|155|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
+|[CAN'T STOP FALLIN' IN LOVE](/gameboy/gb2/cant-stop-fallin-in-love)|NAOKI|155|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
 |[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5" charts="4"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[CUTIE CHASER](/playstation-jp/3rd/cutie-chaser)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3" charts="4"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[DEAD END](/playstation-jp/3rd/dead-end)|N&S|190|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
@@ -86,16 +86,16 @@ difficulties:
 
 ### OFFICIAL 1
 
-1. [BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u) [BASIC]{.tag.is-basic}
-1. [PERFECT FREE](/songs/perfect-free) [BASIC]{.tag.is-basic}
-1. [Salamander Beat Crush mix](/songs/salamander-beat-crush-mix) [BASIC]{.tag.is-basic}
-1. [END OF THE CENTURY](/playstation-jp/3rd/end-of-the-century) [BASIC]{.tag.is-basic}
-1. [B4U](/songs/b4u) [BASIC]{.tag.is-basic}
+1. [BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u) :badge[BASIC]{type="warning"}
+1. [PERFECT FREE](/songs/perfect-free) :badge[BASIC]{type="warning"}
+1. [Salamander Beat Crush mix](/songs/salamander-beat-crush-mix) :badge[BASIC]{type="warning"}
+1. [END OF THE CENTURY](/playstation-jp/3rd/end-of-the-century) :badge[BASIC]{type="warning"}
+1. [B4U](/songs/b4u) :badge[BASIC]{type="warning"}
 
 ### OFFICIAL 2
 
-1. [BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love) [BASIC]{.tag.is-basic}
-1. [GROOVE](/songs/groove) [BASIC]{.tag.is-basic}
+1. [BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love) :badge[BASIC]{type="warning"}
+1. [GROOVE](/songs/groove) :badge[BASIC]{type="warning"}
 1. [Make Your Move](/songs/make-your-move) [TRICK]{.tag.is-difficult}
 1. [Do It Right](/songs/do-it-right-sota) [TRICK]{.tag.is-difficult}
 1. [Let the beat hit em! (CLASSIC R&B STYLE)](/songs/let-the-beat-hit-em-classic) [MANIAC]{.tag.is-expert}
@@ -126,11 +126,11 @@ difficulties:
 
 ### OFFICIAL 6
 
-1. [MAKE IT BETTER (So-REAL MIX)](/playstation-jp/2nd/make-it-better-so-real) [BASIC]{.tag.is-basic}
-1. [Don't Stop! (AMD 2nd MIX)](/songs/dont-stop) [BASIC]{.tag.is-basic}
-1. [DROP THE BOMB](/playstation-jp/3rd/drop-the-bomb) [BASIC]{.tag.is-basic}
-1. [think ya better D](/playstation-jp/2nd/think-ya-better-d) [BASIC]{.tag.is-basic}
-1. [HYSTERIA](/songs/hysteria) [BASIC]{.tag.is-basic}
+1. [MAKE IT BETTER (So-REAL MIX)](/playstation-jp/2nd/make-it-better-so-real) :badge[BASIC]{type="warning"}
+1. [Don't Stop! (AMD 2nd MIX)](/songs/dont-stop) :badge[BASIC]{type="warning"}
+1. [DROP THE BOMB](/playstation-jp/3rd/drop-the-bomb) :badge[BASIC]{type="warning"}
+1. [think ya better D](/playstation-jp/2nd/think-ya-better-d) :badge[BASIC]{type="warning"}
+1. [HYSTERIA](/songs/hysteria) :badge[BASIC]{type="warning"}
 
 ## システム概要
 
@@ -145,7 +145,7 @@ difficulties:
 
 |隠し要素|曲数|
 |-------|---:|
-|[CAN'T STOP FALLIN' IN LOVE](/songs/cant-stop-fallin-in-love)|5|
+|[CAN'T STOP FALLIN' IN LOVE](/gameboy/gb2/cant-stop-fallin-in-love)|5|
 |[ORION.78 (AMeuro-MIX)](/songs/orion-78-ameuro)|10|
 |[ABSOLUTE](/songs/absolute)|15|
 |[SUPER STAR](/songs/super-star)|20|

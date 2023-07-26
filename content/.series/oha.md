@@ -37,37 +37,37 @@ difficulties:
 
 ## NONSTOP
 
-DOUBLEモードの場合、難易度はすべて[BASIC]{.tag.is-basic}になる。
+DOUBLEモードの場合、難易度はすべて :badge[BASIC]{type="warning"}になる。
 
 ### クールコース
 
-1. [KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin) [BASIC]{.tag.is-basic}
-1. [MAKE A JAM!](/playstation-jp/1st/make-a-jam) [BASIC]{.tag.is-basic}
-1. [BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u) [BASIC]{.tag.is-basic}
+1. [KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin) :badge[BASIC]{type="warning"}
+1. [MAKE A JAM!](/playstation-jp/1st/make-a-jam) :badge[BASIC]{type="warning"}
+1. [BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u) :badge[BASIC]{type="warning"}
 
 ### ラブリーコース
 
-1. [CANDY](/songs/candy-oha) [BASIC]{.tag.is-basic}
-1. [サヨナラのかわりに](/songs/sayonara-no-kawari-ni) [ANOTHER]{.tag.is-difficult}
-1. [O-HA! Mambo (a Shiny new Today)](/songs/o-ha-mambo) [ANOTHER]{.tag.is-difficult}
+1. [CANDY](/songs/candy-oha) :badge[BASIC]{type="warning"}
+1. [サヨナラのかわりに](/songs/sayonara-no-kawari-ni) :badge[ANOTHER]{type="danger"}
+1. [O-HA! Mambo (a Shiny new Today)](/songs/o-ha-mambo) :badge[ANOTHER]{type="danger"}
 
 ### モーニングコース
 
-1. [OHA OHA スターター](/songs/oha-oha-starter) [BASIC]{.tag.is-basic}
-1. [CUTIE CHASER (MORNING MIX)](/songs/cutie-chaser-morning) [ANOTHER]{.tag.is-difficult}
-1. [OHA SKA!](/songs/oha-ska) [BASIC]{.tag.is-basic}
+1. [OHA OHA スターター](/songs/oha-oha-starter) :badge[BASIC]{type="warning"}
+1. [CUTIE CHASER (MORNING MIX)](/songs/cutie-chaser-morning) :badge[ANOTHER]{type="danger"}
+1. [OHA SKA!](/songs/oha-ska) :badge[BASIC]{type="warning"}
 
 ### ガッツコース
 
 1. [HAPPY GO LUCKY](/songs/happy-go-lucky) [MANIAC]{.tag.is-expert}
-1. [ゾナパラ \[WHY! パラパラ・リミックス\]](/songs/zonapara) [ANOTHER]{.tag.is-difficult}
-1. [WHY! \~THE ZONA'S SONG\~](/songs/why) [ANOTHER]{.tag.is-difficult}
+1. [ゾナパラ \[WHY! パラパラ・リミックス\]](/songs/zonapara) :badge[ANOTHER]{type="danger"}
+1. [WHY! \~THE ZONA'S SONG\~](/songs/why) :badge[ANOTHER]{type="danger"}
 
 ### ルーレットコース
 
-1. 全曲ランダム [BASIC]{.tag.is-basic}
-1. 全曲ランダム [BASIC]{.tag.is-basic}
-1. 全曲ランダム [ANOTHER]{.tag.is-difficult}
+1. 全曲ランダム :badge[BASIC]{type="warning"}
+1. 全曲ランダム :badge[BASIC]{type="warning"}
+1. 全曲ランダム :badge[ANOTHER]{type="danger"}
 
 ## 隠し要素
 

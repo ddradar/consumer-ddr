@@ -22,12 +22,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=3}</div>|184/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=5}</div>|214/0||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=7}</div>|262/0||
-|6-PANELS| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=4}</div>|194/0||
-|6-PANELS| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=6}</div>|214/0||
-|6-PANELS| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="extra" level=8}</div>|264/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="3"}</div>|184/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="5"}</div>|214/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="7"}</div>|262/0||
+|6-PANELS| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="4"}</div>|194/0||
+|6-PANELS| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="6"}</div>|214/0||
+|6-PANELS| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="8"}</div>|264/0||
 
 ## メモ
 
