@@ -5,7 +5,7 @@ artist: "新谷さなえ"
 from: "pop'n music 7"
 bpm: 125
 series:
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

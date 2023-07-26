@@ -6,7 +6,7 @@ from: "Dancing Stage EuroMIX2"
 bpm: 200
 series:
   - "max2-jp"
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
   - "nova2-us"
 ---
 

@@ -6,11 +6,11 @@ from: "DanceDanceRevolution Solo BASS MIX"
 bpm: 190
 series:
   - "extra"
-  - "konamix"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
   - "max2-us"
   - "festival"
   - "x2"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -6,9 +6,9 @@ from: "beatmania IIDX 8th style"
 bpm: 158
 series:
   - "max2-us"
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
   - "grand-prix-free"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

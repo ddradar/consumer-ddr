@@ -5,7 +5,7 @@ artist: "dj TAKA"
 from: "DanceDanceRevolution EXTREME"
 bpm: 150
 series:
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
   - "ext2"
 ---
 

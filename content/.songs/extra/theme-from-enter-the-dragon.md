@@ -36,4 +36,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution EXTRA MIX](/series/extra)では、「THEME FROM ENTER THE DRAGON (Revival 2001 MIX)」という楽曲名で収録。
+- [Dance Dance Revolution EXTRA MIX](/playstation-jp/extra)では、「THEME FROM ENTER THE DRAGON (Revival 2001 MIX)」という楽曲名で収録。

@@ -5,12 +5,12 @@ artist: "SDMS"
 from: "DanceDanceRevolution EXTREME CS"
 bpm: 140
 series:
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
   - "festival"
   - "ext2"
   - "nova2-jp"
   - "x2"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

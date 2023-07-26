@@ -33,5 +33,5 @@
 
 ## メモ
 
-- [Dance Dance Revolution EXTRA MIX](/series/extra)にも同一楽曲があるが、尺が異なるため[別ページ](/songs/get-up-n-move-solo)に分割している。
+- [Dance Dance Revolution EXTRA MIX](/playstation-jp/extra)にも同一楽曲があるが、尺が異なるため[別ページ](/songs/get-up-n-move-solo)に分割している。
 - [Dance Dance Revolution (US)](/playstation-us/1st)の :badge[DOUBLE/EXPERT]{type="success"}は :badge[DOUBLE/DIFFICULT]{type="danger"}と同一譜面。

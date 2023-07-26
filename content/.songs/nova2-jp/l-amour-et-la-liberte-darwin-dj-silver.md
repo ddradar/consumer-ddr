@@ -6,7 +6,7 @@ from: "DanceDanceRevolution SuperNOVA2"
 bpm: "70-140"
 series:
   - "nova2-jp"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

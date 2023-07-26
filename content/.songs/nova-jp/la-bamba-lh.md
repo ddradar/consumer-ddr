@@ -8,7 +8,7 @@ series:
   - "nova-jp"
   - "nova2-us"
   - "x2"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,7 +5,7 @@ artist: "WILDSIDE"
 from: "Dancemania SPEED 9"
 bpm: 166
 series:
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
   - "ext2"
 ---
 

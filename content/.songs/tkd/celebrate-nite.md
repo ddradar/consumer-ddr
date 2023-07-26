@@ -8,11 +8,11 @@ series:
   - "tkd"
   - "gb3"
   - "extra"
-  - "konamix"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
   - "pc"
   - "max2-us"
   - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -31,12 +31,12 @@ series:
 |---------|----------|------|-----|-----|
 |SINGLE| :badge[FREE]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|81/0||
 |SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/max2,/playstation2-jp/party,/windows/grand-prix" level="1,1,3"}|92/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4.5} :level{slug="gb3" level=4} :levels{links="/playstation-jp/extra" level="4"} :levels{links="/playstation-us/konamix,/windows/1st,/playstation2-us/max2,/playstation2-jp/party,/windows/grand-prix" level="4,4,4,4,6"}</div>|171/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=4.5} :levels{links="/gameboy/gb3" level="4"} :levels{links="/playstation-jp/extra" level="4"} :levels{links="/playstation-us/konamix,/windows/1st,/playstation2-us/max2,/playstation2-jp/party,/windows/grand-prix" level="4,4,4,4,6"}</div>|171/0||
 |SINGLE| :badge[TRICK (TKD)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=5}</div>|198/0||
-|SINGLE| :badge[ANOTHER (GB3)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="gb3" level=6}</div>|156/0||
+|SINGLE| :badge[ANOTHER (GB3)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/gameboy/gb3" level="6"}</div>|156/0||
 |SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="6"} :levels{links="/playstation-us/konamix,/windows/1st,/playstation2-us/max2,/playstation2-jp/party,/windows/grand-prix" level="6,6,6,6,8"}</div>|198/0||
 |SINGLE| :badge[MANIAC (TKD)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level=7}</div>|233/0||
-|SINGLE| :badge[MANIAC (GB3)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="gb3" level=7}</div>|242/0||
+|SINGLE| :badge[MANIAC (GB3)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/gameboy/gb3" level="7"}</div>|242/0||
 |SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="7"} :levels{links="/playstation-us/konamix,/windows/1st,/playstation2-us/max2,/playstation2-jp/party,/windows/grand-prix" level="7,7,7,7,11"}</div>|277/0||
 |SINGLE| :badge[SUPER MANIAC]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|278/0||
 |DOUBLE| :badge[FREE]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="tkd" level="?"}</div>|76/0||

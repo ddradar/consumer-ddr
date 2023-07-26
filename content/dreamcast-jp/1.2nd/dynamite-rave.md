@@ -10,15 +10,15 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation-us/1st)
-- "konamix"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - "pc"
 - "max2-jp"
-- "ext-jp"
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
 - "ext2"
 - "nova2-jp"
 - "x2"
 - "music-fit"
-- "grand-prix"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 
@@ -55,6 +55,6 @@
 
 - :badge["AIR" Special]{type="primary"}は「DYNAMITE RAVE("AIR" Special)」という別楽曲として収録。
 - 下記のシリーズでは別音源にて収録。
-  - [DanceDanceRevolution X2 (US)](/series/x2)
-  - [DanceDanceRevolution MUSIC FIT](/series/music-fit)
-  - [DanceDanceRevolution GRAND PRIX](/series/grand-prix)
+  - [DanceDanceRevolution X2 (US)](/playstation2-us/x2)
+  - [DanceDanceRevolution MUSIC FIT](/wii-jp/music-fit)
+  - [DanceDanceRevolution GRAND PRIX](/windows/grand-prix)

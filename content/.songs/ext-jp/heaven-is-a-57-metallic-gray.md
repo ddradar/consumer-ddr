@@ -5,7 +5,7 @@ artist: "Hiro feat. Sweet little 30's"
 from: "Dance Maniax"
 bpm: 190
 series:
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
   - "ext2"
 ---
 

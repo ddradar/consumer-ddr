@@ -36,4 +36,4 @@ series:
 
 ## メモ
 
-- [DanceDanceRevolution MUSIC FIT](/series/music-fit)では、「BUTTERFLY」という曲名で収録。
+- [DanceDanceRevolution MUSIC FIT](/wii-jp/music-fit)では、「BUTTERFLY」という曲名で収録。

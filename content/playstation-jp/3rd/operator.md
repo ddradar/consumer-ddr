@@ -1,16 +1,8 @@
----
-slug: "operator"
-name: "OPERATOR (Two Gees Mix)"
-artist: "PAPAYA"
-from: "Dancemania X3"
-bpm: 135
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# OPERATOR (Two Gees Mix) / PAPAYA
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|PAPAYA|135|Dancemania X3|
 
 ## 収録タイトル
 
@@ -21,9 +13,9 @@ bpm: 135
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="3"} :levels{links="/gameboy/gb2" level="3"}|146/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="5"} :levels{links="/gameboy/gb2" level="5"}|182/0||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="7"} :levels{links="/gameboy/gb2" level="7"}|272/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/gameboy/gb2" level="3"}|146/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/gameboy/gb2" level="5"}|182/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/gameboy/gb2" level="7"}|272/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="4"}|144/0||
 |DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="5"}|208/0||
 |DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="8"}|243/0||

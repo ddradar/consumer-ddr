@@ -5,8 +5,8 @@ artist: "くにたけ みゆき"
 from: "GUITARFREAKS 7thMIX & drummania 6thMIX"
 bpm: 170
 series:
-  - "ext-jp"
-  - "grand-prix"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

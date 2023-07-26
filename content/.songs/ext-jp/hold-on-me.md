@@ -5,7 +5,7 @@ artist: "tiger YAMATO"
 from: "ParaParaParadise"
 bpm: 152
 series:
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

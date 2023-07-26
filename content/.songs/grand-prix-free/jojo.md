@@ -6,7 +6,7 @@ from: "(ジョジョ～その血の運命～)"
 bpm: 146
 series:
   - "grand-prix-free"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

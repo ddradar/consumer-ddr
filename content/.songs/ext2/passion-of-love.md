@@ -7,7 +7,7 @@ bpm: "78-155"
 series:
   - "ext2"
   - "strike"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

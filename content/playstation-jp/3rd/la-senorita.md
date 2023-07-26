@@ -22,10 +22,10 @@ series:
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation-us/1st)
 - "pc"
-- "ext-jp"
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
 - "ext-us"
-- "grand-prix"
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 
 ## 譜面一覧
 
@@ -48,4 +48,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution GB](/series/gb)はFREE MODEでのみ選曲可能。
+- [Dance Dance Revolution GB](/gameboy/1st)はFREE MODEでのみ選曲可能。

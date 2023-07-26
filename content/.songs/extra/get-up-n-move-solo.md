@@ -37,4 +37,4 @@ series:
   - [Dance Dance Revolution BEST HITS](/series/best)
   - [Dance Dance Revolution (US)](/playstation-us/1st)
   - [Dance Dance Revolution Party Collection](/series/party)
-- [Dance Dance Revolution EXTRA MIX](/series/extra)のDOUBLE譜面は、SINGLE譜面と同一。(1P側にSINGLE譜面が流れる)
+- [Dance Dance Revolution EXTRA MIX](/playstation-jp/extra)のDOUBLE譜面は、SINGLE譜面と同一。(1P側にSINGLE譜面が流れる)

@@ -34,4 +34,4 @@ series:
 
 ## メモ
 
-- [CHALLENGE]{.tag.is-challenge}譜面は、[スペシャル楽曲パック feat.jubeat vol.2](/series/grand-prix#スペシャル楽曲パック-featjubeat-vol2)と同時購入することで解禁される。
+- [CHALLENGE]{.tag.is-challenge}譜面は、[スペシャル楽曲パック feat.jubeat vol.2](/windows/grand-prix#スペシャル楽曲パック-featjubeat-vol2)と同時購入することで解禁される。

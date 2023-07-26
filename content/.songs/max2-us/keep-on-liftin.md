@@ -6,7 +6,7 @@ from: "beatmania III"
 bpm: 100
 series:
   - "max2-us"
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -17,15 +17,15 @@ series:
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 - "gb3"
-- "konamix"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 
 ## 譜面一覧
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="4"} :level{slug="gb3" level=4} :levels{links="/playstation-us/konamix" level="4"}|203/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="7"} :level{slug="gb3" level=7} :levels{links="/playstation-us/konamix" level="7"}|270/0||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="8"} :level{slug="gb3" level=8} :levels{links="/playstation-us/konamix" level="8"}|353/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="4"} :levels{links="/gameboy/gb3" level="4"} :levels{links="/playstation-us/konamix" level="4"}|203/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="7"} :levels{links="/gameboy/gb3" level="7"} :levels{links="/playstation-us/konamix" level="7"}|270/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="8"} :levels{links="/gameboy/gb3" level="8"} :levels{links="/playstation-us/konamix" level="8"}|353/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-us/konamix" level="5,5"}|217/0||
 |DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-us/konamix" level="6,6"}|228/0||
 |DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation-us/konamix" level="8,8"}|352/0||

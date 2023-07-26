@@ -10,7 +10,7 @@ series:
   - "max-us"
   - "festival"
   - "grand-prix-free"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -37,4 +37,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution EXTRA MIX](/series/extra)において、6-PANELS譜面はSINGLEの各譜面で代用されている。
+- [Dance Dance Revolution EXTRA MIX](/playstation-jp/extra)において、6-PANELS譜面はSINGLEの各譜面で代用されている。

@@ -38,4 +38,4 @@ series:
 
 ## メモ
 
-- [DDR GRAND PRIX](/series/grand-prix)ではBPM180で固定。
+- [DDR GRAND PRIX](/windows/grand-prix)ではBPM180で固定。

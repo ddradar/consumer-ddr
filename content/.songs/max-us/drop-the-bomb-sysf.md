@@ -7,7 +7,7 @@ bpm: 150
 series:
   - "max-us"
   - "max2-jp"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -34,4 +34,4 @@ series:
 
 ## メモ
 
-- [DanceDanceRevolution GRAND PRIX](/series/grand-prix)では「DROP THE BOMB(SyS.F. Mix)」という曲名で収録。
+- [DanceDanceRevolution GRAND PRIX](/windows/grand-prix)では「DROP THE BOMB(SyS.F. Mix)」という曲名で収録。

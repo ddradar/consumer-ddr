@@ -5,7 +5,7 @@ artist: "NAOKI Feat.PAULA TERRY"
 from: "Dancing Stage EuroMIX2"
 bpm: 145
 series:
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
   - "ext-us"
 ---
 

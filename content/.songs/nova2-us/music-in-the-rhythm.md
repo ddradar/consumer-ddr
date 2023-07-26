@@ -7,7 +7,7 @@ bpm: 155
 series:
   - "nova2-us"
   - "nova2-jp"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}
@@ -34,4 +34,4 @@ series:
 
 ## メモ
 
-- [DanceDanceRevolution GRAND PRIX](/series/grand-prix)では、アーティスト名が「nc ft. 触電」になっている。
+- [DanceDanceRevolution GRAND PRIX](/windows/grand-prix)では、アーティスト名が「nc ft. 触電」になっている。

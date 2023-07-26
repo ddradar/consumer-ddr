@@ -22,9 +22,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="4"} :level{slug="gb3" level=4}|154/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="5"} :level{slug="gb3" level=5}|216/0||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="6"} :level{slug="gb3" level=6}|230/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="4"} :levels{links="/gameboy/gb3" level="4"}|154/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="5"} :levels{links="/gameboy/gb3" level="5"}|216/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="6"} :levels{links="/gameboy/gb3" level="6"}|230/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="4"}|165/0||
 |DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="5"}|200/0||
 |DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="7"}|254/0||

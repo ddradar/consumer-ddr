@@ -25,11 +25,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/max2" level="1"} :level{slug="universe2" level="?"}|69/0||
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max" level="2"} :levels{links="/playstation2-jp/max2" level="2"} :levels{links="/playstation2-us/max2" level="2"} :level{slug="universe2" level=2}|70/11||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max" level="5"} :levels{links="/playstation2-jp/max2" level="5"} :levels{links="/playstation2-us/max2" level="5"} :level{slug="universe2" level=5}|194/3||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max" level="8"} :levels{links="/playstation2-jp/max2" level="8"} :levels{links="/playstation2-us/max2" level="8"} :level{slug="universe2" level=8}|304/12||
-|DOUBLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="universe2" level="?"}</div>|||
-|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max" level="2"} :levels{links="/playstation2-jp/max2" level="2"} :levels{links="/playstation2-us/max2" level="2"} :level{slug="universe2" level=3}|102/4||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max" level="5"} :levels{links="/playstation2-jp/max2" level="5"} :levels{links="/playstation2-us/max2" level="5"} :level{slug="universe2" level=5}|194/5||
-|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max" level="8"} :levels{links="/playstation2-jp/max2" level="8"} :levels{links="/playstation2-us/max2" level="8"} :level{slug="universe2" level=8}|264/7||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/max2" level="1"} :levels{links="/xbox360-us/universe2" level="?"}|69/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max" level="2"} :levels{links="/playstation2-jp/max2" level="2"} :levels{links="/playstation2-us/max2" level="2"} :levels{links="/xbox360-us/universe2" level="2"}|70/11||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max" level="5"} :levels{links="/playstation2-jp/max2" level="5"} :levels{links="/playstation2-us/max2" level="5"} :levels{links="/xbox360-us/universe2" level="5"}|194/3||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max" level="8"} :levels{links="/playstation2-jp/max2" level="8"} :levels{links="/playstation2-us/max2" level="8"} :levels{links="/xbox360-us/universe2" level="8"}|304/12||
+|DOUBLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="?"}</div>|||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/max" level="2"} :levels{links="/playstation2-jp/max2" level="2"} :levels{links="/playstation2-us/max2" level="2"} :levels{links="/xbox360-us/universe2" level="3"}|102/4||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/max" level="5"} :levels{links="/playstation2-jp/max2" level="5"} :levels{links="/playstation2-us/max2" level="5"} :levels{links="/xbox360-us/universe2" level="5"}|194/5||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/max" level="8"} :levels{links="/playstation2-jp/max2" level="8"} :levels{links="/playstation2-us/max2" level="8"} :levels{links="/xbox360-us/universe2" level="8"}|264/7||

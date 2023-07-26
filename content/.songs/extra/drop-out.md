@@ -6,10 +6,10 @@ from: "DanceDanceRevolution Solo 2000"
 bpm: 260
 series:
   - "extra"
-  - "konamix"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
   - "max2-jp"
   - "ext-us"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -35,5 +35,5 @@ series:
 ## メモ
 
 - 下記シリーズでは、[ver.A](/songs/roppongi-evolved-ver-a), [ver.B](/songs/roppongi-evolved-ver-b), ver.Cのいずれかがランダムで選曲される。(トレーニングモードでのみ個別に選曲できる。)
-  - [DanceDanceRevolution X2 (CS)](/series/x2)
-  - [DanceDanceRevolution MUSIC FIT](/series/music-fit)
+  - [DanceDanceRevolution X2 (CS)](/playstation2-us/x2)
+  - [DanceDanceRevolution MUSIC FIT](/wii-jp/music-fit)

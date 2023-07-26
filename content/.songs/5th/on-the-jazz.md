@@ -6,7 +6,7 @@ from: "DanceDanceRevolution 5thMIX CS"
 bpm: 130
 series:
   - "5th"
-  - "konamix"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
   - "max-jp"
   - "ext-us"
 ---
@@ -35,6 +35,6 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution KONAMIX](/series/konamix)において、下記譜面は別の譜面で代用されている。
+- [Dance Dance Revolution KONAMIX](/playstation-us/konamix)において、下記譜面は別の譜面で代用されている。
   - 6-PANELSの各譜面 → SINGLEの各譜面
   - BATTLE譜面 → [SINGLE/BASIC]{.tag.is-basic}譜面(=すべて1P/2Pが両方踏む緑色の矢印)

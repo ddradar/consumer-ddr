@@ -39,4 +39,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution EXTRA MIX](/series/extra)において、6-PANELSの各譜面はSINGLEの各譜面で代用されている。
+- [Dance Dance Revolution EXTRA MIX](/playstation-jp/extra)において、6-PANELSの各譜面はSINGLEの各譜面で代用されている。

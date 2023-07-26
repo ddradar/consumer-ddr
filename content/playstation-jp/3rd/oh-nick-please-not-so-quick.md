@@ -1,16 +1,8 @@
----
-slug: "oh-nick-please-not-so-quick"
-name: "OH NICK PLEASE NOT SO QUICK"
-artist: "E-ROTIC"
-from: "Dancemania X2"
-bpm: 130
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# OH NICK PLEASE NOT SO QUICK / E-ROTIC
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|E-ROTIC|130|Dancemania X2|
 
 ## 収録タイトル
 

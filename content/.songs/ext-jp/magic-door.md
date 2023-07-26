@@ -5,7 +5,7 @@ artist: "a.s.a."
 from: "pop'n stage"
 bpm: 184
 series:
-  - "ext-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

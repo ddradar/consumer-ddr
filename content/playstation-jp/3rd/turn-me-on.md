@@ -1,17 +1,8 @@
----
-slug: "turn-me-on"
-name: "TURN ME ON (HEAVENLY MIX)"
-artist: "E-ROTIC"
-from: "Dancemania SPEED 2"
-bpm: 170
-series:
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# TURN ME ON (HEAVENLY MIX) / E-ROTIC
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|E-ROTIC|170|Dancemania SPEED 2|
 
 ## 収録タイトル
 
@@ -24,12 +15,12 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation-jp/best" level="1"}|80/0||
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="4"} :levels{links="/gameboy/gb2" level="4"} :levels{links="/playstation-jp/best" level="4"}|165/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="6"} :levels{links="/gameboy/gb2" level="6"} :levels{links="/playstation-jp/best" level="6"}|276/0||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="7"} :levels{links="/gameboy/gb2" level="7"} :levels{links="/playstation-jp/best" level="7"}|299/0||
-|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="5,5"}|216/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="7,7"}|276/0||
-|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="9,9"}|325/0||
-|UNISON| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="4,4"}|||
-|UNISON| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="6,6"}|||
-|UNISON| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="7,7"}|||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/gameboy/gb2,/playstation-jp/best" level="4"}|165/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/gameboy/gb2,/playstation-jp/best" level="6"}|276/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/gameboy/gb2,/playstation-jp/best" level="7"}|299/0||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="5"}|216/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="7"}|276/0||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="9"}|325/0||
+|UNISON| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="4"}|||
+|UNISON| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="6"}|||
+|UNISON| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation-jp/best" level="7"}|||

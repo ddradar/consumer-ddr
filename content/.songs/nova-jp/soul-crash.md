@@ -7,7 +7,7 @@ bpm: 142
 series:
   - "nova-jp"
   - "x-us"
-  - "grand-prix"
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

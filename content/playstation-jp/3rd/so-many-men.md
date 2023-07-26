@@ -1,17 +1,8 @@
----
-slug: "so-many-men"
-name: "SO MANY MEN"
-artist: "ME & MY"
-from: "ZIPmania II"
-bpm: 121
-series:
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# SO MANY MEN / ME & MY
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|ME & MY|121|ZIPmania II|
 
 ## 収録タイトル
 
@@ -22,9 +13,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="3"} :levels{links="/gameboy/gb2" level="3"}|114/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="5"} :levels{links="/gameboy/gb2" level="5"}|149/0||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="6"} :levels{links="/gameboy/gb2" level="6"}|193/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/gameboy/gb2" level="3"}|114/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/gameboy/gb2" level="5"}|149/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/gameboy/gb2" level="6"}|193/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd" level="3"}|114/0||
 |DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd" level="4"}|139/0||
 |DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd" level="7"}|220/0||

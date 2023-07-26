@@ -27,4 +27,4 @@
 
 ## メモ
 
-- [Dance Dance Revolution EXTRA MIX](/series/extra)のDOUBLE譜面は、SINGLE譜面と同一。(1P側にSINGLE譜面が流れる)
+- [Dance Dance Revolution EXTRA MIX](/playstation-jp/extra)のDOUBLE譜面は、SINGLE譜面と同一。(1P側にSINGLE譜面が流れる)
