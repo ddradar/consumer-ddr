@@ -39,4 +39,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution GB3](/series/gb3)では、HARDモードの譜面が「EAT YOU UP (HARD)」と別曲扱いになっている。
+- [Dance Dance Revolution GB3](/gameboy/gb3)では、HARDモードの譜面が「EAT YOU UP (HARD)」と別曲扱いになっている。

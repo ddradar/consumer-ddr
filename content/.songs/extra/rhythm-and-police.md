@@ -6,7 +6,7 @@ from: "Dancemania SPEED BEST 2001"
 bpm: 170
 series:
   - "extra"
-  - "max-us"
+  - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
   - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
 ---
 

@@ -6,9 +6,9 @@ from: "Dance Maniax"
 bpm: 132
 series:
   - "festival"
-  - "ext2"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
   - "nova-jp"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

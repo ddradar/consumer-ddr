@@ -1,16 +1,8 @@
----
-slug: "flash-dance"
-name: "FLASH DANCE (WHAT A FEELING)"
-artist: "MAGIKA"
-from: "Dancemania SPEED 2"
-bpm: 167
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# FLASH DANCE (WHAT A FEELING) / MAGIKA
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|MAGIKA|167|Dancemania SPEED 2|
 
 ## 収録タイトル
 

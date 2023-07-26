@@ -7,7 +7,7 @@ bpm: 110
 series:
   - "extra"
   - "disney-us"
-  - "pc"
+  - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

@@ -5,9 +5,9 @@ artist: "Lala Moore with CoCoRo*Co"
 from: "beatmania IIDX 9th style"
 bpm: 130
 series:
-  - "ext2"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
   - "strike"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

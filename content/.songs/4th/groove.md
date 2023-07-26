@@ -8,9 +8,9 @@ series:
   - "4th"
   - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
   - "max-jp"
-  - "pc"
+  - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
   - "max2-us"
-  - "nova2-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

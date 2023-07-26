@@ -1,16 +1,8 @@
----
-slug: "rock-beat"
-name: "ROCK BEAT"
-artist: "LOUD FORCE"
-from: "Dancemania X4"
-bpm: 150
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# ROCK BEAT / LOUD FORCE
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|LOUD FORCE|150|Dancemania X4|
 
 ## 収録タイトル
 

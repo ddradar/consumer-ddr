@@ -9,7 +9,7 @@ series:
   - "5th"
   - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
   - "festival"
-  - "ext2"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

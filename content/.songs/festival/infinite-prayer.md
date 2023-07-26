@@ -6,7 +6,7 @@ from: "beatmania APPEND GOTTAMIX2 ~Going Global~"
 bpm: 137
 series:
   - "festival"
-  - "ext2"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

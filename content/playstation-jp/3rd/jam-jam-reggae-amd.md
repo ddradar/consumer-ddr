@@ -1,18 +1,8 @@
----
-slug: "jam-jam-reggae-amd"
-name: "Jam Jam Reggae (AMD SWING MIX)"
-artist: "RICE. C feat. jam master '73"
-from: "DanceDanceRevolution 3rdMIX"
-bpm: 90
-series:
-
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Jam Jam Reggae (AMD SWING MIX) / RICE. C feat. jam master '73
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|RICE. C feat. jam master '73|90|DanceDanceRevolution 3rdMIX|
 
 ## 収録タイトル
 

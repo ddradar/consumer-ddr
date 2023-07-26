@@ -1,16 +1,8 @@
----
-slug: "get-up"
-name: "GET UP (BEFORE THE NIGHT IS OVER)"
-artist: "TECHNOTRONIC feat. YA KID K"
-from: "Dancemania Super Classics 2"
-bpm: 124
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# GET UP (BEFORE THE NIGHT IS OVER) / TECHNOTRONIC feat. YA KID K
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|TECHNOTRONIC feat. YA KID K|124|Dancemania Super Classics 2|
 
 ## 収録タイトル
 

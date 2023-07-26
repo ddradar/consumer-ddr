@@ -5,7 +5,7 @@ artist: "DURAN DURAN"
 from: "(Reach Up For The) Sunrise"
 bpm: 130
 series:
-  - "nova2-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

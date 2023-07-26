@@ -5,7 +5,7 @@ artist: "SOTA feat. Ebony Fay"
 from: "DDRMAX -DanceDanceRevolution-"
 bpm: 135
 series:
-  - "max-us"
+  - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
   - "max2-jp"
 ---
 

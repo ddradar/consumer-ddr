@@ -7,7 +7,7 @@ bpm: 125
 series:
   - "ext-us"
   - "festival"
-  - "nova2-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

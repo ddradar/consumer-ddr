@@ -1,22 +1,13 @@
----
-slug: "gentle-stress-sensual"
-name: "gentle stress (SENSUAL MIX)"
-artist: "MR. DOG feat. DJ SWAN"
-from: "DanceDanceRevolution 3rdMIX"
-bpm: 160
-series:
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# gentle stress (SENSUAL MIX) / MR. DOG feat. DJ SWAN
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|MR. DOG feat. DJ SWAN|160|DanceDanceRevolution 3rdMIX|
 
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-- "max-us"
+- [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 
 ## 譜面一覧
 

@@ -5,7 +5,7 @@ artist: "M/A/R/R/S"
 from: "Pump Up The Volume"
 bpm: 114
 series:
-  - "ext2"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

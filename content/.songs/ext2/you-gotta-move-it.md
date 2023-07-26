@@ -5,7 +5,7 @@ artist: "Yuzo Koshiro"
 from: "DanceDanceRevolution EXTREME2"
 bpm: 134
 series:
-  - "ext2"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
   - "strike"
 ---
 

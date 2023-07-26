@@ -7,7 +7,7 @@ bpm: 120
 series:
   - "4th"
   - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
-  - "pc"
+  - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

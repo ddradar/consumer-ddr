@@ -6,7 +6,7 @@ from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
 bpm: 155
 series:
   - "max2-jp"
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

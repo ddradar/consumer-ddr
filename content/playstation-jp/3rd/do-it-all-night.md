@@ -1,16 +1,8 @@
----
-slug: "do-it-all-night"
-name: "DO IT ALL NIGHT"
-artist: "E-ROTIC"
-from: "Dancemania X4"
-bpm: 143
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# DO IT ALL NIGHT / E-ROTIC
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|E-ROTIC|143|Dancemania X4|
 
 ## 収録タイトル
 

@@ -6,7 +6,7 @@ from: "Dancemania SPEED 9"
 bpm: 169
 series:
   - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
-  - "ext2"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

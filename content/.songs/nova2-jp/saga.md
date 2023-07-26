@@ -5,7 +5,7 @@ artist: "Veeton"
 from: "DanceDanceRevolution SuperNOVA2 CS (JP)"
 bpm: "200-244"
 series:
-  - "nova2-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
   - "x-us"
   - "grand-prix-vol1"
 ---

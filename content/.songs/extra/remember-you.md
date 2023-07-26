@@ -7,8 +7,8 @@ bpm: 105
 series:
   - "extra"
   - "5th"
-  - "pc"
-  - "max-us"
+  - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
+  - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
   - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
 ---
 

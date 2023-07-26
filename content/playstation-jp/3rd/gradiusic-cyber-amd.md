@@ -6,24 +6,24 @@ from: "DanceDanceRevolution 3rdMIX"
 bpm: 160
 ---
 
-# {{ $doc.name }} / {{ $doc.artist }}
+# GRADIUSIC CYBER (AMD G5 MIX) / BIG-O feat. TAKA
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|BIG-O feat. TAKA|160|DanceDanceRevolution 3rdMIX|
 
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-- "max-us"
+- [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 - "festival"
-- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX](/windows/grand-prix)
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="1"}  :levels{links="/windows/grand-prix" level="3"}</div>|98/0||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/festival" level="1"}  :levels{links="/windows/grand-prix" level="3"}|98/0||
 |SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation2-us/max" level="5,5"} :levels{links="/playstation2-jp/festival" level="5"}  :levels{links="/windows/grand-prix" level="8"}|265/0||
 |SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation2-us/max" level="7,7"} :levels{links="/playstation2-jp/festival" level="7"}  :levels{links="/windows/grand-prix" level="10"}|310/0||
 |SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation2-us/max" level="9,8"} :levels{links="/playstation2-jp/festival" level="9"}  :levels{links="/windows/grand-prix" level="13"}|370/0||

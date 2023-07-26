@@ -1,16 +1,8 @@
----
-slug: "get-up-and-dance"
-name: "GET UP AND DANCE"
-artist: "FREEDOM"
-from: "Dancemania Club Classics"
-bpm: 109
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# GET UP AND DANCE / FREEDOM
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|FREEDOM|109|Dancemania Club Classics|
 
 ## 収録タイトル
 

@@ -6,7 +6,7 @@ from: "DanceDanceRevolution SuperNOVA2 CS (US)"
 bpm: 98
 series:
   - "nova2-us"
-  - "nova2-jp"
+  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
   - "grand-prix-vol8"
 ---
 

@@ -6,8 +6,8 @@ from: "beatmania IIDX 2nd style"
 bpm: 125
 series:
   - "5th"
-  - "pc"
-  - "max-us"
+  - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
+  - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
   - "max2-us"
   - "festival"
 ---

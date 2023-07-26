@@ -5,7 +5,7 @@ artist: "L.E.D. LIGHT"
 from: "beatmania APPEND 5thMIX -Time to get down-"
 bpm: 147
 series:
-  - "max-us"
+  - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
   - "max2-jp"
 ---
 
