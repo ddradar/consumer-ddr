@@ -51,17 +51,17 @@ difficulties:
 |[Take It To The Morning Light (Extended Vocal)](/songs/take-it-to-the-morning-light)|Golden Gate|129|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[AM-3P](/playstation-jp/2nd/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[INSERTiON](/songs/insertion)|NAOKI underground|140-220|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[22DUNK](/songs/22dunk)|SLAKE|135|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,5"}|
-|[DEEP IN YOU](/songs/deep-in-you)|dj nagureo|126|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,5"}|
-|[RUGGED ASH](/songs/rugged-ash)|SYMPHONIC DEFOGGERS|168|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,5"}|
+|[22DUNK](/playstation-jp/club-vol1/22dunk)|SLAKE|135|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,5"}|
+|[DEEP IN YOU](/playstation-jp/club-vol2/deep-in-you)|dj nagureo|126|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,5"}|
+|[RUGGED ASH](/playstation-jp/club-vol2/rugged-ash)|SYMPHONIC DEFOGGERS|168|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,5"}|
 |[Healing Vision (Angelic mix)](/songs/healing-vision-angelic)|2MB|46-196|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[PARANOIA EVOLUTION](/songs/paranoia-evolution)|200|200|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[ORION.78 (civilization mix)](/playstation-jp/4th/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
 |[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[MAX 300](/songs/max-300)|Ω|300|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
-|[5.1.1.](/songs/5-1-1)|dj nagureo|101|:charts{:difficulties="difficulties" levels="1,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,5" charts="1,2,5"}|
+|[5.1.1.](/playstation-jp/club-vol1/5-1-1)|dj nagureo|101|:charts{:difficulties="difficulties" levels="1,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,5" charts="1,2,5"}|
 |[Abyss](/songs/abyss)|dj TAKA|142|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[GAMBOL](/songs/gambol)|SLAKE|102|:charts{:difficulties="difficulties" levels="1,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,7" charts="1,2,5"}|
+|[GAMBOL](/playstation-jp/club-vol1/gambol)|SLAKE|102|:charts{:difficulties="difficulties" levels="1,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,7" charts="1,2,5"}|
 |[Secret Rendez-vous](/songs/secret-rendez-vous)|DIVAS|98|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[DROP THE BOMB -System S.F. Mix-](/songs/drop-the-bomb-sysf)|Scotty D.|150|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[I Was The One](/songs/i-was-the-one)|good-cool|125|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
@@ -76,7 +76,7 @@ difficulties:
 |[Look To The Sky (True Color Mix)](/songs/look-to-the-sky-true-color)|System S.F. feat. Anna|140|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[true... (Trance Sunrise Mix)](/songs/true-trance)|RIYU KOSAKA|140|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
-|[celebrate](/songs/celebrate)|JJ COMPANY|134|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,8" charts="1,2,5"}|
+|[celebrate](/playstation-jp/club-vol1/celebrate)|JJ COMPANY|134|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,8" charts="1,2,5"}|
 |[Do It Right (Harmonized 2Step Mix)](/songs/do-it-right-harmonized-2step)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Get me in your sight \~AMD CANCUN MIX\~](/playstation-jp/4th/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|

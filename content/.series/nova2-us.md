@@ -70,7 +70,7 @@ difficulties:
 |[CRASH!](/songs/crash)|mr.BRIAN & THE FINAL BAND|200|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[DanDanDO (The true MAN's Road)](/songs/dandando)|Des-ROW・UNITED|156-160|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Dragon Blade](/songs/dragon-blade)|Kozo Nakamura|240|:charts{:difficulties="difficulties" levels="2,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
-|[e-motion](/songs/e-motion)|e.o.s|145|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
+|[e-motion](/playstation-jp/club-vol1/e-motion)|e.o.s|145|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
 |[Feelings Won't Fade(Extend Trance Mix)](/songs/feelings-wont-fade)|SySF.|144|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Flowers](/songs/flowers)|TЁЯRA|160|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[HONEY♂PUNCH](/songs/honey-punch)|RIYU KOSAKA|175|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|

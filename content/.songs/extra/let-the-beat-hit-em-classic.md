@@ -42,4 +42,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution KONAMIX](/playstation-us/konamix)のBATTLE譜面は[SINGLE/BASIC]{.tag.is-basic}譜面(=すべて1P/2Pが両方踏む緑色の矢印)と同一。
+- [Dance Dance Revolution KONAMIX](/playstation-us/konamix)のBATTLE譜面は :badge[SINGLE/BASIC]{type="warning"}譜面(=すべて1P/2Pが両方踏む緑色の矢印)と同一。

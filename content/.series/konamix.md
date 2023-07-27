@@ -38,7 +38,7 @@ difficulties:
 |[CUTIE CHASER](/playstation-jp/3rd/cutie-chaser)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3" charts="4"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[DEAD END](/playstation-jp/3rd/dead-end)|N&S|190|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[DIVE](/songs/dive)|Be For U|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="5,6,7"}|
-|[diving money](/songs/diving-money)|QUADRA|150|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="5,6,7"}|
+|[diving money](/playstation-jp/club-vol1/diving-money)|QUADRA|150|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="5,6,7"}|
 |[Do It Right](/songs/do-it-right-sota)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="5,6,7"}|
 |[Don't Stop! (AMD 2nd MIX)](/playstation-jp/4th/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[DROP OUT](/songs/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
@@ -47,7 +47,7 @@ difficulties:
 |[DYNAMITE RAVE](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
 |[END OF THE CENTURY](/playstation-jp/3rd/end-of-the-century)|NO. 9|171|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[era (nostalmix)](/playstation-jp/4th/era)|TaQ|90-180|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
-|[GENOM SCREAMS](/songs/genom-screams)|QUADRA|150|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="5" charts="5"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="5,6,7"}|
+|[GENOM SCREAMS](/playstation-jp/club-vol2/genom-screams)|QUADRA|150|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="5" charts="5"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="5,6,7"}|
 |[GROOVE](/playstation-jp/4th/groove)|Sho-T feat. Blenda|130|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3" charts="5"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="5,6,7"}|
 |[HIGHER](/playstation-jp/4th/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -67,12 +67,12 @@ difficulties:
 |[ORION.78 (AMeuro-MIX)](/playstation-jp/4th/orion-78-ameuro)|RE-VENGE|105|:charts{:difficulties="difficulties" levels="3,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[PARANOiA](/playstation-jp/1st/paranoia)|180|180|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[PARANOiA Rebirth](/playstation-jp/3rd/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
-|[patsenner](/songs/patsenner)|dj nagureo|108|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,5" charts="5,6,7"}|
-|[PERFECT FREE](/songs/perfect-free)|nite system|130|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,7" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="5" charts="5"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="5,6,7"}|
-|[R3](/songs/r3)|tiger YAMATO|157|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="5" charts="5"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="5,6,7"}|
-|[Salamander Beat Crush mix](/songs/salamander-beat-crush-mix)|nite system|134|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,6" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="5,6,7"}|
+|[patsenner](/playstation-jp/club-vol2/patsenner)|dj nagureo|108|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,5" charts="5,6,7"}|
+|[PERFECT FREE](/playstation-jp/club-vol1/perfect-free)|nite system|130|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,7" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="5" charts="5"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="5,6,7"}|
+|[R3](/playstation-jp/club-vol1/r3)|tiger YAMATO|157|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="5" charts="5"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="5,6,7"}|
+|[Salamander Beat Crush mix](/playstation-jp/club-vol1/salamander-beat-crush-mix)|nite system|134|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,6" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="4" charts="5"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="5,6,7"}|
 |[SUPER STAR](/songs/super-star)|D.J. RICH feat. Tail Bros.|128|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6" charts="4"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
-|[THE EARTH LIGHT](/songs/the-earth-light)|L.E.D. LIGHT|145|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="5" charts="5"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="5,6,7"}|
+|[THE EARTH LIGHT](/playstation-jp/club-vol2/the-earth-light)|L.E.D. LIGHT|145|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,8" charts="1,2,8"}|:charts{:difficulties="difficulties" levels="5" charts="5"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="5,6,7"}|
 |[think ya better D](/playstation-jp/2nd/think-ya-better-d)|sAmi|136|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="4"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[TRIP MACHINE (luv mix)](/playstation-jp/2nd/trip-machine-luv)|2MB|160|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[WILD RUSH](/songs/wild-rush)|FACTOR-X|80-180|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4" charts="4"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
@@ -87,8 +87,8 @@ difficulties:
 ### OFFICIAL 1
 
 1. [BRILLIANT 2U](/playstation-jp/2nd/brilliant-2u) :badge[BASIC]{type="warning"}
-1. [PERFECT FREE](/songs/perfect-free) :badge[BASIC]{type="warning"}
-1. [Salamander Beat Crush mix](/songs/salamander-beat-crush-mix) :badge[BASIC]{type="warning"}
+1. [PERFECT FREE](/playstation-jp/club-vol1/perfect-free) :badge[BASIC]{type="warning"}
+1. [Salamander Beat Crush mix](/playstation-jp/club-vol1/salamander-beat-crush-mix) :badge[BASIC]{type="warning"}
 1. [END OF THE CENTURY](/playstation-jp/3rd/end-of-the-century) :badge[BASIC]{type="warning"}
 1. [B4U](/playstation-jp/4th/b4u) :badge[BASIC]{type="warning"}
 
@@ -104,7 +104,7 @@ difficulties:
 
 1. [WILD RUSH](/songs/wild-rush) :badge[TRICK]{type="danger"}
 1. [DROP OUT](/songs/drop-out) :badge[TRICK]{type="danger"}
-1. [R3](/songs/r3) :badge[MANIAC]{type="success"}
+1. [R3](/playstation-jp/club-vol1/r3) :badge[MANIAC]{type="success"}
 1. [Holic](/playstation-jp/4th/holic) :badge[MANIAC]{type="success"}
 1. [DXY!](/songs/dxy) :badge[MANIAC]{type="success"}
 
@@ -114,13 +114,13 @@ difficulties:
 1. [AFRONOVA PRIMEVAL](/songs/afronova-primeval) :badge[TRICK]{type="danger"}
 1. [Look To The Sky](/songs/look-to-the-sky) :badge[TRICK]{type="danger"}
 1. [La Señorita Virtual](/playstation-jp/3rd/la-senorita-virtual) :badge[MANIAC]{type="success"}
-1. [GENOM SCREAMS](/songs/genom-screams) :badge[TRICK]{type="danger"}
+1. [GENOM SCREAMS](/playstation-jp/club-vol2/genom-screams) :badge[TRICK]{type="danger"}
 
 ### OFFICIAL 5
 
 1. [Healing Vision](/songs/healing-vision) :badge[MANIAC]{type="success"}
 1. [DEAD END](/playstation-jp/3rd/dead-end) :badge[TRICK]{type="danger"}
-1. [diving money](/songs/diving-money) :badge[MANIAC]{type="success"}
+1. [diving money](/playstation-jp/club-vol1/diving-money) :badge[MANIAC]{type="success"}
 1. [PARANOiA](/playstation-jp/1st/paranoia) :badge[MANIAC]{type="success"}
 1. [era (nostalmix)](/playstation-jp/4th/era) :badge[MANIAC]{type="success"}
 
@@ -152,7 +152,7 @@ difficulties:
 |[PARANOiA Rebirth](/playstation-jp/3rd/paranoia-rebirth)|25|
 |[Holic](/playstation-jp/4th/holic)|30|
 |[Do It Right](/songs/do-it-right-sota)|35|
-|[GENOM SCREAMS](/songs/genom-screams)<br/>「HIDDEN COLLECTION」カテゴリ|40|
+|[GENOM SCREAMS](/playstation-jp/club-vol2/genom-screams)<br/>「HIDDEN COLLECTION」カテゴリ|40|
 |[DIVE](/songs/dive)|45|
 |[La Señorita Virtual](/playstation-jp/3rd/la-senorita-virtual)|50|
 |[Let the beat hit em! (CLASSIC R&B STYLE)](/songs/let-the-beat-hit-em-classic)|55|
@@ -160,7 +160,7 @@ difficulties:
 |[DROP OUT](/songs/drop-out)|65|
 |[era (nostalmix)](/playstation-jp/4th/era)|70|
 |[TRIP MACHINE (luv mix)](/playstation-jp/2nd/trip-machine-luv)|75|
-|[R3](/songs/r3)|80|
+|[R3](/playstation-jp/club-vol1/r3)|80|
 |[LEADING CYBER](/playstation-jp/4th/leading-cyber)|85|
 |[Healing Vision](/songs/healing-vision)|90|
 |[DXY!](/songs/dxy)|95|

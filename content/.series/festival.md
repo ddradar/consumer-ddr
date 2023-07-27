@@ -33,7 +33,7 @@ difficulties:
 |[Superstar](/songs/superstar-jamelia)|Jamelia|110|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[WAITING FOR TONIGHT](/songs/waiting-for-tonight)|P.A.T|125|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[.59](/playstation-jp/4th/59)|dj TAKA|123-135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[5.1.1.](/songs/5-1-1)|dj nagureo|101|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[5.1.1.](/playstation-jp/club-vol1/5-1-1)|dj nagureo|101|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Abyss](/songs/abyss)|dj TAKA|142|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:difficulties="difficulties" levels="1,4,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[CANDY♥](/songs/candy-heart)|小坂りゆ|180|:charts{:difficulties="difficulties" levels="2,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|

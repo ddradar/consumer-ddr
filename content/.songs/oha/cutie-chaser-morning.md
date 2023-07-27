@@ -47,4 +47,4 @@ series:
 
 ## メモ
 
-- [DDRMAX Dance Dance Revolution](/series/max-us)の[DOUBLE/DIFFICULT]{.tag.is-difficult}譜面, [DOUBLE/EXPERT]{.tag.is-expert}譜面は、[DOUBLE/BASIC]{.tag.is-basic}譜面と同一。
+- [DDRMAX Dance Dance Revolution](/playstation2-us/max)の :badge[DOUBLE/DIFFICULT]{type="danger"}譜面, :badge[DOUBLE/EXPERT]{type="success"}譜面は、[DOUBLE/BASIC]{.tag.is-basic}譜面と同一。

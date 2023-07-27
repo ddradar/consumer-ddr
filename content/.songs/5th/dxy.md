@@ -34,4 +34,4 @@ series:
 
 - [Dance Dance Revolution KONAMIX](/playstation-us/konamix)において、下記譜面は別の譜面で代用されている。
   - 6-PANELSの各譜面 → SINGLEの各譜面
-  - BATTLE譜面 → [SINGLE/BASIC]{.tag.is-basic}譜面(=すべて1P/2Pが両方踏む緑色の矢印)
+  - BATTLE譜面 → :badge[SINGLE/BASIC]{type="warning"}譜面(=すべて1P/2Pが両方踏む緑色の矢印)

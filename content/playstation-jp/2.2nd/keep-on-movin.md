@@ -7,9 +7,9 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX :icon{name="flag:jp-4x3"}](/playstation-jp/2nd)
-- "club-2"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.2 :icon{name="flag:jp-4x3"}](/playstation-jp/club-vol2)
 - [:icon{name="simple-icons:sega"} Dance Dance Revolution 2nd MIX Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/2nd)
-- "club-dc"
+- [:icon{name="simple-icons:sega"} Dance Dance Revolution CLUB VERSION Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/club)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 - "oha"
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation-us/1st)
