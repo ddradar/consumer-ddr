@@ -29,4 +29,4 @@ series:
 
 ## メモ
 
-- [CELEBRATE NITE](/songs/celebrate-nite)のリメイク楽曲。
+- [CELEBRATE NITE](/playstation-jp/tkd/celebrate-nite)のリメイク楽曲。
