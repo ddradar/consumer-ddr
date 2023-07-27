@@ -22,7 +22,7 @@
 |SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/extra,/playstation-us/konamix,/playstation2-us/max2,/playstation2-jp/festival" level="6"} :levels{links="/playstation2-us/x2,/windows/grand-prix" level="8"}|251/0||
 |SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/extra,/playstation-us/konamix,/playstation2-us/max2,/playstation2-jp/festival" level="8"} :levels{links="/playstation2-us/x2,/windows/grand-prix" level="11"}|303/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/extra,/playstation-us/konamix,/playstation2-us/max2,/playstation2-jp/festival" level="3"} :levels{links="/playstation2-us/x2,/windows/grand-prix" level="4"}|158/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/extra,/playstation-us/konamix,/playstation2-us/max2,/playstation2-jp/festival" level="5"} :levels{links="/playstation2-us/x2",/windows/grand-prix" level="8"}|279/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/extra,/playstation-us/konamix,/playstation2-us/max2,/playstation2-jp/festival" level="5"} :levels{links="/playstation2-us/x2,/windows/grand-prix" level="8"}|279/0||
 |DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/extra,/playstation-us/konamix,/playstation2-us/max2,/playstation2-jp/festival" level="7"} :levels{links="/playstation2-us/x2,/windows/grand-prix" level="10"}|286/0||
 |BATTLE| :badge[BATTLE]{type="warning"}| :levels{links="/playstation-us/konamix" level="7"}|||
 |6-PANELS| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/extra,/playstation-us/konamix" level="5"}|242/0||

@@ -74,7 +74,7 @@ difficulties:
 |[SUPER STAR (FROM NONSTOP MEGAMIX)](/songs/super-star-from-nonstop)|D.J. RICH feat. Tail Bros.|128|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
 |[TSUGARU (APPLE MIX)](/songs/tsugaru-apple)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
 |[WILD RUSH (FROM NONSTOP MEGAMIX)](/songs/wild-rush-from-nonstop)|FACTOR-X|125|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
-|[AM-3P (303 BASS MIX)](/songs/am-3p-303-bass)|KTz (remixed by U1)|130|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
+|[AM-3P (303 BASS MIX)](/playstation-us/konamix/am-3p-303-bass)|KTz (remixed by U1)|130|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[CRASH!](/songs/crash)|mr. BRAIN & THE FINAL BAND|200|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[CUTIE CHASER (MORNING MIX)](/songs/cutie-chaser-morning)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="2,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
 |[Do It Right (Harmonized 2Step Mix)](/songs/do-it-right-harmonized-2step)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|

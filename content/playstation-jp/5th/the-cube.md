@@ -18,4 +18,4 @@
 |SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/5th,/playstation2-us/max" level="7"}|282/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/5th,/playstation2-us/max" level="4"}|152/0||
 |DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/5th,/playstation2-us/max" level="6"}|236/0||
-|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/5th",/playstation2-us/max" level="7"}|323/0||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/5th,/playstation2-us/max" level="7"}|323/0||
