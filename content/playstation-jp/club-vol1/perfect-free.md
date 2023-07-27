@@ -5,9 +5,6 @@ artist: "nite system"
 from: "beatmania IIDX"
 bpm: 130
 series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1 :icon{name="flag:jp-4x3"}](/playstation-jp/club-vol1)
-  - [:icon{name="simple-icons:sega"} Dance Dance Revolution CLUB VERSION Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/club)
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 ---
 
 # PERFECT FREE / nite system
@@ -18,17 +15,19 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1 :icon{name="flag:jp-4x3"}](/playstation-jp/club-vol1)
+- [:icon{name="simple-icons:sega"} Dance Dance Revolution CLUB VERSION Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/club)
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 
 ## 譜面一覧
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol1" level="5"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="5,5"}</div>|149/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol1" level="6"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="6,6"}</div>|203/0||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/club-vol1" level="7"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="7,7"}</div>|212/0||
-|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol1" level="6"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="6,6"}</div>|208/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol1" level="7"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="7,7"}</div>|209/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="5"}|149/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="6"}|203/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="7"}|212/0||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="6"}|208/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="7"}|209/0||
 
 ## メモ
 

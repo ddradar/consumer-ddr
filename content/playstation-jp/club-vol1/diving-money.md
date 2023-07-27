@@ -1,15 +1,3 @@
----
-slug: "diving-money"
-name: "diving money"
-artist: "QUADRA"
-from: "beatmania IIDX"
-bpm: 150
-series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1 :icon{name="flag:jp-4x3"}](/playstation-jp/club-vol1)
-  - [:icon{name="simple-icons:sega"} Dance Dance Revolution CLUB VERSION Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/club)
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
----
-
 # diving money / QUADRA
 
 |Artist|BPM|From|
@@ -18,17 +6,19 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1 :icon{name="flag:jp-4x3"}](/playstation-jp/club-vol1)
+- [:icon{name="simple-icons:sega"} Dance Dance Revolution CLUB VERSION Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/club)
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 
 ## 譜面一覧
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol1" level="4"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="4,4"}</div>|156/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol1" level="5"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="5,5"}</div>|170/0||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/club-vol1" level="7"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="7,7"}</div>|215/0||
-|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol1" level="5"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="5,5"}</div>|170/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol1" level="8"}  :levels{links="/dreamcast-jp/club,/playstation-us/konamix" level="8,8"}</div>|215/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="4"}|156/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="5"}|170/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="7"}|215/0||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="5"}|170/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/club-vol1,/dreamcast-jp/club,/playstation-us/konamix" level="8"}|215/0||
 
 ## メモ
 
