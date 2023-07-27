@@ -33,9 +33,9 @@ difficulties:
 |[BIZARRE LOVE TRIANGLE](/songs/bizarre-love-triangle)|Jerry|119|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,7" charts="1,2,3"}|
 |[CAN'T STOP FALLIN' IN LOVE (SPEED MIX)](/songs/cant-stop-fallin-in-love-speed)|NAOKI|170|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[Diving](/songs/diving)|4 Strings|140|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
-|[DO ME (H.I.G.E.O. MIX)](/songs/do-me)|MUSTACHE MEN|130|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
-|[DON'T CLOCK ME](/songs/dont-clock-me)|POPULA DEMAND feat. THE GET FRESH GIRLS|124|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,4" charts="1,2,3"}|
-|[DROP OUT](/songs/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="3,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[DO ME (H.I.G.E.O. MIX)](/playstation-jp/extra/do-me)|MUSTACHE MEN|130|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
+|[DON'T CLOCK ME](/playstation-jp/extra/dont-clock-me)|POPULA DEMAND feat. THE GET FRESH GIRLS|124|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,4" charts="1,2,3"}|
+|[DROP OUT](/playstation-jp/extra/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="3,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[DROP OUT (FROM NONSTOP MEGAMIX)](/songs/drop-out-from-nonstop)|NW260|130|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
 |[DROP THE BOMB](/playstation-jp/3rd/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
@@ -78,7 +78,7 @@ difficulties:
 |[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[The legend of MAX](/songs/the-legend-of-max)|ZZ|83-333|:charts{:difficulties="difficulties" levels="3,6,9,10+" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,10+" charts="1,2,3"}|
 |[THE REFLEX](/songs/the-reflex)|DURAN DURAN|126|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
-|[THEME FROM ENTER THE DRAGON (notorious mix)](/songs/theme-from-enter-the-dragon)|B3-PROJECT|142|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
+|[THEME FROM ENTER THE DRAGON (notorious mix)](/playstation-jp/extra/theme-from-enter-the-dragon)|B3-PROJECT|142|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
 |[THERE YOU'LL BE](/songs/there-you-ll-be)|DJ SPEEDO feat. ANGELICA|172|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,8" charts="1,2,3"}|
 |[TRIP MACHINE](/playstation-jp/1st/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
 |[TRIP MACHINE survivor](/songs/trip-machine-survivor)|DE-SIRE|170|:charts{:difficulties="difficulties" levels="1,5,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
@@ -86,7 +86,7 @@ difficulties:
 |[TSUGARU (APPLE MIX)](/songs/tsugaru-apple)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
 |[V (for EXTREME)](/songs/v)|TAKA|150|:charts{:difficulties="difficulties" levels="1,4,6,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,5,8,9" charts="1,2,3,4"}|
 |[WAITING FOR TONIGHT](/songs/waiting-for-tonight)|P.A.T|125|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
-|[WILD RUSH](/songs/wild-rush)|FACTOR-X|80-180|:charts{:difficulties="difficulties" levels="2,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[WILD RUSH](/playstation-jp/extra/wild-rush)|FACTOR-X|80-180|:charts{:difficulties="difficulties" levels="2,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[WILD RUSH (FROM NONSTOP MEGAMIX)](/songs/wild-rush-from-nonstop)|FACTOR-X|125|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
 |[WONDERLAND (UKS MIX)](/playstation-jp/3rd/wonderland)|X-TREME|128|:charts{:difficulties="difficulties" levels="1,5,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[Y.M.C.A.](/songs/ymca)|VILLAGE PEOPLE|130|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|

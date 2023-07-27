@@ -6,7 +6,7 @@ from: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
 bpm: 180
 series:
   - "tkd"
-  - "extra"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution EXTRA MIX :icon{name="flag:jp-4x3"}](/playstation-jp/extra)
   - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
   - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
   - "x-jp"

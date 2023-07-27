@@ -35,7 +35,7 @@ difficulties:
 |[Let's Twist Again](/songs/lets-twist-again)|Chubby Checker|164|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6" charts="1,2"}|
 |[B4U](/playstation-jp/4th/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6" charts="1,2"}|
 |[HIGHER](/playstation-jp/4th/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5" charts="1,2"}|
-|[Let the beat hit em!](/songs/let-the-beat-hit-em)|Stone Bros.|110|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5" charts="1,2"}|
+|[Let the beat hit em!](/playstation-jp/extra/let-the-beat-hit-em)|Stone Bros.|110|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5" charts="1,2"}|
 |[Midnite Blaze](/playstation-jp/4th/midnite-blaze)|U1 Jewel style|150|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5" charts="1,2"}|
 |[MY SUMMER LOVE](/playstation-jp/4th/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5" charts="1,2"}|
 |[Share My Love](/playstation-jp/4th/share-my-love)|Julie Frost|125|:charts{:difficulties="difficulties" levels="2,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,3" charts="1,2"}|

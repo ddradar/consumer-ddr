@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB2](/gameboy/gb2)
-- "extra"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution EXTRA MIX :icon{name="flag:jp-4x3"}](/playstation-jp/extra)
 
 ## 譜面一覧
 

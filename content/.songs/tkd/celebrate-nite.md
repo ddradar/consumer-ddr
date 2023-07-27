@@ -7,7 +7,7 @@ bpm: 144
 series:
   - "tkd"
   - [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB3](/gameboy/gb3)
-  - "extra"
+  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution EXTRA MIX :icon{name="flag:jp-4x3"}](/playstation-jp/extra)
   - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
   - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
   - "max2-us"

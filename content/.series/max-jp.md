@@ -49,14 +49,14 @@ difficulties:
 |[そばかす](/songs/freckles)|TIGGY|150|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[FLASH IN THE NIGHT](/songs/flash-in-the-night)|FLASHMAN|158|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[MY SWEET DARLIN'](/songs/my-sweet-darlin)|WILDSIDE|157|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
-|[Let the beat hit em! (CLASSIC R&B STYLE)](/songs/let-the-beat-hit-em-classic)|Stone Bros.|102|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
+|[Let the beat hit em! (CLASSIC R&B STYLE)](/playstation-jp/extra/let-the-beat-hit-em-classic)|Stone Bros.|102|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[SO DEEP (PERFECT SPHERE REMIX)](/songs/so-deep)|SILVERTEAR|140|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[exotic ethnic](/songs/exotic-ethnic)|RevenG|190|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[FOLLOW ME](/songs/follow-me)|LADY BABY|158|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[FANTASY](/songs/fantasy-melissa)|MELISSA|160|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[Midnite Blaze](/playstation-jp/4th/midnite-blaze)|U1 Jewel style|150|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
-|[Groove 2001](/songs/groove-2001)|Sho-T feat. Brenda|140|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
+|[Groove 2001](/playstation-jp/extra/groove-2001)|Sho-T feat. Brenda|140|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[ORION.78 \~civilization mix\~](/playstation-jp/4th/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[MAX 300](/songs/max-300)|Ω|300|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|

@@ -50,7 +50,7 @@ difficulties:
 |[WAKA LAKA](/songs/waka-laka)|JENNY ROM VS ZIPPERS|170|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[B4U](/playstation-jp/4th/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[DEAD END](/playstation-jp/3rd/dead-end)|N&S|190|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
-|[DROP OUT](/songs/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[DROP OUT](/playstation-jp/extra/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[DYNAMITE RAVE](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
 |[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[PARANOiA Rebirth](/playstation-jp/3rd/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|

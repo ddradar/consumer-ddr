@@ -35,7 +35,7 @@ difficulties:
 |[DXY!](/songs/dxy)|TaQ|148|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Radical Faith](/songs/radical-faith)|TaQ|114|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Electro Tuned (the SubS mix)](/songs/electro-tuned)|TaQ|125|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[Remember You](/songs/remember-you)|NM feat.Julie|105|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|
+|[Remember You](/playstation-jp/extra/remember-you)|NM feat.Julie|105|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|
 |[おどるポンポコリン](/songs/odoru-ponpokorin-captain-jack)|CAPTAIN JACK|142|:charts{:difficulties="difficulties" levels="1,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,4,7" charts="1,2,3"}|
 |[17才](/songs/seventeen)|BAMBEE|142|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
 |[DANCING ALL ALONE](/playstation-jp/4th/dancing-all-alone)|SMiLE.dk|140|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
@@ -54,15 +54,15 @@ difficulties:
 |[MY GENERATION (Fat Beat Mix)](/songs/my-generation)|CAPTAIN JACK|140|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[MOONLIGHT SHADOW (New Vocal Version)](/songs/moonlight-shadow)|MISSING HEART|140|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[DYNAMITE RAVE (Long ver.)](/songs/dynamite-rave-long)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
-|[DIVE](/songs/dive)|Be For U|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[DIVE](/playstation-jp/extra/dive)|Be For U|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[BROKEN MY HEART](/playstation-jp/extra/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[祭 JAPAN](/songs/matsuri-japan)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[STILL IN MY HEART](/songs/still-in-my-heart)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[TRIBAL DANCE (Almighty Mix)](/songs/tribal-dance)|2 UNLIMITED|136|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[B4U glorious style](/songs/b4u-glorious)|NAOKI|155|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
 |[NO LIMIT(RM Remix)](/songs/no-limit)|2 UNLIMITED|141|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[AFRONOVA PRIMEVAL](/songs/afronova-primeval)|8 bit|200|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[AFRONOVA PRIMEVAL](/playstation-jp/extra/afronova-primeval)|8 bit|200|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[INSERTiON](/songs/insertion)|NAOKI underground|140-220|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[CAN'T STOP FALLIN' IN LOVE (SPEED MIX)](/songs/cant-stop-fallin-in-love-speed)|NAOKI|170|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[PARANOiA ETERNAL](/songs/paranoia-eternal)|STM 200|200|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|

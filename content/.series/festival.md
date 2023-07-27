@@ -35,10 +35,10 @@ difficulties:
 |[.59](/playstation-jp/4th/59)|dj TAKA|123-135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[5.1.1.](/playstation-jp/club-vol1/5-1-1)|dj nagureo|101|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Abyss](/songs/abyss)|dj TAKA|142|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:difficulties="difficulties" levels="1,4,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[BROKEN MY HEART](/playstation-jp/extra/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:difficulties="difficulties" levels="1,4,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[CANDY♥](/songs/candy-heart)|小坂りゆ|180|:charts{:difficulties="difficulties" levels="2,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[D2R](/songs/d2r)|NAOKI|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[DIVE](/songs/dive)|Be For U|155|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[DIVE](/playstation-jp/extra/dive)|Be For U|155|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[Don't Stop! (AMD 2nd MIX)](/playstation-jp/4th/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[Electro Tuned (the SubS mix)](/songs/electro-tuned)|TaQ|125|:charts{:difficulties="difficulties" levels="1,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[era (nostalmix)](/playstation-jp/4th/era)|TaQ|90-180|:charts{:difficulties="difficulties" levels="2,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
@@ -46,7 +46,7 @@ difficulties:
 |[Funk Boogie](/songs/funk-boogie)|Funk Kid feat. KOOL BOYS|127|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/playstation-jp/3rd/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[Holic](/playstation-jp/4th/holic)|TaQ|155|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[HYSTERIA](/songs/hysteria)|NAOKI 190|190|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[HYSTERIA](/playstation-jp/extra/hysteria)|NAOKI 190|190|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[I Was The One](/songs/i-was-the-one)|good-cool|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[INSERTiON](/songs/insertion)|NAOKI underground|140-220|:charts{:difficulties="difficulties" levels="2,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[KI·SE·KI (DDR edit)](/songs/ki-se-ki)|Be For U|155|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
