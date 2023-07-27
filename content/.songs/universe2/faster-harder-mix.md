@@ -33,7 +33,7 @@ series:
 
 下記楽曲のメドレーとなっている。
 
-1. [ON THE JAZZ](/songs/on-the-jazz)
+1. [ON THE JAZZ](/playstation-jp/5th/on-the-jazz)
 1. [COSMIC COWGIRL](/songs/cosmic-cowgirl)
 1. [NEMESIS](/songs/nemesis)
 1. [I Wanna Be Your Star Speedy Mix](/songs/i-wanna-be-your-star)

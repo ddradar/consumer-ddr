@@ -25,20 +25,20 @@ difficulties:
 |[321 STARS](/songs/321-stars)|DJ SIMON|192|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[A](/songs/a)|D.J.Amuro|93-191|:charts{:difficulties="difficulties" levels="2,4,6,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,8,9" charts="1,2,3,4"}|
 |[A Stupid Barber](/songs/a-stupid-barber)|Sho-T|132|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
-|[ABSOLUTE](/songs/absolute)|dj TAKA|144|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[ABSOLUTE](/playstation-jp/5th/absolute)|dj TAKA|144|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[B4U](/playstation-jp/4th/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[B4U (B4 ZA BEAT MIX)](/songs/b4u-b4-za-beat)|NAOKI|170|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
 |[Bad Routine](/songs/bad-routine)|D.J. Spugna|130|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Believe](/songs/believe)|Eddie.J|136|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[BIZARRE LOVE TRIANGLE](/songs/bizarre-love-triangle)|Jerry|119|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,7" charts="1,2,3"}|
-|[CAN'T STOP FALLIN' IN LOVE (SPEED MIX)](/songs/cant-stop-fallin-in-love-speed)|NAOKI|170|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[CAN'T STOP FALLIN' IN LOVE (SPEED MIX)](/playstation-jp/5th/cant-stop-fallin-in-love-speed)|NAOKI|170|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[Diving](/songs/diving)|4 Strings|140|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
 |[DO ME (H.I.G.E.O. MIX)](/playstation-jp/extra/do-me)|MUSTACHE MEN|130|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[DON'T CLOCK ME](/playstation-jp/extra/dont-clock-me)|POPULA DEMAND feat. THE GET FRESH GIRLS|124|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,4" charts="1,2,3"}|
 |[DROP OUT](/playstation-jp/extra/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="3,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[DROP OUT (FROM NONSTOP MEGAMIX)](/songs/drop-out-from-nonstop)|NW260|130|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
 |[DROP THE BOMB](/playstation-jp/3rd/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
-|[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[ECSTASY](/playstation-jp/5th/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[ECSTASY (midnight blue mix)](/songs/ecstasy-midnight-blue)|d-complex|145|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
 |[Firefly](/songs/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Frozen Ray ~for EXTREME~](/songs/frozen-ray)|dj TAKA|156|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
@@ -65,10 +65,10 @@ difficulties:
 |[MOBO★MOGA](/songs/mobo-moga)|Orange Lounge|172|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Move Your Feet](/songs/move-your-feet)|Junior Senior|118|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Music (Bostik Radio Edit)](/songs/music-bostik)|Darude|138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
-|[NEVER ENDING STORY (Power Club Vocal Mix)](/songs/never-ending-story)|DJ-AC-DC|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
-|[ON THE JAZZ](/songs/on-the-jazz)|Jonny Dynamite!|130|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[NEVER ENDING STORY (Power Club Vocal Mix)](/playstation-jp/5th/never-ending-story)|DJ-AC-DC|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
+|[ON THE JAZZ](/playstation-jp/5th/on-the-jazz)|Jonny Dynamite!|130|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[ONLY YOU](/playstation-jp/4th/only-you)|CAPTAIN JACK|93|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
-|[PARANOiA ETERNAL](/songs/paranoia-eternal)|STM 200|200|:charts{:difficulties="difficulties" levels="2,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
+|[PARANOiA ETERNAL](/playstation-jp/5th/paranoia-eternal)|STM 200|200|:charts{:difficulties="difficulties" levels="2,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
 |[PARANOiA MAX (DIRTY MIX)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="2,6,8,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[PEACE-OUT](/songs/peace-out)|dj nagureo|133|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Pink Rose](/songs/pink-rose)|Kiyommy + Seiya|146|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
