@@ -1,15 +1,3 @@
----
-slug: "in-the-heat-of-the-night"
-name: "IN THE HEAT OF THE NIGHT"
-artist: "E-ROTIC"
-from: "Dancemania X7"
-bpm: 136
-series:
-  - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 4thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/4th)
-  - "gb3"
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
----
-
 # IN THE HEAT OF THE NIGHT / E-ROTIC
 
 |Artist|BPM|From|
@@ -18,7 +6,9 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 4thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/4th)
+- "gb3"
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 
 ## 譜面一覧
 
