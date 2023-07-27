@@ -33,9 +33,9 @@ difficulties:
 |[Firefly](/songs/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[WITCH DOCTOR (GIANTS TOONS VERSION)](/songs/witch-doctor)|CARTOONS|150|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[DIVE (more deep & deeper style)](/songs/dive-more-deep)|Be For U|155|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
-|[Groove](/songs/groove)|Sho-T feat. Blenda|130|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
+|[Groove](/playstation-jp/4th/groove)|Sho-T feat. Blenda|130|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[Do It Right](/songs/do-it-right-sota)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
-|[Share My Love](/songs/share-my-love)|Julie Frost|125|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
+|[Share My Love](/playstation-jp/4th/share-my-love)|Julie Frost|125|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[DO YOU REMEMBER ME](/songs/do-you-remember-me)|JENNY|150|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[Look To The Sky](/songs/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[TELEPHONE OPERATOR (Club MIX)](/songs/telephone-operator)|SHELLEY PETER|146|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
@@ -54,10 +54,10 @@ difficulties:
 |[exotic ethnic](/songs/exotic-ethnic)|RevenG|190|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[FOLLOW ME](/songs/follow-me)|LADY BABY|158|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[FANTASY](/songs/fantasy-melissa)|MELISSA|160|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
-|[Midnite Blaze](/songs/midnite-blaze)|U1 Jewel style|150|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
+|[Midnite Blaze](/playstation-jp/4th/midnite-blaze)|U1 Jewel style|150|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[Healing Vision \~Angelic mix\~](/songs/healing-vision-angelic)|2MB|46-196|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[Groove 2001](/songs/groove-2001)|Sho-T feat. Brenda|140|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
-|[ORION.78 \~civilization mix\~](/songs/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
+|[ORION.78 \~civilization mix\~](/playstation-jp/4th/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[MAX 300](/songs/max-300)|Ω|300|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|
 |[true... (Trance Sunrise Mix)](/songs/true-trance)|小坂りゆ|140|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="?,?,?" charts="1,2,3"}|

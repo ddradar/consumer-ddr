@@ -27,12 +27,12 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/extreme,/windows/grand-prix" level="2,4"}|107/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="3,3,3,5"}</div>|128/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="6,6,6,7"}</div>|272/0||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=8} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="8,8,8,11"}</div>|353/0||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="3,3,3,4"}</div>|136/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="6,6,6,8"}</div>|275/0||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=9} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="9,9,9,13"}</div>|358/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="3"} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="3,3,3,5"}</div>|128/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="6"} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="6,6,6,7"}</div>|272/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="8"} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="8,8,8,11"}</div>|353/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="3"} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="3,3,3,4"}</div>|136/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="6"} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="6,6,6,8"}</div>|275/0||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="9"} :levels{links="/playstation-us/konamix,/playstation2-us/max,/playstation2-jp/extreme,/windows/grand-prix" level="9,9,9,13"}</div>|358/0||
 
 ## メモ
 

@@ -23,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=4} :levels{links="/playstation-us/konamix" level="4"}</div>|108/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :levels{links="/playstation-us/konamix" level="6"}</div>|157/0||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=8} :levels{links="/playstation-us/konamix" level="8"}</div>|269/0||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=4} :levels{links="/playstation-us/konamix" level="4"}</div>|355/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6} :levels{links="/playstation-us/konamix" level="6"}</div>|205/0||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=8} :levels{links="/playstation-us/konamix" level="8"}</div>|334/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="4"} :levels{links="/playstation-us/konamix" level="4"}</div>|108/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="6"} :levels{links="/playstation-us/konamix" level="6"}</div>|157/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="8"} :levels{links="/playstation-us/konamix" level="8"}</div>|269/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="4"} :levels{links="/playstation-us/konamix" level="4"}</div>|355/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="6"} :levels{links="/playstation-us/konamix" level="6"}</div>|205/0||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="8"} :levels{links="/playstation-us/konamix" level="8"}</div>|334/0||
 
 ## メモ
 

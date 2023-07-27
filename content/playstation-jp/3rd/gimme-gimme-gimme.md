@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
-- "4th"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution 4thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/4th)
 
 ## 譜面一覧
 

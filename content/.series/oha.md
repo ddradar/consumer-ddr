@@ -59,7 +59,7 @@ DOUBLEモードの場合、難易度はすべて :badge[BASIC]{type="warning"}�
 
 ### ガッツコース
 
-1. [HAPPY GO LUCKY](/songs/happy-go-lucky) [MANIAC]{.tag.is-expert}
+1. [HAPPY GO LUCKY](/songs/happy-go-lucky) :badge[MANIAC]{type="success"}
 1. [ゾナパラ \[WHY! パラパラ・リミックス\]](/songs/zonapara) :badge[ANOTHER]{type="danger"}
 1. [WHY! \~THE ZONA'S SONG\~](/songs/why) :badge[ANOTHER]{type="danger"}
 

@@ -26,12 +26,12 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/extreme" level="1"}|57/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=2} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="2"} :level{slug="max-jp" level="?,2"}</div>|108/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=4} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="4"} :level{slug="max-jp" level="?,4"}</div>|220/0||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=7} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="7"} :level{slug="max-jp" level="?,7"}</div>|331/0||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=3} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="3"} :level{slug="max-jp" level="?,3"}</div>|121/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=5} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="5"} :level{slug="max-jp" level="?,5"}</div>|220/0||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=7} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="7"} :level{slug="max-jp" level="?,7"}</div>|329/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="2"} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="2"} :levels{links="/playstation2-jp/max" level="?,2"}</div>|108/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="4"} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="4"} :levels{links="/playstation2-jp/max" level="?,4"}</div>|220/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="7"} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="7"} :levels{links="/playstation2-jp/max" level="?,7"}</div>|331/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="3"} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="3"} :levels{links="/playstation2-jp/max" level="?,3"}</div>|121/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="5"} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="5"} :levels{links="/playstation2-jp/max" level="?,5"}</div>|220/0||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="7"} :levels{links="/playstation-us/konamix,/playstation2-us/extreme" level="7"} :levels{links="/playstation2-jp/max" level="?,7"}</div>|329/0||
 
 ## メモ
 

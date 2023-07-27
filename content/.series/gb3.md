@@ -19,66 +19,66 @@ difficulties:
 
 |Name|Artist|BPM|SINGLE|
 |----|------|---|------|
-|[1,2,3,4,007](/songs/1-2-3-4-007)|NI-NI|140|:charts{:difficulties="difficulties" levels="1,3,6" charts="1,2,3"}|
-|[LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[HIGHER](/songs/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
-|[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
-|[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
-|[HYPNØTIC CRISIS](/songs/hypnotic-crisis)|BLUE DESTROYERS|135|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
-|[IN THE HEAT OF THE NIGHT](/songs/in-the-heat-of-the-night)|E-ROTIC|136|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[WALKIE TALKIE](/songs/walkie-talkie)|King Kong & D. Jungle Girls|138|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[PINK DINOSAUR](/songs/pink-dinosaur)|PAPAYA|136|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
-|[DREAM A DREAM](/songs/dream-a-dream)|CAPTAIN JACK|141|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[NEVER GONNA MAKE (FACTORY DANCE TEAM MIX)](/songs/never-gonna-make)|MORGANA|136|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[EAT YOU UP](/songs/eat-you-up)|ANGIE GOLD|130|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
+|[1,2,3,4,007](/playstation-jp/4th/1-2-3-4-007)|NI-NI|140|:charts{:difficulties="difficulties" levels="1,3,6" charts="1,2,3"}|
+|[LOVE AGAIN TONIGHT (For Melissa MIX)](/playstation-jp/4th/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[HIGHER](/playstation-jp/4th/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
+|[TRIP MACHINE CLIMAX](/playstation-jp/4th/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[MY SUMMER LOVE](/playstation-jp/4th/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
+|[HYPNØTIC CRISIS](/playstation-jp/4th/hypnotic-crisis)|BLUE DESTROYERS|135|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
+|[IN THE HEAT OF THE NIGHT](/playstation-jp/4th/in-the-heat-of-the-night)|E-ROTIC|136|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[WALKIE TALKIE](/playstation-jp/4th/walkie-talkie)|King Kong & D. Jungle Girls|138|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[PINK DINOSAUR](/playstation-jp/4th/pink-dinosaur)|PAPAYA|136|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[DREAM A DREAM](/playstation-jp/4th/dream-a-dream)|CAPTAIN JACK|141|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[NEVER GONNA MAKE (FACTORY DANCE TEAM MIX)](/playstation-jp/4th/never-gonna-make)|MORGANA|136|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[EAT YOU UP](/playstation-jp/4th/eat-you-up)|ANGIE GOLD|130|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
 |[HOLIDAY](/playstation-jp/3rd/holiday)|WHO'S THAT GIRL!|128|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[UPSIDE DOWN](/playstation-jp/3rd/upside-down)|COO COO|124|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[LUV TO ME (AMD MIX)](/playstation-jp/3rd/luv-to-me-amd)|DJ KAZU feat. tiger YAMATO|154|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[I DON'T WANT TO MISS A THING (Planet Lution Mix)](/songs/i-dont-want-to-miss-a-thing)|DEJA VU featuring TASMIN|170|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[KISS ME (KCP REMIX)](/songs/kiss-me)|E-ROTIC|170|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|
 |[CELEBRATE NITE](/songs/celebrate-nite)|N.M.R.|144|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[1,2,3,4,007 (HARD)](/songs/1-2-3-4-007)|NI-NI|140|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[EAT YOU UP (HARD)](/songs/eat-you-up)|ANGIE GOLD|130|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[1,2,3,4,007 (HARD)](/playstation-jp/4th/1-2-3-4-007)|NI-NI|140|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[EAT YOU UP (HARD)](/playstation-jp/4th/eat-you-up)|ANGIE GOLD|130|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[LUV TO ME (AMD MIX) (HARD)](/songs/luv-to-me-amd-hard)|DJ KAZU feat. tiger YAMATO|210|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
-|[Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
-|[Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[Don't Stop! \~AMD 2nd MIX\~](/playstation-jp/4th/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[Get me in your sight \~AMD CANCUN MIX\~](/playstation-jp/4th/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 
 ## NONSTOP
 
 ### COVERS & CLASSICS
 
-1. [EAT YOU UP](/songs/eat-you-up) :badge[BASIC]{type="warning"}
+1. [EAT YOU UP](/playstation-jp/4th/eat-you-up) :badge[BASIC]{type="warning"}
 1. [UPSIDE DOWN](/playstation-jp/3rd/upside-down) :badge[BASIC]{type="warning"}
-1. [WALKIE TALKIE](/songs/walkie-talkie) :badge[BASIC]{type="warning"}
+1. [WALKIE TALKIE](/playstation-jp/4th/walkie-talkie) :badge[BASIC]{type="warning"}
 1. [HOLIDAY](/playstation-jp/3rd/holiday) :badge[BASIC]{type="warning"}
 
 ### KONAMI ORIGINAL 1
 
-1. [Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight) :badge[BASIC]{type="warning"}
+1. [Get me in your sight \~AMD CANCUN MIX\~](/playstation-jp/4th/get-me-in-your-sight) :badge[BASIC]{type="warning"}
 1. [LUV TO ME (AMD MIX)](/playstation-jp/3rd/luv-to-me-amd) :badge[BASIC]{type="warning"}
-1. [Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop) :badge[BASIC]{type="warning"}
-1. [HYPNØTIC CRISIS](/songs/hypnotic-crisis) :badge[BASIC]{type="warning"}
+1. [Don't Stop! \~AMD 2nd MIX\~](/playstation-jp/4th/dont-stop) :badge[BASIC]{type="warning"}
+1. [HYPNØTIC CRISIS](/playstation-jp/4th/hypnotic-crisis) :badge[BASIC]{type="warning"}
 
 ### KONAMI ORIGINAL 2
 
-1. [MY SUMMER LOVE](/songs/my-summer-love) :badge[BASIC]{type="warning"}
-1. [TRIP MACHINE CLIMAX](/songs/trip-machine-climax) :badge[BASIC]{type="warning"}
-1. [HIGHER](/songs/higher) :badge[ANOTHER]{type="danger"}
-1. [LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight) :badge[ANOTHER]{type="danger"}
+1. [MY SUMMER LOVE](/playstation-jp/4th/my-summer-love) :badge[BASIC]{type="warning"}
+1. [TRIP MACHINE CLIMAX](/playstation-jp/4th/trip-machine-climax) :badge[BASIC]{type="warning"}
+1. [HIGHER](/playstation-jp/4th/higher) :badge[ANOTHER]{type="danger"}
+1. [LOVE AGAIN TONIGHT (For Melissa MIX)](/playstation-jp/4th/love-again-tonight) :badge[ANOTHER]{type="danger"}
 
 ### POPS 1
 
-1. [IN THE HEAT OF THE NIGHT](/songs/in-the-heat-of-the-night) :badge[ANOTHER]{type="danger"}
-1. [1,2,3,4,007](/songs/1-2-3-4-007) :badge[ANOTHER]{type="danger"}
-1. [PINK DINOSAUR](/songs/pink-dinosaur) :badge[ANOTHER]{type="danger"}
-1. [DREAM A DREAM](/songs/dream-a-dream) :badge[ANOTHER]{type="danger"}
+1. [IN THE HEAT OF THE NIGHT](/playstation-jp/4th/in-the-heat-of-the-night) :badge[ANOTHER]{type="danger"}
+1. [1,2,3,4,007](/playstation-jp/4th/1-2-3-4-007) :badge[ANOTHER]{type="danger"}
+1. [PINK DINOSAUR](/playstation-jp/4th/pink-dinosaur) :badge[ANOTHER]{type="danger"}
+1. [DREAM A DREAM](/playstation-jp/4th/dream-a-dream) :badge[ANOTHER]{type="danger"}
 
 ### POPS 2
 
-1. [NEVER GONNA MAKE (FACTORY DANCE TEAM MIX)](/songs/never-gonna-make) [MANIAC]{.tag.is-expert}
-1. [I DON'T WANT TO MISS A THING (Planet Lution Mix)](/songs/i-dont-want-to-miss-a-thing) [MANIAC]{.tag.is-expert}
-1. [KISS ME (KCP REMIX)](/songs/kiss-me) [MANIAC]{.tag.is-expert}
-1. [CELEBRATE NITE](/songs/celebrate-nite) [MANIAC]{.tag.is-expert}
+1. [NEVER GONNA MAKE (FACTORY DANCE TEAM MIX)](/playstation-jp/4th/never-gonna-make) :badge[MANIAC]{type="success"}
+1. [I DON'T WANT TO MISS A THING (Planet Lution Mix)](/songs/i-dont-want-to-miss-a-thing) :badge[MANIAC]{type="success"}
+1. [KISS ME (KCP REMIX)](/songs/kiss-me) :badge[MANIAC]{type="success"}
+1. [CELEBRATE NITE](/songs/celebrate-nite) :badge[MANIAC]{type="success"}
 
 ## システム概要
 
@@ -106,5 +106,5 @@ difficulties:
 
 |曲名|条件|
 |----|----|
-|[Don't Stop! \~AMD 2nd MIX\~](/songs/dont-stop)|ファイナルステージの2つ前までに、1,000,000点以上を獲得すると、ファイナルステージの1つ前に出現|
-|[Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight)|ファイナルステージの1つ前までに、10,000,000点以上を獲得すると、ファイナルステージに出現|
+|[Don't Stop! \~AMD 2nd MIX\~](/playstation-jp/4th/dont-stop)|ファイナルステージの2つ前までに、1,000,000点以上を獲得すると、ファイナルステージの1つ前に出現|
+|[Get me in your sight \~AMD CANCUN MIX\~](/playstation-jp/4th/get-me-in-your-sight)|ファイナルステージの1つ前までに、10,000,000点以上を獲得すると、ファイナルステージに出現|

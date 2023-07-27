@@ -24,8 +24,8 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=3} :level{slug="gb-disney" level=3} :level{slug="disney-us" level=3}</div>|153/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=6} :level{slug="gb-disney" level=6} :level{slug="disney-us" level=6}</div>|254/0||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=9} :level{slug="disney-us" level=9}</div>|376/0||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=5} :level{slug="disney-us" level=5}</div>|217/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=8} :level{slug="disney-us" level=8}</div>|311/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=3} :level{slug="gb-disney" level=3} :levels{links="/playstation-us/disney" level="3"}</div>|153/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=6} :level{slug="gb-disney" level=6} :levels{links="/playstation-us/disney" level="6"}</div>|254/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=9} :levels{links="/playstation-us/disney" level="9"}</div>|376/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=5} :levels{links="/playstation-us/disney" level="5"}</div>|217/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="disney-jp" level=8} :levels{links="/playstation-us/disney" level="8"}</div>|311/0||

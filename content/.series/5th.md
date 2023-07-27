@@ -38,7 +38,7 @@ difficulties:
 |[Remember You](/songs/remember-you)|NM feat.Julie|105|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|
 |[おどるポンポコリン](/songs/odoru-ponpokorin-captain-jack)|CAPTAIN JACK|142|:charts{:difficulties="difficulties" levels="1,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,4,7" charts="1,2,3"}|
 |[17才](/songs/seventeen)|BAMBEE|142|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
-|[DANCING ALL ALONE](/songs/dancing-all-alone)|SMiLE.dk|140|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
+|[DANCING ALL ALONE](/playstation-jp/4th/dancing-all-alone)|SMiLE.dk|140|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[OOPS!...I DID IT AGAIN (Fired Up MIX)](/songs/oops-i-did-it-again-fired-up)|ROCHELLE|132|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[SWING IT](/songs/swing-it)|BUS STOP|178|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|:charts{:difficulties="difficulties" levels=",," charts="1,2,3"}|
 |[TEST MY BEST](/songs/test-my-best)|E-ROTIC|147|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|

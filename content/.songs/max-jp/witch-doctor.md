@@ -24,9 +24,9 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/party" level="1"}|100/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :levels{links="/playstation2-jp/party" level="3"}</div>|129/1||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :levels{links="/playstation2-jp/party" level="4"}</div>|188/32||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :levels{links="/playstation2-jp/party" level="8"}</div>|437/2||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :levels{links="/playstation2-jp/party" level="2"}</div>|113/1||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :levels{links="/playstation2-jp/party" level="6"}</div>|219/4||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="max-jp" level="?"} :levels{links="/playstation2-jp/party" level="8"}</div>|316/14||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-jp/party" level="3"}</div>|129/1||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-jp/party" level="4"}</div>|188/32||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-jp/party" level="8"}</div>|437/2||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-jp/party" level="2"}</div>|113/1||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-jp/party" level="6"}</div>|219/4||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-jp/party" level="8"}</div>|316/14||

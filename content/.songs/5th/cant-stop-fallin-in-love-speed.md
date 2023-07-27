@@ -25,9 +25,9 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="1,1"}|133/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=4}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="4,4"}</div>|238/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="6,6"}</div>|321/0||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=9}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="9,9"}</div>|443/0||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=4}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="4,4"}</div>|241/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=6}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="6,6"}</div>|323/0||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="5th" level=9}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="9,9"}</div>|432/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="4"}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="4,4"}</div>|238/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="6"}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="6,6"}</div>|321/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="9"}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="9,9"}</div>|443/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="4"}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="4,4"}</div>|241/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="6"}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="6,6"}</div>|323/0||
+|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/5th" level="9"}  :levels{links="/playstation2-jp/extreme,/playstation2-us/extreme" level="9,9"}</div>|432/0||

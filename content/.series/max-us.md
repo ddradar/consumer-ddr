@@ -22,25 +22,25 @@ difficulties:
 |Name|Artist|BPM|SINGLE|DOUBLE|
 |----|------|---|------|------|
 |[Remember You](/songs/remember-you)|NM feat.Julie|105|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|
-|[BABY BABY GIMME YOUR LOVE](/songs/baby-baby-gimme-your-love)|DIVAS|96|:charts{:difficulties="difficulties" levels="1,3,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
+|[BABY BABY GIMME YOUR LOVE](/playstation-jp/4th/baby-baby-gimme-your-love)|DIVAS|96|:charts{:difficulties="difficulties" levels="1,3,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
 |[CUTIE CHASER (MORNING MIX)](/songs/cutie-chaser-morning)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="3,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,4,4" charts="1,4,4"}|
 |[ORDINARY WORLD](/songs/ordinary-world)|AURORA featuring NAIMEE COLEMAN|139|:charts{:difficulties="difficulties" levels="1,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
-|[Let's talk it over](/songs/lets-talk-it-over)|SHIN Murayama feat. Argie Phine|100|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|
+|[Let's talk it over](/playstation-jp/4th/lets-talk-it-over)|SHIN Murayama feat. Argie Phine|100|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|
 |[Look To The Sky](/songs/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[PEACE-OUT](/songs/peace-out)|dj nagureo|133|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Let the beat hit em! (CLASSIC R&B STYLE)](/songs/let-the-beat-hit-em-classic)|Stone Bros.|102|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
-|[never let you down](/songs/never-let-you-down)|good-cool feat. JP Miles|125|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
-|[Share My Love](/songs/share-my-love)|Julie Frost|125|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|
+|[never let you down](/playstation-jp/4th/never-let-you-down)|good-cool feat. JP Miles|125|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[Share My Love](/playstation-jp/4th/share-my-love)|Julie Frost|125|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,5" charts="1,2,3"}|
 |[Dark Black Forest (short trip)](/songs/dark-black-forest)|Steve Rhyner|140|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[OVERBLAST!!](/songs/overblast)|L.E.D. LIGHT|147|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[You Leave Me Alone](/songs/you-leave-me-alone)|Venus|138|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[ECSTASY](/songs/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[era (nostalmix)](/songs/era)|TaQ|90-180|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[era (nostalmix)](/playstation-jp/4th/era)|TaQ|90-180|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Groove 2001](/songs/groove-2001)|Sho-T feat. Brenda|140|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[I Like To Move It](/songs/i-like-to-move-it)|Reel 2 Real|123|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[LOVE AGAIN TONIGHT (For Melissa MIX)](/songs/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[Midnite Blaze](/songs/midnite-blaze)|U1 Jewel style|150|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
-|[SYNCHRONIZED LOVE (Red Monster Hyper Mix)](/songs/synchronized-love)|JOE RINOIE|150|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[LOVE AGAIN TONIGHT (For Melissa MIX)](/playstation-jp/4th/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[Midnite Blaze](/playstation-jp/4th/midnite-blaze)|U1 Jewel style|150|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
+|[SYNCHRONIZED LOVE (Red Monster Hyper Mix)](/playstation-jp/4th/synchronized-love)|JOE RINOIE|150|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[THE CUBE](/songs/the-cube)|DJ SUWAMI|178|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[BRILLIANT 2U (Orchestra-Groove)](/playstation-jp/2nd/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[BROKEN MY HEART](/songs/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
@@ -56,7 +56,7 @@ difficulties:
 |[RUGGED ASH](/songs/rugged-ash)|SYMPHONIC DEFOGGERS|168|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,5"}|
 |[Healing Vision (Angelic mix)](/songs/healing-vision-angelic)|2MB|46-196|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[PARANOIA EVOLUTION](/songs/paranoia-evolution)|200|200|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
-|[ORION.78 (civilization mix)](/songs/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
+|[ORION.78 (civilization mix)](/playstation-jp/4th/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
 |[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[MAX 300](/songs/max-300)|Ω|300|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
 |[5.1.1.](/songs/5-1-1)|dj nagureo|101|:charts{:difficulties="difficulties" levels="1,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,5" charts="1,2,5"}|
@@ -78,19 +78,19 @@ difficulties:
 |[true... (Trance Sunrise Mix)](/songs/true-trance)|RIYU KOSAKA|140|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[celebrate](/songs/celebrate)|JJ COMPANY|134|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,8" charts="1,2,5"}|
 |[Do It Right (Harmonized 2Step Mix)](/songs/do-it-right-harmonized-2step)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[Get me in your sight \~AMD CANCUN MIX\~](/songs/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
+|[Get me in your sight \~AMD CANCUN MIX\~](/playstation-jp/4th/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[Healing Vision](/songs/healing-vision)|DE-SIRE|49-196|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
 |[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[LOGICAL DASH](/songs/logical-dash)|dj TAKA|144|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[Holic](/songs/holic)|TaQ|155|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[MY SUMMER LOVE](/songs/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[Holic](/playstation-jp/4th/holic)|TaQ|155|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[MY SUMMER LOVE](/playstation-jp/4th/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[RHYTHM AND POLICE (K.O.G G3 Mix)](/songs/rhythm-and-police)|CJ CREW feat. CHRISTIAN D|170|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[Electro Tuned (the SubS mix)](/songs/electro-tuned)|TaQ|125|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[gentle stress (SENSUAL MIX)](/playstation-jp/3rd/gentle-stress-sensual)|MR. DOG feat. DJ SWAN|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/playstation-jp/3rd/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[LOVE THIS FEELIN'](/playstation-jp/2nd/love-this-feelin)|Chang Ma|95-190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
 |[PARANOiA MAX (DIRTY MIX) -CLUB ANOTHER ver.2-](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="7,9,9" charts="1,2,5"}|
-|[TRIP MACHINE CLIMAX](/songs/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
+|[TRIP MACHINE CLIMAX](/playstation-jp/4th/trip-machine-climax)|DE-SIRE|180|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 
 ## システム概要
 

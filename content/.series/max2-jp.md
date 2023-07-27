@@ -48,7 +48,7 @@ difficulties:
 |[TRANCE DE JANEIRO (SAMBA DE JANEIRO 2002 Epic Vocal Remix)](/songs/trance-de-janeiro)|BELLINI|145|:charts{:difficulties="difficulties" levels="2,4,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,9" charts="1,2,3"}|
 |[TSUGARU](/songs/tsugaru)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
 |[WAKA LAKA](/songs/waka-laka)|JENNY ROM VS ZIPPERS|170|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
-|[B4U](/songs/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[B4U](/playstation-jp/4th/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[DEAD END](/playstation-jp/3rd/dead-end)|N&S|190|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[DROP OUT](/songs/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[DYNAMITE RAVE](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|

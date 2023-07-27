@@ -24,11 +24,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="3"} :level{slug="disney-us" level=3} :levels{links="/windows/1st" level="3"}</div>|102/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="6"} :level{slug="disney-us" level=6} :levels{links="/windows/1st" level="6"}</div>|151/0||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="7"} :level{slug="disney-us" level=7} :levels{links="/windows/1st" level="7"}</div>|185/0||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="3"} :level{slug="disney-us" level=3} :levels{links="/windows/1st" level="3"}</div>|108/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="5"} :level{slug="disney-us" level=5} :levels{links="/windows/1st" level="5"}</div>|144/0||
+|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="3"} :levels{links="/playstation-us/disney" level="3"} :levels{links="/windows/1st" level="3"}</div>|102/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="6"} :levels{links="/playstation-us/disney" level="6"} :levels{links="/windows/1st" level="6"}</div>|151/0||
+|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="7"} :levels{links="/playstation-us/disney" level="7"} :levels{links="/windows/1st" level="7"}</div>|185/0||
+|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="3"} :levels{links="/playstation-us/disney" level="3"} :levels{links="/windows/1st" level="3"}</div>|108/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="5"} :levels{links="/playstation-us/disney" level="5"} :levels{links="/windows/1st" level="5"}</div>|144/0||
 |DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="7"} :levels{links="/windows/1st" level="7"}</div>|201/0||
 |BATTLE| :badge[BATTLE (PC)]{type="warning"}| :levels{links="/windows/1st" level="5"}|||
 |6-PANELS| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation-jp/extra" level="3"} :levels{links="/windows/1st" level="3"}</div>|102/0||
