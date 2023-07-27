@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 4thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/4th)
-- "gb3"
+- [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB3](/gameboy/gb3)
 - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 - "festival"
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)

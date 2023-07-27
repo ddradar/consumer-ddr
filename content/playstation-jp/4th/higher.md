@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 4thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/4th)
-- "gb3"
+- [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB3](/gameboy/gb3)
 - "disney-us"
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
@@ -28,7 +28,7 @@
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/4th,/playstation-us/disney,/playstation-us/konamix,/windows/1st,/playstation2-jp/extreme,/playstation2-jp/party,/playstation2-us/extreme" level="3"} :levels{links="/windows/grand-prix" level="4"}|159/0||
 |DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/4th,/playstation-us/disney,/playstation-us/konamix,/windows/1st,/playstation2-jp/extreme,/playstation2-jp/party,/playstation2-us/extreme" level="5"} :levels{links="/windows/grand-prix" level="7"}|230/0||
 |DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/4th,/playstation-us/konamix,/windows/1st,/playstation2-jp/extreme,/playstation2-jp/party,/playstation2-us/extreme" level="7"} :levels{links="/windows/grand-prix" level="10"}|279/0||
-|BATTLE| :badge[BATTLE]{type="warning"}| :levels{links="/playstation-jp/4th",/playstation-us/konamix,/windows/1st" level="7"}|||
+|BATTLE| :badge[BATTLE]{type="warning"}| :levels{links="/playstation-jp/4th,/playstation-us/konamix,/windows/1st" level="7"}|||
 |6-PANELS| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/4th,/playstation-us/konamix,/windows/1st" level="3"}|141/0||
 |6-PANELS| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/4th,/playstation-us/konamix,/windows/1st" level="5"}|214/0||
 |6-PANELS| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/4th,/playstation-us/konamix,/windows/1st" level="7"}|246/0||

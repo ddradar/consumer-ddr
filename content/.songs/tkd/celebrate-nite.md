@@ -6,7 +6,7 @@ from: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
 bpm: 144
 series:
   - "tkd"
-  - "gb3"
+  - [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB3](/gameboy/gb3)
   - "extra"
   - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
   - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)

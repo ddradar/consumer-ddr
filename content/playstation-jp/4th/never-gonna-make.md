@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 4thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/4th)
-- "gb3"
+- [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB3](/gameboy/gb3)
 
 ## 譜面一覧
 
