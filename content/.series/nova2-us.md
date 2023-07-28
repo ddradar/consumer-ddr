@@ -67,7 +67,7 @@ difficulties:
 |[BALLAD FOR YOU](/songs/ballad-for-you)|NM feat.Thomas Howard|65|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[CALICO CAT ROCK](/songs/calico-cat-rock)|ANETTAI MAJI-SKA BAKUDAN|246|:charts{:difficulties="difficulties" levels="2,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[cachaca](/songs/cachaca)|Mokky de Yah Yah's|128|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
-|[CRASH!](/songs/crash)|mr.BRIAN & THE FINAL BAND|200|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
+|[CRASH!](/playstation2-jp/max2/crash)|mr.BRIAN & THE FINAL BAND|200|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[DanDanDO (The true MAN's Road)](/songs/dandando)|Des-ROW・UNITED|156-160|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Dragon Blade](/songs/dragon-blade)|Kozo Nakamura|240|:charts{:difficulties="difficulties" levels="2,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[e-motion](/playstation-jp/club-vol1/e-motion)|e.o.s|145|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|

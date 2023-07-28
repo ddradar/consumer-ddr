@@ -27,7 +27,7 @@ difficulties:
 |[A Stupid Barber](/songs/a-stupid-barber)|Sho-T|132|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
 |[ABSOLUTE](/playstation-jp/5th/absolute)|dj TAKA|144|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[B4U](/playstation-jp/4th/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[B4U (B4 ZA BEAT MIX)](/songs/b4u-b4-za-beat)|NAOKI|170|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
+|[B4U (B4 ZA BEAT MIX)](/playstation2-jp/max2/b4u-b4-za-beat)|NAOKI|170|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
 |[Bad Routine](/songs/bad-routine)|D.J. Spugna|130|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Believe](/songs/believe)|Eddie.J|136|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[BIZARRE LOVE TRIANGLE](/songs/bizarre-love-triangle)|Jerry|119|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,7" charts="1,2,3"}|
@@ -36,18 +36,18 @@ difficulties:
 |[DO ME (H.I.G.E.O. MIX)](/playstation-jp/extra/do-me)|MUSTACHE MEN|130|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[DON'T CLOCK ME](/playstation-jp/extra/dont-clock-me)|POPULA DEMAND feat. THE GET FRESH GIRLS|124|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,4" charts="1,2,3"}|
 |[DROP OUT](/playstation-jp/extra/drop-out)|NW260|260|:charts{:difficulties="difficulties" levels="3,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
-|[DROP OUT (FROM NONSTOP MEGAMIX)](/songs/drop-out-from-nonstop)|NW260|130|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
+|[DROP OUT (FROM NONSTOP MEGAMIX)](/playstation2-jp/max2/drop-out-from-nonstop)|NW260|130|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="9" charts="4"}|
 |[DROP THE BOMB](/playstation-jp/3rd/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[ECSTASY](/playstation-jp/5th/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[ECSTASY (midnight blue mix)](/songs/ecstasy-midnight-blue)|d-complex|145|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
+|[ECSTASY (midnight blue mix)](/playstation2-jp/max2/ecstasy-midnight-blue)|d-complex|145|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
 |[Firefly](/playstation2-jp/max/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Frozen Ray ~for EXTREME~](/songs/frozen-ray)|dj TAKA|156|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Funk Boogie](/songs/funk-boogie)|Funk Kid feat. KOOL BOYS|127|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[Go West](/songs/go-west)|PET SHOP BOYS|120|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[HIGHER](/playstation-jp/4th/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[HIGHER (next morning mix)](/songs/higher-next-morning)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
+|[HIGHER (next morning mix)](/playstation2-jp/max2/higher-next-morning)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
 |[HIGHS OFF U (Scorccio XY Mix)](/playstation2-jp/max/highs-off-u)|4 REEEL|130|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
-|[i feel...](/songs/i-feel)|AKIRA YAMAOKA|141|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,9" charts="1,2,3"}|
+|[i feel...](/playstation2-jp/max2/i-feel)|AKIRA YAMAOKA|141|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,9" charts="1,2,3"}|
 |[I'M FOR REAL](/playstation2-us/max/im-for-real)|SLAKE|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[JANEJANA](/songs/jane-jana)|T.E.M.P.O. feat. Mohammed&Emi|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[JET WORLD](/songs/jet-world)|Mutsuhiko Izumi|138|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
@@ -77,17 +77,17 @@ difficulties:
 |[Simply Being Loved "Somnambulist"](/songs/simply-being-loved)|BT|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[SO IN LOVE](/playstation2-jp/max/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[The legend of MAX](/songs/the-legend-of-max)|ZZ|83-333|:charts{:difficulties="difficulties" levels="3,6,9,10+" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,10+" charts="1,2,3"}|
-|[THE REFLEX](/songs/the-reflex)|DURAN DURAN|126|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
+|[THE REFLEX](/playstation2-jp/max2/the-reflex)|DURAN DURAN|126|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[THEME FROM ENTER THE DRAGON (notorious mix)](/playstation-jp/extra/theme-from-enter-the-dragon)|B3-PROJECT|142|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
 |[THERE YOU'LL BE](/songs/there-you-ll-be)|DJ SPEEDO feat. ANGELICA|172|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,8" charts="1,2,3"}|
 |[TRIP MACHINE](/playstation-jp/1st/trip-machine)|DE-SIRE|160|:charts{:difficulties="difficulties" levels="1,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,8" charts="1,2,3"}|
 |[TRIP MACHINE survivor](/songs/trip-machine-survivor)|DE-SIRE|170|:charts{:difficulties="difficulties" levels="1,5,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
-|[TSUGARU](/songs/tsugaru)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
-|[TSUGARU (APPLE MIX)](/songs/tsugaru-apple)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
+|[TSUGARU](/playstation2-jp/max2/tsugaru)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
+|[TSUGARU (APPLE MIX)](/playstation2-jp/max2/tsugaru-apple)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="9" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
 |[V (for EXTREME)](/songs/v)|TAKA|150|:charts{:difficulties="difficulties" levels="1,4,6,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,5,8,9" charts="1,2,3,4"}|
 |[WAITING FOR TONIGHT](/songs/waiting-for-tonight)|P.A.T|125|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[WILD RUSH](/playstation-jp/extra/wild-rush)|FACTOR-X|80-180|:charts{:difficulties="difficulties" levels="2,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[WILD RUSH (FROM NONSTOP MEGAMIX)](/songs/wild-rush-from-nonstop)|FACTOR-X|125|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
+|[WILD RUSH (FROM NONSTOP MEGAMIX)](/playstation2-jp/max2/wild-rush-from-nonstop)|FACTOR-X|125|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
 |[WONDERLAND (UKS MIX)](/playstation-jp/3rd/wonderland)|X-TREME|128|:charts{:difficulties="difficulties" levels="1,5,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[Y.M.C.A.](/songs/ymca)|VILLAGE PEOPLE|130|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
 |[You're Not Here](/songs/you-re-not-here)|Heather|70-138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|

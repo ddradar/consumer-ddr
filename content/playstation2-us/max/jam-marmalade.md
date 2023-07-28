@@ -1,12 +1,3 @@
----
-slug: "jam-marmalade"
-name: "Jam & Marmalade"
-artist: "Final Offset"
-from: "beatmania III"
-bpm: 145
-series:
----
-
 # Jam & Marmalade / Final Offset
 
 |Artist|BPM|From|
@@ -16,7 +7,7 @@ series:
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
-- "max2-jp"
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 -DanceDanceRevolution 7thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max2)
 - "max2-us"
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 

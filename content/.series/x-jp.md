@@ -84,7 +84,7 @@ difficulties:
 |[PARANOiA KCET \~clean mix\~](/playstation-jp/1st/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="4,8,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,10" charts="1,2,3"}|
 |[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="5,9,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,11" charts="1,2,3"}|
 |[PARANOiA MAX \~DIRTY MIX\~ (SMM-Special)](/playstation-jp/1st/paranoia-max)|190|95-380|:charts{:difficulties="difficulties" levels="18" charts="4"}|:charts{:difficulties="difficulties" levels="18" charts="4"}|
-|[PARANOIA survivor](/songs/paranoia-survivor)|270|135-270|:charts{:difficulties="difficulties" levels="4,9,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,14" charts="1,2,3"}|
+|[PARANOIA survivor](/playstation2-jp/max2/paranoia-survivor)|270|135-270|:charts{:difficulties="difficulties" levels="4,9,11,14" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,14" charts="1,2,3"}|
 |[PARANOIA survivor MAX](/songs/paranoia-survivor-max)|290|145-290|:charts{:difficulties="difficulties" levels="5,9,11,15,16" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,11,15,16" charts="1,2,3,4"}|
 |[PARANOiA-Respect-](/playstation2-jp/party/paranoia-respect)|.3k|300|:charts{:difficulties="difficulties" levels="5,11,12,16" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,12,15" charts="1,2,3"}|
 |[SEXY PLANET](/playstation-jp/tkd/sexy-planet)|Crystal Aliens|180|:charts{:difficulties="difficulties" levels="3,7,8,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|

@@ -84,7 +84,7 @@ difficulties:
 |[KI・SE・KI (DDR edit)](/songs/ki-se-ki)|BeForU|155|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[Knock Out Regrets](/songs/knock-out-regrets)|MAKI@TOGO.BAND|180|:charts{:difficulties="difficulties" levels="2,4,6,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,8,9" charts="1,2,3,4"}|
 |[Love Is Dreaminess](/songs/love-is-dreaminess)|L.E.D.-G vs GUHROOVY fw/ Asuka|178|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
-|[LOVE♥SHINE](/songs/love-shine)|RIYU KOSAKA|177|:charts{:difficulties="difficulties" levels="1,4,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
+|[LOVE♥SHINE](/playstation2-jp/max2/love-shine)|RIYU KOSAKA|177|:charts{:difficulties="difficulties" levels="1,4,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
 |[MATSURI (J-SUMMER MIX)](/songs/matsuri-j-summer)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="2,4,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[MIDNIGHT SPECIAL](/songs/midnight-special)|Love Machineguns|182|:charts{:difficulties="difficulties" levels="2,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[Monkey Punk](/songs/monkey-punk)|Big Idea|180|:charts{:difficulties="difficulties" levels="2,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
