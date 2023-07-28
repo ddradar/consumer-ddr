@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 5thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/5th)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
-- "max-jp"
+- [:icon{name="simple-icons:playstation2"} DDRMAX -DanceDanceRevolution 6thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max)
 - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)

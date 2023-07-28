@@ -50,7 +50,7 @@ difficulties:
 |[ONCE UPON A TIME (Jertz mix)](/songs/once-upon-a-time)|Mitsu-O! Summer2008|68|:charts{:difficulties="difficulties" levels="?,2,4,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,4,6" charts="0,1,2,3"}|
 |[Your Angel](/songs/your-angel)|DM Ashura feat. kors k|175|:charts{:difficulties="difficulties" levels="?,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,5,8" charts="0,1,2,3"}|
 |[Concertino In Blue](/songs/concertino-in-blue)|Hirofumi Sasaki|103-155|:charts{:difficulties="difficulties" levels="?,4,8,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="?,4,8,9,10" charts="0,1,2,3,4"}|
-|[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="?,4,6,7,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="?,4,5,8,9" charts="0,1,2,3,4"}|
+|[Kind Lady](/playstation2-jp/max/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="?,4,6,7,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="?,4,5,8,9" charts="0,1,2,3,4"}|
 |[MATSURI JAPAN](/playstation-jp/5th/matsuri-japan)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="?,4,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|
 |[Doki Doki (Panik Mix)](/songs/doki-doki)|SMiLE.dk|175|:charts{:difficulties="difficulties" levels="?,4,7,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="?,3,7,9,9" charts="0,1,2,3,4"}|
 |[Burn Out](/songs/burn-out)|Beatdrop|136|:charts{:difficulties="difficulties" levels="?,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,2,4,7" charts="0,1,2,3"}|

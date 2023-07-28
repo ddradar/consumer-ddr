@@ -40,13 +40,13 @@ difficulties:
 |[DROP THE BOMB](/playstation-jp/3rd/drop-the-bomb)|Scotty D.|150|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,6" charts="1,2,3"}|
 |[ECSTASY](/playstation-jp/5th/ecstasy)|d-complex|145|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[ECSTASY (midnight blue mix)](/songs/ecstasy-midnight-blue)|d-complex|145|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
-|[Firefly](/songs/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[Firefly](/playstation2-jp/max/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Frozen Ray ~for EXTREME~](/songs/frozen-ray)|dj TAKA|156|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Funk Boogie](/songs/funk-boogie)|Funk Kid feat. KOOL BOYS|127|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[Go West](/songs/go-west)|PET SHOP BOYS|120|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[HIGHER](/playstation-jp/4th/higher)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[HIGHER (next morning mix)](/songs/higher-next-morning)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
-|[HIGHS OFF U (Scorccio XY Mix)](/songs/highs-off-u)|4 REEEL|130|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[HIGHS OFF U (Scorccio XY Mix)](/playstation2-jp/max/highs-off-u)|4 REEEL|130|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[i feel...](/songs/i-feel)|AKIRA YAMAOKA|141|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,9" charts="1,2,3"}|
 |[I'M FOR REAL](/songs/im-for-real)|SLAKE|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[JANEJANA](/songs/jane-jana)|T.E.M.P.O. feat. Mohammed&Emi|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -61,7 +61,7 @@ difficulties:
 |[MAKE IT BETTER](/playstation-jp/1st/make-it-better)|mitsu-O!|118|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,7" charts="1,2,3"}|
 |[MAXIMIZER](/songs/maximizer)|CLI-MAX S.|190|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
 |[MEMORIES](/songs/memories)|NAOKI Feat.PAULA TERRY|145|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
-|[MIRACLE](/songs/miracle)|ST.JENNARO|128|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[MIRACLE](/playstation2-jp/max/miracle)|ST.JENNARO|128|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[MOBO★MOGA](/songs/mobo-moga)|Orange Lounge|172|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Move Your Feet](/songs/move-your-feet)|Junior Senior|118|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Music (Bostik Radio Edit)](/songs/music-bostik)|Darude|138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
@@ -75,7 +75,7 @@ difficulties:
 |[Planet Rock (Swordfish Radio Edit)](/songs/planet-rock)|Paul Oakenfold vs. Afrika Bambaata and the Soul Sonic Force|126|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[Scorching Moon](/songs/scorching-moon)|Shawn the Horny Master|125|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Simply Being Loved "Somnambulist"](/songs/simply-being-loved)|BT|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
-|[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[SO IN LOVE](/playstation2-jp/max/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[The legend of MAX](/songs/the-legend-of-max)|ZZ|83-333|:charts{:difficulties="difficulties" levels="3,6,9,10+" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,10+" charts="1,2,3"}|
 |[THE REFLEX](/songs/the-reflex)|DURAN DURAN|126|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[THEME FROM ENTER THE DRAGON (notorious mix)](/playstation-jp/extra/theme-from-enter-the-dragon)|B3-PROJECT|142|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|

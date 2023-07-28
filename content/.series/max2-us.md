@@ -31,22 +31,22 @@ difficulties:
 |[DREAM A DREAM](/playstation-jp/4th/dream-a-dream)|CAPTAIN JACK|141|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[DRIFTING AWAY](/songs/drifting-away)|LANGE feat. SKYE|136|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Get Down Tonight](/songs/get-down-tonight)|KC & THE SUNSHINE BAND|106-120|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
-|[GHOSTS (VINCENT DE MOOR REMIX)](/songs/ghosts)|TENTH PLANET|138|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[GHOSTS (VINCENT DE MOOR REMIX)](/playstation2-jp/max/ghosts)|TENTH PLANET|138|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[Heaven](/songs/heaven)|DJ Sammy & Yanou featuring DO|138|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[i feel...](/songs/i-feel)|AKIRA YAMAOKA|141|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,9" charts="1,2,3"}|
 |[IN THE NAVY '99 (XXL Disaster Remix)](/playstation-jp/2nd/in-the-navy)|CAPTAIN JACK|135|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[Keep On Liftin'](/songs/keep-on-liftin)|dj nagureo|100|:charts{:difficulties="difficulties" levels="1,3,5,5" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
-|[LET'S GROOVE](/songs/lets-groove)|TIPS & TRICKS VS WISDOME|65-130|:charts{:difficulties="difficulties" levels="1,2,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
+|[LET'S GROOVE](/playstation2-jp/max/lets-groove)|TIPS & TRICKS VS WISDOME|65-130|:charts{:difficulties="difficulties" levels="1,2,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[LONG TRAIN RUNNIN'](/songs/long-train-runnin-bus-stop)|BUS STOP|126|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Love At First Sight](/songs/love-at-first-sight)|Kylie Minogue|125|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,3,4" charts="1,2,3"}|
-|[LOVIN' YOU (ROB SEARLE CLUB MIX)](/songs/lovin-you)|VINYL BABY|139|:charts{:difficulties="difficulties" levels="1,2,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[LOVIN' YOU (ROB SEARLE CLUB MIX)](/playstation2-jp/max/lovin-you)|VINYL BABY|139|:charts{:difficulties="difficulties" levels="1,2,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[rain of sorrow](/songs/rain-of-sorrow)|NM feat. Ebony Fay|140|:charts{:difficulties="difficulties" levels="1,2,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
-|[SO DEEP (PERFECT SPHERE REMIX)](/songs/so-deep)|SILVERTEAR|140|:charts{:difficulties="difficulties" levels="1,3,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,9" charts="1,2,3"}|
+|[SO DEEP (PERFECT SPHERE REMIX)](/playstation2-jp/max/so-deep)|SILVERTEAR|140|:charts{:difficulties="difficulties" levels="1,3,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,9" charts="1,2,3"}|
 |[STILL IN MY HEART](/playstation-jp/5th/still-in-my-heart)|NAOKI|150|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[Take Me Away (into the night) (radio vocal)](/songs/take-me-away)|4 STRINGS|138|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[THE WHISTLE SONG (Blow My Whistle Baby)](/songs/the-whistle-song)|DJ ALIGATOR PROJECT|140|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[TSUGARU](/songs/tsugaru)|RevenG vs DE-SIRE|95-165|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,9" charts="1,2,3"}|
-|[TWILIGHT ZONE (R-C Extended Club MIX)](/songs/twilight-zone-rc-extended)|2 UNLIMITED|138|:charts{:difficulties="difficulties" levels="1,3,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[TWILIGHT ZONE (R-C Extended Club MIX)](/playstation2-jp/max/twilight-zone-rc-extended)|2 UNLIMITED|138|:charts{:difficulties="difficulties" levels="1,3,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[Will I?](/songs/will-i)|Ian Van Dahl|140|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[AM-3P](/playstation-jp/2nd/am-3p)|KTz|130|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[CELEBRATE NITE](/playstation-jp/tkd/celebrate-nite)|N.M.R.|144|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
@@ -55,7 +55,7 @@ difficulties:
 |[HYSTERIA](/playstation-jp/extra/hysteria)|NAOKI 190|190|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[I Was The One](/playstation-jp/5th/i-was-the-one)|good-cool|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[Jam & Marmalade](/songs/jam-marmalade)|Final Offset|145|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
+|[Kind Lady](/playstation2-jp/max/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[Secret Rendez-vous](/songs/secret-rendez-vous)|DIVAS|98|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[Silent Hill](/playstation-jp/3rd/silent-hill)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="1,2,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[Spin the disc](/songs/spin-the-disc)|good-cool|130|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|

@@ -26,7 +26,7 @@ difficulties:
 |[COME CLEAN](/songs/come-clean)|NM featuring Susan Z|108|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Dance, Dance](/songs/dance-dance)|Fall Out Boy|229|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,8" charts="1,2,3"}|
 |[Do You Want To](/songs/do-you-want-to)|Franz Ferdinand|123|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
-|[FRECKLES (KCP Re-Edit)](/songs/freckles)|TIGGY|150|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
+|[FRECKLES (KCP Re-Edit)](/playstation2-jp/max/freckles)|TIGGY|150|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[Funkytown](/songs/funkytown)|Lipps's, Inc|122|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[Girls Just Wanna Have Fun](/songs/girls-just-wanna-have-fun)|Cyndi Lauper|120|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[HEAVEN IS A PLACE ON EARTH (German Election Mix)](/songs/heaven-is-a-place-on-earth)|JULIA|140|:charts{:difficulties="difficulties" levels="1,4,6,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,8,9" charts="1,2,3,4"}|

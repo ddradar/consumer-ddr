@@ -24,7 +24,7 @@ difficulties:
 |[Remember You](/playstation-jp/extra/remember-you)|NM feat.Julie|105|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|
 |[BABY BABY GIMME YOUR LOVE](/playstation-jp/4th/baby-baby-gimme-your-love)|DIVAS|96|:charts{:difficulties="difficulties" levels="1,3,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
 |[CUTIE CHASER (MORNING MIX)](/playstation-jp/oha-sta/cutie-chaser-morning)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="3,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,4,4" charts="1,4,4"}|
-|[ORDINARY WORLD](/songs/ordinary-world)|AURORA featuring NAIMEE COLEMAN|139|:charts{:difficulties="difficulties" levels="1,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
+|[ORDINARY WORLD](/playstation2-jp/max/ordinary-world)|AURORA featuring NAIMEE COLEMAN|139|:charts{:difficulties="difficulties" levels="1,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[Let's talk it over](/playstation-jp/4th/lets-talk-it-over)|SHIN Murayama feat. Argie Phine|100|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|
 |[Look To The Sky](/playstation-jp/5th/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[PEACE-OUT](/songs/peace-out)|dj nagureo|133|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -44,7 +44,7 @@ difficulties:
 |[THE CUBE](/playstation-jp/5th/the-cube)|DJ SUWAMI|178|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[BRILLIANT 2U (Orchestra-Groove)](/playstation-jp/2nd/brilliant-2u-orchestra-groove)|NAOKI|150|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[BROKEN MY HEART](/playstation-jp/extra/broken-my-heart)|NAOKI feat.PAULA TERRY|160|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
-|[exotic ethnic](/songs/exotic-ethnic)|RevenG|190|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[exotic ethnic](/playstation2-jp/max/exotic-ethnic)|RevenG|190|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[MATSURI JAPAN](/playstation-jp/5th/matsuri-japan)|RE-VENGE|180|:charts{:difficulties="difficulties" levels="4,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Sandstorm](/songs/sandstorm)|Darude|136|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Stomp to my beat](/playstation-jp/2nd/stomp-to-my-beat)|JS16|134|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
@@ -57,8 +57,8 @@ difficulties:
 |[Healing Vision (Angelic mix)](/playstation-jp/5th/healing-vision-angelic)|2MB|46-196|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[PARANOIA EVOLUTION](/playstation-jp/extra/paranoia-evolution)|200|200|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[ORION.78 (civilization mix)](/playstation-jp/4th/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
-|[CANDY☆](/songs/candy-star)|Luv UNLIMITED|192|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
-|[MAX 300](/songs/max-300)|Ω|300|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
+|[CANDY☆](/playstation2-jp/max/candy-star)|Luv UNLIMITED|192|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
+|[MAX 300](/playstation2-jp/max/max-300)|Ω|300|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
 |[5.1.1.](/playstation-jp/club-vol1/5-1-1)|dj nagureo|101|:charts{:difficulties="difficulties" levels="1,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,5" charts="1,2,5"}|
 |[Abyss](/playstation-jp/5th/abyss)|dj TAKA|142|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[GAMBOL](/playstation-jp/club-vol1/gambol)|SLAKE|102|:charts{:difficulties="difficulties" levels="1,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,7" charts="1,2,5"}|
@@ -74,13 +74,13 @@ difficulties:
 |[Jam & Marmalade](/songs/jam-marmalade)|Final Offset|145|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[Let the beat hit em! (BM IIDX version)](/playstation-jp/extra/let-the-beat-hit-em-bm)|Stone Bros.|110|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Look To The Sky (True Color Mix)](/songs/look-to-the-sky-true-color)|System S.F. feat. Anna|140|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[SO IN LOVE](/songs/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[true... (Trance Sunrise Mix)](/songs/true-trance)|RIYU KOSAKA|140|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[SO IN LOVE](/playstation2-jp/max/so-in-love)|Caramel.S|112|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[true... (Trance Sunrise Mix)](/playstation2-jp/max/true-trance)|RIYU KOSAKA|140|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[celebrate](/playstation-jp/club-vol1/celebrate)|JJ COMPANY|134|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,8,8" charts="1,2,5"}|
 |[Do It Right (Harmonized 2Step Mix)](/songs/do-it-right-harmonized-2step)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Get me in your sight \~AMD CANCUN MIX\~](/playstation-jp/4th/get-me-in-your-sight)|SYMPHONIC DEFOGGERS with 1479|127|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[Healing Vision](/playstation-jp/5th/healing-vision)|DE-SIRE|49-196|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
-|[Kind Lady](/songs/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
+|[Kind Lady](/playstation2-jp/max/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[LOGICAL DASH](/songs/logical-dash)|dj TAKA|144|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Holic](/playstation-jp/4th/holic)|TaQ|155|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[MY SUMMER LOVE](/playstation-jp/4th/my-summer-love)|mitsu-O! with GEILA|100|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|

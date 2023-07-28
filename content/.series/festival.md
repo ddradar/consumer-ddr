@@ -42,7 +42,7 @@ difficulties:
 |[Don't Stop! (AMD 2nd MIX)](/playstation-jp/4th/dont-stop)|Dr. VIBE feat. JP Miles|130|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[Electro Tuned (the SubS mix)](/playstation-jp/5th/electro-tuned)|TaQ|125|:charts{:difficulties="difficulties" levels="1,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[era (nostalmix)](/playstation-jp/4th/era)|TaQ|90-180|:charts{:difficulties="difficulties" levels="2,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[Firefly](/songs/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[Firefly](/playstation2-jp/max/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Funk Boogie](/songs/funk-boogie)|Funk Kid feat. KOOL BOYS|127|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/playstation-jp/3rd/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[Holic](/playstation-jp/4th/holic)|TaQ|155|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
