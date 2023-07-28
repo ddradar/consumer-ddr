@@ -35,4 +35,4 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution SuperNOVA2 (US)](/series/nova2-us)の :badge[DOUBLE/EXPERT]{type="success"}譜面はラストの渡りに同時押しがない。
+- [Dance Dance Revolution SuperNOVA2 (US)](/playstation2-us/supernova2)の :badge[DOUBLE/EXPERT]{type="success"}譜面はラストの渡りに同時押しがない。

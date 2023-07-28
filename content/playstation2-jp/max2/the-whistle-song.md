@@ -23,4 +23,4 @@
 
 ## メモ
 
-- [DDRMAX2 Dance Dance Revolution](/series/max2-us)では、「THE WHISTLE SONG (Blow My Whistle Baby)」という楽曲名で収録されている。
+- [DDRMAX2 Dance Dance Revolution](/playstation2-us/max2)では、「THE WHISTLE SONG (Blow My Whistle Baby)」という楽曲名で収録されている。
