@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution EXTRA MIX :icon{name="flag:jp-4x3"}](/playstation-jp/extra)
-- "disney-us"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution Disney MIX :icon{name="flag:us-4x3"}](/playstation-us/disney)
 - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
 
 ## 譜面一覧

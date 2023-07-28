@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 4thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/4th)
-- "disney-us"
+- [:icon{name="simple-icons:playstation"} Dance Dance Revolution Disney MIX :icon{name="flag:us-4x3"}](/playstation-us/disney)
 - "max-jp"
 - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
 - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
