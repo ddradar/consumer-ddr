@@ -1,22 +1,12 @@
----
-slug: "sandstorm"
-name: "Sandstorm"
-artist: "Darude"
-from: "Sandstorm"
-bpm: 136
-series:
-  - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Sandstorm / Darude
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Darude|136|Sandstorm|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 
 ## 譜面一覧
 

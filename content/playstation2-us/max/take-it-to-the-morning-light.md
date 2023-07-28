@@ -1,22 +1,12 @@
----
-slug: "take-it-to-the-morning-light"
-name: "Take It To The Morning Light (Extended Vocal)"
-artist: "Golden Gate"
-from: "Take It To The Morning Light"
-bpm: 129
-series:
-  - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Take It To The Morning Light (Extended Vocal) / Golden Gate
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Golden Gate|129|Take It To The Morning Light|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 
 ## 譜面一覧
 

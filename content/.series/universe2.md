@@ -89,7 +89,7 @@ difficulties:
 |[NEMESIS](/songs/nemesis)|D.J. SETUP|144|:charts{:difficulties="difficulties" levels="?,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|
 |[potpourri d'orange](/songs/potpourri-d-orange)|Orange Lounge|169-175|:charts{:difficulties="difficulties" levels="?,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|
 |[Senses](/songs/senses)|JT.1UP|120|:charts{:difficulties="difficulties" levels="?,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,4,6" charts="0,1,2,3"}|
-|[Spin the Disc](/songs/spin-the-disc)|good-cool|130|:charts{:difficulties="difficulties" levels="?,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,5,8" charts="0,1,2,3"}|
+|[Spin the Disc](/playstation2-us/max/spin-the-disc)|good-cool|130|:charts{:difficulties="difficulties" levels="?,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,5,8" charts="0,1,2,3"}|
 |[What Is Love?](/songs/what-is-love)|TOMOSUKE|130|:charts{:difficulties="difficulties" levels="?,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,5,7" charts="0,1,2,3"}|
 |[Funky House Mix](/songs/funky-house-mix)|DJ Diode|130|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|
 |[Progressive Mix](/songs/progressive-mix)|DJ Kale|136|:charts{:difficulties="difficulties" levels="?,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,7" charts="0,1,2,3"}|

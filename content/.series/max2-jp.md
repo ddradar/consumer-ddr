@@ -38,9 +38,9 @@ difficulties:
 |[MAXIMUM OVERDRIVE (KC Club Mix)](/songs/maximum-overdrive)|2 UNLIMITED|140|:charts{:difficulties="difficulties" levels="2,4,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,5,8" charts="1,2,3"}|
 |[NOTHING GONNA STOP (Dance Mania Mix)](/songs/nothing-gonna-stop)|MICKY|145|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,7" charts="1,2,3"}|
 |[rain of sorrow](/songs/rain-of-sorrow)|NM feat. Ebony Fay|140|:charts{:difficulties="difficulties" levels="2,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
-|[Secret Rendez-vous](/songs/secret-rendez-vous)|DIVAS|98|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
+|[Secret Rendez-vous](/playstation2-us/max/secret-rendez-vous)|DIVAS|98|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[SO FABULOUS SO FIERCE (FREAK OUT)](/songs/so-fabulous-so-fierce)|THUNDERPUSS feat. JOCELYN ENRIQUEZ|128|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
-|[Spin the disc](/songs/spin-the-disc)|good-cool|130|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[Spin the disc](/playstation2-us/max/spin-the-disc)|good-cool|130|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[STAY](/songs/stay)|TESS|140|:charts{:difficulties="difficulties" levels="2,5,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,9" charts="1,2,3"}|
 |[Sweet Sweet ♥ Magic](/songs/sweet-sweet-love-magic)|jun|180|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,9" charts="1,2,3"}|
 |[THE REFLEX](/songs/the-reflex)|DURAN DURAN|126|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
@@ -77,20 +77,20 @@ difficulties:
 |[AM-3P (303 BASS MIX)](/playstation-us/konamix/am-3p-303-bass)|KTz (remixed by U1)|130|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,7" charts="1,2,3"}|
 |[CRASH!](/songs/crash)|mr. BRAIN & THE FINAL BAND|200|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[CUTIE CHASER (MORNING MIX)](/playstation-jp/oha-sta/cutie-chaser-morning)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="2,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
-|[Do It Right (Harmonized 2Step Mix)](/songs/do-it-right-harmonized-2step)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[DROP THE BOMB -System S.F. Mix-](/songs/drop-the-bomb-sysf)|Scotty D.|150|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
-|[DYNAMITE RAVE -Down Bird SOTA Mix-](/songs/dynamite-rave-down-bird-sota)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[Look To The Sky (True Color Mix)](/songs/look-to-the-sky-true-color)|System S.F. feat. Anna|140|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[Do It Right (Harmonized 2Step Mix)](/playstation2-us/max/do-it-right-harmonized-2step)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[DROP THE BOMB -System S.F. Mix-](/playstation2-us/max/drop-the-bomb-sysf)|Scotty D.|150|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
+|[DYNAMITE RAVE -Down Bird SOTA Mix-](/playstation2-us/max/dynamite-rave-down-bird-sota)|NAOKI|150|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[Look To The Sky (True Color Mix)](/playstation2-us/max/look-to-the-sky-true-color)|System S.F. feat. Anna|140|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[LOVE ♥ SHINE](/songs/love-shine)|小坂りゆ|177|:charts{:difficulties="difficulties" levels="4,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
 |[Do It Right (80's Electro Mix)](/songs/do-it-right-80s-electro)|SOTA feat. Ebony Fay|135|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
-|[I'M FOR REAL](/songs/im-for-real)|SLAKE|140|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
-|[Jam & Marmalade](/songs/jam-marmalade)|Final Offset|145|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[I'M FOR REAL](/playstation2-us/max/im-for-real)|SLAKE|140|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
+|[Jam & Marmalade](/playstation2-us/max/jam-marmalade)|Final Offset|145|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[Kind Lady (interlude)](/songs/kind-lady-interlude)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="8" charts="4"}|:charts{:difficulties="difficulties" levels="8" charts="4"}|
-|[LOGICAL DASH](/songs/logical-dash)|dj TAKA|144|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[LOGICAL DASH](/playstation2-us/max/logical-dash)|dj TAKA|144|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Look To The Sky (Trance Mix)](/songs/look-to-the-sky-trance)|System S.F. feat. Anna|140|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
-|[OVERBLAST!!](/songs/overblast)|L.E.D. LIGHT|147|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
-|[PEACE-OUT](/songs/peace-out)|dj nagureo|133|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[THE SHINING POLARIS](/songs/the-shining-polaris)|L.E.D. feat. Sana|147|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[OVERBLAST!!](/playstation2-us/max/overblast)|L.E.D. LIGHT|147|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[PEACE-OUT](/playstation2-us/max/peace-out)|dj nagureo|133|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[THE SHINING POLARIS](/playstation2-us/max/the-shining-polaris)|L.E.D. feat. Sana|147|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[革命](/songs/kakumei)|dj TAKA with NAOKI|83-148|:charts{:difficulties="difficulties" levels="4,6,9,8" charts="1,2,3,4"}|:charts{:difficulties="difficulties" levels="3,5,9,8" charts="1,2,3,4"}|
 |[MAXX UNLIMITED](/songs/maxx-unlimited)|Z|0-320|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|
 |[PARANOIA survivor](/songs/paranoia-survivor)|270|135-270|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,10" charts="1,2,3"}|

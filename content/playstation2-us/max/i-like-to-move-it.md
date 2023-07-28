@@ -1,22 +1,12 @@
----
-slug: "i-like-to-move-it"
-name: "I Like To Move It"
-artist: "Reel 2 Real"
-from: "I Like To Move It"
-bpm: 123
-series:
-  - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# I Like To Move It / Reel 2 Real
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Reel 2 Real|123|I Like To Move It|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 
 ## 譜面一覧
 

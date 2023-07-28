@@ -54,13 +54,13 @@ difficulties:
 |[Groove](/playstation-jp/4th/groove)|Sho-T feat. Blenda|130|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[HYSTERIA](/playstation-jp/extra/hysteria)|NAOKI 190|190|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[I Was The One](/playstation-jp/5th/i-was-the-one)|good-cool|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
-|[Jam & Marmalade](/songs/jam-marmalade)|Final Offset|145|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
+|[Jam & Marmalade](/playstation2-us/max/jam-marmalade)|Final Offset|145|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[Kind Lady](/playstation2-jp/max/kind-lady)|OKUYATOS|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
-|[Secret Rendez-vous](/songs/secret-rendez-vous)|DIVAS|98|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
+|[Secret Rendez-vous](/playstation2-us/max/secret-rendez-vous)|DIVAS|98|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[Silent Hill](/playstation-jp/3rd/silent-hill)|THOMAS HOWARD|125|:charts{:difficulties="difficulties" levels="1,2,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
-|[Spin the disc](/songs/spin-the-disc)|good-cool|130|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[Spin the disc](/playstation2-us/max/spin-the-disc)|good-cool|130|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[SUPER STAR](/playstation-jp/extra/super-star)|D.J. RICH feat. Tail Bros.|128|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[THE SHINING POLARIS](/songs/the-shining-polaris)|L.E.D. feat. Sana|147|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[THE SHINING POLARIS](/playstation2-us/max/the-shining-polaris)|L.E.D. feat. Sana|147|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[AFRONOVA](/playstation-jp/3rd/afronova)|RE-VENGE|200|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,9" charts="1,2,3"}|
 |[Bad Routine](/songs/bad-routine)|D.J. Spugna|130|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Burning Heat! (3 Option Mix)](/songs/burning-heat)|Mr. T with Motoaki F.|166|:charts{:difficulties="difficulties" levels="1,2,5,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,6,9" charts="1,2,3"}|

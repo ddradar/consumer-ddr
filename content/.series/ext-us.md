@@ -48,7 +48,7 @@ difficulties:
 |[HIGHER (next morning mix)](/songs/higher-next-morning)|NM feat. SUNNY|132|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
 |[HIGHS OFF U (Scorccio XY Mix)](/playstation2-jp/max/highs-off-u)|4 REEEL|130|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[i feel...](/songs/i-feel)|AKIRA YAMAOKA|141|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,9" charts="1,2,3"}|
-|[I'M FOR REAL](/songs/im-for-real)|SLAKE|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
+|[I'M FOR REAL](/playstation2-us/max/im-for-real)|SLAKE|140|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|
 |[JANEJANA](/songs/jane-jana)|T.E.M.P.O. feat. Mohammed&Emi|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[JET WORLD](/songs/jet-world)|Mutsuhiko Izumi|138|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[KEEP ON MOVIN'](/playstation-jp/2nd/keep-on-movin)|N.M.R.|132|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
@@ -70,7 +70,7 @@ difficulties:
 |[ONLY YOU](/playstation-jp/4th/only-you)|CAPTAIN JACK|93|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[PARANOiA ETERNAL](/playstation-jp/5th/paranoia-eternal)|STM 200|200|:charts{:difficulties="difficulties" levels="2,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,6,9" charts="1,2,3"}|
 |[PARANOiA MAX (DIRTY MIX)](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="2,6,8,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="7,8,9" charts="1,2,3"}|
-|[PEACE-OUT](/songs/peace-out)|dj nagureo|133|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
+|[PEACE-OUT](/playstation2-us/max/peace-out)|dj nagureo|133|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Pink Rose](/songs/pink-rose)|Kiyommy + Seiya|146|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Planet Rock (Swordfish Radio Edit)](/songs/planet-rock)|Paul Oakenfold vs. Afrika Bambaata and the Soul Sonic Force|126|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[Scorching Moon](/songs/scorching-moon)|Shawn the Horny Master|125|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|

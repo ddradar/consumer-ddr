@@ -35,5 +35,5 @@ series:
 
 1. [What Is Love?](/songs/what-is-love)
 1. [Lily Funk](/songs/lily-funk)
-1. [Spin the Disc](/songs/spin-the-disc)
+1. [Spin the Disc](/playstation2-us/max/spin-the-disc)
 1. [Rhythm Is Rhythm](/songs/rhythm-is-rhythm)
