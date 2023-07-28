@@ -12,7 +12,7 @@
 - [:icon{name="simple-icons:sega"} Dance Dance Revolution CLUB VERSION Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/club)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 - [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB](/gameboy/1st)
-- "oha"
+- [:icon{name="simple-icons:playstation"} おはスタ Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation-jp/oha-sta)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution BEST HITS :icon{name="flag:jp-4x3"}](/playstation-jp/best)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation-us/1st)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)

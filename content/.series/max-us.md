@@ -23,7 +23,7 @@ difficulties:
 |----|------|---|------|------|
 |[Remember You](/playstation-jp/extra/remember-you)|NM feat.Julie|105|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="1,3,5" charts="1,2,3"}|
 |[BABY BABY GIMME YOUR LOVE](/playstation-jp/4th/baby-baby-gimme-your-love)|DIVAS|96|:charts{:difficulties="difficulties" levels="1,3,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,6" charts="1,2,3"}|
-|[CUTIE CHASER (MORNING MIX)](/songs/cutie-chaser-morning)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="3,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,4,4" charts="1,4,4"}|
+|[CUTIE CHASER (MORNING MIX)](/playstation-jp/oha-sta/cutie-chaser-morning)|CLUB SPICE|126|:charts{:difficulties="difficulties" levels="3,3,5" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,4,4" charts="1,4,4"}|
 |[ORDINARY WORLD](/songs/ordinary-world)|AURORA featuring NAIMEE COLEMAN|139|:charts{:difficulties="difficulties" levels="1,4,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[Let's talk it over](/playstation-jp/4th/lets-talk-it-over)|SHIN Murayama feat. Argie Phine|100|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,4,7" charts="1,2,3"}|
 |[Look To The Sky](/playstation-jp/5th/look-to-the-sky)|System S.F. feat. ANNA|140|:charts{:difficulties="difficulties" levels="3,4,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|

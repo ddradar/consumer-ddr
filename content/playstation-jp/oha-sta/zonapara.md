@@ -1,33 +1,23 @@
----
-slug: "zonapara"
-name: "ゾナパラ [WHY! パラパラ・リミックス]"
-artist: "ゾベッカ"
-from: "象南波羅～ゾナパラ～WHY!パラパラ・リミックス"
-bpm: 158
-series:
-  - "oha"
-  - "oha-gb"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# ゾナパラ [WHY! パラパラ・リミックス] / ゾベッカ
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|ゾベッカ|158|象南波羅～ゾナパラ～WHY!パラパラ・リミックス|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation"} おはスタ Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation-jp/oha-sta)
+- [:icon{name="simple-icons:nintendo"} おはスタ Dance Dance Revolution GB](/gameboy/oha-sta)
 
 ## 譜面一覧
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BASIC (EASY/NORMAL)]{type="warning"}| :levels{links="/playstation-jp/oha-sta" level="1"} :level{slug="oha-gb" level=1}|59/0||
+|SINGLE| :badge[BASIC (EASY/NORMAL)]{type="warning"}| :levels{links="/playstation-jp/oha-sta,/gameboy/oha-sta" level="1"}|59/0||
 |SINGLE| :badge[ANOTHER (EASY)]{type="danger"}| :levels{links="/playstation-jp/oha-sta" level="3"}|153/0||
-|SINGLE| :badge[ANOTHER]{type="danger"}| :levels{links="/playstation-jp/oha-sta" level="4"} :level{slug="oha-gb" level=4}|165/0||
+|SINGLE| :badge[ANOTHER]{type="danger"}| :levels{links="/playstation-jp/oha-sta,/gameboy/oha-sta" level="4"}|165/0||
 |SINGLE| :badge[MANIAC (EASY)]{type="success"}| :levels{links="/playstation-jp/oha-sta" level="4"}|172/0||
-|SINGLE| :badge[MANIAC]{type="success"}| :levels{links="/playstation-jp/oha-sta" level="6"} :level{slug="oha-gb" level=6}|194/0||
+|SINGLE| :badge[MANIAC]{type="success"}| :levels{links="/playstation-jp/oha-sta,/gameboy/oha-sta" level="6"}|194/0||
 |DOUBLE| :badge[BASIC (EASY)]{type="warning"}| :levels{links="/playstation-jp/oha-sta" level="4"}|152/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/oha-sta" level="6"}|164/0||
 |UNISON| :badge[BASIC (EASY)]{type="warning"}| :levels{links="/playstation-jp/oha-sta" level="1"}|||
