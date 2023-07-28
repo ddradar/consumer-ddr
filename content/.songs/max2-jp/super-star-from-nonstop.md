@@ -23,5 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="7"} :levels{links="/playstation2-us/max2" level="7"}</div>|282/8||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="7"} :levels{links="/playstation2-us/max2" level="7"}</div>|281/8||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/max2" level="7"} :levels{links="/playstation2-us/max2" level="7"}|282/8||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/max2" level="7"} :levels{links="/playstation2-us/max2" level="7"}|281/8||

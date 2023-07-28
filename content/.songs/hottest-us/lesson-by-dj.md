@@ -25,5 +25,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=1} :level{slug="hottest-jp" level=1} :level{slug="furufuru" level=1} :levels{links="/wii-jp/music-fit" level="1"}</div>|58/1||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=1} :level{slug="hottest-jp" level=1} :level{slug="furufuru" level=1}</div>|58/1||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/hottest-us" level="1"} :levels{links="/hottest-jp" level="1"} :levels{links="/furufuru" level="1"} :levels{links="/wii-jp/music-fit" level="1"}|58/1||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/hottest-us" level="1"} :levels{links="/hottest-jp" level="1"} :levels{links="/furufuru" level="1"}|58/1||

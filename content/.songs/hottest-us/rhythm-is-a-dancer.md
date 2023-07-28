@@ -22,7 +22,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=1}</div>|86/1||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=4}</div>|139/7||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=6}</div>|223/3||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=8}</div>|310/10||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/hottest-us" level="1"}|86/1||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/hottest-us" level="4"}|139/7||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/hottest-us" level="6"}|223/3||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/hottest-us" level="8"}|310/10||

@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=1}</div>|70/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=3}</div>|130/2||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=5}</div>|189/1||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=6}</div>|248/3||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=3}</div>|121/4||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=4}</div>|175/4||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=6}</div>|253/1||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/nova-jp" level="1"}|70/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/nova-jp" level="3"}|130/2||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/nova-jp" level="5"}|189/1||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/nova-jp" level="6"}|248/3||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/nova-jp" level="3"}|121/4||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/nova-jp" level="4"}|175/4||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/nova-jp" level="6"}|253/1||

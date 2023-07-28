@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/supernova2" level="1"}</div>|52/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/supernova2" level="3"}</div>|129/4||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/supernova2" level="5"}</div>|170/17||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/supernova2" level="7"}</div>|254/32||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/supernova2" level="3"}</div>|119/3||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/supernova2" level="5"}</div>|176/19||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/supernova2" level="7"}</div>|279/22||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/supernova2" level="1"}|52/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/supernova2" level="3"}|129/4||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/supernova2" level="5"}|170/17||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/supernova2" level="7"}|254/32||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/supernova2" level="3"}|119/3||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/supernova2" level="5"}|176/19||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/supernova2" level="7"}|279/22||

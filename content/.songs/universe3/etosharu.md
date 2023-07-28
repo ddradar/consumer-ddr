@@ -22,13 +22,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="?"}</div>|84/3||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="3"}</div>|127/2||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="5"}</div>|246/6||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="7"}</div>|293/28||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="9"}</div>|374/36||
-|DOUBLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="?"}</div>|||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="3"}</div>|113/5||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="5"}</div>|234/17||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="7"}</div>|290/28||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe3" level="9"}</div>|374/34||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/xbox360-us/universe3" level="?"}|84/3||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/xbox360-us/universe3" level="3"}|127/2||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/xbox360-us/universe3" level="5"}|246/6||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/xbox360-us/universe3" level="7"}|293/28||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/xbox360-us/universe3" level="9"}|374/36||
+|DOUBLE| :badge[BEGINNER]{type="info"}| :levels{links="/xbox360-us/universe3" level="?"}|||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/xbox360-us/universe3" level="3"}|113/5||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/xbox360-us/universe3" level="5"}|234/17||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/xbox360-us/universe3" level="7"}|290/28||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/xbox360-us/universe3" level="9"}|374/34||

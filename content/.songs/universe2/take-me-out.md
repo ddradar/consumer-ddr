@@ -20,11 +20,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="?"}</div>|65/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="4"}</div>|177/2||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="6"}</div>|228/2||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="9"}</div>|396/1||
-|DOUBLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="?"}</div>|||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="4"}</div>|177/2||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="7"}</div>|232/2||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="9"}</div>|393/1||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/xbox360-us/universe2" level="?"}|65/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/xbox360-us/universe2" level="4"}|177/2||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/xbox360-us/universe2" level="6"}|228/2||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/xbox360-us/universe2" level="9"}|396/1||
+|DOUBLE| :badge[BEGINNER]{type="info"}| :levels{links="/xbox360-us/universe2" level="?"}|||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/xbox360-us/universe2" level="4"}|177/2||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/xbox360-us/universe2" level="7"}|232/2||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/xbox360-us/universe2" level="9"}|393/1||

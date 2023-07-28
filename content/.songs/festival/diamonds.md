@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="1"}</div>|104/1||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="4"}</div>|136/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="5"}</div>|197/0||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"}</div>|271/0||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="3"}</div>|148/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="6"}</div>|210/13||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="7"}</div>|278/7||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/festival" level="1"}|104/1||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/festival" level="4"}|136/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/festival" level="5"}|197/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/festival" level="7"}|271/0||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/festival" level="3"}|148/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/festival" level="6"}|210/13||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/festival" level="7"}|278/7||

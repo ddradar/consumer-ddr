@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol3" level=2}</div>|124/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol3" level=6}</div>|172/18||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol3" level=11}</div>|278/10||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol3" level=14}</div>|437/18||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol3" level=6}</div>|159/15||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol3" level=11}</div>|281/11||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol3" level=14}</div>|417/17||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/grand-prix-vol3" level="2"}|124/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol3" level="6"}|172/18||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol3" level="11"}|278/10||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol3" level="14"}|437/18||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol3" level="6"}|159/15||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol3" level="11"}|281/11||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol3" level="14"}|417/17||

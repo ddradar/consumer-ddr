@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=2}</div>|159/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=5}</div>|225/16||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=6}</div>|285/28||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=8}</div>|364/12||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=5}</div>|213/26||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=7}</div>|304/2||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=9}</div>|352/3||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/strike" level="2"}|159/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/strike" level="5"}|225/16||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/strike" level="6"}|285/28||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/strike" level="8"}|364/12||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/strike" level="5"}|213/26||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/strike" level="7"}|304/2||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/strike" level="9"}|352/3||

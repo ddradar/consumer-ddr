@@ -22,12 +22,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=3}</div>|88/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=7}</div>|208/9||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=11}</div>|292/50||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=15}</div>|440/33||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=18}</div>|733/72||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=7}</div>|204/14||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=11}</div>|292/26||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=15}</div>|437/29||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=18}</div>|643/101||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/touhou-vol2" level="3"}|88/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/touhou-vol2" level="7"}|208/9||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/touhou-vol2" level="11"}|292/50||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/touhou-vol2" level="15"}|440/33||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/touhou-vol2" level="18"}|733/72||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/touhou-vol2" level="7"}|204/14||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/touhou-vol2" level="11"}|292/26||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/touhou-vol2" level="15"}|437/29||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/touhou-vol2" level="18"}|643/101||

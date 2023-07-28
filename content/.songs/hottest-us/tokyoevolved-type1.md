@@ -24,13 +24,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=3} :level{slug="hottest-jp" level=3} :level{slug="grand-prix-vol2" level=6}</div>|123/1||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=7} :level{slug="hottest-jp" level=7} :level{slug="grand-prix-vol2" level=9}</div>|235/6||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=9} :level{slug="hottest-jp" level=9} :level{slug="grand-prix-vol2" level=13}</div>|361/15||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=10} :level{slug="hottest-jp" level=10} :level{slug="grand-prix-vol2" level=16}</div>|523/6||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol2" level=9}</div>|204/6||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol2" level=13}</div>|343/9||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol2" level=16}</div>|452/7||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/hottest-us" level="3"} :levels{links="/hottest-jp" level="3"} :levels{links="/grand-prix-vol2" level="6"}|123/1||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/hottest-us" level="7"} :levels{links="/hottest-jp" level="7"} :levels{links="/grand-prix-vol2" level="9"}|235/6||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/hottest-us" level="9"} :levels{links="/hottest-jp" level="9"} :levels{links="/grand-prix-vol2" level="13"}|361/15||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/hottest-us" level="10"} :levels{links="/hottest-jp" level="10"} :levels{links="/grand-prix-vol2" level="16"}|523/6||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol2" level="9"}|204/6||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol2" level="13"}|343/9||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol2" level="16"}|452/7||
 
 ## メモ
 

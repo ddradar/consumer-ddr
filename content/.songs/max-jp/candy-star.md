@@ -26,9 +26,9 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/supernova2,/windows/grand-prix" level="2,4"}|89/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="4,4,6"}</div>|170/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="5,5,7"}</div>|236/16||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="8,8,11"}</div>|327/29||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="4,4,5"}</div>|198/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="6,6,8"}</div>|207/27||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="9,9,11"}</div>|325/10||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="4,4,6"}|170/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="5,5,7"}|236/16||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="8,8,11"}|327/29||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="4,4,5"}|198/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="6,6,8"}|207/27||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max,/playstation2-jp/supernova2,/windows/grand-prix" level="9,9,11"}|325/10||

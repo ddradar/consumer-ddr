@@ -24,9 +24,9 @@ series:
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
 |SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/max2" level="1"}|92/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="3"}</div>|108/6||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="5"}</div>|216/8||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="9"}</div>|325/21||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="3"}</div>|150/5||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="5"}</div>|204/7||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="8"}</div>|290/5||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="3"}|108/6||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="5"}|216/8||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="9"}|325/21||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="3"}|150/5||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="5"}|204/7||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/max" level="?"} :levels{links="/playstation2-us/max2" level="8"}|290/5||

@@ -23,7 +23,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=2} :level{slug="hottest-jp" level=2}</div>|89/3||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=4} :level{slug="hottest-jp" level=4}</div>|146/7||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=5} :level{slug="hottest-jp" level=5}</div>|191/5||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=7} :level{slug="hottest-jp" level=7}</div>|330/8||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/hottest-us" level="2"} :levels{links="/hottest-jp" level="2"}|89/3||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/hottest-us" level="4"} :levels{links="/hottest-jp" level="4"}|146/7||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/hottest-us" level="5"} :levels{links="/hottest-jp" level="5"}|191/5||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/hottest-us" level="7"} :levels{links="/hottest-jp" level="7"}|330/8||

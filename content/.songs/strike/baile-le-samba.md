@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=1} :level{slug="nova-us" level=1} :levels{links="/playstation2-us/x2" level="1"}</div>|50/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=2} :level{slug="nova-us" level=2} :levels{links="/playstation2-us/x2" level="3"}</div>|55/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=6} :level{slug="nova-us" level=6} :levels{links="/playstation2-us/x2" level="10"}</div>|161/18||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=8} :level{slug="nova-us" level=8} :levels{links="/playstation2-us/x2" level="11"}</div>|215/23||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=3} :level{slug="nova-us" level=3} :levels{links="/playstation2-us/x2" level="3"}</div>|78/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=5} :level{slug="nova-us" level=5} :levels{links="/playstation2-us/x2" level="6"}</div>|131/0||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=7} :level{slug="nova-us" level=7} :levels{links="/playstation2-us/x2" level="10"}</div>|209/2||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/strike" level="1"} :levels{links="/nova-us" level="1"} :levels{links="/playstation2-us/x2" level="1"}|50/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/strike" level="2"} :levels{links="/nova-us" level="2"} :levels{links="/playstation2-us/x2" level="3"}|55/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/strike" level="6"} :levels{links="/nova-us" level="6"} :levels{links="/playstation2-us/x2" level="10"}|161/18||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/strike" level="8"} :levels{links="/nova-us" level="8"} :levels{links="/playstation2-us/x2" level="11"}|215/23||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/strike" level="3"} :levels{links="/nova-us" level="3"} :levels{links="/playstation2-us/x2" level="3"}|78/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/strike" level="5"} :levels{links="/nova-us" level="5"} :levels{links="/playstation2-us/x2" level="6"}|131/0||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/strike" level="7"} :levels{links="/nova-us" level="7"} :levels{links="/playstation2-us/x2" level="10"}|209/2||

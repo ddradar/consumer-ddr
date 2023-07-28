@@ -22,8 +22,8 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[イージー]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|49/0||
-|SINGLE| :badge[ノーマル]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|59/0||
-|SINGLE| :badge[ハード]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|145/0||
-|SINGLE| :badge[ベリーハード]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|186/0||
-|SINGLE| :badge[スーパーハード]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="mario-jp" level="?"}</div>|260/0||
+|SINGLE| :badge[イージー]{type="info"}| :levels{links="/mario-jp" level="?"}|49/0||
+|SINGLE| :badge[ノーマル]{type="warning"}| :levels{links="/mario-jp" level="?"}|59/0||
+|SINGLE| :badge[ハード]{type="danger"}| :levels{links="/mario-jp" level="?"}|145/0||
+|SINGLE| :badge[ベリーハード]{type="success"}| :levels{links="/mario-jp" level="?"}|186/0||
+|SINGLE| :badge[スーパーハード]{type="primary"}| :levels{links="/mario-jp" level="?"}|260/0||

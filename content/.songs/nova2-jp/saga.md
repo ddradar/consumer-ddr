@@ -24,10 +24,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/supernova2" level="2"} :level{slug="x-us" level=3} :level{slug="grand-prix-vol1" level=4}|137/0||
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2" level="5"} :level{slug="x-us" level=6} :level{slug="grand-prix-vol1" level=7}|208/12||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2" level="7"} :level{slug="x-us" level=9} :level{slug="grand-prix-vol1" level=10}|281/12||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2" level="9"} :level{slug="x-us" level=13} :level{slug="grand-prix-vol1" level=13}|317/17||
-|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2" level="4"} :level{slug="x-us" level=6} :level{slug="grand-prix-vol1" level=6}|209/3||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2" level="7"} :level{slug="x-us" level=9} :level{slug="grand-prix-vol1" level=11}|263/11||
-|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2" level="9"} :level{slug="x-us" level=12} :level{slug="grand-prix-vol1" level=13}|353/5||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/supernova2" level="2"} :levels{links="/x-us" level="3"} :levels{links="/grand-prix-vol1" level="4"}|137/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2" level="5"} :levels{links="/x-us" level="6"} :levels{links="/grand-prix-vol1" level="7"}|208/12||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2" level="7"} :levels{links="/x-us" level="9"} :levels{links="/grand-prix-vol1" level="10"}|281/12||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2" level="9"} :levels{links="/x-us" level="13"} :levels{links="/grand-prix-vol1" level="13"}|317/17||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/supernova2" level="4"} :levels{links="/x-us" level="6"} :levels{links="/grand-prix-vol1" level="6"}|209/3||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/supernova2" level="7"} :levels{links="/x-us" level="9"} :levels{links="/grand-prix-vol1" level="11"}|263/11||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/supernova2" level="9"} :levels{links="/x-us" level="12"} :levels{links="/grand-prix-vol1" level="13"}|353/5||

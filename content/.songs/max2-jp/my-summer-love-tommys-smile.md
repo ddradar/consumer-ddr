@@ -24,5 +24,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="7"} :levels{links="/playstation2-us/x2" level="12"}  :levels{links="/windows/grand-prix" level="12"}</div>|295/11||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="7"} :levels{links="/playstation2-us/x2" level="11"}  :levels{links="/windows/grand-prix" level="11"}</div>|283/5||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/max2" level="7"} :levels{links="/playstation2-us/x2" level="12"}  :levels{links="/windows/grand-prix" level="12"}|295/11||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/max2" level="7"} :levels{links="/playstation2-us/x2" level="11"}  :levels{links="/windows/grand-prix" level="11"}|283/5||

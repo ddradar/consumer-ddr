@@ -24,17 +24,17 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER (Wii)]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=2} :level{slug="hottest-jp" level=2}</div>|90/9||
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=2}</div>|72/10||
-|SINGLE| :badge[BASIC (Wii)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=4} :level{slug="hottest-jp" level=4}</div>|143/18||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=6}</div>|204/18||
-|SINGLE| :badge[DIFFICULT (Wii)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=7} :level{slug="hottest-jp" level=7}</div>|269/7||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=10}</div>|300/16||
-|SINGLE| :badge[EXPERT (Wii)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-us" level=9} :level{slug="hottest-jp" level=9}</div>|413/48||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=14}</div>|479/28||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=6}</div>|212/18||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=11}</div>|331/12||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=14}</div>|476/16||
+|SINGLE| :badge[BEGINNER (Wii)]{type="info"}| :levels{links="/hottest-us" level="2"} :levels{links="/hottest-jp" level="2"}|90/9||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/grand-prix-vol10" level="2"}|72/10||
+|SINGLE| :badge[BASIC (Wii)]{type="warning"}| :levels{links="/hottest-us" level="4"} :levels{links="/hottest-jp" level="4"}|143/18||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol10" level="6"}|204/18||
+|SINGLE| :badge[DIFFICULT (Wii)]{type="danger"}| :levels{links="/hottest-us" level="7"} :levels{links="/hottest-jp" level="7"}|269/7||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol10" level="10"}|300/16||
+|SINGLE| :badge[EXPERT (Wii)]{type="success"}| :levels{links="/hottest-us" level="9"} :levels{links="/hottest-jp" level="9"}|413/48||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol10" level="14"}|479/28||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol10" level="6"}|212/18||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol10" level="11"}|331/12||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol10" level="14"}|476/16||
 
 ## メモ
 

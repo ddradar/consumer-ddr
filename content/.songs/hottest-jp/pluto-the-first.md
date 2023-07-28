@@ -24,12 +24,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-jp" level=3} :levels{links="/playstation2-us/x2" level="8"} :level{slug="grand-prix-vol2" level=8}</div>|117/2||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-jp" level=7} :levels{links="/playstation2-us/x2" level="10"} :level{slug="grand-prix-vol2" level=10}</div>|201/20||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-jp" level=9} :levels{links="/playstation2-us/x2" level="14"} :level{slug="grand-prix-vol2" level=14}</div>|395/11||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="hottest-jp" level=10} :levels{links="/playstation2-us/x2" level="17"} :level{slug="grand-prix-vol2" level=17}</div>|525/2||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="18"} :level{slug="grand-prix-vol2" level=18}</div>|481/2(57)||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="10"} :level{slug="grand-prix-vol2" level=10}</div>|211/2||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="14"} :level{slug="grand-prix-vol2" level=15}</div>|390/2||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="17"} :level{slug="grand-prix-vol2" level=18}</div>|521/5||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="18"} :level{slug="grand-prix-vol2" level=18}</div>|481/5(48)||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/hottest-jp" level="3"} :levels{links="/playstation2-us/x2" level="8"} :levels{links="/grand-prix-vol2" level="8"}|117/2||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/hottest-jp" level="7"} :levels{links="/playstation2-us/x2" level="10"} :levels{links="/grand-prix-vol2" level="10"}|201/20||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/hottest-jp" level="9"} :levels{links="/playstation2-us/x2" level="14"} :levels{links="/grand-prix-vol2" level="14"}|395/11||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/hottest-jp" level="10"} :levels{links="/playstation2-us/x2" level="17"} :levels{links="/grand-prix-vol2" level="17"}|525/2||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-us/x2" level="18"} :levels{links="/grand-prix-vol2" level="18"}|481/2(57)||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/x2" level="10"} :levels{links="/grand-prix-vol2" level="10"}|211/2||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/x2" level="14"} :levels{links="/grand-prix-vol2" level="15"}|390/2||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/x2" level="17"} :levels{links="/grand-prix-vol2" level="18"}|521/5||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-us/x2" level="18"} :levels{links="/grand-prix-vol2" level="18"}|481/5(48)||

@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=1} :level{slug="nova-us" level=1}</div>|134/8||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=3} :level{slug="nova-us" level=3}</div>|180/9||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=6} :level{slug="nova-us" level=6}</div>|318/21||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=9} :level{slug="nova-us" level=9}</div>|465/5||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=3} :level{slug="nova-us" level=3}</div>|176/15||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=6} :level{slug="nova-us" level=6}</div>|300/28||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="strike" level=8} :level{slug="nova-us" level=8}</div>|428/20||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/strike" level="1"} :levels{links="/nova-us" level="1"}|134/8||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/strike" level="3"} :levels{links="/nova-us" level="3"}|180/9||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/strike" level="6"} :levels{links="/nova-us" level="6"}|318/21||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/strike" level="9"} :levels{links="/nova-us" level="9"}|465/5||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/strike" level="3"} :levels{links="/nova-us" level="3"}|176/15||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/strike" level="6"} :levels{links="/nova-us" level="6"}|300/28||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/strike" level="8"} :levels{links="/nova-us" level="8"}|428/20||

@@ -22,7 +22,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=2}</div>|93/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=4}</div>|138/17||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=6}</div>|204/25||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=7}</div>|249/23||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/furufuru" level="2"}|93/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/furufuru" level="4"}|138/17||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/furufuru" level="6"}|204/25||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/furufuru" level="7"}|249/23||

@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="2"} :levels{links="/wii-jp/music-fit" level="2"}</div>|68/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="4"} :levels{links="/wii-jp/music-fit" level="3"}</div>|103/2||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="6"} :levels{links="/wii-jp/music-fit" level="5"}</div>|189/4||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="13"} :levels{links="/wii-jp/music-fit" level="9"}</div>|371/9||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="5"}</div>|147/4||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="7"}</div>|201/11||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="13"}</div>|329/7||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/x2" level="2"} :levels{links="/wii-jp/music-fit" level="2"}|68/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/x2" level="4"} :levels{links="/wii-jp/music-fit" level="3"}|103/2||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/x2" level="6"} :levels{links="/wii-jp/music-fit" level="5"}|189/4||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/x2" level="13"} :levels{links="/wii-jp/music-fit" level="9"}|371/9||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/x2" level="5"}|147/4||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/x2" level="7"}|201/11||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/x2" level="13"}|329/7||

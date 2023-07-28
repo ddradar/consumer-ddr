@@ -23,14 +23,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER (Wii)]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=1}</div>|88/0||
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=2}</div>|57/4||
-|SINGLE| :badge[BASIC (Wii)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=2}</div>|106/7||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=5}</div>|137/6||
-|SINGLE| :badge[DIFFICULT (Wii)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=5}</div>|218/5||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=8}</div>|236/5||
-|SINGLE| :badge[EXPERT (Wii)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=7}</div>|258/11||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=12}</div>|327/6||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=4}</div>|140/7||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=8}</div>|243/4||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=11}</div>|309/9||
+|SINGLE| :badge[BEGINNER (Wii)]{type="info"}| :levels{links="/furufuru" level="1"}|88/0||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/grand-prix-controller" level="2"}|57/4||
+|SINGLE| :badge[BASIC (Wii)]{type="warning"}| :levels{links="/furufuru" level="2"}|106/7||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-controller" level="5"}|137/6||
+|SINGLE| :badge[DIFFICULT (Wii)]{type="danger"}| :levels{links="/furufuru" level="5"}|218/5||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-controller" level="8"}|236/5||
+|SINGLE| :badge[EXPERT (Wii)]{type="success"}| :levels{links="/furufuru" level="7"}|258/11||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-controller" level="12"}|327/6||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-controller" level="4"}|140/7||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-controller" level="8"}|243/4||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-controller" level="11"}|309/9||

@@ -22,15 +22,15 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol1" level=5}</div>|138/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol1" level=9}</div>|247/16||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol1" level=16}</div>|593/17||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol1" level=17}</div>|654/18||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol1" level=18}</div>|734/55||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol1" level=9}</div>|245/18||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol1" level=16}</div>|583/18||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol1" level=17}</div>|633/18||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol1" level=18}</div>|691/63||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/jubeat-vol1" level="5"}|138/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/jubeat-vol1" level="9"}|247/16||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/jubeat-vol1" level="16"}|593/17||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/jubeat-vol1" level="17"}|654/18||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/jubeat-vol1" level="18"}|734/55||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/jubeat-vol1" level="9"}|245/18||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/jubeat-vol1" level="16"}|583/18||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/jubeat-vol1" level="17"}|633/18||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/jubeat-vol1" level="18"}|691/63||
 
 ## メモ
 

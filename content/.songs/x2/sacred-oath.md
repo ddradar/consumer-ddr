@@ -24,12 +24,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="2"} :levels{links="/wii-jp/music-fit" level="2"} :level{slug="grand-prix-vol7" level=2}</div>|65/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="4"} :levels{links="/wii-jp/music-fit" level="4"} :level{slug="grand-prix-vol7" level=4}</div>|107/16||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="7"} :levels{links="/wii-jp/music-fit" level="6"} :level{slug="grand-prix-vol7" level=7}</div>|208/34||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="11"} :levels{links="/wii-jp/music-fit" level="8"} :level{slug="grand-prix-vol7" level=11}</div>|300/28||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="12"} :level{slug="grand-prix-vol7" level=12}</div>|336/31||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="5"} :level{slug="grand-prix-vol7" level=5}</div>|149/28||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="8"} :level{slug="grand-prix-vol7" level=8}</div>|214/30||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="11"} :level{slug="grand-prix-vol7" level=11}</div>|313/43||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-us/x2" level="13"} :level{slug="grand-prix-vol7" level=13}</div>|347/38||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-us/x2" level="2"} :levels{links="/wii-jp/music-fit" level="2"} :levels{links="/grand-prix-vol7" level="2"}|65/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/x2" level="4"} :levels{links="/wii-jp/music-fit" level="4"} :levels{links="/grand-prix-vol7" level="4"}|107/16||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/x2" level="7"} :levels{links="/wii-jp/music-fit" level="6"} :levels{links="/grand-prix-vol7" level="7"}|208/34||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/x2" level="11"} :levels{links="/wii-jp/music-fit" level="8"} :levels{links="/grand-prix-vol7" level="11"}|300/28||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-us/x2" level="12"} :levels{links="/grand-prix-vol7" level="12"}|336/31||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-us/x2" level="5"} :levels{links="/grand-prix-vol7" level="5"}|149/28||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-us/x2" level="8"} :levels{links="/grand-prix-vol7" level="8"}|214/30||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-us/x2" level="11"} :levels{links="/grand-prix-vol7" level="11"}|313/43||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-us/x2" level="13"} :levels{links="/grand-prix-vol7" level="13"}|347/38||

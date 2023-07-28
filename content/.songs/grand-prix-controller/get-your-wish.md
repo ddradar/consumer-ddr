@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=3}</div>|66/6||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=6}</div>|158/7||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=9}</div>|240/22||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=14}</div>|401/11||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=5}</div>|159/7||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=9}</div>|236/18||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-controller" level=14}</div>|378/12||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/grand-prix-controller" level="3"}|66/6||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-controller" level="6"}|158/7||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-controller" level="9"}|240/22||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-controller" level="14"}|401/11||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-controller" level="5"}|159/7||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-controller" level="9"}|236/18||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-controller" level="14"}|378/12||

@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol2" level=2}</div>|96/10||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol2" level=5}</div>|212/22||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol2" level=10}</div>|331/15||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol2" level=13}</div>|464/13||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol2" level=5}</div>|196/12||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol2" level=10}</div>|331/15||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="jubeat-vol2" level=13}</div>|448/13||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/jubeat-vol2" level="2"}|96/10||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/jubeat-vol2" level="5"}|212/22||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/jubeat-vol2" level="10"}|331/15||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/jubeat-vol2" level="13"}|464/13||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/jubeat-vol2" level="5"}|196/12||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/jubeat-vol2" level="10"}|331/15||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/jubeat-vol2" level="13"}|448/13||

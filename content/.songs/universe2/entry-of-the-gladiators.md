@@ -20,13 +20,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="?"}</div>|99/2||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="3"}</div>|145/22||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="6"}</div>|251/0||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="7"}</div>|300/0||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="9"}</div>|466/0||
-|DOUBLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="?"}</div>|||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="3"}</div>|166/8||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="6"}</div>|252/0||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="7"}</div>|289/24||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="9"}</div>|408/3||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/xbox360-us/universe2" level="?"}|99/2||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/xbox360-us/universe2" level="3"}|145/22||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/xbox360-us/universe2" level="6"}|251/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/xbox360-us/universe2" level="7"}|300/0||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/xbox360-us/universe2" level="9"}|466/0||
+|DOUBLE| :badge[BEGINNER]{type="info"}| :levels{links="/xbox360-us/universe2" level="?"}|||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/xbox360-us/universe2" level="3"}|166/8||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/xbox360-us/universe2" level="6"}|252/0||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/xbox360-us/universe2" level="7"}|289/24||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/xbox360-us/universe2" level="9"}|408/3||

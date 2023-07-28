@@ -25,17 +25,17 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER (XBOX)]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="?"}</div>|107/0||
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=2} :level{slug="nova-jp" level=2} :levels{links="/xbox360-us/universe2" level="4"}</div>|115/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="4"} :level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}</div>|213/24||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="5"} :level{slug="nova-us" level=5} :level{slug="nova-jp" level=5} :levels{links="/xbox360-us/universe2" level="5"}</div>|291/16||
-|SINGLE| :badge[EXPERT (XBOX)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="7"}</div>|345/39||
-|SINGLE| :badge[EXPERT (Old)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="9"}</div>|316/20||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=9} :level{slug="nova-jp" level=9}</div>|312/21||
-|DOUBLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/xbox360-us/universe2" level="?"}</div>|||
-|DOUBLE| :badge[BASIC (Old)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="4"} :levels{links="/xbox360-us/universe2" level="4"}</div>|211/25||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=4} :level{slug="nova-jp" level=4}</div>|219/2||
-|DOUBLE| :badge[DIFFICULT (Old)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="6"} :levels{links="/xbox360-us/universe2" level="6"}</div>|296/17||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=6} :level{slug="nova-jp" level=6}</div>|284/23||
-|DOUBLE| :badge[EXPERT (Old)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/festival" level="8"} :levels{links="/xbox360-us/universe2" level="8"}</div>|340/41||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=9} :level{slug="nova-jp" level=9}</div>|408/3||
+|SINGLE| :badge[BEGINNER (XBOX)]{type="info"}| :levels{links="/xbox360-us/universe2" level="?"}|107/0||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/nova-us" level="2"} :levels{links="/nova-jp" level="2"} :levels{links="/xbox360-us/universe2" level="4"}|115/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/festival" level="4"} :levels{links="/nova-us" level="4"} :levels{links="/nova-jp" level="4"}|213/24||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/festival" level="5"} :levels{links="/nova-us" level="5"} :levels{links="/nova-jp" level="5"} :levels{links="/xbox360-us/universe2" level="5"}|291/16||
+|SINGLE| :badge[EXPERT (XBOX)]{type="success"}| :levels{links="/xbox360-us/universe2" level="7"}|345/39||
+|SINGLE| :badge[EXPERT (Old)]{type="success"}| :levels{links="/playstation2-jp/festival" level="9"}|316/20||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/nova-us" level="9"} :levels{links="/nova-jp" level="9"}|312/21||
+|DOUBLE| :badge[BEGINNER]{type="info"}| :levels{links="/xbox360-us/universe2" level="?"}|||
+|DOUBLE| :badge[BASIC (Old)]{type="warning"}| :levels{links="/playstation2-jp/festival" level="4"} :levels{links="/xbox360-us/universe2" level="4"}|211/25||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/nova-us" level="4"} :levels{links="/nova-jp" level="4"}|219/2||
+|DOUBLE| :badge[DIFFICULT (Old)]{type="danger"}| :levels{links="/playstation2-jp/festival" level="6"} :levels{links="/xbox360-us/universe2" level="6"}|296/17||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/nova-us" level="6"} :levels{links="/nova-jp" level="6"}|284/23||
+|DOUBLE| :badge[EXPERT (Old)]{type="success"}| :levels{links="/playstation2-jp/festival" level="8"} :levels{links="/xbox360-us/universe2" level="8"}|340/41||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/nova-us" level="9"} :levels{links="/nova-jp" level="9"}|408/3||

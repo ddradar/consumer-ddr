@@ -23,7 +23,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER (PS3)]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=3} :level{slug="2010-360" level=3}</div>|131/0||
-|SINGLE| :badge[BASIC (PS3)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=5} :level{slug="2010-360" level=5}</div>|193/54||
-|SINGLE| :badge[DIFFICULT (PS3)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=6} :level{slug="2010-360" level=6}</div>|237/46||
-|SINGLE| :badge[EXPERT (PS3)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=8} :level{slug="2010-360" level=8}</div>|341/24||
+|SINGLE| :badge[BEGINNER (PS3)]{type="info"}| :levels{links="/2010-ps3" level="3"} :levels{links="/2010-360" level="3"}|131/0||
+|SINGLE| :badge[BASIC (PS3)]{type="warning"}| :levels{links="/2010-ps3" level="5"} :levels{links="/2010-360" level="5"}|193/54||
+|SINGLE| :badge[DIFFICULT (PS3)]{type="danger"}| :levels{links="/2010-ps3" level="6"} :levels{links="/2010-360" level="6"}|237/46||
+|SINGLE| :badge[EXPERT (PS3)]{type="success"}| :levels{links="/2010-ps3" level="8"} :levels{links="/2010-360" level="8"}|341/24||

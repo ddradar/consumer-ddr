@@ -23,14 +23,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER (Wii)]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=1}</div>|50/0||
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=2}</div>|58/1||
-|SINGLE| :badge[BASIC (Wii)]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=2}</div>|76/1||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=6}</div>|184/8||
-|SINGLE| :badge[DIFFICULT (Wii)]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=5}</div>|176/24||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=9}</div>|245/11||
-|SINGLE| :badge[EXPERT (Wii)]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=7}</div>|284/4||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=12}</div>|366/3||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=6}</div>|181/7||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=9}</div>|243/3||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=12}</div>|363/4||
+|SINGLE| :badge[BEGINNER (Wii)]{type="info"}| :levels{links="/furufuru" level="1"}|50/0||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/grand-prix-vol10" level="2"}|58/1||
+|SINGLE| :badge[BASIC (Wii)]{type="warning"}| :levels{links="/furufuru" level="2"}|76/1||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol10" level="6"}|184/8||
+|SINGLE| :badge[DIFFICULT (Wii)]{type="danger"}| :levels{links="/furufuru" level="5"}|176/24||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol10" level="9"}|245/11||
+|SINGLE| :badge[EXPERT (Wii)]{type="success"}| :levels{links="/furufuru" level="7"}|284/4||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol10" level="12"}|366/3||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol10" level="6"}|181/7||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol10" level="9"}|243/3||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol10" level="12"}|363/4||

@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/wii-jp/music-fit" level="3"}</div>|214/11||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/wii-jp/music-fit" level="5"}</div>|343/33||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/wii-jp/music-fit" level="8"}</div>|539/79||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/wii-jp/music-fit" level="10"}</div>|882/53||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/wii-jp/music-fit" level="3"}|214/11||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/wii-jp/music-fit" level="5"}|343/33||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/wii-jp/music-fit" level="8"}|539/79||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/wii-jp/music-fit" level="10"}|882/53||
 
 ## メモ
 

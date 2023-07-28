@@ -26,9 +26,9 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=3} :level{slug="2010-360" level=3}</div>|97/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=4} :level{slug="2010-360" level=4}</div>|148/6||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=6} :level{slug="2010-360" level=6}</div>|233/9||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=8} :level{slug="2010-360" level=8}</div>|289/10||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="9"}  :levels{links="/playstation2-us/extreme" level="9"} :level{slug="2010-ps3" level=9} :level{slug="2010-360" level=9}  :levels{links="/windows/grand-prix" level="11"}</div>|353/6||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/playstation2-jp/max2" level="8"}  :levels{links="/playstation2-us/extreme,/windows/grand-prix" level="8,11"}</div>|286/6||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/2010-ps3" level="3"} :levels{links="/2010-360" level="3"}|97/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/2010-ps3" level="4"} :levels{links="/2010-360" level="4"}|148/6||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/2010-ps3" level="6"} :levels{links="/2010-360" level="6"}|233/9||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/2010-ps3" level="8"} :levels{links="/2010-360" level="8"}|289/10||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/max2" level="9"}  :levels{links="/playstation2-us/extreme" level="9"} :levels{links="/2010-ps3" level="9"} :levels{links="/2010-360" level="9"}  :levels{links="/windows/grand-prix" level="11"}|353/6||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/playstation2-jp/max2" level="8"}  :levels{links="/playstation2-us/extreme,/windows/grand-prix" level="8,11"}|286/6||

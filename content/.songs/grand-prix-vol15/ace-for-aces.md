@@ -22,12 +22,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol15" level=4}</div>|116/7||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol15" level=7}</div>|311/19||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol15" level=13}</div>|467/19||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol15" level=15}</div>|658/14||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol15" level=18}</div>|786/16||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol15" level=7}</div>|313/21||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol15" level=13}</div>|425/25||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol15" level=15}</div>|639/34||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol15" level=18}</div>|765/16||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/grand-prix-vol15" level="4"}|116/7||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol15" level="7"}|311/19||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol15" level="13"}|467/19||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol15" level="15"}|658/14||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/grand-prix-vol15" level="18"}|786/16||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol15" level="7"}|313/21||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol15" level="13"}|425/25||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol15" level="15"}|639/34||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/grand-prix-vol15" level="18"}|765/16||

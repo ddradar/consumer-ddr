@@ -23,12 +23,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=2} :level{slug="grand-prix-vol7" level=3}</div>|120/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=4} :level{slug="grand-prix-vol7" level=6}</div>|144/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=7} :level{slug="grand-prix-vol7" level=10}</div>|309/8||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=9} :level{slug="grand-prix-vol7" level=13}</div>|406/0||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol7" level=16}</div>|606/19||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol7" level=6}</div>|144/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol7" level=10}</div>|305/8||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol7" level=13}</div>|418/4||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol7" level=16}</div>|594/19||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/furufuru" level="2"} :levels{links="/grand-prix-vol7" level="3"}|120/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/furufuru" level="4"} :levels{links="/grand-prix-vol7" level="6"}|144/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/furufuru" level="7"} :levels{links="/grand-prix-vol7" level="10"}|309/8||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/furufuru" level="9"} :levels{links="/grand-prix-vol7" level="13"}|406/0||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/grand-prix-vol7" level="16"}|606/19||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol7" level="6"}|144/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol7" level="10"}|305/8||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol7" level="13"}|418/4||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/grand-prix-vol7" level="16"}|594/19||

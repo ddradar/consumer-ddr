@@ -24,11 +24,11 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=3} :level{slug="2010-360" level=3} :level{slug="grand-prix-vol10" level=2}</div>|105/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=4} :level{slug="2010-360" level=4} :level{slug="grand-prix-vol10" level=4}</div>|141/7||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=7} :level{slug="2010-360" level=7} :level{slug="grand-prix-vol10" level=8}</div>|290/5||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=9} :level{slug="2010-360" level=9} :level{slug="grand-prix-vol10" level=12}</div>|447/7||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=4}</div>|141/6||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=8}</div>|271/8||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol10" level=11}</div>|371/8||
-|Octo| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=8} :level{slug="2010-360" level=8}</div>|||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/2010-ps3" level="3"} :levels{links="/2010-360" level="3"} :levels{links="/grand-prix-vol10" level="2"}|105/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/2010-ps3" level="4"} :levels{links="/2010-360" level="4"} :levels{links="/grand-prix-vol10" level="4"}|141/7||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/2010-ps3" level="7"} :levels{links="/2010-360" level="7"} :levels{links="/grand-prix-vol10" level="8"}|290/5||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/2010-ps3" level="9"} :levels{links="/2010-360" level="9"} :levels{links="/grand-prix-vol10" level="12"}|447/7||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol10" level="4"}|141/6||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol10" level="8"}|271/8||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol10" level="11"}|371/8||
+|Octo| :badge[CHALLENGE]{type="primary"}| :levels{links="/2010-ps3" level="8"} :levels{links="/2010-360" level="8"}|||

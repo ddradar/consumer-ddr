@@ -22,7 +22,7 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/wii-jp/music-fit" level="2"}</div>|93/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/wii-jp/music-fit" level="3"}</div>|121/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/wii-jp/music-fit" level="5"}</div>|150/3||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :levels{links="/wii-jp/music-fit" level="7"}</div>|222/2||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/wii-jp/music-fit" level="2"}|93/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/wii-jp/music-fit" level="3"}|121/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/wii-jp/music-fit" level="5"}|150/3||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/wii-jp/music-fit" level="7"}|222/2||

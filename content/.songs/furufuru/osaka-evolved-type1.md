@@ -23,13 +23,13 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=3} :level{slug="grand-prix-vol7" level=9}</div>|170/17||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=7} :level{slug="grand-prix-vol7" level=11}</div>|262/22||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=9} :level{slug="grand-prix-vol7" level=13}</div>|359/21||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=10} :level{slug="grand-prix-vol7" level=15}</div>|446/29||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol7" level=10}</div>|232/31||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol7" level=12}</div>|345/27||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol7" level=15}</div>|440/27||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/furufuru" level="3"} :levels{links="/grand-prix-vol7" level="9"}|170/17||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/furufuru" level="7"} :levels{links="/grand-prix-vol7" level="11"}|262/22||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/furufuru" level="9"} :levels{links="/grand-prix-vol7" level="13"}|359/21||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/furufuru" level="10"} :levels{links="/grand-prix-vol7" level="15"}|446/29||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol7" level="10"}|232/31||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol7" level="12"}|345/27||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol7" level="15"}|440/27||
 
 ## メモ
 

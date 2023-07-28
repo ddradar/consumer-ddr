@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=1} :levels{links="/playstation2-us/supernova2" level="1"}</div>|44/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=2} :levels{links="/playstation2-us/supernova2" level="2"}</div>|75/5||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=5} :levels{links="/playstation2-us/supernova2" level="5"}</div>|139/22||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=7} :levels{links="/playstation2-us/supernova2" level="7"}</div>|230/12||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=2} :levels{links="/playstation2-us/supernova2" level="2"}</div>|79/3||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=5} :levels{links="/playstation2-us/supernova2" level="5"}</div>|154/17||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-jp" level=7} :levels{links="/playstation2-us/supernova2" level="7"}</div>|244/16||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/nova-jp" level="1"} :levels{links="/playstation2-us/supernova2" level="1"}|44/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/nova-jp" level="2"} :levels{links="/playstation2-us/supernova2" level="2"}|75/5||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/nova-jp" level="5"} :levels{links="/playstation2-us/supernova2" level="5"}|139/22||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/nova-jp" level="7"} :levels{links="/playstation2-us/supernova2" level="7"}|230/12||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/nova-jp" level="2"} :levels{links="/playstation2-us/supernova2" level="2"}|79/3||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/nova-jp" level="5"} :levels{links="/playstation2-us/supernova2" level="5"}|154/17||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/nova-jp" level="7"} :levels{links="/playstation2-us/supernova2" level="7"}|244/16||

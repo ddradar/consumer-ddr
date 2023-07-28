@@ -23,5 +23,5 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=2} :levels{links="/wii-jp/music-fit" level="2"}</div>|54/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="furufuru" level=2}</div>|54/8||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/furufuru" level="2"} :levels{links="/wii-jp/music-fit" level="2"}|54/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/furufuru" level="2"}|54/8||

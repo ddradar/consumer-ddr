@@ -24,14 +24,14 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=4} :level{slug="2010-360" level=4} :level{slug="grand-prix-vol18" level=4}</div>|126/11||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=7} :level{slug="2010-360" level=7} :level{slug="grand-prix-vol18" level=9}</div>|259/15||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=9} :level{slug="2010-360" level=9} :level{slug="grand-prix-vol18" level=13}</div>|430/18||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=10} :level{slug="2010-360" level=10} :level{slug="grand-prix-vol18" level=16}</div>|561/23||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=8}</div>|249/19||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=13}</div>|392/16||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="grand-prix-vol18" level=16}</div>|541/14||
-|Octo| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="2010-ps3" level=10} :level{slug="2010-360" level=10}</div>|||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/2010-ps3" level="4"} :levels{links="/2010-360" level="4"} :levels{links="/grand-prix-vol18" level="4"}|126/11||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/2010-ps3" level="7"} :levels{links="/2010-360" level="7"} :levels{links="/grand-prix-vol18" level="9"}|259/15||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/2010-ps3" level="9"} :levels{links="/2010-360" level="9"} :levels{links="/grand-prix-vol18" level="13"}|430/18||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/2010-ps3" level="10"} :levels{links="/2010-360" level="10"} :levels{links="/grand-prix-vol18" level="16"}|561/23||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/grand-prix-vol18" level="8"}|249/19||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/grand-prix-vol18" level="13"}|392/16||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/grand-prix-vol18" level="16"}|541/14||
+|Octo| :badge[CHALLENGE]{type="primary"}| :levels{links="/2010-ps3" level="10"} :levels{links="/2010-360" level="10"}|||
 
 ## メモ
 

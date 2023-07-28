@@ -24,12 +24,12 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=3}  :levels{links="/playstation2-jp/x" level="4"} :level{slug="grand-prix-vol8" level=4}</div>|113/0||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=6}  :levels{links="/playstation2-jp/x" level="6"} :level{slug="grand-prix-vol8" level=6}</div>|196/5||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=8}  :levels{links="/playstation2-jp/x" level="8"} :level{slug="grand-prix-vol8" level=8}</div>|272/11||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11}  :levels{links="/playstation2-jp/x" level="11"} :level{slug="grand-prix-vol8" level=11}</div>|329/15||
-|SINGLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=11}  :levels{links="/playstation2-jp/x" level="11"} :level{slug="grand-prix-vol8" level=11}</div>|300/14(32)||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=6}  :levels{links="/playstation2-jp/x" level="6"} :level{slug="grand-prix-vol8" level=6}</div>|209/5||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=8}  :levels{links="/playstation2-jp/x" level="8"} :level{slug="grand-prix-vol8" level=8}</div>|277/5||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=12}  :levels{links="/playstation2-jp/x" level="12"} :level{slug="grand-prix-vol8" level=12}</div>|346/5||
-|DOUBLE| :badge[CHALLENGE]{type="primary"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=12}  :levels{links="/playstation2-jp/x" level="12"} :level{slug="grand-prix-vol8" level=12}</div>|315/4(28)||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/x-us" level="3"}  :levels{links="/playstation2-jp/x" level="4"} :levels{links="/grand-prix-vol8" level="4"}|113/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/x-us" level="6"}  :levels{links="/playstation2-jp/x" level="6"} :levels{links="/grand-prix-vol8" level="6"}|196/5||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/x-us" level="8"}  :levels{links="/playstation2-jp/x" level="8"} :levels{links="/grand-prix-vol8" level="8"}|272/11||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/x-us" level="11"}  :levels{links="/playstation2-jp/x" level="11"} :levels{links="/grand-prix-vol8" level="11"}|329/15||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/x-us" level="11"}  :levels{links="/playstation2-jp/x" level="11"} :levels{links="/grand-prix-vol8" level="11"}|300/14(32)||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/x-us" level="6"}  :levels{links="/playstation2-jp/x" level="6"} :levels{links="/grand-prix-vol8" level="6"}|209/5||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/x-us" level="8"}  :levels{links="/playstation2-jp/x" level="8"} :levels{links="/grand-prix-vol8" level="8"}|277/5||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/x-us" level="12"}  :levels{links="/playstation2-jp/x" level="12"} :levels{links="/grand-prix-vol8" level="12"}|346/5||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/x-us" level="12"}  :levels{links="/playstation2-jp/x" level="12"} :levels{links="/grand-prix-vol8" level="12"}|315/4(28)||

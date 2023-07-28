@@ -23,10 +23,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=1}  :levels{links="/playstation2-jp/x" level="2"}</div>|59/7||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=5}  :levels{links="/playstation2-jp/x" level="5"}</div>|157/7||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=7}  :levels{links="/playstation2-jp/x" level="7"}</div>|230/4||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=10}  :levels{links="/playstation2-jp/x" level="10"}</div>|319/4||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=5}  :levels{links="/playstation2-jp/x" level="5"}</div>|170/1||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=8}  :levels{links="/playstation2-jp/x" level="8"}</div>|246/1||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="x-us" level=10}  :levels{links="/playstation2-jp/x" level="10"}</div>|334/0||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/x-us" level="1"}  :levels{links="/playstation2-jp/x" level="2"}|59/7||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/x-us" level="5"}  :levels{links="/playstation2-jp/x" level="5"}|157/7||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/x-us" level="7"}  :levels{links="/playstation2-jp/x" level="7"}|230/4||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/x-us" level="10"}  :levels{links="/playstation2-jp/x" level="10"}|319/4||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/x-us" level="5"}  :levels{links="/playstation2-jp/x" level="5"}|170/1||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/x-us" level="8"}  :levels{links="/playstation2-jp/x" level="8"}|246/1||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/x-us" level="10"}  :levels{links="/playstation2-jp/x" level="10"}|334/0||

@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=1}</div>|74/3||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=3}</div>|120/16||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=5}</div>|161/15||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=7}</div>|251/18||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=3}</div>|129/8||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=5}</div>|173/10||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="nova-us" level=7}</div>|261/14||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/nova-us" level="1"}|74/3||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/nova-us" level="3"}|120/16||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/nova-us" level="5"}|161/15||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/nova-us" level="7"}|251/18||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/nova-us" level="3"}|129/8||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/nova-us" level="5"}|173/10||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/nova-us" level="7"}|261/14||

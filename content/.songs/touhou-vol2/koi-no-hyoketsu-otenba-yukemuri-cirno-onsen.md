@@ -22,10 +22,10 @@ series:
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=2}</div>|62/2||
-|SINGLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=7}</div>|231/14||
-|SINGLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=12}</div>|391/11||
-|SINGLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=15}</div>|511/34||
-|DOUBLE| :badge[BASIC]{type="warning"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=7}</div>|236/13||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=12}</div>|391/9||
-|DOUBLE| :badge[EXPERT]{type="success"}|<div class="field is-grouped is-grouped-multiline"> :level{slug="touhou-vol2" level=15}</div>|489/19||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/touhou-vol2" level="2"}|62/2||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/touhou-vol2" level="7"}|231/14||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/touhou-vol2" level="12"}|391/11||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/touhou-vol2" level="15"}|511/34||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/touhou-vol2" level="7"}|236/13||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/touhou-vol2" level="12"}|391/9||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/touhou-vol2" level="15"}|489/19||
