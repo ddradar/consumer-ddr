@@ -53,7 +53,7 @@ difficulties:
 |[LOVE AGAIN TONIGHT (For Melissa MIX)](/playstation-jp/4th/love-again-tonight)|NAOKI feat. PAULA TERRY|150|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[MAKE IT BETTER (So-REAL MIX)](/playstation-jp/2nd/make-it-better-so-real)|mitsu-O! SUMMER|118|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
 |[サナ・モレッテ・ネ・エンテ](/playstation-jp/5th/sana-mollete-ne-ente)|Togo Project feat. Sana|90|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
-|[un deux trois](/songs/un-deux-trois)|SDMS|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[un deux trois](/playstation2-jp/extreme/un-deux-trois)|SDMS|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[You're Not Here](/songs/you-re-not-here)|Heather|70-138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Your Rain (RAGE MIX)](/songs/your-rain)|Akira Yamaoka feat. Mary Elizabeth McGlynn|84|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[ABSOLUTE (Cuff -N- Stuff it Mix)](/songs/absolute-cuff)|Thuggie D.|144|:charts{:difficulties="difficulties" levels="3,6,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,7" charts="1,2,3"}|
@@ -86,7 +86,7 @@ difficulties:
 |[What is Love?](/songs/what-is-love)|TOMOSUKE|130|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[MAXIMIZER](/songs/maximizer)|CLI-MAX S.|190|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
 |[OUTER LIMITS](/songs/outer-limits)|L.E.D.-G|86-343|:charts{:difficulties="difficulties" levels="5,7,10+" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10+" charts="1,2,3"}|
-|[桜](/songs/sakura)|RevenG|14-300|:charts{:difficulties="difficulties" levels="3,5,8,10+,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,10+,9" charts="1,2,3,4"}|
+|[桜](/playstation2-jp/extreme/sakura)|RevenG|14-300|:charts{:difficulties="difficulties" levels="3,5,8,10+,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,10+,9" charts="1,2,3,4"}|
 
 ## システム概要
 

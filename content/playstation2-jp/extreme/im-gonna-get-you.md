@@ -1,14 +1,3 @@
----
-slug: "im-gonna-get-you"
-name: "I'm gonna get you!"
-artist: "Kelly Cosmo"
-from: "GUITARFREAKS 4thMIX & drummania 3rdMIX"
-bpm: 160
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
----
-
 # I'm gonna get you! / Kelly Cosmo
 
 |Artist|BPM|From|
@@ -17,16 +6,17 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/extreme,/windows/grand-prix" level="1,3"}|103/0||
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme,/windows/grand-prix" level="3,4"}|137/3||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme,/windows/grand-prix" level="5,7"}|214/12||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme,/windows/grand-prix" level="7,9"}|313/6||
-|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme,/windows/grand-prix" level="3,4"}|129/2||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme,/windows/grand-prix" level="5,7"}|213/9||
-|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme,/windows/grand-prix" level="7,11"}|307/4||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/extreme" level="1"} :levels{links="/windows/grand-prix" level="3"}|103/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme" level="3"} :levels{links="/windows/grand-prix" level="4"}|137/3||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme" level="5"} :levels{links="/windows/grand-prix" level="7"}|214/12||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme" level="7"} :levels{links="/windows/grand-prix" level="9"}|313/6||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/extreme" level="3"} :levels{links="/windows/grand-prix" level="4"}|129/2||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/extreme" level="5"} :levels{links="/windows/grand-prix" level="7"}|213/9||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/extreme" level="7"} :levels{links="/windows/grand-prix" level="11"}|307/4||

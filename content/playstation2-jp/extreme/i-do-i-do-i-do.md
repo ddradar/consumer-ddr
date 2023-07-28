@@ -1,13 +1,3 @@
----
-slug: "i-do-i-do-i-do"
-name: "I DO I DO I DO"
-artist: "CREAMY"
-from: "Dancemania EX 1"
-bpm: 134
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
----
-
 # I DO I DO I DO / CREAMY
 
 |Artist|BPM|From|
@@ -16,7 +6,7 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
 
 ## 譜面一覧
 

@@ -73,12 +73,12 @@ difficulties:
 |[Xepher](/songs/xepher)|Tatsh|170|:charts{:difficulties="difficulties" levels="1,5,7,9,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,6,9,10" charts="1,2,3,4"}|
 |[Baile Le Samba](/songs/baile-le-samba)|Big Idea|92|:charts{:difficulties="difficulties" levels="1,2,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[BALALAIKA,CARRIED WITH THE WIND](/songs/balalaika-carried-with-the-wind)|Julie ann Frost|134|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
-|[BLUE IMPULSE (for EXTREME)](/songs/blue-impulse)|NAOKI feat.YUKI|145|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[BLUE IMPULSE (for EXTREME)](/playstation2-jp/extreme/blue-impulse)|NAOKI feat.YUKI|145|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[Brazilian Anthem](/songs/brazilian-anthem)|Berimbau '66|130|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[DoLL](/songs/doll)|TЁЯRA|170|:charts{:difficulties="difficulties" levels="1,4,6,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,9,9" charts="1,2,3,4"}|
-|[Gamelan de Couple](/songs/gamelan-de-couple)|TOMOSUKE|150|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,9" charts="1,2,3"}|
+|[Gamelan de Couple](/playstation2-jp/extreme/gamelan-de-couple)|TOMOSUKE|150|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,9" charts="1,2,3"}|
 |[GORGEOUS 2012](/songs/gorgeous-2012)|THE SURRENDERS|135|:charts{:difficulties="difficulties" levels="1,5,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[GRADUATION](/songs/graduation)|BeForU|125|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
+|[GRADUATION](/playstation2-jp/extreme/graduation)|BeForU|125|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[Hit 'n' Slap](/songs/hit-n-slap)|Asletics|103|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[iFUTURELIST(DDR VERSION)](/songs/ifuturelist)|AKIRA YAMAOKA|150|:charts{:difficulties="difficulties" levels="1,4,6,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,6,8,9" charts="1,2,3,4"}|
 |[KI・SE・KI (DDR edit)](/songs/ki-se-ki)|BeForU|155|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
@@ -89,7 +89,7 @@ difficulties:
 |[MIDNIGHT SPECIAL](/songs/midnight-special)|Love Machineguns|182|:charts{:difficulties="difficulties" levels="2,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,7,8" charts="1,2,3"}|
 |[Monkey Punk](/songs/monkey-punk)|Big Idea|180|:charts{:difficulties="difficulties" levels="2,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[PUT YOUR FAITH IN ME (SATURDAY NIGHT MIX)](/songs/put-your-faith-in-me-saturday-night)|UZI-LAY|120|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
-|[The Least 100sec](/songs/the-least-100sec)|Hirofumi Sasaki|200-263|:charts{:difficulties="difficulties" levels="3,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,3"}|
+|[The Least 100sec](/playstation2-jp/extreme/the-least-100sec)|Hirofumi Sasaki|200-263|:charts{:difficulties="difficulties" levels="3,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,8" charts="1,2,3"}|
 |[MAX 300 (Super-Max-Me Mix)](/songs/max-300-super-max-me)|Jondi & Spesh|???|:charts{:difficulties="difficulties" levels="3,6,8,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,9,10,10" charts="1,2,3,4"}|
 |[Healing-D-Vision](/songs/healing-d-vision)|DE-STRAD|???|:charts{:difficulties="difficulties" levels="3,7,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="7,9,10,10" charts="1,2,3,4"}|
 |[Fascination MAXX](/songs/fascination-maxx)|100-200-400|???|:charts{:difficulties="difficulties" levels="4,9,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="8,9,10,10" charts="1,2,3,4"}|

@@ -62,10 +62,10 @@ difficulties:
 |[STARS☆☆☆ (Re-tuned by HΛL) -DDR EDITION-](/songs/stars-hal)|TЁЯRA|145|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Vem brincar](/songs/vem-brincar)|Caldeira feat.Téka Penteriche|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Baby's Tears (SKY GIRLS opening theme)](/songs/babys-tears-op)|RIYU KOSAKA|170|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[bag](/songs/bag)|RevenG|65|:charts{:difficulties="difficulties" levels="1,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
+|[bag](/playstation2-jp/extreme/bag)|RevenG|65|:charts{:difficulties="difficulties" levels="1,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
 |[BAILA! BAILA!](/songs/baila-baila)|DANDY MINEIRO|134|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[BALLAD FOR YOU](/songs/ballad-for-you)|NM feat.Thomas Howard|65|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
-|[CALICO CAT ROCK](/songs/calico-cat-rock)|ANETTAI MAJI-SKA BAKUDAN|246|:charts{:difficulties="difficulties" levels="2,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
+|[CALICO CAT ROCK](/playstation2-jp/extreme/calico-cat-rock)|ANETTAI MAJI-SKA BAKUDAN|246|:charts{:difficulties="difficulties" levels="2,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[cachaca](/songs/cachaca)|Mokky de Yah Yah's|128|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[CRASH!](/playstation2-jp/max2/crash)|mr.BRIAN & THE FINAL BAND|200|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[DanDanDO (The true MAN's Road)](/songs/dandando)|Des-ROW・UNITED|156-160|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
@@ -75,8 +75,8 @@ difficulties:
 |[Flowers](/songs/flowers)|TЁЯRA|160|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[HONEY♂PUNCH](/songs/honey-punch)|RIYU KOSAKA|175|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,8" charts="1,2,3"}|
 |[Hunting for you](/songs/hunting-for-you)|Togo Project feat. Megu & Scotty D.|105|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
-|[HYPER EUROBEAT](/songs/hyper-eurobeat)|NAOKI feat. DDR ALL STARS|152|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
-|[KISS KISS KISS](/songs/kiss-kiss-kiss)|NAOKI feat. SHANTI|150|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
+|[HYPER EUROBEAT](/playstation2-jp/extreme/hyper-eurobeat)|NAOKI feat. DDR ALL STARS|152|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[KISS KISS KISS](/playstation2-jp/extreme/kiss-kiss-kiss)|NAOKI feat. SHANTI|150|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[Konoko no nanatsu no oiwaini](/songs/konoko-no-nanatsu-no-oiwaini)|Asaki|161|:charts{:difficulties="difficulties" levels="1,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
 |[La Bamba](/songs/la-bamba-lh)|LH MUSIC CREATION|156|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[MONDO STREET](/songs/mondo-street)|Orange Lounge|180|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
