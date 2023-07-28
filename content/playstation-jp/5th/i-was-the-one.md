@@ -18,7 +18,7 @@ series:
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 5thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/5th)
 - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
 - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
-- "max2-us"
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 - "festival"
 
 ## 譜面一覧

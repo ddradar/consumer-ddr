@@ -28,7 +28,7 @@ difficulties:
 |[ABSOLUTE](/playstation-jp/5th/absolute)|dj TAKA|144|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[B4U](/playstation-jp/4th/b4u)|NAOKI|155|:charts{:difficulties="difficulties" levels="1,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[B4U (B4 ZA BEAT MIX)](/playstation2-jp/max2/b4u-b4-za-beat)|NAOKI|170|:charts{:difficulties="difficulties" levels="7" charts="4"}|:charts{:difficulties="difficulties" levels="7" charts="4"}|
-|[Bad Routine](/songs/bad-routine)|D.J. Spugna|130|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
+|[Bad Routine](/playstation2-us/max2/bad-routine)|D.J. Spugna|130|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[Believe](/songs/believe)|Eddie.J|136|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
 |[BIZARRE LOVE TRIANGLE](/songs/bizarre-love-triangle)|Jerry|119|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,7" charts="1,2,3"}|
 |[CAN'T STOP FALLIN' IN LOVE (SPEED MIX)](/playstation-jp/5th/cant-stop-fallin-in-love-speed)|NAOKI|170|:charts{:difficulties="difficulties" levels="1,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|

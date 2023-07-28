@@ -1,22 +1,12 @@
----
-slug: "will-i"
-name: "Will I?"
-artist: "Ian Van Dahl"
-from: "Ace"
-bpm: 140
-series:
-  - "max2-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Will I? / Ian Van Dahl
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Ian Van Dahl|140|Ace|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 
 ## 譜面一覧
 

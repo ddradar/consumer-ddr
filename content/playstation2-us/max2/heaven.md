@@ -1,22 +1,12 @@
----
-slug: "heaven"
-name: "Heaven"
-artist: "DJ Sammy & Yanou featuring DO"
-from: "Heaven"
-bpm: 138
-series:
-  - "max2-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Heaven / DJ Sammy & Yanou featuring DO
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|DJ Sammy & Yanou featuring DO|138|Heaven|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 
 ## 譜面一覧
 

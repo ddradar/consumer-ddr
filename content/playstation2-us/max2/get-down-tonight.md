@@ -1,22 +1,12 @@
----
-slug: "get-down-tonight"
-name: "Get Down Tonight"
-artist: "KC & THE SUNSHINE BAND"
-from: "KC and the Sunshine Band"
-bpm: "106-120"
-series:
-  - "max2-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Get Down Tonight / KC & THE SUNSHINE BAND
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|KC & THE SUNSHINE BAND|106-120|KC and the Sunshine Band|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 
 ## 譜面一覧
 

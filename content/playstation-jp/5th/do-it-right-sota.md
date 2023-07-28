@@ -9,7 +9,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 5thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/5th)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:playstation2"} DDRMAX -DanceDanceRevolution 6thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max)
-- "max2-us"
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 
 ## 譜面一覧
 

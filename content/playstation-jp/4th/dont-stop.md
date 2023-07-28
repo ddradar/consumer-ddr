@@ -10,7 +10,7 @@
 - [:icon{name="simple-icons:nintendo"} Dance Dance Revolution GB3](/gameboy/gb3)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
-- "max2-us"
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 - "festival"
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 

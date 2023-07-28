@@ -1,22 +1,12 @@
----
-slug: "a-little-bit-of-ecstasy"
-name: "A Little Bit Of Ecstasy"
-artist: "Jocelyn Enriquez"
-from: "Jocelyn"
-bpm: "56-135"
-series:
-  - "max2-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# A Little Bit Of Ecstasy / Jocelyn Enriquez
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Jocelyn Enriquez|56-135|Jocelyn|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 
 ## 譜面一覧
 

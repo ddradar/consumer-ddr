@@ -1,22 +1,12 @@
----
-slug: "busy-child"
-name: "Busy Child"
-artist: "The Crystal Method"
-from: "Vegas"
-bpm: 125
-series:
-  - "max2-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Busy Child / The Crystal Method
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|The Crystal Method|125|Vegas|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 
 ## 譜面一覧
 

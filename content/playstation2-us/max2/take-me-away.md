@@ -1,22 +1,12 @@
----
-slug: "take-me-away"
-name: "Take Me Away (into the night) (radio vocal)"
-artist: "4 STRINGS"
-from: "Believe"
-bpm: 138
-series:
-  - "max2-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Take Me Away (into the night) (radio vocal) / 4 STRINGS
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|4 STRINGS|138|Believe|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 
 ## 譜面一覧
 

@@ -1,22 +1,12 @@
----
-slug: "days-go-by"
-name: "Days Go By"
-artist: "Dirty Vegas"
-from: "Dirty Vegas"
-bpm: 127
-series:
-  - "max2-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Days Go By / Dirty Vegas
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Dirty Vegas|127|Dirty Vegas|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 
 ## 譜面一覧
 
