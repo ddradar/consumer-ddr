@@ -1,22 +1,12 @@
----
-slug: "injection-of-love-hina"
-name: "INJECTION OF LOVE (HINA MIX)"
-artist: "AKIRA YAMAOKA"
-from: "DanceDanceRevolution EXTREME2"
-bpm: 160
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# INJECTION OF LOVE (HINA MIX) / AKIRA YAMAOKA
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|AKIRA YAMAOKA|160|DanceDanceRevolution EXTREME2|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 
 ## 譜面一覧
 

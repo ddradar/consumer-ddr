@@ -1,22 +1,12 @@
----
-slug: "wonderful-night"
-name: "Wonderful Night (radio edit)"
-artist: "Fatboy Slim"
-from: "Palookaville"
-bpm: 160
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Wonderful Night (radio edit) / Fatboy Slim
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Fatboy Slim|160|Palookaville|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 
 ## 譜面一覧
 

@@ -1,22 +1,12 @@
----
-slug: "spin-spin-sugar"
-name: "Spin Spin Sugar (Armand's Dark Garage Mix)"
-artist: "Sneaker Pimps"
-from: "Spin Spin Sugar"
-bpm: 128
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Spin Spin Sugar (Armand's Dark Garage Mix) / Sneaker Pimps
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Sneaker Pimps|128|Spin Spin Sugar|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 
 ## 譜面一覧
 

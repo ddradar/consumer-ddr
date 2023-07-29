@@ -1,22 +1,12 @@
----
-slug: "my-my-my"
-name: "My My My"
-artist: "Armand Van Helden"
-from: "Nympho"
-bpm: 128
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# My My My / Armand Van Helden
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Armand Van Helden|128|Nympho|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 
 ## 譜面一覧
 

@@ -1,22 +1,12 @@
----
-slug: "silence"
-name: "Silence (Airscape Remix)"
-artist: "Delerium with Sarah McLachlan"
-from: "Karma"
-bpm: 136
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Silence (Airscape Remix) / Delerium with Sarah McLachlan
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Delerium with Sarah McLachlan|136|Karma|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 
 ## 譜面一覧
 

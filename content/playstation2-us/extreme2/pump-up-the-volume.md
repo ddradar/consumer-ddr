@@ -1,22 +1,12 @@
----
-slug: "pump-up-the-volume"
-name: "Pump Up The Volume"
-artist: "M/A/R/R/S"
-from: "Pump Up The Volume"
-bpm: 114
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Pump Up The Volume / M/A/R/R/S
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|M/A/R/R/S|114|Pump Up The Volume|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 
 ## 譜面一覧
 
