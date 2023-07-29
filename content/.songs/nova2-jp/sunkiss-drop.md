@@ -45,7 +45,7 @@ series:
     1. 名前順ソートに変更する
     1. 「D」「R」「O」「P」「S」の順にフォルダを開く
     1. 「S」フォルダから、この楽曲を選曲する
-- [Dance Dance Revolution SuperNOVA2 (JP)](/series/nova2-jp)の[CHALLENGE]{.tag.is-challenge}譜面は、HYPER MASTER MODEで下記の条件を満たした場合のみ遊べる。
+- [Dance Dance Revolution SuperNOVA2 (JP)](/series/nova2-jp)の :badge[CHALLENGE]{type="primary"}譜面は、HYPER MASTER MODEで下記の条件を満たした場合のみ遊べる。
   - EXPERTモジュールとPRIZEモジュールを装備する
   - この楽曲が課題曲となっているミッション(SP: A-05, DP: A-05 or L-06)を選択する
   - 他のモードでは遊ぶことはできない

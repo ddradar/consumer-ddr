@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:playstation2"} DDRMAX -DanceDanceRevolution 6thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
-- "festival"
+- [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
 
 ## 譜面一覧
 

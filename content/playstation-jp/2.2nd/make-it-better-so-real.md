@@ -11,7 +11,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
-- "festival"
+- [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

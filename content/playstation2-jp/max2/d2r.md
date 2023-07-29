@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 -DanceDanceRevolution 7thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max2)
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
-- "festival"
+- [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 - "x2"
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
@@ -29,4 +29,4 @@
 
 ## メモ
 
-- ["FREEZE" Special]{.tag.is-challenge}は「D2R("FREEZE" Special)」という別楽曲として収録。
+- :badge["FREEZE" Special]{type="primary"}は「D2R("FREEZE" Special)」という別楽曲として収録。

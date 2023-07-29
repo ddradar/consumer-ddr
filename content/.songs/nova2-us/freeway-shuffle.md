@@ -36,7 +36,7 @@ series:
 
 ## メモ
 
-- [Dance Dance Revolution SuperNOVA2 (JP)](/series/nova2-jp)の[CHALLENGE]{.tag.is-challenge}譜面は、HYPER MASTER MODEで下記の条件を満たした場合のみ遊べる。
+- [Dance Dance Revolution SuperNOVA2 (JP)](/series/nova2-jp)の :badge[CHALLENGE]{type="primary"}譜面は、HYPER MASTER MODEで下記の条件を満たした場合のみ遊べる。
   - EXPERTモジュールとPRIZEモジュールを装備する
   - この楽曲が課題曲となっているミッション(SP/DPともにE-07が無難)を選択する
   - 他のモードでは遊ぶことはできない

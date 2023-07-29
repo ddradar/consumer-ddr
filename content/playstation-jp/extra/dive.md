@@ -1,12 +1,3 @@
----
-slug: "dive"
-name: "DIVE"
-artist: "Be For U"
-from: "DanceDanceRevolution 5thMIX"
-bpm: 
-series:
----
-
 # DIVE / Be For U
 
 |Artist|BPM|From|
@@ -18,7 +9,7 @@ series:
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution EXTRA MIX :icon{name="flag:jp-4x3"}](/playstation-jp/extra)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 5thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/5th)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
-- "festival"
+- [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 
 ## 譜面一覧
@@ -30,7 +21,7 @@ series:
 |SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/extra,/playstation-jp/5th,/playstation-us/konamix,/playstation2-jp/festival,/playstation2-us/extreme2" level="5"}|272/0||
 |SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/extra,/playstation-jp/5th,/playstation-us/konamix,/playstation2-jp/festival,/playstation2-us/extreme2" level="8"}|354/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/extra,/playstation-jp/5th,/playstation-us/konamix,/playstation2-jp/festival,/playstation2-us/extreme2" level="4"}|191/0||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/extra,/playstation-jp/5th,/playstation-us/konamix,/playstation2-jp/festival" level="6"}  :levels{links="/playstation2-us/extreme2" level="6"}|268/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/extra,/playstation-jp/5th,/playstation-us/konamix,/playstation2-jp/festival,/playstation2-us/extreme2" level="6"}|268/0||
 |DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/extra,/playstation-jp/5th,/playstation-us/konamix,/playstation2-jp/festival,/playstation2-us/extreme2" level="7"}|322/0||
 
 ## メモ

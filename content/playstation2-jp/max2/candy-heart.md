@@ -1,12 +1,3 @@
----
-slug: "candy-heart"
-name: "CANDY♥"
-artist: "小坂りゆ"
-from: "DDRMAX2 -DanceDanceRevolution 7thMIX-"
-bpm: 180
-series:
----
-
 # CANDY♥ / 小坂りゆ
 
 |Artist|BPM|From|
@@ -16,7 +7,7 @@ series:
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 -DanceDanceRevolution 7thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max2)
-- "festival"
+- [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
