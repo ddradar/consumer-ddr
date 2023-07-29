@@ -1,22 +1,12 @@
----
-slug: "music-bostik"
-name: "Music (Bostik Radio Edit)"
-artist: "Darude"
-from: "Music"
-bpm: 138
-series:
-  - "ext-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Music (Bostik Radio Edit) / Darude
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Darude|138|Music|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 
 ## 譜面一覧
 

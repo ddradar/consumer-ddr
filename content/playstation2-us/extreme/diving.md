@@ -1,22 +1,12 @@
----
-slug: "diving"
-name: "Diving"
-artist: "4 Strings"
-from: "Diving"
-bpm: 140
-series:
-  - "ext-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Diving / 4 Strings
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|4 Strings|140|Diving|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 
 ## 譜面一覧
 

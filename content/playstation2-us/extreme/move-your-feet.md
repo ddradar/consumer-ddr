@@ -1,22 +1,12 @@
----
-slug: "move-your-feet"
-name: "Move Your Feet"
-artist: "Junior Senior"
-from: "D-D-Don't Don't Stop the Beat"
-bpm: 118
-series:
-  - "ext-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Move Your Feet / Junior Senior
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Junior Senior|118|D-D-Don't Don't Stop the Beat|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 
 ## 譜面一覧
 

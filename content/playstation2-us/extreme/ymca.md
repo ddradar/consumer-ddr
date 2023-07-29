@@ -1,22 +1,12 @@
----
-slug: "ymca"
-name: "Y.M.C.A."
-artist: "VILLAGE PEOPLE"
-from: "Cruisin'"
-bpm: 130
-series:
-  - "ext-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Y.M.C.A. / VILLAGE PEOPLE
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|VILLAGE PEOPLE|130|Cruisin'|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 
 ## 譜面一覧
 

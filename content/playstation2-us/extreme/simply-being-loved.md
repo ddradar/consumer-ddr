@@ -1,22 +1,12 @@
----
-slug: "simply-being-loved"
-name: "Simply Being Loved \"Somnambulist\""
-artist: "BT"
-from: "Somnambulist (Simply Being Loved)"
-bpm: 135
-series:
-  - "ext-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Simply Being Loved "Somnambulist" / BT
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|BT|135|Somnambulist (Simply Being Loved)|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 
 ## 譜面一覧
 

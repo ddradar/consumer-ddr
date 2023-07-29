@@ -15,7 +15,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation-us/1st)
 - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
-- "ext-us"
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (フリープレー)](/windows/grand-prix#フリープレー)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 

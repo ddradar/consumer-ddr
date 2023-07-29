@@ -1,22 +1,12 @@
----
-slug: "planet-rock"
-name: "Planet Rock (Swordfish Radio Edit)"
-artist: "Paul Oakenfold vs. Afrika Bambaata and the Soul Sonic Force"
-from: "Swordfish: The Album"
-bpm: 126
-series:
-  - "ext-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Planet Rock (Swordfish Radio Edit) / Paul Oakenfold vs. Afrika Bambaata and the Soul Sonic Force
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Paul Oakenfold vs. Afrika Bambaata and the Soul Sonic Force|126|Swordfish: The Album|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 
 ## 譜面一覧
 

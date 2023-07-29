@@ -25,13 +25,13 @@ difficulties:
 |[Diamonds](/songs/diamonds)|(J-POP)|111|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
 |[学園天国](/songs/gakuen-tengoku)|(J-POP)|175|:charts{:difficulties="difficulties" levels="1,5,6,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,7" charts="1,2,3"}|
 |[おどるポンポコリン](/songs/odoru-ponpokorin-festival)|(アニメ)|140|:charts{:difficulties="difficulties" levels="1,2,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
-|[Believe](/songs/believe)|Eddie.J|136|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
-|[BIZARRE LOVE TRIANGLE](/songs/bizarre-love-triangle)|Jerry|119|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,7" charts="1,2,3"}|
-|[Kids in America](/songs/kids-in-america)|KIM WILDE|159|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
-|[LADIES' NIGHT](/songs/ladies-night)|∠R|120|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
-|[Like A Virgin](/songs/like-a-virgin)|tama_happytone|126|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[Believe](/playstation2-us/extreme/believe)|Eddie.J|136|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,8" charts="1,2,3"}|
+|[BIZARRE LOVE TRIANGLE](/playstation2-us/extreme/bizarre-love-triangle)|Jerry|119|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,7" charts="1,2,3"}|
+|[Kids in America](/playstation2-us/extreme/kids-in-america)|KIM WILDE|159|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,7,8" charts="1,2,3"}|
+|[LADIES' NIGHT](/playstation2-us/extreme/ladies-night)|∠R|120|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[Like A Virgin](/playstation2-us/extreme/like-a-virgin)|tama_happytone|126|:charts{:difficulties="difficulties" levels="1,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[Superstar](/songs/superstar-jamelia)|Jamelia|110|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
-|[WAITING FOR TONIGHT](/songs/waiting-for-tonight)|P.A.T|125|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
+|[WAITING FOR TONIGHT](/playstation2-us/extreme/waiting-for-tonight)|P.A.T|125|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[.59](/playstation-jp/4th/59)|dj TAKA|123-135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,7" charts="1,2,3"}|
 |[5.1.1.](/playstation-jp/club-vol1/5-1-1)|dj nagureo|101|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[Abyss](/playstation-jp/5th/abyss)|dj TAKA|142|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -43,7 +43,7 @@ difficulties:
 |[Electro Tuned (the SubS mix)](/playstation-jp/5th/electro-tuned)|TaQ|125|:charts{:difficulties="difficulties" levels="1,5,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[era (nostalmix)](/playstation-jp/4th/era)|TaQ|90-180|:charts{:difficulties="difficulties" levels="2,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Firefly](/playstation2-jp/max/firefly)|BeForU|150|:charts{:difficulties="difficulties" levels="1,1,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
-|[Funk Boogie](/songs/funk-boogie)|Funk Kid feat. KOOL BOYS|127|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
+|[Funk Boogie](/playstation2-us/extreme/funk-boogie)|Funk Kid feat. KOOL BOYS|127|:charts{:difficulties="difficulties" levels="1,4,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|
 |[GRADIUSIC CYBER (AMD G5 MIX)](/playstation-jp/3rd/gradiusic-cyber-amd)|BIG-O feat. TAKA|160|:charts{:difficulties="difficulties" levels="1,5,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,9" charts="1,2,3"}|
 |[Holic](/playstation-jp/4th/holic)|TaQ|155|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[HYSTERIA](/playstation-jp/extra/hysteria)|NAOKI 190|190|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -54,8 +54,8 @@ difficulties:
 |[MAKE IT BETTER (So-REAL MIX)](/playstation-jp/2nd/make-it-better-so-real)|mitsu-O! SUMMER|118|:charts{:difficulties="difficulties" levels="1,5,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
 |[サナ・モレッテ・ネ・エンテ](/playstation-jp/5th/sana-mollete-ne-ente)|Togo Project feat. Sana|90|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[un deux trois](/playstation2-jp/extreme/un-deux-trois)|SDMS|140|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|
-|[You're Not Here](/songs/you-re-not-here)|Heather|70-138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
-|[Your Rain (RAGE MIX)](/songs/your-rain)|Akira Yamaoka feat. Mary Elizabeth McGlynn|84|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
+|[You're Not Here](/playstation2-us/extreme/you-re-not-here)|Heather|70-138|:charts{:difficulties="difficulties" levels="1,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
+|[Your Rain (RAGE MIX)](/playstation2-us/extreme/your-rain)|Akira Yamaoka feat. Mary Elizabeth McGlynn|84|:charts{:difficulties="difficulties" levels="1,3,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[ABSOLUTE (Cuff -N- Stuff it Mix)](/songs/absolute-cuff)|Thuggie D.|144|:charts{:difficulties="difficulties" levels="3,6,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,7" charts="1,2,3"}|
 |[ANALYZE](/songs/analyze)|B. BANDJ|93|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,7" charts="1,2,3"}|
 |[BABY BABY GIMME YOUR LOVE 2002](/songs/baby-baby-gimme-your-love-2002)|DIVAS|96|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
@@ -84,7 +84,7 @@ difficulties:
 |[SOMETHING WONDERFUL](/songs/something-wonderful)|L.E.D.|150|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
 |[There 4 You](/songs/there-4-you)|Thuggie D.|113|:charts{:difficulties="difficulties" levels="3,5,6" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[What is Love?](/songs/what-is-love)|TOMOSUKE|130|:charts{:difficulties="difficulties" levels="3,6,7" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
-|[MAXIMIZER](/songs/maximizer)|CLI-MAX S.|190|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
+|[MAXIMIZER](/playstation2-us/extreme/maximizer)|CLI-MAX S.|190|:charts{:difficulties="difficulties" levels="2,6,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,8" charts="1,2,3"}|
 |[OUTER LIMITS](/songs/outer-limits)|L.E.D.-G|86-343|:charts{:difficulties="difficulties" levels="5,7,10+" charts="1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10+" charts="1,2,3"}|
 |[桜](/playstation2-jp/extreme/sakura)|RevenG|14-300|:charts{:difficulties="difficulties" levels="3,5,8,10+,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="6,8,10+,9" charts="1,2,3,4"}|
 

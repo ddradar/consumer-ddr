@@ -79,7 +79,7 @@ difficulties:
 |[Healing Vision (Angelic mix)](/playstation-jp/5th/healing-vision-angelic)|2MB|196|:charts{:difficulties="difficulties" levels="5,7,10,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,14" charts="1,2,3"}|
 |[La Señorita Virtual](/playstation-jp/3rd/la-senorita-virtual)|2MB|182|:charts{:difficulties="difficulties" levels="4,8,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,12" charts="1,2,3"}|
 |[LOVE THIS FEELIN'](/playstation-jp/2nd/love-this-feelin)|Chang ma|95-190|:charts{:difficulties="difficulties" levels="4,9,10,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,10,11" charts="1,2,3"}|
-|[MAXIMIZER](/songs/maximizer)|CLI-MAX S.|190|:charts{:difficulties="difficulties" levels="5,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
+|[MAXIMIZER](/playstation2-us/extreme/maximizer)|CLI-MAX S.|190|:charts{:difficulties="difficulties" levels="5,6,9,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,11" charts="1,2,3"}|
 |[ORION.78 (civilization mix)](/playstation-jp/4th/orion-78-civilization)|2MB|200|:charts{:difficulties="difficulties" levels="4,9,12,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="9,11,13" charts="1,2,3"}|
 |[PARANOiA KCET \~clean mix\~](/playstation-jp/1st/paranoia-kcet)|2MB|180|:charts{:difficulties="difficulties" levels="4,8,9,11" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="8,10,10" charts="1,2,3"}|
 |[PARANOiA MAX \~DIRTY MIX\~](/playstation-jp/1st/paranoia-max)|190|190|:charts{:difficulties="difficulties" levels="5,9,10,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="10,12,11" charts="1,2,3"}|

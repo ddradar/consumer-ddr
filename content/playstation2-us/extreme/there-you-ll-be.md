@@ -1,22 +1,12 @@
----
-slug: "there-you-ll-be"
-name: "THERE YOU'LL BE"
-artist: "DJ SPEEDO feat. ANGELICA"
-from: "Dancemania SPEED 8"
-bpm: 172
-series:
-  - "ext-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# THERE YOU'LL BE / DJ SPEEDO feat. ANGELICA
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|DJ SPEEDO feat. ANGELICA|172|Dancemania SPEED 8|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 
 ## 譜面一覧
 
