@@ -35,5 +35,5 @@ series:
 
 1. [ON THE JAZZ](/playstation-jp/5th/on-the-jazz)
 1. [COSMIC COWGIRL](/songs/cosmic-cowgirl)
-1. [NEMESIS](/songs/nemesis)
+1. [NEMESIS](/playstation2-jp/festival/nemesis)
 1. [I Wanna Be Your Star Speedy Mix](/songs/i-wanna-be-your-star)

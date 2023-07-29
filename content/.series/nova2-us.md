@@ -63,8 +63,8 @@ difficulties:
 |[Vem brincar](/songs/vem-brincar)|Caldeira feat.Téka Penteriche|135|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,6,8" charts="1,2,3"}|
 |[Baby's Tears (SKY GIRLS opening theme)](/songs/babys-tears-op)|RIYU KOSAKA|170|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[bag](/playstation2-jp/extreme/bag)|RevenG|65|:charts{:difficulties="difficulties" levels="1,4,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,8,10" charts="1,2,3"}|
-|[BAILA! BAILA!](/songs/baila-baila)|DANDY MINEIRO|134|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
-|[BALLAD FOR YOU](/songs/ballad-for-you)|NM feat.Thomas Howard|65|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
+|[BAILA! BAILA!](/playstation2-jp/festival/baila-baila)|DANDY MINEIRO|134|:charts{:difficulties="difficulties" levels="1,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
+|[BALLAD FOR YOU](/playstation2-jp/festival/ballad-for-you)|NM feat.Thomas Howard|65|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,7" charts="1,2,3"}|
 |[CALICO CAT ROCK](/playstation2-jp/extreme/calico-cat-rock)|ANETTAI MAJI-SKA BAKUDAN|246|:charts{:difficulties="difficulties" levels="2,3,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,8" charts="1,2,3"}|
 |[cachaca](/songs/cachaca)|Mokky de Yah Yah's|128|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
 |[CRASH!](/playstation2-jp/max2/crash)|mr.BRIAN & THE FINAL BAND|200|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,5,8" charts="1,2,3"}|
@@ -82,7 +82,7 @@ difficulties:
 |[MONDO STREET](/songs/mondo-street)|Orange Lounge|180|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Morning Glory](/songs/morning-glory)|BeForU|160|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,4,7" charts="1,2,3"}|
 |[NIJIIRO](/songs/nijiiro)|DJ YOSHITAKA feat G.S.C license|160|:charts{:difficulties="difficulties" levels="1,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,8" charts="1,2,3"}|
-|[OUTER LIMITS](/songs/outer-limits)|L.E.D.-G|86-343|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
+|[OUTER LIMITS](/playstation2-jp/festival/outer-limits)|L.E.D.-G|86-343|:charts{:difficulties="difficulties" levels="3,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
 |[rainbow flyer](/songs/rainbow-flyer)|dj TAKA|148|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[SEDUCTION(Vocal Remix)](/songs/seduction-vocal)|NC feat. NRG Factory|190|:charts{:difficulties="difficulties" levels="2,4,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[Silver Platform - I wanna get your heart -](/songs/silver-platform)|U1 Reincarnates w/Leah|140|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
