@@ -6,8 +6,8 @@
 
 ## 収録タイトル
 
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (フリープレー)](/windows/grand-prix#フリープレー)
-  - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (フリープレー)](/windows/grand-prix#フリープレー)
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧
 

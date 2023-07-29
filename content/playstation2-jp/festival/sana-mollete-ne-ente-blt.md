@@ -1,14 +1,3 @@
----
-slug: "sana-mollete-ne-ente-blt"
-name: "SANA MOLLETE NE ENTE (B.L.T. STYLE)"
-artist: "Togo Project feat. Sana"
-from: "beatmania APPEND ClubMIX"
-bpm: "90-180"
-series:
-- [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
----
-
 # SANA MOLLETE NE ENTE (B.L.T. STYLE) / Togo Project feat. Sana
 
 |Artist|BPM|From|
@@ -17,7 +6,8 @@ series:
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
 
 ## 譜面一覧
 
