@@ -24,5 +24,5 @@
 
 ## メモ
 
-- [DDR FESTIVAL](/series/festival)の :badge[SINGLE/EXPERT]{type="success"}譜面は後のシリーズで登場した :badge[SINGLE/CHALLENGE]{type="primary"}と同一。
+- [DDR FESTIVAL](/playstation2-jp/festival)の :badge[SINGLE/EXPERT]{type="success"}譜面は後のシリーズで登場した :badge[SINGLE/CHALLENGE]{type="primary"}と同一。
   - 譜面一覧では :badge[SINGLE/CHALLENGE]{type="primary"}に掲載。
