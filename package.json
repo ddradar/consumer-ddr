@@ -27,7 +27,7 @@
     "@oruga-ui/theme-bulma": "^0.2.11"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.14.3",
+    "@nuxt-themes/docus": "^1.14.4",
     "@nuxt/devtools": "^0.6.7",
     "@nuxt/eslint-config": "^0.1.1",
     "@nuxthq/studio": "^0.13.4",
