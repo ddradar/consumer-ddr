@@ -88,7 +88,7 @@ difficulties:
 |[Silver Platform - I wanna get your heart -](/songs/silver-platform)|U1 Reincarnates w/Leah|140|:charts{:difficulties="difficulties" levels="1,3,4,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="3,5,7" charts="1,2,3"}|
 |[Trim](/songs/trim)|kobo|85-340|:charts{:difficulties="difficulties" levels="3,5,8,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,8,10" charts="1,2,3"}|
 |[Under the Sky](/songs/under-the-sky)|SayakaMinami(BeForU) with platoniX|170|:charts{:difficulties="difficulties" levels="1,1,3,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="2,5,6" charts="1,2,3"}|
-|[Fascination -eternal love mix-](/songs/fascination-eternal-love)|2MB|???|:charts{:difficulties="difficulties" levels="4,9,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,9,10,10" charts="1,2,3,4"}|
+|[Fascination -eternal love mix-](/playstation2-us/supernova/fascination-eternal-love)|2MB|???|:charts{:difficulties="difficulties" levels="4,9,9,10,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="9,9,10,10" charts="1,2,3,4"}|
 |[NGO](/songs/ngo)|Keiichi Nabeshima|???|:charts{:difficulties="difficulties" levels="3,6,7,9,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="5,7,9,10" charts="1,2,3,4"}|
 |[Unreal](/songs/unreal)|Black Rose Garden|???|:charts{:difficulties="difficulties" levels="2,5,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,8,9" charts="1,2,3"}|
 |[TRIP MACHINE PhoeniX](/songs/trip-machine-phoenix)|DE-SIRE alterative|???|:charts{:difficulties="difficulties" levels="1,4,7,9,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="4,7,9,10" charts="1,2,3,4"}|

@@ -88,7 +88,7 @@ difficulties:
 |[777](/songs/777)|EeL|200|:charts{:difficulties="difficulties" levels="?,4,6,8,9" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="?,3,6,9,10" charts="0,1,2,3,4"}|
 |[ABSOLUTE](/playstation-jp/5th/absolute)|dj TAKA|144|:charts{:difficulties="difficulties" levels="?,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,7" charts="0,1,2,3"}|
 |[MOBO★MOGA](/playstation2-jp/extreme/mobo-moga)|Orange Lounge|172|:charts{:difficulties="difficulties" levels="?,3,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,7" charts="0,1,2,3"}|
-|[murmur twins](/songs/murmur-twins)|yu_tokiwa.djw|174|:charts{:difficulties="difficulties" levels="?,2,6,7,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="?,2,6,7,10" charts="0,1,2,3,4"}|
+|[murmur twins](/playstation2-us/supernova/murmur-twins)|yu_tokiwa.djw|174|:charts{:difficulties="difficulties" levels="?,2,6,7,10" charts="0,1,2,3,4"}|:charts{:difficulties="difficulties" levels="?,2,6,7,10" charts="0,1,2,3,4"}|
 |[PARANOiA Rebirth](/playstation-jp/3rd/paranoia-rebirth)|190'|190|:charts{:difficulties="difficulties" levels="?,6,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,6,7,9" charts="0,1,2,3"}|
 
 ## システム概要

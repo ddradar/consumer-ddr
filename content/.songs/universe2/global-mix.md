@@ -34,6 +34,6 @@ series:
 下記楽曲のメドレーとなっている。
 
 1. [on voit la mer](/songs/on-voit-la-mer)
-1. [Balalaika, Carried With the Wind Jondi&Spesh mix](/songs/balalaika-carried-with-the-wind)
+1. [Balalaika, Carried With the Wind Jondi&Spesh mix](/playstation2-us/supernova/balalaika-carried-with-the-wind)
 1. [MATSURI J-SUMMER MIX](/playstation2-jp/festival/matsuri-j-summer)
 1. [Emi's Song](/songs/emis-song)

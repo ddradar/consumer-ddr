@@ -7,16 +7,16 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
-- "nova-us"
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA :icon{name="flag:us-4x3"}](/playstation2-us/supernova)
 
 ## 譜面一覧
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/festival,/nova-us" level="1"}|133/4||
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/festival,/nova-us" level="5"}|193/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/festival,/nova-us" level="7"}|272/6||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/festival,/nova-us" level="8"}|384/22||
-|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/festival,/nova-us" level="4"}|185/14||
-|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/festival,/nova-us" level="7"}|235/14||
-|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/festival,/nova-us" level="8"}|292/10||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation2-jp/festival,/playstation2-us/supernova" level="1"}|133/4||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/festival,/playstation2-us/supernova" level="5"}|193/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/festival,/playstation2-us/supernova" level="7"}|272/6||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/festival,/playstation2-us/supernova" level="8"}|384/22||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation2-jp/festival,/playstation2-us/supernova" level="4"}|185/14||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation2-jp/festival,/playstation2-us/supernova" level="7"}|235/14||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation2-jp/festival,/playstation2-us/supernova" level="8"}|292/10||
