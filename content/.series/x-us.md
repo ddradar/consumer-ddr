@@ -68,7 +68,7 @@ difficulties:
 |[Shades of Grey](/songs/shades-of-grey)|Fracus|170|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,9" charts="1,2,3"}|
 |[Slip Out](/songs/slip-out)|Harmony Machine|95|:charts{:difficulties="difficulties" levels="1,3,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,6,8" charts="1,2,3"}|
 |[Slip Out (bounce in beat mix)](/songs/slip-out-bounce-in-beat)|Harmony Machine|106|:charts{:difficulties="difficulties" levels="1,4,6,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
-|[SOUL CRASH](/songs/soul-crash)|nc ft HARDCORE NATION|142|:charts{:difficulties="difficulties" levels="2,6,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
+|[SOUL CRASH](/playstation2-jp/supernova/soul-crash)|nc ft HARDCORE NATION|142|:charts{:difficulties="difficulties" levels="2,6,9,13" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="6,9,12" charts="1,2,3"}|
 |[stealth](/songs/stealth)|DAISUKE ASAKURA|160|:charts{:difficulties="difficulties" levels="2,5,7,10" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,10" charts="1,2,3"}|
 |[SUNKiSS♥DROP](/songs/sunkiss-drop)|jun with Alison|185|:charts{:difficulties="difficulties" levels="3,5,7,12" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="4,7,10" charts="1,2,3"}|
 |[switch](/songs/switch)|DAISUKE ASAKURA ex. TЁЯRA|152|:charts{:difficulties="difficulties" levels="3,6,8,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="5,7,9" charts="1,2,3"}|
