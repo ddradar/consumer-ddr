@@ -1,22 +1,12 @@
----
-slug: "trickster"
-name: "Trickster"
-artist: "水樹奈々"
-from: "Trickster"
-bpm: 174
-series:
-- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Trickster / 水樹奈々
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|水樹奈々|174|Trickster|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 
 ## 譜面一覧
 

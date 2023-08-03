@@ -1,22 +1,12 @@
----
-slug: "sekai-wa-odoru"
-name: "世界は踊る"
-artist: "BREAKERZ"
-from: "世界は踊る/灼熱"
-bpm: 110
-series:
-- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# 世界は踊る / BREAKERZ
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|BREAKERZ|110|世界は踊る/灼熱|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 
 ## 譜面一覧
 

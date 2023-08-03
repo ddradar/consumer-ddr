@@ -1,22 +1,12 @@
----
-slug: "real-high-speed"
-name: "real-high-SPEED"
-artist: "Makoto feat. SK"
-from: "DanceDanceRevolution X CS (JP)"
-bpm: 130
-series:
-- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# real-high-SPEED / Makoto feat. SK
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Makoto feat. SK|130|DanceDanceRevolution X CS (JP)|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 
 ## 譜面一覧
 

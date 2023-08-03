@@ -1,22 +1,12 @@
----
-slug: "koko-soko"
-name: "Koko Soko"
-artist: "SMiLE.dk"
-from: "Party Around The World"
-bpm: 140
-series:
-- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Koko Soko / SMiLE.dk
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|SMiLE.dk|140|Party Around The World|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 
 ## 譜面一覧
 

@@ -1,22 +1,12 @@
----
-slug: "suki-melo"
-name: "スキ☆メロ"
-artist: "小倉優子"
-from: "スキ☆メロ"
-bpm: 180
-series:
-- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# スキ☆メロ / 小倉優子
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|小倉優子|180|スキ☆メロ|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 
 ## 譜面一覧
 

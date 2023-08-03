@@ -1,22 +1,12 @@
----
-slug: "in-love-wit-you"
-name: "in love wit you"
-artist: "Kotaro feat. Aya"
-from: "DanceDanceRevolution X CS (JP)"
-bpm: 148
-series:
-- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# in love wit you / Kotaro feat. Aya
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Kotaro feat. Aya|148|DanceDanceRevolution X CS (JP)|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 
 ## 譜面一覧
 
