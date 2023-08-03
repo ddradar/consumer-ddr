@@ -10,7 +10,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 5thMIX :icon{name="flag:jp-4x3"}](/playstation-jp/5th)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME 2 :icon{name="flag:us-4x3"}](/playstation2-us/extreme2)
-- "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

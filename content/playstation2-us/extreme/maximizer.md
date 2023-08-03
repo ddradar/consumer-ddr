@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 - [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
-- "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

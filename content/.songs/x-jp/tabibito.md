@@ -5,7 +5,7 @@ artist: "高杉さと美"
 from: "旅人"
 bpm: 109
 series:
-  - "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

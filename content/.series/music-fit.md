@@ -41,7 +41,7 @@ difficulties:
 |[HOT LIMIT](/songs/hot-limit)|(HIGH and MIGHTY COLOR)|140|:charts{:difficulties="difficulties" levels="2,4,5,7" charts="0,1,2,3"}|
 |[迷宮バタフライ](/songs/meikyu-butterfly)|ほしな歌唄（CV:水樹奈々)|142|:charts{:difficulties="difficulties" levels="2,4,5,7" charts="0,1,2,3"}|
 |[空色デイズ](/songs/sorairo-days)|(中川翔子)|174|:charts{:difficulties="difficulties" levels="2,4,5,8" charts="0,1,2,3"}|
-|[BUTTERFLY](/songs/butterfly-2008)|SMiLE.dk|135|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
+|[BUTTERFLY](/playstation2-us/x/butterfly-2008)|SMiLE.dk|135|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
 |[Climax Jump pop'n form](/songs/climax-jump-popn-form)|(AAA DEN-O Form)|170|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
 |[｢カルメン｣前奏曲](/songs/carmen)|ヴァイオレント・ストリング・アンサンブル|177|:charts{:difficulties="difficulties" levels="2,4,6,9" charts="0,1,2,3"}|
 |[雫](/songs/shizuku-sukima-switch)|(スキマスイッチ)|140-180|:charts{:difficulties="difficulties" levels="2,5,6,7" charts="0,1,2,3"}|

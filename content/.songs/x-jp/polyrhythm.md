@@ -5,7 +5,7 @@ artist: "Pink Lemonade"
 from: "ポリリズム"
 bpm: 128
 series:
-  - "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
   - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (フリープレー)](/windows/grand-prix#フリープレー)
   - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 ---

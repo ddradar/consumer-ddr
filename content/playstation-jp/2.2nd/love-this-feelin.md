@@ -12,7 +12,7 @@
 - [:icon{name="simple-icons:windows"} Dance Dance Revolution](/windows/1st)
 - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
-- "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

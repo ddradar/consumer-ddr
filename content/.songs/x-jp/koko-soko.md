@@ -5,7 +5,7 @@ artist: "SMiLE.dk"
 from: "Party Around The World"
 bpm: 140
 series:
-  - "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

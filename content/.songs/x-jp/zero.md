@@ -5,7 +5,7 @@ artist: "TЁЯRA"
 from: "beatmania IIDX 14 GOLD"
 bpm: "90-180"
 series:
-  - "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
   - "x2"
 ---
 

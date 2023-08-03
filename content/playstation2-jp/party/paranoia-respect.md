@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
-- "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

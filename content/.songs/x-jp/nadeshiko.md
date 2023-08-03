@@ -5,7 +5,7 @@ artist: "紅色リトマス"
 from: "pop'n music 15 ADVENTURE"
 bpm: 163
 series:
-  - "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
   - "x2"
   - "grand-prix-vol1"
 ---

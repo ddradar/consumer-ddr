@@ -5,7 +5,7 @@ artist: "BREAKERZ"
 from: "世界は踊る/灼熱"
 bpm: 110
 series:
-  - "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

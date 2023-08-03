@@ -5,7 +5,7 @@ artist: "小倉優子"
 from: "スキ☆メロ"
 bpm: 180
 series:
-  - "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 ---
 
 # {{ $doc.name }} / {{ $doc.artist }}

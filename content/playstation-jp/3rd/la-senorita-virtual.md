@@ -9,7 +9,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 3rd MIX :icon{name="flag:jp-4x3"}](/playstation-jp/3rd)
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
-- "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 - "x2"
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 

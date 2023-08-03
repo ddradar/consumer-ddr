@@ -5,7 +5,7 @@ artist: "TAKA respect for J.S.B."
 from: "pop'n music 14 FEVER!"
 bpm: 174
 series:
-  - "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
   - "x2"
   - "grand-prix-vol8"
 ---

@@ -5,7 +5,7 @@ artist: "日本少年"
 from: "jubeat"
 bpm: 150
 series:
-  - "x-jp"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
   - "x2"
   - "grand-prix-vol1"
 ---
