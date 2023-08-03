@@ -39,7 +39,7 @@ difficulties:
 |[Bigger Than Big (Original Vocal Mix)](/songs/bigger-than-big)|Super Mal feat. Luciana|132|:charts{:difficulties="difficulties" levels="1,4,5,7" charts="0,1,2,3"}|
 |[HOUSE NATION](/songs/house-nation)|ravex|128|:charts{:difficulties="difficulties" levels="2,4,6,7" charts="0,1,2,3"}|
 |[Our Song](/songs/our-song)|Shinichi Osawa|136|:charts{:difficulties="difficulties" levels="1,4,6,7" charts="0,1,2,3"}|
-|[Lesson by DJ](/songs/lesson-by-dj)|U.T.D & Friends|120|:charts{:difficulties="difficulties" levels="1,1" charts="0,1"}|
+|[Lesson by DJ](/wii-us/hottest/lesson-by-dj)|U.T.D & Friends|120|:charts{:difficulties="difficulties" levels="1,1" charts="0,1"}|
 |[Lesson2 by DJ](/songs/lesson2-by-dj)|MC DDR|125|:charts{:difficulties="difficulties" levels="2,2,-,-" charts="0,1,2,3"}|
 |[Open Your Eyes](/songs/open-your-eyes)|NM feat.JaY_bEe (JB Ah-Fua)|85|:charts{:difficulties="difficulties" levels="1,2,4,5" charts="0,1,2,3"}|
 |[Settin' the Scene](/songs/settin-the-scene)|U1 night style|110|:charts{:difficulties="difficulties" levels="1,2,5,7" charts="0,1,2,3"}|
