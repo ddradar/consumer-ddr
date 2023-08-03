@@ -9,7 +9,7 @@
 - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 -DanceDanceRevolution 7thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max2)
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
-- "universe2"
+- [:icon{name="simple-icons:xbox"} DanceDanceRevolution UNIVERSE2 :icon{name="flag:us-4x3"}](/xbox360-us/universe2)
 
 ## 譜面一覧
 

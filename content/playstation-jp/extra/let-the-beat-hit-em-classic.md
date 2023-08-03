@@ -10,7 +10,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:playstation2"} DDRMAX -DanceDanceRevolution 6thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max)
 - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
-- "universe2"
+- [:icon{name="simple-icons:xbox"} DanceDanceRevolution UNIVERSE2 :icon{name="flag:us-4x3"}](/xbox360-us/universe2)
 - "x2"
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 

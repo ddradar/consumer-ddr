@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:us-4x3"}](/playstation2-us/supernova2)
-- "universe2"
+- [:icon{name="simple-icons:xbox"} DanceDanceRevolution UNIVERSE2 :icon{name="flag:us-4x3"}](/xbox360-us/universe2)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 
 ## 譜面一覧

@@ -1,0 +1,20 @@
+# Anthema / oo39.com
+
+|Artist|BPM|From|
+|------|---|----|
+|oo39.com|144||
+
+## 収録タイトル
+
+- [:icon{name="simple-icons:xbox"} DanceDanceRevolution UNIVERSE2 :icon{name="flag:us-4x3"}](/xbox360-us/universe2)
+
+|PlayStyle|Difficulty|Levels|Notes|Movie|
+|---------|----------|------|-----|-----|
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/xbox360-us/universe2" level="?"}|73/4||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/xbox360-us/universe2" level="3"}|127/3||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/xbox360-us/universe2" level="5"}|193/11||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/xbox360-us/universe2" level="9"}|342/4||
+|DOUBLE| :badge[BEGINNER]{type="info"}| :levels{links="/xbox360-us/universe2" level="?"}|||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/xbox360-us/universe2" level="3"}|122/1||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/xbox360-us/universe2" level="5"}|193/11||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/xbox360-us/universe2" level="9"}|332/4||
