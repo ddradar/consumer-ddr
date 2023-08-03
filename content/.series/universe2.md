@@ -50,7 +50,7 @@ difficulties:
 |[Breathing More](/songs/breathing-more)|Larissa Lam|140|:charts{:difficulties="difficulties" levels="?,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,5,7" charts="0,1,2,3"}|
 |[Contract [Breach Mix]](/songs/contract)|Rupesh Cartel|138|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,8" charts="0,1,2,3"}|
 |[Do It Right](/songs/do-it-right-afd)|AFD feat. Ashley|126|:charts{:difficulties="difficulties" levels="?,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,7" charts="0,1,2,3"}|
-|[EternuS](/songs/eternus)|Sanxion7|140|:charts{:difficulties="difficulties" levels="?,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,9" charts="0,1,2,3"}|
+|[EternuS](/playstation2-us/supernova2/eternus)|Sanxion7|140|:charts{:difficulties="difficulties" levels="?,4,6,9" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,4,6,9" charts="0,1,2,3"}|
 |[Get Up! Give Up! Move On!](/songs/get-up-give-up-move-on)|The Divys|144|:charts{:difficulties="difficulties" levels="?,2,4,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,2,4,6" charts="0,1,2,3"}|
 |[Handle Your Business](/songs/handle-your-business)|Starla Marie feat. Coco J|95|:charts{:difficulties="difficulties" levels="?,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,5,8" charts="0,1,2,3"}|
 |[In Different Things USA Club Mix](/songs/in-different-things)|ReName|120|:charts{:difficulties="difficulties" levels="?,2,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,2,5,7" charts="0,1,2,3"}|
@@ -65,7 +65,7 @@ difficulties:
 |[Summer Girl](/songs/summer-girl)|Neverakka|135|:charts{:difficulties="difficulties" levels="?,3,5,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,7" charts="0,1,2,3"}|
 |[Synergy](/songs/synergy)|C-14|140|:charts{:difficulties="difficulties" levels="?,4,7,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|
 |[Tactical](/songs/tactical)|Drew Campbell|151|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|
-|[Until Forever](/songs/until-forever)|Beatdrop|142|:charts{:difficulties="difficulties" levels="?,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|
+|[Until Forever](/playstation2-us/supernova2/until-forever)|Beatdrop|142|:charts{:difficulties="difficulties" levels="?,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|
 |[Yoru Funk](/songs/yoru-funk)|oo39.com|100|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,8" charts="0,1,2,3"}|
 |[Akiba Drift](/songs/akiba-drift)|Ko Kimura|132|:charts{:difficulties="difficulties" levels="?,2,5,6" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,2,5,7" charts="0,1,2,3"}|
 |[Better Than Before](/songs/better-than-before)|Drew Campbell|136|:charts{:difficulties="difficulties" levels="?,4,6,7" charts="0,1,2,3"}|:charts{:difficulties="difficulties" levels="?,3,6,7" charts="0,1,2,3"}|

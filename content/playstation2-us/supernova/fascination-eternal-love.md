@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA :icon{name="flag:us-4x3"}](/playstation2-us/supernova)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova)
-- "nova2-us"
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:us-4x3"}](/playstation2-us/supernova2)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution 2nd ReMIX APPEND CLUB VERSION vol.1 :icon{name="flag:jp-4x3"}](/playstation-jp/club-vol1)
 - [:icon{name="simple-icons:sega"} Dance Dance Revolution CLUB VERSION Dreamcast Edition :icon{name="flag:jp-4x3"}](/dreamcast-jp/club)
-- "nova2-us"
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:us-4x3"}](/playstation2-us/supernova2)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧
