@@ -1,23 +1,13 @@
----
-slug: "the-flower-in-your-smile"
-name: "The flower in your smile"
-artist: "TACOS NAOMI feat.小久保裕之"
-from: "DanceDanceRevolution SuperNOVA2 CS (JP)"
-bpm: 186
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
-  - "grand-prix-vol8"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# The flower in your smile / TACOS NAOMI feat.小久保裕之
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|TACOS NAOMI feat.小久保裕之|186|DanceDanceRevolution SuperNOVA2 CS (JP)|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
+- "grand-prix-vol8"
 
 ## 譜面一覧
 

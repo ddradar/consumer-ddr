@@ -1,22 +1,12 @@
----
-slug: "my-favorite-things"
-name: "My Favorite Things"
-artist: "SLOTH MUSIC PROJECT feat. ALISON WADE"
-from: "The Sound Of Music (An Original Soundtrack Recording)"
-bpm: 130
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# My Favorite Things / SLOTH MUSIC PROJECT feat. ALISON WADE
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|SLOTH MUSIC PROJECT feat. ALISON WADE|130|The Sound Of Music (An Original Soundtrack Recording)|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 
 ## 譜面一覧
 

@@ -1,23 +1,13 @@
----
-slug: "trust"
-name: "Trust -DanceDanceRevolution mix-"
-artist: "Tatsh feat. ヨーコ"
-from: "天元突破グレンラガン キャラクターソング"
-bpm: 164
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
-  - "x-us"
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Trust -DanceDanceRevolution mix- / Tatsh feat. ヨーコ
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|Tatsh feat. ヨーコ|164|天元突破グレンラガン キャラクターソング|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
+- "x-us"
 
 ## 譜面一覧
 

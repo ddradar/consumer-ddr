@@ -1,22 +1,12 @@
----
-slug: "sunrise"
-name: "SUNRISE(JASON NEVINS REMIX)"
-artist: "DURAN DURAN"
-from: "(Reach Up For The) Sunrise"
-bpm: 130
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# SUNRISE(JASON NEVINS REMIX) / DURAN DURAN
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|DURAN DURAN|130|(Reach Up For The) Sunrise|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 
 ## 譜面一覧
 

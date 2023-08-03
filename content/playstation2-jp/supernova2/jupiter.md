@@ -1,22 +1,12 @@
----
-slug: "jupiter"
-name: "木星～組曲『惑星』より"
-artist: "PLEIADES PRODUCTION"
-from: "DanceDanceRevolution SuperNOVA2"
-bpm: 145
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# 木星～組曲『惑星』より / PLEIADES PRODUCTION
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|PLEIADES PRODUCTION|145|DanceDanceRevolution SuperNOVA2|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 
 ## 譜面一覧
 

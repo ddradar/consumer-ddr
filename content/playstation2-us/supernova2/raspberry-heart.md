@@ -26,7 +26,7 @@
 
 ## メモ
 
-- [Dance Dance Revolution SuperNOVA2 (JP)](/series/nova2-jp)の :badge[CHALLENGE]{type="primary"}譜面は、HYPER MASTER MODEで下記の条件を満たした場合のみ遊べる。
+- [Dance Dance Revolution SuperNOVA2 (JP)](/playstation2-jp/supernova2)の :badge[CHALLENGE]{type="primary"}譜面は、HYPER MASTER MODEで下記の条件を満たした場合のみ遊べる。
   - EXPERTモジュールとPRIZEモジュールを装備する
   - この楽曲が課題曲となっているミッション(SP: K-01, DP: I-08)を選択する
   - 他のモードでは遊ぶことはできない

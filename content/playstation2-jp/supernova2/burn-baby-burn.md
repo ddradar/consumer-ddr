@@ -1,22 +1,12 @@
----
-slug: "burn-baby-burn"
-name: "Burn Baby Burn"
-artist: "SLOTH MUSIC PROJECT feat. ANDY L"
-from: "Burn Baby Burn"
-bpm: 156
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Burn Baby Burn / SLOTH MUSIC PROJECT feat. ANDY L
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|SLOTH MUSIC PROJECT feat. ANDY L|156|Burn Baby Burn|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 
 ## 譜面一覧
 

@@ -1,22 +1,12 @@
----
-slug: "two-months-off"
-name: "Two Months Off"
-artist: "TECHNO MASTERS"
-from: "Two Months Off"
-bpm: 140
-series:
-  - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
----
-
-# {{ $doc.name }} / {{ $doc.artist }}
+# Two Months Off / TECHNO MASTERS
 
 |Artist|BPM|From|
 |------|---|----|
-|{{ $doc.artist }}|{{ $doc.bpm }}|{{ $doc.from }}|
+|TECHNO MASTERS|140|Two Months Off|
 
 ## 収録タイトル
 
-:series-list{:series="series"}
+- [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
 
 ## 譜面一覧
 
