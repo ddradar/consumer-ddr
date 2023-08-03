@@ -48,7 +48,7 @@ difficulties:
 |[MY BOY](/songs/my-boy)|(Buono!)|206|:charts{:difficulties="difficulties" levels="2,5,6,8" charts="0,1,2,3"}|
 |[｢ウイリアム・テル｣序曲より](/songs/william-tell)|MC F 40|180|:charts{:difficulties="difficulties" levels="2,5,6,9" charts="0,1,2,3"}|
 |[Lesson by DJ](/wii-us/hottest/lesson-by-dj)|U.T.D & Friends|120|:charts{:difficulties="difficulties" levels="1" charts="0"}|
-|[Lesson2 by DJ](/songs/lesson2-by-dj)|MC DDR|125|:charts{:difficulties="difficulties" levels="2" charts="0"}|
+|[Lesson2 by DJ](/wii-jp/furufuru/lesson2-by-dj)|MC DDR|125|:charts{:difficulties="difficulties" levels="2" charts="0"}|
 |[Lesson3 by DJ](/songs/lesson3-by-dj)|Dr.DDR|132|:charts{:difficulties="difficulties" levels="3" charts="0"}|
 |[Love Again](/songs/love-again)|NM feat. Mr.E.|56-70|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|
 |[Shine](/songs/shine)|TOMOSUKE feat. Adreana|125|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|

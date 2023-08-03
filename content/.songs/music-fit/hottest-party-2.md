@@ -29,14 +29,14 @@ series:
 
 ## メモ
 
-- [ダンスダンスレボリューション フルフル♪パーティー](/series/furufuru)に収録された下記楽曲のメドレー。
-  1. [INTO YOUR HEART (Ruffage remix)](/songs/into-your-heart)
-  1. [escape](/songs/escape)
-  1. [No Matter What](/songs/no-matter-what)
-  1. [REACH THE SKY (Orbit1 remix)](/songs/reach-the-sky)
-  1. [I WANT YOUR LOVE (Darwin remix)](/songs/i-want-your-love)
-  1. [Racing with Time (NAOKI's 999 remix)](/songs/racing-with-time)
-  1. [Dreamin'](/songs/dreamin)
-  1. [Habibe (Antuh muhleke)](/songs/habibe)
-  1. [鏡花水月楼 (DDR EDITION)](/songs/kyoka-suigetsu-row)
-  1. [SILVER☆DREAM](/songs/silver-dream)
+- [ダンスダンスレボリューション フルフル♪パーティー](/wii-jp/furufuru)に収録された下記楽曲のメドレー。
+  1. [INTO YOUR HEART (Ruffage remix)](/wii-jp/furufuru/into-your-heart)
+  1. [escape](/wii-jp/furufuru/escape)
+  1. [No Matter What](/wii-jp/furufuru/no-matter-what)
+  1. [REACH THE SKY (Orbit1 remix)](/wii-jp/furufuru/reach-the-sky)
+  1. [I WANT YOUR LOVE (Darwin remix)](/wii-jp/furufuru/i-want-your-love)
+  1. [Racing with Time (NAOKI's 999 remix)](/wii-jp/furufuru/racing-with-time)
+  1. [Dreamin'](/wii-jp/furufuru/dreamin)
+  1. [Habibe (Antuh muhleke)](/wii-jp/furufuru/habibe)
+  1. [鏡花水月楼 (DDR EDITION)](/wii-jp/furufuru/kyoka-suigetsu-row)
+  1. [SILVER☆DREAM](/wii-jp/furufuru/silver-dream)

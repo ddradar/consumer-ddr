@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:wii"} Dance Dance Revolution HOTTEST PARTY :icon{name="flag:us-4x3"}](/wii-us/hottest)
 - [:icon{name="simple-icons:wii"} Dance Dance Revolution HOTTEST PARTY :icon{name="flag:jp-4x3"}](/wii-jp/hottest)
-- "furufuru"
+- [:icon{name="simple-icons:wii"} ダンスダンスレボリューション フルフル♪パーティー :icon{name="flag:jp-4x3"}](/wii-jp/furufuru)
 - "music-fit"
 
 ## 譜面一覧
