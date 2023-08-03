@@ -11,7 +11,7 @@
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 -DanceDanceRevolution 7thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max2)
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
-- "universe3"
+- [:icon{name="simple-icons:xbox"} DanceDanceRevolution UNIVERSE3 :icon{name="flag:us-4x3"}](/xbox360-us/universe3)
 
 ## 譜面一覧
 

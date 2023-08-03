@@ -11,7 +11,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 -DanceDanceRevolution 7thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max2)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
-- "universe3"
+- [:icon{name="simple-icons:xbox"} DanceDanceRevolution UNIVERSE3 :icon{name="flag:us-4x3"}](/xbox360-us/universe3)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

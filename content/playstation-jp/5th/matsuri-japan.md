@@ -10,7 +10,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:playstation2"} DDRMAX Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
-- "universe3"
+- [:icon{name="simple-icons:xbox"} DanceDanceRevolution UNIVERSE3 :icon{name="flag:us-4x3"}](/xbox360-us/universe3)
 
 ## 譜面一覧
 

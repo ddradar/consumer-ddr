@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:us-4x3"}](/playstation2-us/x)
-  - "universe3"
+- [:icon{name="simple-icons:xbox"} DanceDanceRevolution UNIVERSE3 :icon{name="flag:us-4x3"}](/xbox360-us/universe3)
 - [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
 
 ## 譜面一覧
