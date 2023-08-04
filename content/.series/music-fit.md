@@ -50,28 +50,28 @@ difficulties:
 |[Lesson by DJ](/wii-us/hottest/lesson-by-dj)|U.T.D & Friends|120|:charts{:difficulties="difficulties" levels="1" charts="0"}|
 |[Lesson2 by DJ](/wii-jp/furufuru/lesson2-by-dj)|MC DDR|125|:charts{:difficulties="difficulties" levels="2" charts="0"}|
 |[Lesson3 by DJ](/songs/lesson3-by-dj)|Dr.DDR|132|:charts{:difficulties="difficulties" levels="3" charts="0"}|
-|[Love Again](/songs/love-again)|NM feat. Mr.E.|56-70|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|
-|[Shine](/songs/shine)|TOMOSUKE feat. Adreana|125|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|
-|[Taking It To The Sky](/songs/taking-it-to-the-sky)|U1 feat. Tammy S. Hansen|130|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|
-|[Gotta Dance](/songs/gotta-dance)|NAOKI feat. Aleisha G|145|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|
+|[Love Again](/playstation2-us/x2/love-again)|NM feat. Mr.E.|56-70|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|
+|[Shine](/playstation2-us/x2/shine)|TOMOSUKE feat. Adreana|125|:charts{:difficulties="difficulties" levels="1,2,4,6" charts="0,1,2,3"}|
+|[Taking It To The Sky](/playstation2-us/x2/taking-it-to-the-sky)|U1 feat. Tammy S. Hansen|130|:charts{:difficulties="difficulties" levels="1,2,4,7" charts="0,1,2,3"}|
+|[Gotta Dance](/playstation2-us/x2/gotta-dance)|NAOKI feat. Aleisha G|145|:charts{:difficulties="difficulties" levels="1,2,5,8" charts="0,1,2,3"}|
 |[Be With You (Still Miss You)](/songs/be-with-you)|nc ft.Eddie Kay|110|:charts{:difficulties="difficulties" levels="1,3,4,5" charts="0,1,2,3"}|
-|[Crazy Control](/songs/crazy-control)|D-crew with VAL TIATIA|105|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|
+|[Crazy Control](/playstation2-us/x2/crazy-control)|D-crew with VAL TIATIA|105|:charts{:difficulties="difficulties" levels="1,3,5,6" charts="0,1,2,3"}|
 |[Now's The Time](/songs/nows-the-time)|Brenda|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|
 |[PARADISE](/songs/paradise)|Lea Drop feat. McCall Clark|125|:charts{:difficulties="difficulties" levels="1,3,5,7" charts="0,1,2,3"}|
-|[What Will Come of Me](/songs/what-will-come-of-me)|Black Rose Garden|140|:charts{:difficulties="difficulties" levels="2,3,5,9" charts="0,1,2,3"}|
-|[You are a Star](/songs/you-are-a-star)|NAOKI feat. Anna Kaelin|155|:charts{:difficulties="difficulties" levels="2,3,6,9" charts="0,1,2,3"}|
-|[A Brighter Day](/songs/a-brighter-day)|NAOKI feat. Aleisha G|155|:charts{:difficulties="difficulties" levels="2,4,6,7" charts="0,1,2,3"}|
+|[What Will Come of Me](/playstation2-us/x2/what-will-come-of-me)|Black Rose Garden|140|:charts{:difficulties="difficulties" levels="2,3,5,9" charts="0,1,2,3"}|
+|[You are a Star](/playstation2-us/x2/you-are-a-star)|NAOKI feat. Anna Kaelin|155|:charts{:difficulties="difficulties" levels="2,3,6,9" charts="0,1,2,3"}|
+|[A Brighter Day](/playstation2-us/x2/a-brighter-day)|NAOKI feat. Aleisha G|155|:charts{:difficulties="difficulties" levels="2,4,6,7" charts="0,1,2,3"}|
 |[DYNAMITE RAVE](/dreamcast-jp/2nd/dynamite-rave)|NAOKI|149|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
-|[Sacred Oath](/songs/sacred-oath)|TЁЯRA|170|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
-|[THIS NIGHT](/songs/this-night)|jun feat. Sonnet|160|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
-|[Freeze](/songs/freeze)|nc ft. NRG Factory|140|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|
-|[La libertad](/songs/la-libertad)|Cheryl Horrocks|170|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|
-|[La receta](/songs/la-receta)|Carlos Coco Garcia|130|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|
-|[Heatstroke](/songs/heatstroke)|TAG feat. Angie Lee|175|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|
+|[Sacred Oath](/playstation2-us/x2/sacred-oath)|TЁЯRA|170|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
+|[THIS NIGHT](/playstation2-us/x2/this-night)|jun feat. Sonnet|160|:charts{:difficulties="difficulties" levels="2,4,6,8" charts="0,1,2,3"}|
+|[Freeze](/playstation2-us/x2/freeze)|nc ft. NRG Factory|140|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|
+|[La libertad](/playstation2-us/x2/la-libertad)|Cheryl Horrocks|170|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|
+|[La receta](/playstation2-us/x2/la-receta)|Carlos Coco Garcia|130|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|
+|[Heatstroke](/playstation2-us/x2/heatstroke)|TAG feat. Angie Lee|175|:charts{:difficulties="difficulties" levels="2,4,7,9" charts="0,1,2,3"}|
 |[HOTTEST PARTY](/songs/hottest-party)||120-170|:charts{:difficulties="difficulties" levels="3,5,8,10" charts="0,1,2,3"}|
 |[フルフル♪パーティー](/songs/hottest-party-2)||100-192|:charts{:difficulties="difficulties" levels="3,6,9,10" charts="0,1,2,3"}|
-|[KIMONO♥PRINCESS](/songs/kimono-princess)|jun|95-190|:charts{:difficulties="difficulties" levels="3,6,8,10" charts="0,1,2,3"}|
-|[roppongi EVOLVED ver.A](/songs/roppongi-evolved-ver-a)<br/>[roppongi EVOLVED ver.B](/songs/roppongi-evolved-ver-b)<br/>[roppongi EVOLVED ver.C](/songs/roppongi-evolved-ver-c)|TAG underground|170|:charts{:difficulties="difficulties" levels="3,7,9,10" charts="0,1,2,3"}|
+|[KIMONO♥PRINCESS](/playstation2-us/x2/kimono-princess)|jun|95-190|:charts{:difficulties="difficulties" levels="3,6,8,10" charts="0,1,2,3"}|
+|[roppongi EVOLVED ver.A](/playstation2-us/x2/roppongi-evolved-ver-a)<br/>[roppongi EVOLVED ver.B](/playstation2-us/x2/roppongi-evolved-ver-b)<br/>[roppongi EVOLVED ver.C](/playstation2-us/x2/roppongi-evolved-ver-c)|TAG underground|170|:charts{:difficulties="difficulties" levels="3,7,9,10" charts="0,1,2,3"}|
 
 ## システム概要
 

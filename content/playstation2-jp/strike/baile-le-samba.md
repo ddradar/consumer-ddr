@@ -8,7 +8,7 @@
 
 - [:icon{name="simple-icons:playstation2"} DanceDanceRevolution STRIKE :icon{name="flag:jp-4x3"}](/playstation2-jp/strike)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA :icon{name="flag:us-4x3"}](/playstation2-us/supernova)
-- "x2"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X2 :icon{name="flag:us-4x3"}](/playstation2-us/x2)
 
 ## 譜面一覧
 

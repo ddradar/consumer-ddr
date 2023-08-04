@@ -12,7 +12,7 @@
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 -DanceDanceRevolution 7thMIX- :icon{name="flag:jp-4x3"}](/playstation2-jp/max2)
 - [:icon{name="simple-icons:xbox"} DanceDanceRevolution UNIVERSE2 :icon{name="flag:us-4x3"}](/xbox360-us/universe2)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
-- "x2"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X2 :icon{name="flag:us-4x3"}](/playstation2-us/x2)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

@@ -14,7 +14,7 @@
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution Party Collection :icon{name="flag:jp-4x3"}](/playstation2-jp/party)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:us-4x3"}](/playstation2-us/extreme)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
-- "x2"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X2 :icon{name="flag:us-4x3"}](/playstation2-us/x2)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

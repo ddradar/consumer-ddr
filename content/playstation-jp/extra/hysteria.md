@@ -10,7 +10,7 @@
 - [:icon{name="simple-icons:playstation"} Dance Dance Revolution KONAMIX :icon{name="flag:us-4x3"}](/playstation-us/konamix)
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 - [:icon{name="simple-icons:playstation2"} DDR FESTIVAL Dance Dance Revolution :icon{name="flag:jp-4x3"}](/playstation2-jp/festival)
-- "x2"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X2 :icon{name="flag:us-4x3"}](/playstation2-us/x2)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧

@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X :icon{name="flag:jp-4x3"}](/playstation2-jp/x)
-- "x2"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X2 :icon{name="flag:us-4x3"}](/playstation2-us/x2)
 - "grand-prix-vol1"
 
 ## 譜面一覧

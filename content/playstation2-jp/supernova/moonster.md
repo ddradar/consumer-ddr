@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova)
-- "x2"
+- [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X2 :icon{name="flag:us-4x3"}](/playstation2-us/x2)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧
