@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:wii"} ダンスダンスレボリューション フルフル♪パーティー :icon{name="flag:jp-4x3"}](/wii-jp/furufuru)
-- "music-fit"
+- [:icon{name="simple-icons:wii"} DanceDanceRevolution MUSIC FIT :icon{name="flag:jp-4x3"}](/wii-jp/music-fit)
 
 ## 譜面一覧
 

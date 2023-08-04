@@ -7,7 +7,7 @@
 ## 収録タイトル
 
 - [:icon{name="simple-icons:playstation2"} DanceDanceRevolution X2 :icon{name="flag:us-4x3"}](/playstation2-us/x2)
-- "music-fit"
+- [:icon{name="simple-icons:wii"} DanceDanceRevolution MUSIC FIT :icon{name="flag:jp-4x3"}](/wii-jp/music-fit)
 - "grand-prix-vol2"
 
 ## 譜面一覧
