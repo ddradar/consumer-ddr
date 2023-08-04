@@ -13,20 +13,20 @@
 - [:icon{name="simple-icons:playstation2"} DDRMAX2 Dance Dance Revolution :icon{name="flag:us-4x3"}](/playstation2-us/max2)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution EXTREME :icon{name="flag:jp-4x3"}](/playstation2-jp/extreme)
 - [:icon{name="simple-icons:playstation2"} Dance Dance Revolution SuperNOVA2 :icon{name="flag:jp-4x3"}](/playstation2-jp/supernova2)
-- "2010-ps3"
-- "2010-360"
+- [:icon{name="simple-icons:simple-icons:playstation3"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/other/ps3)
+- [:icon{name="simple-icons:simple-icons:xbox"} Dance Dance Revolution :icon{name="flag:us-4x3"}](/xbox360-us/2010)
 - [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
 
 ## 譜面一覧
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation-us/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="1,2,2,2"} :levels{links="/2010-ps3" level="2"} :levels{links="/2010-360" level="2"}  :levels{links="/windows/grand-prix" level="5"}|108/0||
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-us/1st,/windows/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="5"} :levels{links="/2010-ps3" level="5"} :levels{links="/2010-360" level="5"}  :levels{links="/windows/grand-prix" level="7"}|214/0||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/playstation-us/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="1,2,2,2"} :levels{links="/other/ps3" level="2"} :levels{links="/xbox360-us/2010" level="2"}  :levels{links="/windows/grand-prix" level="5"}|108/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-us/1st,/windows/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="5"} :levels{links="/other/ps3" level="5"} :levels{links="/xbox360-us/2010" level="5"}  :levels{links="/windows/grand-prix" level="7"}|214/0||
 |SINGLE| :badge[BASIC (Omitted)]{type="warning"}| :levels{links="/gameboy/gb2" level="5"}|210/0||
-|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-us/1st,/windows/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="7"} :levels{links="/2010-ps3" level="7"} :levels{links="/2010-360" level="7"}  :levels{links="/windows/grand-prix" level="9"}|244/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-us/1st,/windows/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="7"} :levels{links="/other/ps3" level="7"} :levels{links="/xbox360-us/2010" level="7"}  :levels{links="/windows/grand-prix" level="9"}|244/0||
 |SINGLE| :badge[DIFFICULT (Omitted)]{type="danger"}| :levels{links="/gameboy/gb2" level="7"}|240/0||
-|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation-us/1st,/windows/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="9"} :levels{links="/2010-ps3" level="9"} :levels{links="/2010-360" level="9"}  :levels{links="/windows/grand-prix" level="13"}|370/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/playstation-jp/3rd,/playstation-us/1st,/windows/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="9"} :levels{links="/other/ps3" level="9"} :levels{links="/xbox360-us/2010" level="9"}  :levels{links="/windows/grand-prix" level="13"}|370/0||
 |SINGLE| :badge[EXPERT (Omitted)]{type="success"}| :levels{links="/gameboy/gb2" level="9"}|360/0||
 |DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/playstation-jp/3rd,/playstation-us/1st,/windows/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="6"} :levels{links="/windows/grand-prix" level="8"}|233/0||
 |DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/playstation-jp/3rd,/playstation-us/1st,/windows/1st,/playstation2-us/max2,/playstation2-jp/extreme,/playstation2-jp/supernova2" level="7"} :levels{links="/windows/grand-prix" level="9"}|245/0||
