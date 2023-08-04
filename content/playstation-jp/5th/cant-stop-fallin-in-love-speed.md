@@ -1,12 +1,3 @@
----
-slug: "cant-stop-fallin-in-love-speed"
-name: "CAN'T STOP FALLIN' IN LOVE (SPEED MIX)"
-artist: "NAOKI"
-from: "DanceDanceRevolution 5thMIX"
-bpm: 170
-series:
----
-
 # CAN'T STOP FALLIN' IN LOVE (SPEED MIX) / NAOKI
 
 |Artist|BPM|From|

@@ -1,12 +1,3 @@
----
-slug: "b4u-b4-za-beat"
-name: "B4U (B4 ZA BEAT MIX)"
-artist: "NAOKI"
-from: "Dancemania SPEED 7"
-bpm: 170
-series:
----
-
 # B4U (B4 ZA BEAT MIX) / NAOKI
 
 |Artist|BPM|From|

@@ -1,12 +1,3 @@
----
-slug: "i-was-the-one"
-name: "I Was The One"
-artist: "good-cool"
-from: "beatmania IIDX 2nd style"
-bpm: 125
-series:
----
-
 # I Was The One / good-cool
 
 |Artist|BPM|From|

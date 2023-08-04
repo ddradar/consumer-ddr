@@ -1,12 +1,3 @@
----
-slug: "my-generation"
-name: "MY GENERATION (Fat Beat Mix)"
-artist: "CAPTAIN JACK"
-from: "Dancemania X8"
-bpm: 140
-series:
----
-
 # MY GENERATION (Fat Beat Mix) / CAPTAIN JACK
 
 |Artist|BPM|From|

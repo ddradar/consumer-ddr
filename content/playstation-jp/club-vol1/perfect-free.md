@@ -1,12 +1,3 @@
----
-slug: "perfect-free"
-name: "PERFECT FREE"
-artist: "nite system"
-from: "beatmania IIDX"
-bpm: 130
-series:
----
-
 # PERFECT FREE / nite system
 
 |Artist|BPM|From|

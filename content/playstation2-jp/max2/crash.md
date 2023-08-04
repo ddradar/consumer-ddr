@@ -1,12 +1,3 @@
----
-slug: "crash"
-name: "CRASH!"
-artist: "mr. BRAIN & THE FINAL BAND"
-from: "Dancing Stage EuroMIX2"
-bpm: 200
-series:
----
-
 # CRASH! / mr. BRAIN & THE FINAL BAND
 
 |Artist|BPM|From|

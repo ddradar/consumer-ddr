@@ -1,12 +1,3 @@
----
-slug: "baila-baila"
-name: "BAILA! BAILA!"
-artist: "DANDY MINERO"
-from: "Dance Maniax"
-bpm: 130
-series:
----
-
 # BAILA! BAILA! / DANDY MINERO
 
 |Artist|BPM|From|

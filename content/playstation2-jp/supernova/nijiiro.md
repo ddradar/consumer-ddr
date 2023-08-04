@@ -1,12 +1,3 @@
----
-slug: "nijiiro"
-name: "虹色"
-artist: "DJ YOSHITAKA feat G.S.C license"
-from: "pop'n music 13 カーニバル"
-bpm: 160
-series:
----
-
 # 虹色 / DJ YOSHITAKA feat G.S.C license
 
 |Artist|BPM|From|

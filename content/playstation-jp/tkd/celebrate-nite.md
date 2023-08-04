@@ -1,12 +1,3 @@
----
-slug: "celebrate-nite"
-name: "CELEBRATE NITE"
-artist: "N.M.R."
-from: "Dancing Stage featuring TRUE KiSS DESTiNATiON"
-bpm: 144
-series:
----
-
 # CELEBRATE NITE / N.M.R.
 
 |Artist|BPM|From|

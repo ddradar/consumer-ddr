@@ -1,12 +1,3 @@
----
-slug: "luv-to-me"
-name: "LUV TO ME (disco mix)"
-artist: "tiger YAMATO"
-from: "beatmania IIDX"
-bpm: 154
-series:
----
-
 # LUV TO ME (disco mix) / tiger YAMATO
 
 |Artist|BPM|From|
