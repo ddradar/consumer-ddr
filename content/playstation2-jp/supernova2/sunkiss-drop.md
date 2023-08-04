@@ -31,7 +31,7 @@
     1. 名前順ソートに変更する
     1. 「K」「I」「S」の順にフォルダを開く
     1. 「S」フォルダから、この楽曲を選曲する
-  - [Dance Dance Revolution X (US)](/series/playstation2-us/x)
+  - [Dance Dance Revolution X (US)](/playstation2-us/x)
     1. 名前順ソートに変更する
     1. 「D」「R」「O」「P」「S」の順にフォルダを開く
     1. 「S」フォルダから、この楽曲を選曲する

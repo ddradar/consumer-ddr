@@ -1,0 +1,23 @@
+# Mermaid girl / Cream puff
+
+|Artist|BPM|From|
+|------|---|----|
+|Cream puff|140|beatmania IIDX 18 Resort Anthem|
+
+## 収録タイトル
+
+- [:icon{name="simple-icons:simple-icons:windows"} DDR GRAND PRIX グランプリ楽曲パック vol.1](/windows/grand-prix#グランプリ楽曲パック-vol1)
+
+## 譜面一覧
+
+|PlayStyle|Difficulty|Levels|Notes|Movie|
+|---------|----------|------|-----|-----|
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol1" level="1"}|99/4||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol1" level="4"}|180/8||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol1" level="7"}|258/3||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol1" level="11"}|368/0||
+|SINGLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol1" level="12"}|343/0(37)||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol1" level="6"}|207/2||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol1" level="8"}|256/7||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol1" level="11"}|336/1||
+|DOUBLE| :badge[CHALLENGE]{type="primary"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol1" level="12"}|323/1(29)||
