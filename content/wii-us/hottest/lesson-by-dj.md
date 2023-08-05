@@ -15,5 +15,5 @@
 
 |PlayStyle|Difficulty|Levels|Notes|Movie|
 |---------|----------|------|-----|-----|
-|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/wii-us/hottest,/wii-jp/hottest,/furufuru,/wii-jp/music-fit" level="1"}|58/1||
-|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/wii-us/hottest,/wii-jp/hottest,/furufuru" level="1"}|58/1||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/wii-us/hottest,/wii-jp/hottest,/wii-jp/furufuru,/wii-jp/music-fit" level="1"}|58/1||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/wii-us/hottest,/wii-jp/hottest,/wii-jp/furufuru" level="1"}|58/1||
