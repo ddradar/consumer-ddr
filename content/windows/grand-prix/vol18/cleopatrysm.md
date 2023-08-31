@@ -1,0 +1,19 @@
+# Cleopatrysm / ピラミッ℃
+
+|Artist|BPM|From|
+|------|---|----|
+|ピラミッ℃|190|発見！よみがえったBEMANI遺跡|
+
+## 収録タイトル
+
+- [:icon{name="simple-icons:simple-icons:windows"} DDR GRAND PRIX グランプリ楽曲パック vol.18](/windows/grand-prix#グランプリ楽曲パック-vol18)
+
+|PlayStyle|Difficulty|Levels|Notes|Movie|
+|---------|----------|------|-----|-----|
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol18" level="4"}|179/5||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol18" level="7"}|245/9||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol18" level="11"}|345/15||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol18" level="15"}|557/17||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol18" level="7"}|249/8||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol18" level="11"}|333/11||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix#グランプリ楽曲パック-vol18" level="15"}|543/9||

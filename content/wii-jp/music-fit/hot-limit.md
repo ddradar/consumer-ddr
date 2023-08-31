@@ -1,0 +1,27 @@
+# HOT LIMIT / (HIGH and MIGHTY COLOR)
+
+|Artist|BPM|From|
+|------|---|----|
+|(HIGH and MIGHTY COLOR)|140|HOT LIMIT|
+
+## 収録タイトル
+
+- [:icon{name="simple-icons:wii"} DanceDanceRevolution MUSIC FIT :icon{name="flag:jp-4x3"}](/wii-jp/music-fit)
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (フリープレー)](/windows/grand-prix#フリープレー)
+- [:icon{name="simple-icons:windows"} DanceDanceRevolution GRAND PRIX (グランプリプレー)](/windows/grand-prix)
+
+## 譜面一覧
+
+|PlayStyle|Difficulty|Levels|Notes|Movie|
+|---------|----------|------|-----|-----|
+|SINGLE| :badge[BEGINNER (Wii)]{type="info"}| :levels{links="/wii-jp/music-fit" level="2"}|80/0||
+|SINGLE| :badge[BASIC (Wii)]{type="warning"}| :levels{links="/wii-jp/music-fit" level="4"}|121/18||
+|SINGLE| :badge[DIFFICULT (Wii)]{type="danger"}| :levels{links="/wii-jp/music-fit" level="5"}|198/23||
+|SINGLE| :badge[EXPERT (Wii)]{type="success"}| :levels{links="/wii-jp/music-fit" level="7"}|284/20||
+|SINGLE| :badge[BEGINNER]{type="info"}| :levels{links="/windows/grand-prix#フリープレー,/windows/grand-prix" level="1,1"}|0/0||
+|SINGLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix" level="5"}|0/0||
+|SINGLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix" level="8"}|0/0||
+|SINGLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix" level="11"}|0/0||
+|DOUBLE| :badge[BASIC]{type="warning"}| :levels{links="/windows/grand-prix" level="5"}|0/0||
+|DOUBLE| :badge[DIFFICULT]{type="danger"}| :levels{links="/windows/grand-prix" level="8"}|0/0||
+|DOUBLE| :badge[EXPERT]{type="success"}| :levels{links="/windows/grand-prix" level="11"}|0/0||
